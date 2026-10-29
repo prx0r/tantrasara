@@ -1,5 +1,6 @@
+# renders are local-only, never committed; source audio + kit bells ARE tracked
 build/audio_*/
-*.wav
-*.mp3
+build/cache/
+*.pdf
 __pycache__/
 .DS_Store
