@@ -37,10 +37,13 @@ Chained as one enquiry — each answer is the next question's premise:
    by capacity, internal to external (Ch 2–6).
 5. **How do I practice?** — breath, body, mantra, initiation, daily and
    occasional rite (Ch 5, 7, 12–14, 20).
-6. **What about death, absence, or another lineage?** — the net, the
-   lightness test, crossing lineages, who may transmit (Ch 15–19).
-7. **What is it like at the end?** — jagadananda, Bhairava identity while
-   living, transmission by a glance (Ch 22 + Ch 1 close).
+6. **What about death — and what remains?** — the net, the lightness test,
+   crossing lineages, who may transmit, jagadananda, Bhairava identity
+   while living, transmission by a glance (Ch 15–19, 22 + Ch 1 close).
+   (Merged 2026-10-29: old Q6+Q7 were one question asked twice. Rebirth
+   lives here as destinations-and-release — hell/preta/animal rescue,
+   bhogin's next body, post-mortem initiation — not as its own doctrine,
+   which is faithful: the text never teaches rebirth mechanics.)
 
 Alternates for the owner: a 6-question version folding 6 into 5;
 Q5 as *"What do I actually do?"*; Q1 as *"What is the goal?"*.
