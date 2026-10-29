@@ -29,3 +29,13 @@ three-upayas overview + ch.1/2/3-abridged/4x2/5x3 at
 sources/lectures/audio/study/ (mp3s gitignored, SOURCES.md index).
 STUDY ONLY — never canon. Build voice stays: purchased Dyczkowski.
 Still missing: Dyczkowski audio (owner to locate or buy $100 course).
+
+## 3. Study transcripts in progress (2026-10-29)
+
+No downloadable transcripts exist (RSS has none; episode pages don't
+embed them). Transcribing the 9 study mp3s locally into the house CF
+schema ({source,duration,engine,sentences[]}) at
+sources/lectures/transcripts-study/ via tools/transcribe_all.sh:
+10-min chunks -> one-shot whisper -> merge. Sustained whisper runs get
+OOM-killed on this box, hence chunked one-shots (see §4).
+Engine: tiny (study-only; small.en at canon time if these ever graduate).
