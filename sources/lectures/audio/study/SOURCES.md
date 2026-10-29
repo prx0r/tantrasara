@@ -12,3 +12,4 @@ Do NOT quote from these in canon; owner-purchased Dyczkowski audio is the build 
 - `wallis_07.mp3` — Essence of Tantra Ch.3 (abridged) [35:33]
 - `wallis_08.mp3` — Essence of Tantra Ch.2 [11:34]
 - `wallis_09.mp3` — Essence of Tantra Ch.1 [27:14]
+- `tara_zero_to_hero.mp3` — "Tantrasara, Zero to Hero" (archive.org, open-treasury; AI-narrated own-words course, 51m). STUDY ONLY — overview course, not the text; never build from it.

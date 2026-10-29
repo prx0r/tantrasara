@@ -211,3 +211,37 @@ through 18-MODIFICATIONS (edit → validate_sheet-class check → rebuild → ga
 
 **The one open dependency:** the $100 Dyczkowski course (or located mp3s).
 Everything else in the runbook is unblocked waiting on it.
+
+## 14. Audio search: no free complete reading exists — TTS narration proposed (2026-10-29, owner: "no course, search youtube")
+
+Searched: YouTube (yt-dlp ytsearch, multiple queries), archive.org
+(advancedsearch mediatype:audio), web. Findings:
+- **Boris Marjanovic** (editor of OUR translation, channel @vimarsa555,
+  34 videos): Tantrasāra Ch.1 only, 2 parts (~18m). Download blocked
+  (YouTube bot-gate; needs cookies). Rest of channel = Tantraloka/other texts.
+- **Wallis "Essence of Tantra"**: Ch1–5 + upāyas only — his translation
+  isn't finished either (16 years in). We HAVE these (§3, transcribing).
+- **archive.org "Tantrasara, Zero to Hero"**: 51m AI-narrated own-words
+  COURSE (not the text) — downloaded to study/ (SOURCES.md), STUDY ONLY.
+- Explainer fragments: "Trika vivant avec Emma" (Ch1 satsangs),
+  "Atmanam Viddhi" shorts, Nish intro — orientation only.
+- **No complete free reading of all 22 chapters exists anywhere.**
+Partial-voice options fail even A: A spans need ch1,2,3,6,8,11,16 —
+Wallis covers only 1–3 of those; mixed voices violate the one-seat law.
+
+**Proposed path (unblocks the whole audio stage, free):** the archive
+seat = TTS narration of the Chakravarty text (span-by-span from
+rung_picks/beats). Wins: complete coverage, one voice, ZERO transcript
+work (audio windows exact by construction — no whisper/anchor snapping),
+uses the existing casting pipeline (17-CASTING), same local-only copyright
+posture as the text file itself. Narration audition generated (§14b).
+
+## 14b. Narration audition (2026-10-29)
+
+3 candidates read the SAME TS1.4 excerpt (99 words, Q1 A material) —
+`build/ears/narration_audition/` (README + per-voice + combined):
+- wise-old-british (98db23…) · elderly-ref (f40115…) · osho (06134e…)
+Combined: https://files.catbox.moe/vf2l96.mp3
+(owner pick; backup recorded in SPEAKER-RULES on lock — same law as the
+kid/old-man guide cast). After pick: narrate A spans first (7 spans,
+~2900 words ≈ minutes of TTS), fill essay0 audio[], then run the §13 runbook.
