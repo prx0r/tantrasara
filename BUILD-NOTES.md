@@ -140,3 +140,7 @@ terms, every clause traceable to a span; plain_note in the file records
 R1 + sign-off pending). These are drafts FOR THE OWNER — same iteration
 loop analayo ran (§73 subject-first, §79 no-loaded-terms, §82 owner
 decrees). Oral test per unit runs when the owner reads them.
+
+## 7. Owner decree: Q4 = "How do I see this?" (2026-10-29)
+
+Supersedes "Which way in is mine?" (my sharpening) and "What are the ways in?" (v1). Rationale the text supports: the upaya section is the question of PERCEPTION — the four means are four ways of seeing (anupaya = seeing without means, sambhava = reflection-view, sakta = purified seeing, anava = supported seeing), and Abhinavagupta's thesis is that knowledge (jnana) is what liberates. Chain-pronoun "this" resolves from Q1 in seed adjacency (analayo Q2 "it" precedent); FORMULA standalone-note logged in essay0_DRAFT (tests inform, owner decides). Propagated: spans_pool (98/98 re-verified), essay0_DRAFT unit 4, VISION §3 + edge chain.

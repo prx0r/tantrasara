@@ -69,7 +69,7 @@
    "plain_words": 38
   },
   "4": {
-   "question": "Which way in is mine?",
+   "question": "How do I see this?",
    "plain": "There are four ways in, and each one comes to fit the person: some are freed at a single hearing, some by seeing all this as reflection, some by true thought replacing old thought, some by breath, body and practice.",
    "text_span": "TS2.1",
    "text_line_range": [
@@ -147,13 +147,14 @@
    "Q4: \"What are the ways in?\" -> \"Which way in is mine?\" (list-request -> personal cut; the means are graded BY capacity, the text says the way fits YOU)",
    "Q6: \"What about death - and what remains?\" -> \"What remains after death?\" (two-part -> one 5-word close; \"remains\" carries both the survival question and the final state; mirrors analayo close \"What is Nibbana like?\")",
    "Q4 alternates extended: +TS4.4 (sakta leg), +TS5.1 (anava leg) - the four-means answer must be anchored in all four, not just anupaya+sambhava",
-   "Q1/Q2/Q3/Q5 kept: each passed all four tests cold (analayo parity: \"What is Nibbana?\" / \"Why dont I see Nibbana right now?\" / \"What keeps it going?\" / \"How is Nibbana attained?\" shape)"
+   "Q1/Q2/Q3/Q5 kept: each passed all four tests cold (analayo parity: \"What is Nibbana?\" / \"Why dont I see Nibbana right now?\" / \"What keeps it going?\" / \"How is Nibbana attained?\" shape)",
+   "Q4 FINAL (owner decree 2026-10-29): -> \"How do I see this?\" — means reframed as the act of seeing; the four upayas ARE four ways of seeing (one hearing / reflection / purified thought / supported seeing). Chain-pronoun \"this\" = Q1's answer, resolves in seed adjacency (analayo Q2 \"it\" precedent). Cold-standalone note: subject resolves only after Q1 — accepted by owner, test informs not decides."
   ],
   "edge_chain": [
    "1->2: if you are the light, why is it unseen? (TENSION)",
    "2->3: because thinking insists limit - and WHAT holds that story? (MECHANISM)",
-   "3->4: veils exist - but which door fits me? (MEANS)",
-   "4->5: matched to a way - now do it. (DOING)",
+   "3->4: veils exist - but how do I see it? (MEANS as SEEING)",
+   "4->5: the ways of seeing named - now the doing. (DOING)",
    "5->6: practice to death - then what? (CLOSE)"
   ],
   "oral_test": "run per unit after owner ratifies; any leap = rewrite the QUESTION, never the answer (VISION rule)"

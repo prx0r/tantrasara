@@ -165,7 +165,7 @@ out = {
         '1': 'What is my own nature?',
         '2': "Why don't I see it right now?",
         '3': 'What keeps me bound?',
-        '4': 'Which way in is mine?',
+        '4': 'How do I see this?',
         '5': 'How do I practice?',
         '6': 'What remains after death?',
     },

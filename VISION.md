@@ -34,9 +34,12 @@ plain ≤9) + the oral test (read Q then A aloud; leap = rewrite the Q).
    not merit, decides (Ch 1, 11).
 3. **What keeps me bound?** — the veils: time, knowledge, wanting, effort;
    mala as the Lord's will to conceal; delight in the limited (Ch 1, 4, 8).
-4. **Which way in is mine?** — four ways graded by capacity, not chosen by
-   you: one hearing / reflection / true thought / breath-body-practice
-   (Ch 2–5; lineage crossing Ch 17).
+4. **How do I see this?** — the four upayas as four ways of SEEING,
+   graded by capacity, not chosen by you: one hearing / reflection /
+   true thought / breath-body-practice (Ch 2–5; lineage crossing Ch 17).
+   (Owner decree 2026-10-29, superseding "Which way in is mine?"; the
+   means-section is really the question of perception — knowledge is
+   what liberates.)
 5. **How do I practice?** — breath is time; the bath, offering, mantra
    are inner absorption; daily and occasional rite (Ch 6, 12–14, 18, 20).
 6. **What remains after death?** — net-rescue from any realm, festival-
