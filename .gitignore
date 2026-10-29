@@ -4,3 +4,4 @@ build/cache/
 *.pdf
 __pycache__/
 .DS_Store
+sources/text/reference/
