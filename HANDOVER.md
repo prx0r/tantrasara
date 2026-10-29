@@ -35,14 +35,18 @@ Everything below is the intake queue — work it top to bottom.
      Abhinavagupta symposium playlist incl. Timalsina intro (free YouTube)
      · Dyczkowski free courses + YouTube (Locating Trika etc.).
    - Record what lands in VISION.md + below, then intake item 2.
-2. **Provenance home:** excavate into `sources/text/excavations/` (quote pools
-   with {file,start,end}; NEVER typed verbatim — axiom 1).
-3. **Chain:** six section-questions per the FORMULA (12-ARGUMENT); owner picks,
-   tests inform. Write them in VISION.md; they are pointers, not topics.
-4. **Essay-0:** six repaired units → `build/canon/essay0.json` (THE essay-0;
-   builders read it with drift asserts, as in the reference build).
-5. **Rungs:** pool → gold → core (scripts ported per 08-PORTING) →
-   newA/ladder manifests. First verify run green before any audio.
+2. **Provenance home (2026-10-29 DONE for text):** `build/canon/spans_pool.json`
+   = 98 spans, {file,start_line,end_line,quote}, 98/98 verified, contiguity
+   checked (tools/build_span_pool.py). Views: spans_gold/core. Beat-level
+   excavation of key spans into full quote pools comes with audio.
+3. **Chain (2026-10-29 PROPOSED, owner ratifies):** 6 questions in VISION.md
+   §3 (death+remains merged; rebirth = destinations only, faithful to text).
+4. **Essay-0 (2026-10-29 DRAFTED):** `build/canon/essay0_DRAFT.json` —
+   6 primaries + alternates, line-anchored quotes, plains empty (R1).
+   Owner picks → becomes `build/canon/essay0.json`.
+5. **Rungs (2026-10-29 ASSIGNED):** spans_pool (98) → spans_gold (74) →
+   spans_core (32); grades per question in spans_pool.counts. Manifests/
+   assemblies come when audio+transcripts land (scripts ported per 08-PORTING).
 6. **Audio:** render 0 → ears → A → ears → stamp (DONE.md).
 
 ## Where everything will live (mirrors the reference build)

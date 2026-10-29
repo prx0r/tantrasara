@@ -74,3 +74,40 @@ Closes by ascending inclusivity then contraction into Bhairava identity while li
 
 **Load-bearing threads (must survive any compression):** svatantra/svabhava/jagadananda; twofold ignorance; saktipata independence + 9 outcomes; anupaya negative logic; reflection/no-bimba; sattarka/bhavana; mala-as-will; breath-time identity (21600 etc.); sa-ha; net + lightness test; lingoddhara severance; murtiyaga shortcut; prasiddhi argument; Kaula 6-grade + glance finale.
 **Known gaps (no span found):** P12-equivalent Chabbisodhana-style glossary (S6 analogue N/A here — different text); twig-fire-type intermittence mechanics appear under other names (kalana/tuti).
+
+## 4. Full assignment: spans -> gold -> core, essay-0 drafted (2026-10-29)
+
+Goal executed: ALL of Tantrasara assigned to essay layers (analayo parity:
+pool = everything, gold = A+B, core = A, essay-0 = pointed answer per Q).
+
+- **Chain: 6 questions locked in VISION** (death+remains merged into Q6;
+  rebirth verified faithful — destinations/rescue/initiation only, the text
+  never teaches rebirth mechanics). Owner still ratifies (analayo rule).
+- **spans_pool.json: 98 spans, lines 2436-9842, contiguous, 98/98 quotes
+  verified against source** (contiguity + normalized-substring verifier in
+  tools/build_span_pool.py — run it after any span edit). Grades A32/B42/C24.
+  Per-question: Q1 20, Q2 6, Q3 9, Q4 5, Q5 47, Q6 11. Q5-heaviness is
+  structural (manual text, like analayo's fire-spray) — not padding.
+- **Views:** spans_gold.json (74 = A+B), spans_core.json (32 = A) — same
+  build-rung shape as analayo segN_pool/gold/core.
+- **essay0_DRAFT.json: 6 units** — primary + alternates per question,
+  quotes line-anchored (Q1 TS1.4 light/bliss def · Q2 TS11.3 jivanmukti-
+  by-grace · Q3 TS8.5 bound-soul definition · Q4 TS2.1 sun-jar · Q5 TS12.1
+  bath=absorption · Q6 TS19.1 grace axiom). Plains empty BY LAW (R1: owner
+  + key only). Flips to essay0.json on owner pick.
+- Method: 3 parallel agents read the full translation (each ~2500 lines),
+  returned graded spans; I adjudicated question assignment on ~8 spans
+  (Ch11 grace-theory -> Q2, Ch10 map -> Q5, Ch7.3 -> Q1, Ch6 breath ->
+  Q5, TS16.3 -> Q6) and replaced 6 OCR-broken quotes with verified
+  in-range ones (1 Sanskrit-only span flagged sanskrit_span).
+- 23 essay0-candidates (grade A + flagged) reduced to 6 primaries with
+  alternates — same pick-discipline as analayo §32.
+- Intake status: sources item = text DONE / audio STILL MISSING;
+  chain + essay0 = owner picks; rungs assigned.
+
+## 5. Next (ordered)
+
+1. Owner: ratify 6 questions + essay0 primaries (or swap from alternates).
+2. Owner: locate/buy audio (Dyczkowski course or the missing "rebirth" mp3s).
+3. Then: portraits/excavation of key spans into full quote pools
+   (analayo sermon-excavations shape) + transcript acquisition for audio.
