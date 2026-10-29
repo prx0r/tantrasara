@@ -39,11 +39,15 @@ Everything below is the intake queue — work it top to bottom.
    = 98 spans, {file,start_line,end_line,quote}, 98/98 verified, contiguity
    checked (tools/build_span_pool.py). Views: spans_gold/core. Beat-level
    excavation of key spans into full quote pools comes with audio.
-3. **Chain (2026-10-29 PROPOSED, owner ratifies):** 6 questions in VISION.md
-   §3 (death+remains merged; rebirth = destinations only, faithful to text).
-4. **Essay-0 (2026-10-29 DRAFTED):** `build/canon/essay0_DRAFT.json` —
-   6 primaries + alternates, line-anchored quotes, plains empty (R1).
-   Owner picks → becomes `build/canon/essay0.json`.
+3. **Chain (2026-10-29 RATIFIED by owner):** 6 questions locked in VISION.md §3.
+   Sharpening: Q4 final = "How do I see this?" (owner decree, supersedes
+   "Which way in is mine?"); Q6 = "What remains after death?" (owner merge of
+   old Q6+Q7). Rebirth = destinations only (faithful — text never teaches
+   rebirth mechanics).
+4. **Essay-0 (2026-10-29 CANONICAL):** `build/canon/essay0.json` — 6 units,
+   questions+plains owner-approved same day ("i love our answers"), text
+   anchors line-ranged, alternates kept, audio[] pending audio.
+   Process notes: BUILD-NOTES.md (analayo structure, §1-10).
 5. **Rungs (2026-10-29 ASSIGNED):** spans_pool (98) → spans_gold (74) →
    spans_core (32); grades per question in spans_pool.counts. Manifests/
    assemblies come when audio+transcripts land (scripts ported per 08-PORTING).

@@ -1,146 +1,131 @@
-# BUILD-NOTES.md — THE LOG (append-only; latest entry is the truth)
+# CONDENSED BUILD — process notes (2026-10-29)
 
-## 0. Intake opened (2026-10-29)
+Goal: one primary text (Abhinavagupta's *Tantrasara*, 22 chapters, Chakravarty/Marjanovic translation) →
+six-section argument + essay-0 + graded layers (pool → gold → core → rungs) + listening path,
+same machine as analayo-nibbana (the 33-sermons build).
+Method: read the text FIRST (whole thing, no shortcuts) → extract chain questions via FORMULA →
+assign every line to spans with grades → essay-0 from A-candidates → owner picks →
+then beats/scripts/keys/renders when audio lands.
+Order: argument order (6 questions), NOT chapter order. Quote first, explanation after. No new writing (R1).
+Entry docs: AGENTS.md (map) → this log → VISION (intent) → HANDOVER (state).
 
-Repo scaffolded from the analayo-nibbana tree (post-reorg shape):
-AGENTS/HANDOVER/VISION/DONE/SPEAKER-RULES/TIMINGS entry docs;
-`sources/{lectures,text}/`, `build/{canon,versions,ears,assets}/`,
-`process/`, `tools/`, `reviews/`, `archive/`; sfx+bells kit ported.
-Process machinery lives in the reference repo until ported per
-08-PORTING (no preemptive forks). Cast: TBD by owner ear.
-Next: intake item 1 (sources — owner).
+## 1. Intake + scaffold (2026-10-29)
+Repo scaffolded from the analayo-nibbana post-reorg tree (AGENTS/HANDOVER/VISION/DONE/SPEAKER-RULES/
+TIMINGS entry docs; `sources/{lectures,text}/`, `build/{canon,versions,ears,assets}/`, `process/`,
+`tools/`, `reviews/`, `archive/`). Sfx+bell kit ported (vatulanatha formula). Machinery NOT forked —
+lives in the reference repo, ported per `08-PORTING` only when this text needs it (one live copy per
+script, R6). .gitignore: renders/cache out, source audio + kit bells tracked.
+RULE: fresh-agent path = AGENTS.md → log → VISION → HANDOVER → RECURRING-MISTAKES → AXIOMS →
+12-ARGUMENT → canon README. Log takes precedent over every other doc.
 
-## 1. Text landed, audio still missing (2026-10-29)
+## 2. Sources research (2026-10-29) — buy list + fraud warning
+- TEXT: Chakravarty/Marjanovic (Rudra Press 2012) = the ONLY legitimate complete English
+  translation (Kaviraj lineage, Bäumer's Benares circle, 2 years sentence-by-sentence editing).
+  AVOID "Gautam Chatterjee" Indian Mind edition — documented plagiarism of B.N. Pandit's manuscript
+  (7 review says "total fraud, copied word for word"). Recorded in HANDOVER intake item 1.
+- AUDIO: Dyczkowski 54-lecture Tantrasara+Tantraloka course ($100, anuttaratrikakula.org:
+  78h audio + 54 PDF transcripts, Tantrasara ch.1–9 + TL ch.1–13) = the build voice (archive
+  reader+explainer seat, same as Analayo). Free-adjacent: Wallis/Nish/INDICA/Dyczkowski-free
+  (orientation only, NEVER build-grade). Lakshmanjoo has NO direct Tantrasara series.
+- Owner memory check ("dyczkowski talks on rebirth"): searched /root — only his PDFs/texts exist
+  (gochema stash), NO audio anywhere. Owner to locate or buy.
 
-- Full Chakravarty/Marjanovic Tantrasara secured locally from the gochema
-  stash (`sources/text/reference/`, gitignored): 11,891 lines, clean text,
-  ToC + intro + chapter summaries + all chapters. This is the verbatim home
-  to excavate from. Also on disk there: tantrasara-bertagni.pdf (unchecked).
-- Dyczkowski "talks on rebirth etc." NOT found on any disk (searched /root:
-  only his PDFs/texts — journey-in-the-world-of-the-tantras, spandakarika —
-  no audio). Owner to say where they live (YouTube links? re-download?).
-- Still to buy/get: Dyczkowski 54-lecture course ($100, audio + PDF
-  transcripts — the build voice). Everything else needed is free.
+## 3. Study audio + transcription (2026-10-29)
+9 Wallis "Essence of Tantra" Tantrasara episodes (~4h, Acast RSS, free) pulled to
+`sources/lectures/audio/study/` (gitignored; SOURCES.md index) — STUDY ONLY, never canon.
+No downloadable transcripts exist (RSS none, pages don't embed). Local transcription:
+`tools/transcribe_all.sh` — 10-min chunks → one-shot whisper → merge → house CF schema
+`{source,duration,engine,sentences[]}` at `sources/lectures/transcripts-study/`.
+INCIDENT: sustained whisper runs OOM-killed twice (7.7G box, ~2.9G RSS sustained) — fixed by
+chunked one-shot processes (tiny model; small.en at canon time). RULE: on small boxes, transcribe
+per-chunk in separate processes, never a long-lived whisper loop.
 
-## 2. Study audio landed (2026-10-29)
+## 4. Text landed (2026-10-29)
+Full Chakravarty/Marjanovic secured from the gochema stash (found via "tantrasara" grep across
+/root): `sources/text/reference/tantrasara-chakravarty-marjanovic.txt` — 11,891 lines, clean text
+layer, ToC + intro + all 22 chapters + notes. Gitignored (copyrighted; buy the paper to support).
+Structure mapped by grep: intro 356–2435 · full translation 2436–9842 (Ch1 2436 … Ch22 ends
+~9840, colophon) · NOTES 9874+. Ch-boundaries double-listed in ToC — real starts found by content.
 
-9 Wallis "Essence of Tantra" Tantrasara episodes (~4h, Acast RSS, free):
-three-upayas overview + ch.1/2/3-abridged/4x2/5x3 at
-sources/lectures/audio/study/ (mp3s gitignored, SOURCES.md index).
-STUDY ONLY — never canon. Build voice stays: purchased Dyczkowski.
-Still missing: Dyczkowski audio (owner to locate or buy $100 course).
+## 5. Full read (2026-10-29) — grasp note §2
+Read the whole thing (intro + Ch1–22 + notes) via 3 parallel agents (each ~2500 lines) + my own
+reads of intro + summaries. Grasp note (written up): arc = goal/blindness/fuel → four ways in
+(graded by capacity) → descent into breath/body/time-cosmology → map+gate+working ritual →
+summit (glance-initiation, Bhairava-identity-while-living). Load-bearing threads that must survive
+any compression: svatantra/svabhava/jagadananda; twofold ignorance; saktipata-independence+9
+outcomes; anupaya negative logic; reflection/no-bimba; sattarka/bhavana; mala-as-will;
+breath-time identity (36 angulas/21,600/yugas); sa-ha; net+lightness test; lingoddhara
+severance; murtiyaga shortcut; prasiddhi argument; Kaula 6-grade+glance finale.
+Rebirth check (owner question): covered but never central — destinations (hell/preta/animal
+rescue Ch16), bhogin's next body (Ch11/14), post-mortem initiation (Ch15–19), yuga cycles (Ch6).
+The text NEVER teaches rebirth mechanics (no karma→rebirth doctrine) — faithful to keep it inside
+Q6 as destinations+release, not as its own section. RULE: questions answer what the text answers;
+where the text is silent, we stay silent.
 
-## 3. Study transcripts in progress (2026-10-29)
+## 6. Spine: 7 proposed → 6 ratified → sharpened (2026-10-29)
+First draft 7 questions (Ch1-22 read → §2 grasp note → candidate questions per FORMULA).
+- Owner: "6 and 7 too similar" → merged into "What about death — and what remains?" (old Q6+Q7
+  were one question asked twice; the text's death-chapters and final-state answer are one arc).
+- Sharpening pass (process copied from analayo 12-ARGUMENT FORMULA: 4 tests — standalone+precise,
+  the cut, content-fit, plain ≤9 — plus the oral test (Q aloud, A aloud, leap = rewrite the Q)
+  and the edge test (answer = next premise)). analayo history (R7): five question-sets died in a
+  row before the FORMULA was extracted — so ONE version against tests, shown once, no churn.
+- Changes: Q4 "What are the ways in?" → "Which way in is mine?" (list-request → personal cut —
+  the means are graded BY capacity, the way fits YOU) → **owner decree final: "How do I see this?"**
+  (means reframed as the act of seeing — the four upayas ARE four ways of seeing; knowledge is
+  what liberates. Chain-pronoun "this" resolves from Q1 in seed adjacency, analayo Q2 "it"
+  precedent; standalone-note logged, tests inform / owner decides).
+  Q6 "What about death — and what remains?" → "What remains after death?" (two-part → 5-word
+  close; "remains" carries both survival question and final state; mirrors analayo's
+  "What is Nibbana like?"). Q1/Q2/Q3/Q5 held (analayo-shape, passed cold).
+- FINAL CHAIN (locked): What is my own nature? → Why don't I see it right now? → What keeps me
+  bound? → How do I see this? → How do I practice? → What remains after death?
+  Edge chain: light → unseen? → what holds that → how do I see it? → the doing → then what.
 
-No downloadable transcripts exist (RSS has none; episode pages don't
-embed them). Transcribing the 9 study mp3s locally into the house CF
-schema ({source,duration,engine,sentences[]}) at
-sources/lectures/transcripts-study/ via tools/transcribe_all.sh:
-10-min chunks -> one-shot whisper -> merge. Sustained whisper runs get
-OOM-killed on this box, hence chunked one-shots (see §4).
-Engine: tiny (study-only; small.en at canon time if these ever graduate).
+## 7. Span assignment: ALL of Tantrasara → essay layers (2026-10-29)
+Owner goal: "assign all of tantrasara to essay a, b". Executed at text level (analayo parity:
+pool = everything, gold = A+B, core = A):
+- **build/canon/spans_pool.json: 98 spans, lines 2436–9842, contiguous, 98/98 quotes verified**
+  against source. Grades A32/B42/C24. Per-question: Q1 20 · Q2 6 · Q3 9 · Q4 5 · Q5 47 · Q6 11
+  (Q5-heaviness structural for a manual — same class as analayo's fire-spray in §1).
+- Views: spans_gold.json (74), spans_core.json (32) — segN_pool/gold/core shape.
+- Method: 3 agents blocked the full translation (~2500 lines each) → I adjudicated question
+  assignment on ~8 spans (Ch11 grace-theory → Q2, Ch10 map → Q5, Ch7.3 → Q1, Ch6 breath → Q5,
+  TS16.3 → Q6) and replaced 6 OCR-broken quotes with verified in-range ones (1 Sanskrit-only
+  span flagged `sanskrit_span`, no English in range).
+- VERIFIER: `tools/build_span_pool.py` — contiguity (each start = prev end+1) + normalized
+  substring quote check, re-runs on any edit, exit 1 on break. RULE: pool edits go through the
+  builder, never hand-edited JSON (M17-class: assert what you claim).
+- 23 essay0-candidates (grade A + flagged) reduced to 6 primaries + alternates (analayo §32
+  pick-discipline).
 
-## 2. Grasp note — what the Tantrasara is saying (2026-10-29, full read: intro + Ch 1-22 + notes)
+## 8. Essay-0 canonical (2026-10-29, owner: "i love our answers so thats essay 0 done")
+6 units → `build/canon/essay0.json` (CANONICAL; DRAFT retired, git history keeps it):
+1 What is my own nature? (22w) · 2 Why don't I see it right now? (25w) · 3 What keeps me bound?
+(38w) · 4 How do I see this? (40w) · 5 How do I practice? (41w) · 6 What remains after death? (38w).
+Plains: drafted on owner instruction ("have the canonical answers ... with a plain english
+answer"), disciplined by analayo §73 (subject-first) + §79 (no loaded/source-language terms):
+every clause traceable to a span, zero Sanskrit terms, plain_note records R1 + sign-off.
+Owner read + approved same day → canonical flip (analayo flow: propose → owner picks → flip).
+Text anchors: Q1 TS1.4 (light/bliss def) · Q2 TS11.3 (jivanmukti-by-grace) · Q3 TS8.5 (bound-soul
+definition) · Q4 TS2.1 (sun-jar) · Q5 TS12.1 (bath=absorption) · Q6 TS19.1 (grace axiom);
+Q4 alternates carry all four means legs (+TS4.4 sakta, +TS5.1 anava).
+audio[] = [] until audio lands (windows fill at render time, analayo §74 pattern).
 
-**First third (Ch 1–4): the goal, the blindness, the fuel, the first three ways in.**
-Ch 1 fixes the goal (svabhava = self-shining light-bliss-I, heart/jagadananda) and the twofold ignorance (buddhi: indeterminacy + mis-taking; paurusa: vikalpa), and sets the law: initiation without intellectual determination is ineffective.
-Ch 2 (anupaya): no means — intense saktipata + once-hearing + self-discernment; strict negative logic (nothing to attain, no veil to remove) + the "condensed bliss-I with universe as reflection" positive content.
-Ch 3 (sambhava): nirvikalpa absorption via reflection-view (no bimba) + the alphabet as creation's play (sun/moon vowels → bindu → visarga) + self-as-resort = living liberation.
-Ch 4 (sakta): purify vikalpa by vikalpa (sattarka/bhavana = making-indistinct-distinct); yoga limbs demoted (can't touch consciousness); ritual redefined internally; antinomian corollary (purity is not in objects).
-Handoff: what if vikalpa needs support in buddhi/prana/body/jars? -> Ch 5.
+## 9. Process notes written (2026-10-29)
+This file: structure copied from analayo CONDENSED-BUILD-NOTES (numbered chronology, owner
+quotes inline, numbers+rules+evidence per entry), story rewritten for tantrasara.
+What transfers unchanged from the reference build (same axioms): R1 no authored prose ·
+verbatim extracted with provenance · gates never relaxed · frozen stays frozen · cache keys
+cover every input (axiom 16) · transcript wins over model ears · sheet==master.
 
-**Second third (Ch 5–9): the descent into means + the cosmology they rest on.**
-Ch 5 (anava proper): dhyana (heart-wheel, fire/sun/moon, 12-flame Bhairava), prana-uccara (visranti through vayus), varna (sa-ha seed syllables); 7 anandas ending jagadananda; esoteric stop ("I should stop revealing...").
-Ch 6: the whole 6-fold time-path lives IN breath (36 angulas, 21,600 breaths, yugas/manvantaras counted in respiration); resting/attenuating breath = consuming time = already liberated.
-Ch 7: space-path — 36 tattvas + worlds catalogued as Sakti's expansion, dissolvable back into body/prana/buddhi/void ("no knowledge superior to prakriya").
-Ch 8: bondage theory — two causalities (absolute vs imagined), mala as conceal-WILL (not entity), kancuka mechanics, guna genesis anti-Samkhya.
-Ch 9: knower theory — 7 knowers, 15-fold prameya, tuti-moment perception (16-tuti schema, 2-tuti avesa with omniscience), 5 states to turyatita.
-THIS is where the build's hardest compressions live: numbers, names, and the absolute/imagined-causality distinction must survive.
-
-**Final third (Ch 10–22): the map, the gate, the working ritual, the summit.**
-Ch 10: kala/adhvan map (5 kalas, 6 paths) — the instrument panel everything after purifies.
-Ch 11: saktipata alone decides (9 outcomes incl. body-fall/Paramesvara, pratibha-guru); merit-theories refuted; true teacher = Bhairava.
-Ch 12–13: purity/place/direction/trident all interiorized (bath = absorption; puja/dhyana/japa/homa redefined as ontology); outer retained to remove limitations.
-Ch 14: putraka diksa (merit/demerit by bhogin-vs-mumuksu; sabija/nirbija; animal-grace; substitutes).
-Ch 15: dying (Kalaratri piercing, brahmavid Administerin-whisper, Sivahasta, lightness test).
-Ch 16: absent/dead initiation (great net, Sambhunatha attribution; no-mind movement by contemplation).
-Ch 17: lingoddhara (crossing lineages: confession + water disposal + 100 + Vratesvara dismissal).
-Ch 18: abhiseka (jnana authorizes; withholding-sin; 6-month rule; testing).
-Ch 19: antya/sraddha (corpse as homa, shaking as pratyaya, festival-death of the knower, murtiyaga shortcut = putraka fruit in a year).
-Ch 20: lifelong nitya/naimittika (parva calendar, pavitraka, cakra inclusivity, exposition rhetoric).
-Ch 21: agama proof (prasiddhi pragmatism; Trika supremacy by fruit).
-Ch 22: Kaula summit (6-grade hierarchy outer→consciousness; yamala nondual steadiness; 3 visargas + mantravIrya; khecari "I am not"; glance-initiation).
-Closes by ascending inclusivity then contraction into Bhairava identity while living.
-
-**Load-bearing threads (must survive any compression):** svatantra/svabhava/jagadananda; twofold ignorance; saktipata independence + 9 outcomes; anupaya negative logic; reflection/no-bimba; sattarka/bhavana; mala-as-will; breath-time identity (21600 etc.); sa-ha; net + lightness test; lingoddhara severance; murtiyaga shortcut; prasiddhi argument; Kaula 6-grade + glance finale.
-**Known gaps (no span found):** P12-equivalent Chabbisodhana-style glossary (S6 analogue N/A here — different text); twig-fire-type intermittence mechanics appear under other names (kalana/tuti).
-
-## 4. Full assignment: spans -> gold -> core, essay-0 drafted (2026-10-29)
-
-Goal executed: ALL of Tantrasara assigned to essay layers (analayo parity:
-pool = everything, gold = A+B, core = A, essay-0 = pointed answer per Q).
-
-- **Chain: 6 questions locked in VISION** (death+remains merged into Q6;
-  rebirth verified faithful — destinations/rescue/initiation only, the text
-  never teaches rebirth mechanics). Owner still ratifies (analayo rule).
-- **spans_pool.json: 98 spans, lines 2436-9842, contiguous, 98/98 quotes
-  verified against source** (contiguity + normalized-substring verifier in
-  tools/build_span_pool.py — run it after any span edit). Grades A32/B42/C24.
-  Per-question: Q1 20, Q2 6, Q3 9, Q4 5, Q5 47, Q6 11. Q5-heaviness is
-  structural (manual text, like analayo's fire-spray) — not padding.
-- **Views:** spans_gold.json (74 = A+B), spans_core.json (32 = A) — same
-  build-rung shape as analayo segN_pool/gold/core.
-- **essay0_DRAFT.json: 6 units** — primary + alternates per question,
-  quotes line-anchored (Q1 TS1.4 light/bliss def · Q2 TS11.3 jivanmukti-
-  by-grace · Q3 TS8.5 bound-soul definition · Q4 TS2.1 sun-jar · Q5 TS12.1
-  bath=absorption · Q6 TS19.1 grace axiom). Plains empty BY LAW (R1: owner
-  + key only). Flips to essay0.json on owner pick.
-- Method: 3 parallel agents read the full translation (each ~2500 lines),
-  returned graded spans; I adjudicated question assignment on ~8 spans
-  (Ch11 grace-theory -> Q2, Ch10 map -> Q5, Ch7.3 -> Q1, Ch6 breath ->
-  Q5, TS16.3 -> Q6) and replaced 6 OCR-broken quotes with verified
-  in-range ones (1 Sanskrit-only span flagged sanskrit_span).
-- 23 essay0-candidates (grade A + flagged) reduced to 6 primaries with
-  alternates — same pick-discipline as analayo §32.
-- Intake status: sources item = text DONE / audio STILL MISSING;
-  chain + essay0 = owner picks; rungs assigned.
-
-## 5. Next (ordered)
-
-1. Owner: ratify 6 questions + essay0 primaries (or swap from alternates).
-2. Owner: locate/buy audio (Dyczkowski course or the missing "rebirth" mp3s).
-3. Then: portraits/excavation of key spans into full quote pools
-   (analayo sermon-excavations shape) + transcript acquisition for audio.
-
-## 6. Question sharpening + plains drafted (2026-10-29, owner: "refine them... just as focused with a plain english answer")
-
-Process copied from analayo (read FIRST, then applied): FORMULA's four
-tests + oral test (Q aloud, A aloud, leap = rewrite Q) + edge test
-(answer = next premise). Analayo history (R7): five question-sets died
-in a row before the FORMULA was extracted — so one version against tests,
-shown once, no churn.
-
-Result (VISION §3 + essay0_DRAFT v2, questions regenerated into
-spans_pool 98/98 re-verified):
-- Q4 "What are the ways in?" -> **"Which way in is mine?"** — list-request
-  becomes personal cut; the text grades the four means BY capacity (the
-  way fits you, you don't pick it).
-- Q6 "What about death — and what remains?" -> **"What remains after
-  death?"** — two-part question became a 5-word close carrying both the
-  survival question and the final state ("remains" double-edge), mirroring
-  analayo's close ("What is Nibbana like?").
-- Q1/Q2/Q3/Q5 held: passed cold (analayo-shape: "What is Nibbana?" /
-  "Why don't I see it right now?" / "What keeps it going?" / "How is
-  Nibbana attained?").
-- Q4 alternates extended +TS4.4 (sakta leg) +TS5.1 (anava leg): a
-  "four ways" answer must anchor all four means, not just two.
-
-Plains: six drafted (22–41 words, subject-first, zero source-language
-terms, every clause traceable to a span; plain_note in the file records
-R1 + sign-off pending). These are drafts FOR THE OWNER — same iteration
-loop analayo ran (§73 subject-first, §79 no-loaded-terms, §82 owner
-decrees). Oral test per unit runs when the owner reads them.
-
-## 7. Owner decree: Q4 = "How do I see this?" (2026-10-29)
-
-Supersedes "Which way in is mine?" (my sharpening) and "What are the ways in?" (v1). Rationale the text supports: the upaya section is the question of PERCEPTION — the four means are four ways of seeing (anupaya = seeing without means, sambhava = reflection-view, sakta = purified seeing, anava = supported seeing), and Abhinavagupta's thesis is that knowledge (jnana) is what liberates. Chain-pronoun "this" resolves from Q1 in seed adjacency (analayo Q2 "it" precedent); FORMULA standalone-note logged in essay0_DRAFT (tests inform, owner decides). Propagated: spans_pool (98/98 re-verified), essay0_DRAFT unit 4, VISION §3 + edge chain.
+## 10. Where this stands vs the 33-sermons bar (honest)
+TEXT side at parity: chain locked · essay-0 canonical · pool/gold/core assigned+verified ·
+grasp note of the full text · process notes · entry docs.
+TEXT side still owed: per-span plain/blunt layer + tts_line (the key-work — port 07/04 when
+audio lands; key = frequency-listed terms, owner-vetted mappings, veto list like analayo §24) ·
+beat scripts (span → {quote, plain, tts, provenance}) · text-side verify gates (port G5-style
+quote-anchor + G6 TTS scan).
+AUDIO side BLOCKED on owner (the one hard dependency): Dyczkowski course ($100, audio+transcripts)
+or located mp3s → then: transcripts → beats → assemblies → renders → ears → stamps, exactly the
+analayo runbook (18-MODIFICATIONS playbooks are the change procedures; DONE.md is the stamp law).
