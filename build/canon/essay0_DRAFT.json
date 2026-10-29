@@ -1,11 +1,11 @@
 {
- "status": "DRAFT — owner picks/edits, then this becomes build/canon/essay0.json (analayo parity)",
+ "status": "DRAFT v2 (2026-10-29 sharpened): 6 refined questions + agent-drafted plains (owner sign-off pending) — flips to build/canon/essay0.json on owner pick",
  "rule": "essay-0 = pointed answers (Q + plain + verbatim TEXT). Single source when canonical.",
  "built": "2026-10-29 from spans_pool.json (full-text read, 98 spans)",
  "units": {
   "1": {
    "question": "What is my own nature?",
-   "plain": "",
+   "plain": "You are one free, self-shining light of awareness. The world you take for real is only its reflection; nothing actually covers it.",
    "text_span": "TS1.4",
    "text_line_range": [
     2664,
@@ -26,11 +26,13 @@
      "quote": "Bliss is Brahman which abides in the body"
     }
    ],
-   "note": "primary picked by agent reading 2026-10-29; A-graders for Q1: TS1.1, TS1.4, TS3.4, TS7.3, TS8.8, TS9.2, TS9.7, TS21.1, TS21.3, TS22.1, TS22.4"
+   "note": "primary picked by agent reading 2026-10-29; A-graders for Q1: TS1.1, TS1.4, TS3.4, TS7.3, TS8.8, TS9.2, TS9.7, TS21.1, TS21.3, TS22.1, TS22.4",
+   "plain_note": "drafted by agent on owner instruction 2026-10-29; subject-first, no source-language terms, every clause traceable to the text span; OWNER SIGN-OFF PENDING",
+   "plain_words": 22
   },
   "2": {
    "question": "Why don't I see it right now?",
-   "plain": "",
+   "plain": "Because your own thinking keeps insisting you are a limited person in a limited world - and until grace touches you, that story keeps winning.",
    "text_span": "TS11.3",
    "text_line_range": [
     6693,
@@ -43,11 +45,13 @@
      "quote": "grace has unthinkably glorious capacity"
     }
    ],
-   "note": "primary picked by agent reading 2026-10-29; A-graders for Q2: TS11.2, TS11.3"
+   "note": "primary picked by agent reading 2026-10-29; A-graders for Q2: TS11.2, TS11.3",
+   "plain_note": "drafted by agent on owner instruction 2026-10-29; subject-first, no source-language terms, every clause traceable to the text span; OWNER SIGN-OFF PENDING",
+   "plain_words": 25
   },
   "3": {
    "question": "What keeps me bound?",
-   "plain": "",
+   "plain": "Your own thought keeps it going: every time you take yourself to be the doer in a world of your own, another veil weaves - of time, knowledge, wanting and effort - over a freedom that never left.",
    "text_span": "TS8.5",
    "text_line_range": [
     5380,
@@ -60,11 +64,13 @@
      "quote": "Upon perfect attainment of a firm conviction contrary"
     }
    ],
-   "note": "primary picked by agent reading 2026-10-29; A-graders for Q3: TS4.7, TS8.5"
+   "note": "primary picked by agent reading 2026-10-29; A-graders for Q3: TS4.7, TS8.5",
+   "plain_note": "drafted by agent on owner instruction 2026-10-29; subject-first, no source-language terms, every clause traceable to the text span; OWNER SIGN-OFF PENDING",
+   "plain_words": 38
   },
   "4": {
-   "question": "What are the ways in?",
-   "plain": "",
+   "question": "Which way in is mine?",
+   "plain": "There are four ways in, and each one comes to fit the person: some are freed at a single hearing, some by seeing all this as reflection, some by true thought replacing old thought, some by breath, body and practice.",
    "text_span": "TS2.1",
    "text_line_range": [
     2755,
@@ -75,13 +81,23 @@
     {
      "span": "TS3.1",
      "quote": "That which cannot shine separately, but shines when merged with others"
+    },
+    {
+     "span": "TS4.4",
+     "quote": "Yoga is offering of all entities to the Lord"
+    },
+    {
+     "span": "TS5.1",
+     "quote": "One should meditate in the blissful and luminous abode"
     }
    ],
-   "note": "primary picked by agent reading 2026-10-29; A-graders for Q4: TS2.1, TS3.1"
+   "note": "primary picked by agent reading 2026-10-29; A-graders for Q4: TS2.1, TS3.1",
+   "plain_note": "drafted by agent on owner instruction 2026-10-29; subject-first, no source-language terms, every clause traceable to the text span; OWNER SIGN-OFF PENDING",
+   "plain_words": 40
   },
   "5": {
    "question": "How do I practice?",
-   "plain": "",
+   "plain": "It starts with breath: rest in your breathing and time itself shows up as one breath. Then the bath, the offering and the mantra are only real as the inner absorption they point to - kept up daily, not done once.",
    "text_span": "TS12.1",
    "text_line_range": [
     6877,
@@ -106,11 +122,13 @@
      "quote": "the net of all the bonds has dissolved"
     }
    ],
-   "note": "primary picked by agent reading 2026-10-29; A-graders for Q5: TS4.4, TS4.6, TS5.1, TS5.3, TS5.4, TS6.4, TS9.4, TS12.1, TS12.2, TS13.4, TS14.2, TS20.2, TS20.10"
+   "note": "primary picked by agent reading 2026-10-29; A-graders for Q5: TS4.4, TS4.6, TS5.1, TS5.3, TS5.4, TS6.4, TS9.4, TS12.1, TS12.2, TS13.4, TS14.2, TS20.2, TS20.10",
+   "plain_note": "drafted by agent on owner instruction 2026-10-29; subject-first, no source-language terms, every clause traceable to the text span; OWNER SIGN-OFF PENDING",
+   "plain_words": 41
   },
   "6": {
-   "question": "What about death - and what remains?",
-   "plain": "",
+   "question": "What remains after death?",
+   "plain": "Nothing ends at death for anyone grace has touched - they can be lifted from anywhere, even from hell. The knower's own death changes nothing: what remains is what was always so, and only grace decides the rest.",
    "text_span": "TS19.1",
    "text_line_range": [
     8471,
@@ -118,7 +136,26 @@
    ],
    "text_quote": "Siva is by nature inclined to show grace",
    "alternates": [],
-   "note": "primary picked by agent reading 2026-10-29; A-graders for Q6: TS16.3, TS19.1"
+   "note": "primary picked by agent reading 2026-10-29; A-graders for Q6: TS16.3, TS19.1",
+   "plain_note": "drafted by agent on owner instruction 2026-10-29; subject-first, no source-language terms, every clause traceable to the text span; OWNER SIGN-OFF PENDING",
+   "plain_words": 38
   }
+ },
+ "sharpening": {
+  "process": "analayo FORMULA (4 tests: standalone+precise / the cut / content-fit / plain) + oral test (Q then A aloud, leap = rewrite Q) + edge test (answer = next premise)",
+  "changes": [
+   "Q4: \"What are the ways in?\" -> \"Which way in is mine?\" (list-request -> personal cut; the means are graded BY capacity, the text says the way fits YOU)",
+   "Q6: \"What about death - and what remains?\" -> \"What remains after death?\" (two-part -> one 5-word close; \"remains\" carries both the survival question and the final state; mirrors analayo close \"What is Nibbana like?\")",
+   "Q4 alternates extended: +TS4.4 (sakta leg), +TS5.1 (anava leg) - the four-means answer must be anchored in all four, not just anupaya+sambhava",
+   "Q1/Q2/Q3/Q5 kept: each passed all four tests cold (analayo parity: \"What is Nibbana?\" / \"Why dont I see Nibbana right now?\" / \"What keeps it going?\" / \"How is Nibbana attained?\" shape)"
+  ],
+  "edge_chain": [
+   "1->2: if you are the light, why is it unseen? (TENSION)",
+   "2->3: because thinking insists limit - and WHAT holds that story? (MECHANISM)",
+   "3->4: veils exist - but which door fits me? (MEANS)",
+   "4->5: matched to a way - now do it. (DOING)",
+   "5->6: practice to death - then what? (CLOSE)"
+  ],
+  "oral_test": "run per unit after owner ratifies; any leap = rewrite the QUESTION, never the answer (VISION rule)"
  }
 }

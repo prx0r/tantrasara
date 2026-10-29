@@ -111,3 +111,32 @@ pool = everything, gold = A+B, core = A, essay-0 = pointed answer per Q).
 2. Owner: locate/buy audio (Dyczkowski course or the missing "rebirth" mp3s).
 3. Then: portraits/excavation of key spans into full quote pools
    (analayo sermon-excavations shape) + transcript acquisition for audio.
+
+## 6. Question sharpening + plains drafted (2026-10-29, owner: "refine them... just as focused with a plain english answer")
+
+Process copied from analayo (read FIRST, then applied): FORMULA's four
+tests + oral test (Q aloud, A aloud, leap = rewrite Q) + edge test
+(answer = next premise). Analayo history (R7): five question-sets died
+in a row before the FORMULA was extracted — so one version against tests,
+shown once, no churn.
+
+Result (VISION §3 + essay0_DRAFT v2, questions regenerated into
+spans_pool 98/98 re-verified):
+- Q4 "What are the ways in?" -> **"Which way in is mine?"** — list-request
+  becomes personal cut; the text grades the four means BY capacity (the
+  way fits you, you don't pick it).
+- Q6 "What about death — and what remains?" -> **"What remains after
+  death?"** — two-part question became a 5-word close carrying both the
+  survival question and the final state ("remains" double-edge), mirroring
+  analayo's close ("What is Nibbana like?").
+- Q1/Q2/Q3/Q5 held: passed cold (analayo-shape: "What is Nibbana?" /
+  "Why don't I see it right now?" / "What keeps it going?" / "How is
+  Nibbana attained?").
+- Q4 alternates extended +TS4.4 (sakta leg) +TS5.1 (anava leg): a
+  "four ways" answer must anchor all four means, not just two.
+
+Plains: six drafted (22–41 words, subject-first, zero source-language
+terms, every clause traceable to a span; plain_note in the file records
+R1 + sign-off pending). These are drafts FOR THE OWNER — same iteration
+loop analayo ran (§73 subject-first, §79 no-loaded-terms, §82 owner
+decrees). Oral test per unit runs when the owner reads them.

@@ -23,34 +23,31 @@ Nothing else exists. No summaries, no bridges, no composed prose — not in
 files, not in chat. The archive voice reads AND explains; Fish speaks
 key-mappings only; the owner's hand writes intros and questions.
 
-## 3. The spine — sections are questions (PROPOSED 2026-10-29 from a full read; owner picks, tests inform, never decide)
+## 3. The spine — section questions (SHARPENED 2026-10-29; owner ratifies)
 
-Chained as one enquiry — each answer is the next question's premise:
+Passes the analayo FORMULA (standalone+precise · the cut · content-fit ·
+plain ≤9) + the oral test (read Q then A aloud; leap = rewrite the Q).
 
-1. **What is my own nature?** — svabhava: self-shining light-consciousness,
-   the heart as universal bliss (Ch 1).
+1. **What is my own nature?** — svabhava: self-shining light, bliss, the
+   heart as universal bliss (Ch 1).
 2. **Why don't I see it right now?** — twofold ignorance; grace (saktipata),
    not merit, decides (Ch 1, 11).
-3. **What keeps me bound?** — vikalpa contraction, mala as the Lord's
-   will to conceal, kancuka veils, delight in the limited (Ch 1, 4, 8).
-4. **What are the ways in?** — anupaya / sambhava / sakta / anava, graded
-   by capacity, internal to external (Ch 2–6).
-5. **How do I practice?** — breath, body, mantra, initiation, daily and
-   occasional rite (Ch 5, 7, 12–14, 20).
-6. **What about death — and what remains?** — the net, the lightness test,
-   crossing lineages, who may transmit, jagadananda, Bhairava identity
-   while living, transmission by a glance (Ch 15–19, 22 + Ch 1 close).
-   (Merged 2026-10-29: old Q6+Q7 were one question asked twice. Rebirth
-   lives here as destinations-and-release — hell/preta/animal rescue,
-   bhogin's next body, post-mortem initiation — not as its own doctrine,
-   which is faithful: the text never teaches rebirth mechanics.)
+3. **What keeps me bound?** — the veils: time, knowledge, wanting, effort;
+   mala as the Lord's will to conceal; delight in the limited (Ch 1, 4, 8).
+4. **Which way in is mine?** — four ways graded by capacity, not chosen by
+   you: one hearing / reflection / true thought / breath-body-practice
+   (Ch 2–5; lineage crossing Ch 17).
+5. **How do I practice?** — breath is time; the bath, offering, mantra
+   are inner absorption; daily and occasional rite (Ch 6, 12–14, 18, 20).
+6. **What remains after death?** — net-rescue from any realm, festival-
+   death of the knower, jagadananda, Bhairava identity, glance-initiation
+   (Ch 15–19, 22).
 
-Alternates for the owner: a 6-question version folding 6 into 5;
-Q5 as *"What do I actually do?"*; Q1 as *"What is the goal?"*.
-Content-fit: every question above is answered aloud by its chapters
-(grasp note §2). Unassigned chapters are deepening, not orphans:
-Ch 10 (kala map) feeds Q5; Ch 21 (agama proof) feeds Q4;
-Ch 9 (knowers/states) feeds Q2–Q3.
+Edge chain: light → unseen? → what holds it → which door → do it → then
+what. Alternates kept in essay0_DRAFT (folding 5+6, Q5 as "What do I
+actually do?", Q1 as "What is the goal?"). Content-fit: every question
+answered aloud by its chapters (grasp note §2); Q5 carries 47 spans —
+structural for a manual.
 
 ## 4. Essay 0 — the gold dust (OWNER PICKS from candidates)
 
