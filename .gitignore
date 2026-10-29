@@ -5,3 +5,4 @@ build/cache/
 __pycache__/
 .DS_Store
 sources/text/reference/
+sources/lectures/audio/study/*.mp3
