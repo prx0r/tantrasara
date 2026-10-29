@@ -175,3 +175,39 @@ B excludes C), pointer words synced to essay0, no pointer-only sections.
   number re-measures from ffprobe windows on audio arrival); Q5's pointer
   source span (TS12.1 bath) full text → C (budget); Sanskrit-scan spans
   excluded from B (C/depth only).
+## 13. ENTERING THE AUDIO STAGE (2026-10-29) — text side frozen-complete, audio blocked on one purchase
+
+**Text side (done, gated):** chain 6 locked · essay-0 canonical ·
+spans 98/gold 74/core 32 verified · beats_core 32 (verbatim/tts/determinism) ·
+rung_picks A 18.7m <20 / B 51.8m <60 with A⊂B + text-order flow gates ·
+`process/verify.sh` = TEXT+PICKS GATE ALL PASS. From here, text changes go
+through 18-MODIFICATIONS (edit → validate_sheet-class check → rebuild → gates).
+
+**Audio stage runbook (what happens the day audio lands, per 08-PORTING):**
+1. Land Dyczkowski mp3s (or located mp3s) in `sources/lectures/audio/` +
+   transcripts (CF-whisper → `sources/lectures/transcripts/`, same schema
+   as analayo `{t,end,text}`; yt-dlp/subtitles first if YouTube).
+2. Fill `audio[]` windows in essay0.json + beats (span line-ranges →
+   timecode anchors; word-onset snapping per analayo M27/M30 discipline —
+   segments are not onsets).
+3. Assemblies + manifests (port build_newA/build_rungs reading rung_picks;
+   rhythm.json slots carry over from the reference build — copy when
+   first needed, retarget D).
+4. Renders (render_newA/render_B drivers, AUDIO_OUT isolation) →
+   voice_match check → mix proof → G9 ears → Qwen rounds → ledger → STAMP
+   (DONE.md law: gates + mix + 2 clean rounds + ledger).
+5. Then B re-render, C decision, stamps — same as analayo §§87-101.
+
+**Study transcripts (Hareesh/Wallis) — running, twice-failed-then-fixed:**
+- Attempt 1: small.en sustained run → OOM-killed (7.7G box, §3).
+- Attempt 2: chunked one-shot loop → killed by tool-timeout process-group
+  kill (nohup insufficient against the shell's session teardown).
+- Attempt 3 (current): `setsid nohup tools/transcribe_all.sh` fully detached
+  (own session, immune); verified alive transcribing (90% CPU on chunk).
+  Output: `sources/lectures/transcripts-study/` (9 eps, house CF schema,
+  engine=tiny study-only — small.en re-run at canon time if these ever
+  graduate). Check: `tail /tmp/study_tr3.log`; expected ~1h for ~4h audio.
+- STUDY ONLY (never canon) — the build voice is the purchased Dyczkowski.
+
+**The one open dependency:** the $100 Dyczkowski course (or located mp3s).
+Everything else in the runbook is unblocked waiting on it.
