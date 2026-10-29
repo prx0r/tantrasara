@@ -21,3 +21,11 @@ Next: intake item 1 (sources — owner).
   no audio). Owner to say where they live (YouTube links? re-download?).
 - Still to buy/get: Dyczkowski 54-lecture course ($100, audio + PDF
   transcripts — the build voice). Everything else needed is free.
+
+## 2. Study audio landed (2026-10-29)
+
+9 Wallis "Essence of Tantra" Tantrasara episodes (~4h, Acast RSS, free):
+three-upayas overview + ch.1/2/3-abridged/4x2/5x3 at
+sources/lectures/audio/study/ (mp3s gitignored, SOURCES.md index).
+STUDY ONLY — never canon. Build voice stays: purchased Dyczkowski.
+Still missing: Dyczkowski audio (owner to locate or buy $100 course).
