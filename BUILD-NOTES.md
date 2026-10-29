@@ -129,3 +129,26 @@ quote-anchor + G6 TTS scan).
 AUDIO side BLOCKED on owner (the one hard dependency): Dyczkowski course ($100, audio+transcripts)
 or located mp3s → then: transcripts → beats → assemblies → renders → ears → stamps, exactly the
 analayo runbook (18-MODIFICATIONS playbooks are the change procedures; DONE.md is the stamp law).
+
+## 11. Beat records + text gate (2026-10-29) — text side reaches analayo-parity shape
+- `build/canon/blunt_key.json` seeded (analayo blunt discipline; mostly IDENTITY —
+  Chakravarty/Marjanovic is already modern English, so the dense-swap pass is the
+  owner's future dense-finds loop, §19/§24 pattern: owner directs, agent applies
+  mechanically). RULE: never invent interpretive swaps autonomously (R1).
+- `tools/build_beats.py` → `build/canon/beats_core.json`: 32 core beats,
+  {span, question, grade, provenance {file, lines}, verbatim, plain, tts_line,
+  plain_sha1}. Verbatim = extracted quote, round-trip asserted 32/32.
+  plain = blunt applied + foreign-paren strip ("my heart (hrdaya)" → "my heart").
+  tts = hygiene + SPOKEN map (pasu→bound soul, mala→impurity, saktipata→descent
+  of grace; loanword class Siva kept — analayo arahant/tathagata precedent).
+  FAIL-LOUD: unmapped foreign token in tts → gate fails → map grows under
+  discipline (measured: 2 fails found on first run — (hrdaya) ASCII-paren
+  not caught by non-ASCII regex, bare "pasu"; both fixed properly, not
+  papered over). Determinism: 32/32 byte-identical on re-apply.
+- `tools/verify_text.py` + `process/verify.sh` = TEXT GATE (analayo verify.sh
+  parity, text stage): G1 span pool (builder re-run, same-path law) · G2 essay0
+  (6 units, questions synced to pool, plains non-empty, text round-trips) ·
+  G3 beats (verbatim round-trip, tts no-foreign, sha1 determinism) · G4 layer
+  census (pool=gold+rest, grades A32/B42/C24). ALL PASS.
+- Per-question beats: Q1 11 · Q2 2 · Q3 2 · Q4 2 · Q5 13 · Q6 2 (core A only;
+  Q2/Q4/Q6 thin in A by design — their weight lives in B, gold74 is the B source).

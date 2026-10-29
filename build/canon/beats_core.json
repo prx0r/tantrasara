@@ -1,0 +1,490 @@
+{
+ "schema": "tantrasara beats_core v1 (2026-10-29, text side; audio pending)",
+ "rule": "verbatim extracted (round-trip asserted) -> plain = blunt_key(t) + foreign-paren strip -> tts = hygiene. R1: none authored.",
+ "blunt_key": "build/canon/blunt_key.json (owner-driven; mostly identity — translation already plain)",
+ "counts": {
+  "total": 32
+ },
+ "beats": [
+  {
+   "span": "TS1.1",
+   "question": 1,
+   "grade": "A",
+   "provenance": {
+    "file": "sources/text/reference/tantrasara-chakravarty-marjanovic.txt",
+    "start_line": 2436,
+    "end_line": 2509
+   },
+   "verbatim": "May my heart (hrdaya) pulsate in the form of emission",
+   "plain": "May my heart pulsate in the form of emission",
+   "tts_line": "May my heart pulsate in the form of emission.",
+   "plain_sha1": "6a8f16c45f359336",
+   "sanskrit_span": false
+  },
+  {
+   "span": "TS1.4",
+   "question": 1,
+   "grade": "A",
+   "provenance": {
+    "file": "sources/text/reference/tantrasara-chakravarty-marjanovic.txt",
+    "start_line": 2664,
+    "end_line": 2754
+   },
+   "verbatim": "The freedom belonging to that light is its energy of bliss",
+   "plain": "The freedom belonging to that light is its energy of bliss",
+   "tts_line": "The freedom belonging to that light is its energy of bliss.",
+   "plain_sha1": "d5e5a22029605ff3",
+   "sanskrit_span": false
+  },
+  {
+   "span": "TS2.1",
+   "question": 4,
+   "grade": "A",
+   "provenance": {
+    "file": "sources/text/reference/tantrasara-chakravarty-marjanovic.txt",
+    "start_line": 2755,
+    "end_line": 2801
+   },
+   "verbatim": "Could the thousand-rayed sun be illuminated by a jar",
+   "plain": "Could the thousand-rayed sun be illuminated by a jar",
+   "tts_line": "Could the thousand-rayed sun be illuminated by a jar.",
+   "plain_sha1": "f890e5072453df7b",
+   "sanskrit_span": false
+  },
+  {
+   "span": "TS3.1",
+   "question": 4,
+   "grade": "A",
+   "provenance": {
+    "file": "sources/text/reference/tantrasara-chakravarty-marjanovic.txt",
+    "start_line": 2857,
+    "end_line": 2909
+   },
+   "verbatim": "That which cannot shine separately, but shines when merged with others",
+   "plain": "That which cannot shine separately, but shines when merged with others",
+   "tts_line": "That which cannot shine separately, but shines when merged with others.",
+   "plain_sha1": "327c7cff75a9ff8c",
+   "sanskrit_span": false
+  },
+  {
+   "span": "TS3.4",
+   "question": 1,
+   "grade": "A",
+   "provenance": {
+    "file": "sources/text/reference/tantrasara-chakravarty-marjanovic.txt",
+    "start_line": 3092,
+    "end_line": 3161
+   },
+   "verbatim": "The entire universe is shining on the clear inner core of the Self",
+   "plain": "The entire universe is shining on the clear inner core of the Self",
+   "tts_line": "The entire universe is shining on the clear inner core of the Self.",
+   "plain_sha1": "08ae0b54308e0e47",
+   "sanskrit_span": false
+  },
+  {
+   "span": "TS4.4",
+   "question": 5,
+   "grade": "A",
+   "provenance": {
+    "file": "sources/text/reference/tantrasara-chakravarty-marjanovic.txt",
+    "start_line": 3373,
+    "end_line": 3443
+   },
+   "verbatim": "Yoga is offering of all entities to the Lord",
+   "plain": "Yoga is offering of all entities to the Lord",
+   "tts_line": "Yoga is offering of all entities to the Lord.",
+   "plain_sha1": "9057b14e05d9cd93",
+   "sanskrit_span": false
+  },
+  {
+   "span": "TS4.6",
+   "question": 5,
+   "grade": "A",
+   "provenance": {
+    "file": "sources/text/reference/tantrasara-chakravarty-marjanovic.txt",
+    "start_line": 3557,
+    "end_line": 3645
+   },
+   "verbatim": "Purity is not the essential attribute of an object",
+   "plain": "Purity is not the essential attribute of an object",
+   "tts_line": "Purity is not the essential attribute of an object.",
+   "plain_sha1": "d1a67d408110bb7c",
+   "sanskrit_span": false
+  },
+  {
+   "span": "TS4.7",
+   "question": 3,
+   "grade": "A",
+   "provenance": {
+    "file": "sources/text/reference/tantrasara-chakravarty-marjanovic.txt",
+    "start_line": 3646,
+    "end_line": 3715
+   },
+   "verbatim": "Upon perfect attainment of a firm conviction contrary",
+   "plain": "Upon perfect attainment of a firm conviction contrary",
+   "tts_line": "Upon perfect attainment of a firm conviction contrary.",
+   "plain_sha1": "e67c19b9c8e700a6",
+   "sanskrit_span": false
+  },
+  {
+   "span": "TS5.1",
+   "question": 5,
+   "grade": "A",
+   "provenance": {
+    "file": "sources/text/reference/tantrasara-chakravarty-marjanovic.txt",
+    "start_line": 3716,
+    "end_line": 3768
+   },
+   "verbatim": "One should meditate in the blissful and luminous abode",
+   "plain": "One should meditate in the blissful and luminous abode",
+   "tts_line": "One should meditate in the blissful and luminous abode.",
+   "plain_sha1": "613dc552a1852209",
+   "sanskrit_span": false
+  },
+  {
+   "span": "TS5.3",
+   "question": 5,
+   "grade": "A",
+   "provenance": {
+    "file": "sources/text/reference/tantrasara-chakravarty-marjanovic.txt",
+    "start_line": 3866,
+    "end_line": 3947
+   },
+   "verbatim": "is the one blissful state, which unifies all the other",
+   "plain": "is the one blissful state, which unifies all the other",
+   "tts_line": "is the one blissful state, which unifies all the other.",
+   "plain_sha1": "9abc56e1110186f3",
+   "sanskrit_span": false
+  },
+  {
+   "span": "TS5.4",
+   "question": 5,
+   "grade": "A",
+   "provenance": {
+    "file": "sources/text/reference/tantrasara-chakravarty-marjanovic.txt",
+    "start_line": 3948,
+    "end_line": 4025
+   },
+   "verbatim": "seed mantras of creation",
+   "plain": "seed mantras of creation",
+   "tts_line": "seed mantras of creation.",
+   "plain_sha1": "ad2e82c68648fca0",
+   "sanskrit_span": false
+  },
+  {
+   "span": "TS6.4",
+   "question": 5,
+   "grade": "A",
+   "provenance": {
+    "file": "sources/text/reference/tantrasara-chakravarty-marjanovic.txt",
+    "start_line": 4311,
+    "end_line": 4394
+   },
+   "verbatim": "the number of inhalations and exhalations of the breath",
+   "plain": "the number of inhalations and exhalations of the breath",
+   "tts_line": "the number of inhalations and exhalations of the breath.",
+   "plain_sha1": "ac5c9527aae1124b",
+   "sanskrit_span": false
+  },
+  {
+   "span": "TS7.3",
+   "question": 1,
+   "grade": "A",
+   "provenance": {
+    "file": "sources/text/reference/tantrasara-chakravarty-marjanovic.txt",
+    "start_line": 4922,
+    "end_line": 4975
+   },
+   "verbatim": "Conceiving all these paths",
+   "plain": "Conceiving all these paths",
+   "tts_line": "Conceiving all these paths.",
+   "plain_sha1": "cfd6c3667b33108a",
+   "sanskrit_span": false
+  },
+  {
+   "span": "TS8.5",
+   "question": 3,
+   "grade": "A",
+   "provenance": {
+    "file": "sources/text/reference/tantrasara-chakravarty-marjanovic.txt",
+    "start_line": 5380,
+    "end_line": 5421
+   },
+   "verbatim": "then it is called a bound soul",
+   "plain": "then it is called a bound soul",
+   "tts_line": "then it is called a bound soul.",
+   "plain_sha1": "6bb11482c8f833ca",
+   "sanskrit_span": false
+  },
+  {
+   "span": "TS8.8",
+   "question": 1,
+   "grade": "A",
+   "provenance": {
+    "file": "sources/text/reference/tantrasara-chakravarty-marjanovic.txt",
+    "start_line": 5622,
+    "end_line": 5691
+   },
+   "verbatim": "are nothing but the order of expansion of the waves",
+   "plain": "are nothing but the order of expansion of the waves",
+   "tts_line": "are nothing but the order of expansion of the waves.",
+   "plain_sha1": "6024485fde2a94de",
+   "sanskrit_span": false
+  },
+  {
+   "span": "TS9.2",
+   "question": 1,
+   "grade": "A",
+   "provenance": {
+    "file": "sources/text/reference/tantrasara-chakravarty-marjanovic.txt",
+    "start_line": 5793,
+    "end_line": 5896
+   },
+   "verbatim": "self-luminous and it shines with reference to none",
+   "plain": "self-luminous and it shines with reference to none",
+   "tts_line": "self-luminous and it shines with reference to none.",
+   "plain_sha1": "897542e008aaa994",
+   "sanskrit_span": false
+  },
+  {
+   "span": "TS9.4",
+   "question": 5,
+   "grade": "A",
+   "provenance": {
+    "file": "sources/text/reference/tantrasara-chakravarty-marjanovic.txt",
+    "start_line": 6003,
+    "end_line": 6083
+   },
+   "verbatim": "analytically discerns the state of fifteen everywhere",
+   "plain": "analytically discerns the state of fifteen everywhere",
+   "tts_line": "analytically discerns the state of fifteen everywhere.",
+   "plain_sha1": "4368ec772f7edd7b",
+   "sanskrit_span": false
+  },
+  {
+   "span": "TS9.7",
+   "question": 1,
+   "grade": "A",
+   "provenance": {
+    "file": "sources/text/reference/tantrasara-chakravarty-marjanovic.txt",
+    "start_line": 6202,
+    "end_line": 6254
+   },
+   "verbatim": "Take recourse to this multitude of principles",
+   "plain": "Take recourse to this multitude of principles",
+   "tts_line": "Take recourse to this multitude of principles.",
+   "plain_sha1": "b63efd8760b4f22b",
+   "sanskrit_span": false
+  },
+  {
+   "span": "TS11.2",
+   "question": 2,
+   "grade": "A",
+   "provenance": {
+    "file": "sources/text/reference/tantrasara-chakravarty-marjanovic.txt",
+    "start_line": 6556,
+    "end_line": 6692
+   },
+   "verbatim": "The descent of grace is ninefold",
+   "plain": "The descent of grace is ninefold",
+   "tts_line": "The descent of grace is ninefold.",
+   "plain_sha1": "637eee40083cbff1",
+   "sanskrit_span": false
+  },
+  {
+   "span": "TS11.3",
+   "question": 2,
+   "grade": "A",
+   "provenance": {
+    "file": "sources/text/reference/tantrasara-chakravarty-marjanovic.txt",
+    "start_line": 6693,
+    "end_line": 6783
+   },
+   "verbatim": "immediately attains liberation while still living",
+   "plain": "immediately attains liberation while still living",
+   "tts_line": "immediately attains liberation while still living.",
+   "plain_sha1": "6e4f48cc8b002146",
+   "sanskrit_span": false
+  },
+  {
+   "span": "TS12.1",
+   "question": 5,
+   "grade": "A",
+   "provenance": {
+    "file": "sources/text/reference/tantrasara-chakravarty-marjanovic.txt",
+    "start_line": 6877,
+    "end_line": 6961
+   },
+   "verbatim": "Bathing",
+   "plain": "Bathing",
+   "tts_line": "Bathing.",
+   "plain_sha1": "ef1df91f37eee1e9",
+   "sanskrit_span": false
+  },
+  {
+   "span": "TS12.2",
+   "question": 5,
+   "grade": "A",
+   "provenance": {
+    "file": "sources/text/reference/tantrasara-chakravarty-marjanovic.txt",
+    "start_line": 6962,
+    "end_line": 7034
+   },
+   "verbatim": "Immersion into the very nature of the Lord is called",
+   "plain": "Immersion into the very nature of the Lord is called",
+   "tts_line": "Immersion into the very nature of the Lord is called.",
+   "plain_sha1": "ccb294be46997c33",
+   "sanskrit_span": false
+  },
+  {
+   "span": "TS13.4",
+   "question": 5,
+   "grade": "A",
+   "provenance": {
+    "file": "sources/text/reference/tantrasara-chakravarty-marjanovic.txt",
+    "start_line": 7331,
+    "end_line": 7443
+   },
+   "verbatim": "the very essence of all entities, is called worship",
+   "plain": "the very essence of all entities, is called worship",
+   "tts_line": "the very essence of all entities, is called worship.",
+   "plain_sha1": "6590f3c2c9591c45",
+   "sanskrit_span": false
+  },
+  {
+   "span": "TS14.2",
+   "question": 5,
+   "grade": "A",
+   "provenance": {
+    "file": "sources/text/reference/tantrasara-chakravarty-marjanovic.txt",
+    "start_line": 7861,
+    "end_line": 7932
+   },
+   "verbatim": "then the pasu attains the nature of Siva",
+   "plain": "then the pasu attains the nature of Siva",
+   "tts_line": "then the bound soul attains the nature of Siva.",
+   "plain_sha1": "c7a34d4d9520e856",
+   "sanskrit_span": false
+  },
+  {
+   "span": "TS16.3",
+   "question": 6,
+   "grade": "A",
+   "provenance": {
+    "file": "sources/text/reference/tantrasara-chakravarty-marjanovic.txt",
+    "start_line": 8220,
+    "end_line": 8261
+   },
+   "verbatim": "grace has unthinkably glorious capacity",
+   "plain": "grace has unthinkably glorious capacity",
+   "tts_line": "grace has unthinkably glorious capacity.",
+   "plain_sha1": "67c8b9ea5f6fcc11",
+   "sanskrit_span": false
+  },
+  {
+   "span": "TS19.1",
+   "question": 6,
+   "grade": "A",
+   "provenance": {
+    "file": "sources/text/reference/tantrasara-chakravarty-marjanovic.txt",
+    "start_line": 8471,
+    "end_line": 8535
+   },
+   "verbatim": "Siva is by nature inclined to show grace",
+   "plain": "Siva is by nature inclined to show grace",
+   "tts_line": "Siva is by nature inclined to show grace.",
+   "plain_sha1": "177064d51d4ff150",
+   "sanskrit_span": false
+  },
+  {
+   "span": "TS20.2",
+   "question": 5,
+   "grade": "A",
+   "provenance": {
+    "file": "sources/text/reference/tantrasara-chakravarty-marjanovic.txt",
+    "start_line": 8656,
+    "end_line": 8733
+   },
+   "verbatim": "the net of all the bonds has dissolved",
+   "plain": "the net of all the bonds has dissolved",
+   "tts_line": "the net of all the bonds has dissolved.",
+   "plain_sha1": "40806d984b862009",
+   "sanskrit_span": false
+  },
+  {
+   "span": "TS20.10",
+   "question": 5,
+   "grade": "A",
+   "provenance": {
+    "file": "sources/text/reference/tantrasara-chakravarty-marjanovic.txt",
+    "start_line": 9199,
+    "end_line": 9251
+   },
+   "verbatim": "attains liberation only by the practice of rituals",
+   "plain": "attains liberation only by the practice of rituals",
+   "tts_line": "attains liberation only by the practice of rituals.",
+   "plain_sha1": "c0febce2e3173eb9",
+   "sanskrit_span": false
+  },
+  {
+   "span": "TS21.1",
+   "question": 1,
+   "grade": "A",
+   "provenance": {
+    "file": "sources/text/reference/tantrasara-chakravarty-marjanovic.txt",
+    "start_line": 9252,
+    "end_line": 9332
+   },
+   "verbatim": "This universe is composed solely of consciousness",
+   "plain": "This universe is composed solely of consciousness",
+   "tts_line": "This universe is composed solely of consciousness.",
+   "plain_sha1": "1681edfd0a6106ce",
+   "sanskrit_span": false
+  },
+  {
+   "span": "TS21.3",
+   "question": 1,
+   "grade": "A",
+   "provenance": {
+    "file": "sources/text/reference/tantrasara-chakravarty-marjanovic.txt",
+    "start_line": 9377,
+    "end_line": 9458
+   },
+   "verbatim": "when he becomes the supreme Lord",
+   "plain": "when he becomes the supreme Lord",
+   "tts_line": "when he becomes the supreme Lord.",
+   "plain_sha1": "577c0df664fba564",
+   "sanskrit_span": false
+  },
+  {
+   "span": "TS22.1",
+   "question": 1,
+   "grade": "A",
+   "provenance": {
+    "file": "sources/text/reference/tantrasara-chakravarty-marjanovic.txt",
+    "start_line": 9459,
+    "end_line": 9499
+   },
+   "verbatim": "Bliss is Brahman which abides in the body",
+   "plain": "Bliss is Brahman which abides in the body",
+   "tts_line": "Bliss is Brahman which abides in the body.",
+   "plain_sha1": "d6fd589c42fc88f1",
+   "sanskrit_span": false
+  },
+  {
+   "span": "TS22.4",
+   "question": 1,
+   "grade": "A",
+   "provenance": {
+    "file": "sources/text/reference/tantrasara-chakravarty-marjanovic.txt",
+    "start_line": 9659,
+    "end_line": 9705
+   },
+   "verbatim": "the compact unity",
+   "plain": "the compact unity",
+   "tts_line": "the compact unity.",
+   "plain_sha1": "14821660b56d5dfb",
+   "sanskrit_span": false
+  }
+ ]
+}

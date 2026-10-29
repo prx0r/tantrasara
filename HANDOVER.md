@@ -48,9 +48,11 @@ Everything below is the intake queue — work it top to bottom.
    questions+plains owner-approved same day ("i love our answers"), text
    anchors line-ranged, alternates kept, audio[] pending audio.
    Process notes: BUILD-NOTES.md (analayo structure, §1-10).
-5. **Rungs (2026-10-29 ASSIGNED):** spans_pool (98) → spans_gold (74) →
-   spans_core (32); grades per question in spans_pool.counts. Manifests/
-   assemblies come when audio+transcripts land (scripts ported per 08-PORTING).
+5. **Rungs (2026-10-29 ASSIGNED + TEXT GATED):** spans_pool (98) →
+   spans_gold (74) → spans_core (32) → beats_core (32, verbatim/tts/
+   determinism proven). `bash process/verify.sh` = TEXT GATE, ALL PASS.
+   Manifests/assemblies/renders come when audio+transcripts land
+   (scripts ported per 08-PORTING).
 6. **Audio:** render 0 → ears → A → ears → stamp (DONE.md).
 
 ## Where everything will live (mirrors the reference build)
