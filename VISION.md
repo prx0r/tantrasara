@@ -23,18 +23,31 @@ Nothing else exists. No summaries, no bridges, no composed prose — not in
 files, not in chat. The archive voice reads AND explains; Fish speaks
 key-mappings only; the owner's hand writes intros and questions.
 
-## 3. The spine — sections are questions (OWNER TO FILL)
+## 3. The spine — sections are questions (PROPOSED 2026-10-29 from a full read; owner picks, tests inform, never decide)
 
-Six questions, each passing the FORMULA (standalone+precise, the cut,
-content-fit, plain ≤9 words, kicks off enquiry). Chained: each answer is
-the next question's premise.
+Chained as one enquiry — each answer is the next question's premise:
 
-1. …
-2. …
-3. …
-4. …
-5. …
-6. …
+1. **What is my own nature?** — svabhava: self-shining light-consciousness,
+   the heart as universal bliss (Ch 1).
+2. **Why don't I see it right now?** — twofold ignorance; grace (saktipata),
+   not merit, decides (Ch 1, 11).
+3. **What keeps me bound?** — vikalpa contraction, mala as the Lord's
+   will to conceal, kancuka veils, delight in the limited (Ch 1, 4, 8).
+4. **What are the ways in?** — anupaya / sambhava / sakta / anava, graded
+   by capacity, internal to external (Ch 2–6).
+5. **How do I practice?** — breath, body, mantra, initiation, daily and
+   occasional rite (Ch 5, 7, 12–14, 20).
+6. **What about death, absence, or another lineage?** — the net, the
+   lightness test, crossing lineages, who may transmit (Ch 15–19).
+7. **What is it like at the end?** — jagadananda, Bhairava identity while
+   living, transmission by a glance (Ch 22 + Ch 1 close).
+
+Alternates for the owner: a 6-question version folding 6 into 5;
+Q5 as *"What do I actually do?"*; Q1 as *"What is the goal?"*.
+Content-fit: every question above is answered aloud by its chapters
+(grasp note §2). Unassigned chapters are deepening, not orphans:
+Ch 10 (kala map) feeds Q5; Ch 21 (agama proof) feeds Q4;
+Ch 9 (knowers/states) feeds Q2–Q3.
 
 ## 4. Essay 0 — the gold dust (OWNER PICKS from candidates)
 
