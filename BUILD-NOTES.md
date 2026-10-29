@@ -9,3 +9,15 @@ AGENTS/HANDOVER/VISION/DONE/SPEAKER-RULES/TIMINGS entry docs;
 Process machinery lives in the reference repo until ported per
 08-PORTING (no preemptive forks). Cast: TBD by owner ear.
 Next: intake item 1 (sources — owner).
+
+## 1. Text landed, audio still missing (2026-10-29)
+
+- Full Chakravarty/Marjanovic Tantrasara secured locally from the gochema
+  stash (`sources/text/reference/`, gitignored): 11,891 lines, clean text,
+  ToC + intro + chapter summaries + all chapters. This is the verbatim home
+  to excavate from. Also on disk there: tantrasara-bertagni.pdf (unchecked).
+- Dyczkowski "talks on rebirth etc." NOT found on any disk (searched /root:
+  only his PDFs/texts — journey-in-the-world-of-the-tantras, spandakarika —
+  no audio). Owner to say where they live (YouTube links? re-download?).
+- Still to buy/get: Dyczkowski 54-lecture course ($100, audio + PDF
+  transcripts — the build voice). Everything else needed is free.

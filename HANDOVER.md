@@ -11,13 +11,13 @@ Everything below is the intake queue — work it top to bottom.
 
 ## Intake (in order — nothing downstream starts until its line is green)
 
-1. **Sources (owner — researched 2026-10-29, buy list below):**
-   - TEXT (English, BUY): Chakravarty/Marjanovic *Tantrasara of Abhinavagupta*
-     (Rudra Press 2012, ~$32: themovementcenter.com; or Indica HB). The ONLY
-     legitimate complete English translation — Chakravarty (Kaviraj lineage,
-     Bäumer's Benares circle) + 2 years sentence-by-sentence editing by
-     Marjanovic. AVOID the "Gautam Chatterjee" Indian Mind edition
-     (documented plagiarism of B.N. Pandit's manuscript).
+1. **Sources (owner — researched 2026-10-29):**
+   - TEXT (LANDED FREE, verified): full Chakravarty/Marjanovic at
+     `sources/text/reference/tantrasara-chakravarty-marjanovic.txt`
+     (gitignored — copyrighted; 11,891 lines, clean text layer,
+     from gochema stash). No need to buy the book for the build.
+     AVOID the "Gautam Chatterjee" Indian Mind edition (documented
+     plagiarism of B.N. Pandit's manuscript).
    - TEXT (Sanskrit, FREE): GRETIL Tantrasara e-text (KSTS ed. base) +
      1918 KSTS Nirnaya Sagara scan on archive.org (public domain).
      shaivism.net hosts a Tantrasara text (provenance TBD).
