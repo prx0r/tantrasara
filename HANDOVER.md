@@ -28,6 +28,12 @@ Everything below is the intake queue — work it top to bottom.
    - AUDIO (free/adjacent): Lakshmanjoo has NO direct Tantrasara series;
      nearest is Secret Supreme (TL 1-15, free 14.5h audio w/ book) +
      Tantraloka ch.2-3 + Paramarthasara (free audios). Background only.
+   - AUDIO (free/orientation — study only, NEVER build from these):
+     Wallis "Essence of Tantra" podcast (chapter-by-chapter Tantrasara
+     readings + guided meditations, free on Acast) · Nish "Very Heart of
+     Tantra" intro ep + free live Zooms (yogawithnish, Mon/Fri) · INDICA
+     Abhinavagupta symposium playlist incl. Timalsina intro (free YouTube)
+     · Dyczkowski free courses + YouTube (Locating Trika etc.).
    - Record what lands in VISION.md + below, then intake item 2.
 2. **Provenance home:** excavate into `sources/text/excavations/` (quote pools
    with {file,start,end}; NEVER typed verbatim — axiom 1).
