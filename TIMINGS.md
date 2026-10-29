@@ -5,8 +5,8 @@ Rung ladder (targets scale with material; ratios, not minutes):
 | rung | per question | total | what it is |
 |---|---|---|---|
 | 0 seed | ~20s + ritual | TBD | six Q→plain→A pointers chained |
-| A newA | ~3–5m | TBD | highest-signal: pointer + beats |
-| B | ~7–10m | TBD | curated subsets + whole where it fits |
+| A newA | ~3–5m | **18.7m proxy** (2802w @150wpm; picks in rung_picks.json, gate check_picks) | highest-signal: pointer + slot-carrying beats (target <20 ✓) |
+| B | ~7–10m | **51.8m proxy** (7768w; A⊂B, text-order flow) | curated: A + additions (target <60 ✓) |
 | C | ~20m | TBD | B-prefix + remainders + gold head-fill |
 | D | ~35–45m | TBD | C-prefix + deeper gold (thin stays thin) |
 | archive | — | — | pool files (reference only, never played) |

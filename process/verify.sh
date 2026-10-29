@@ -4,6 +4,8 @@ set -e
 cd "$(dirname "$0")/.."
 echo "== span pool + essay0 + beats + layers =="
 python3 tools/verify_text.py
+echo "== rung picks (budgets, A-B nesting, flow) =="
+python3 tools/check_picks.py
 echo "== files =="
 for f in AGENTS.md HANDOVER.md VISION.md BUILD-NOTES.md DONE.md \
          build/canon/essay0.json build/canon/spans_pool.json \

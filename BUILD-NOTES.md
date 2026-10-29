@@ -152,3 +152,26 @@ analayo runbook (18-MODIFICATIONS playbooks are the change procedures; DONE.md i
   census (pool=gold+rest, grades A32/B42/C24). ALL PASS.
 - Per-question beats: Q1 11 · Q2 2 · Q3 2 · Q4 2 · Q5 13 · Q6 2 (core A only;
   Q2/Q4/Q6 thin in A by design — their weight lives in B, gold74 is the B source).
+
+## 12. Rung picks to budget: A <20m, B <60m, flow-checked (2026-10-29, owner: "get A under 20, B perfect under 60, ensure flow")
+
+`build/canon/rung_picks.json` (reading-time proxy @150wpm; audio windows
+re-measure when Dyczkowski lands) + `tools/check_picks.py` gate (wired as
+G-pick in process/verify.sh): budgets, A⊂B per question, TEXT-ORDER flow
+(argument order = the text's own order), grade rules (A-rung = grade A only;
+B excludes C), pointer words synced to essay0, no pointer-only sections.
+
+- **A = 18.7m** (2802w): Q1 TS1.4 definition · Q2 TS11.3 grace grades ·
+  Q3 TS8.5 veils · Q4 TS2.1+TS3.1 two ways of seeing · Q5 TS6.4 breath-time ·
+  Q6 TS16.3 rescue. Slot-carrying beats only; the claim lands (Q1 read whole),
+  Q4 shows two of four ways (rest → B), Q6 thin-by-design (pointer axiom +
+  rescue image — closing sections live on essay-0, analayo S1 precedent).
+- **B = 51.8m** (7768w): per-question arcs reviewed — Q1 benedictory→def→
+  bliss-in-body · Q2 ignorance-root→grace · Q3 mala→credo→veils ·
+  Q4 no-means→reflection→crossing · Q5 rites→meditation→breath (the text's
+  own Ch4→5→6 descent) · Q6 yuga→deathbed→net→rescue→axiom (death at every
+  scale, closing on the axiom). A⊂B proven per question.
+- Honest notes: pace-sensitivity (proxy is ±10%: at 140wpm A≈20.0m — exact
+  number re-measures from ffprobe windows on audio arrival); Q5's pointer
+  source span (TS12.1 bath) full text → C (budget); Sanskrit-scan spans
+  excluded from B (C/depth only).

@@ -1,0 +1,209 @@
+{
+ "schema": "tantrasara rung picks v1 (2026-10-29; reading-time proxy @150wpm; audio windows re-measure on arrival)",
+ "budgets": {
+  "A_words": 3000,
+  "A_min": 20,
+  "B_words": 9000,
+  "B_min": 60,
+  "B_per_q_words": 1500
+ },
+ "pointer_overhead_note": "per-question pointer = essay0 quote + plain (guide speech), counted separately below",
+ "rungs": {
+  "A": {
+   "sections": {
+    "1": {
+     "pointer_span": "TS1.4",
+     "spans": [
+      "TS1.4"
+     ],
+     "span_words": 615,
+     "pointer_words": 33,
+     "total_words": 648,
+     "total_min": 4.3,
+     "reasons": [
+      "svabhava=autonomous light, 4 upayas preview"
+     ]
+    },
+    "2": {
+     "pointer_span": "TS11.3",
+     "spans": [
+      "TS11.3"
+     ],
+     "span_words": 400,
+     "pointer_words": 31,
+     "total_words": 431,
+     "total_min": 2.9,
+     "reasons": [
+      "intense grades; pratibha teacher; jivanmukti"
+     ]
+    },
+    "3": {
+     "pointer_span": "TS8.5",
+     "spans": [
+      "TS8.5"
+     ],
+     "span_words": 356,
+     "pointer_words": 45,
+     "total_words": 401,
+     "total_min": 2.7,
+     "reasons": [
+      "veil-functions define the bound soul"
+     ]
+    },
+    "4": {
+     "pointer_span": "TS2.1",
+     "spans": [
+      "TS2.1",
+      "TS3.1"
+     ],
+     "span_words": 570,
+     "pointer_words": 49,
+     "total_words": 619,
+     "total_min": 4.1,
+     "reasons": [
+      "anupaya: saktipata, once-hearing, no means",
+      "sambhava: reflections, no bimba, paranada"
+     ]
+    },
+    "5": {
+     "pointer_span": "TS12.1",
+     "spans": [
+      "TS6.4"
+     ],
+     "span_words": 504,
+     "pointer_words": 42,
+     "total_words": 546,
+     "total_min": 3.6,
+     "reasons": [
+      "21,600 breaths = one day-night"
+     ]
+    },
+    "6": {
+     "pointer_span": "TS19.1",
+     "spans": [
+      "TS16.3"
+     ],
+     "span_words": 111,
+     "pointer_words": 46,
+     "total_words": 157,
+     "total_min": 1.0,
+     "reasons": [
+      "rescue via teacher; absent-living initiation"
+     ]
+    }
+   },
+   "total_words": 2802,
+   "total_min": 18.7
+  },
+  "B": {
+   "sections": {
+    "1": {
+     "pointer_span": "TS1.4",
+     "spans": [
+      "TS1.1",
+      "TS1.4",
+      "TS22.1"
+     ],
+     "span_words": 1499,
+     "pointer_words": 33,
+     "total_words": 1532,
+     "total_min": 10.2,
+     "reasons": [
+      "benedictory heart/visarga + TS purpose",
+      "svabhava=autonomous light, 4 upayas preview",
+      "Bliss-Brahman in body; sixfold Kaula hierarchy"
+     ]
+    },
+    "2": {
+     "pointer_span": "TS11.3",
+     "spans": [
+      "TS1.2",
+      "TS11.3"
+     ],
+     "span_words": 1070,
+     "pointer_words": 31,
+     "total_words": 1101,
+     "total_min": 7.3,
+     "reasons": [
+      "twofold ignorance; initiation needs determinate conviction",
+      "intense grades; pratibha teacher; jivanmukti"
+     ]
+    },
+    "3": {
+     "pointer_span": "TS8.5",
+     "spans": [
+      "TS1.3",
+      "TS4.7",
+      "TS8.5"
+     ],
+     "span_words": 1282,
+     "pointer_words": 45,
+     "total_words": 1327,
+     "total_min": 8.8,
+     "reasons": [
+      "ajnana=mala; self-knowledge destroys impurities",
+      "bound credo flipped to pati by contrary conviction",
+      "veil-functions define the bound soul"
+     ]
+    },
+    "4": {
+     "pointer_span": "TS2.1",
+     "spans": [
+      "TS2.1",
+      "TS3.1",
+      "TS17.1"
+     ],
+     "span_words": 920,
+     "pointer_words": 49,
+     "total_words": 969,
+     "total_min": 6.5,
+     "reasons": [
+      "anupaya: saktipata, once-hearing, no means",
+      "sambhava: reflections, no bimba, paranada",
+      "lingoddhara: crossing lineages, water disposal"
+     ]
+    },
+    "5": {
+     "pointer_span": "TS12.1",
+     "spans": [
+      "TS4.4",
+      "TS5.1",
+      "TS6.4"
+     ],
+     "span_words": 1381,
+     "pointer_words": 42,
+     "total_words": 1423,
+     "total_min": 9.5,
+     "reasons": [
+      "internalized worship definitions (yoga/homa/japa)",
+      "anava: heart-wheel dhyana, 12-flame fire/sun/moon",
+      "21,600 breaths = one day-night"
+     ]
+    },
+    "6": {
+     "pointer_span": "TS19.1",
+     "spans": [
+      "TS6.5",
+      "TS15.1",
+      "TS16.1",
+      "TS16.3",
+      "TS19.1"
+     ],
+     "span_words": 1370,
+     "pointer_words": 46,
+     "total_words": 1416,
+     "total_min": 9.4,
+     "reasons": [
+      "yuga/manvantara/Brahma-day chains (cosmic cycles)",
+      "deathbed samutkrama; brahmavidya; Sivahasta",
+      "absent/dead initiation; great net",
+      "rescue via teacher; absent-living initiation",
+      "corpse rites + sraddha + festival-death + grace axiom"
+     ]
+    }
+   },
+   "total_words": 7768,
+   "total_min": 51.8
+  }
+ }
+}
