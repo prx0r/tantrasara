@@ -5053,10 +5053,10 @@
   {
    "id": "b631",
    "section": "Tantrasāra — Chapter 12",
-   "type": "verse",
-   "voice": "verse",
+   "type": "meta",
+   "voice": "none",
    "text": "This verse is transmitted in the Devanāgarī edition used here, but not in the shorter GRETIL transcription. Its wording contrasts immersion in supreme Bhairava with external bathing, which is not the primary bath. १२ +2",
-   "directed": "[slowly] This verse is transmitted in the Devanāgarī edition used here, but not in the shorter GRETIL transcription. Its wording contrasts immersion in supreme Bhairava with external bathing, which is not the primary bath. १२ +2"
+   "directed": "This verse is transmitted in the Devanāgarī edition used here, but not in the shorter GRETIL transcription. Its wording contrasts immersion in supreme Bhairava with external bathing, which is not the primary bath. १२ +2"
   },
   {
    "id": "b632",
@@ -5638,15 +5638,15 @@
  "totals": {
   "blocks": 704,
   "words_per_voice": {
-   "none": 50,
+   "none": 85,
    "granny": 4104,
-   "verse": 202,
+   "verse": 167,
    "man": 63
   },
   "est_min": {
-   "none": 0.3,
+   "none": 0.6,
    "granny": 27.4,
-   "verse": 1.3,
+   "verse": 1.1,
    "man": 0.4
   }
  },

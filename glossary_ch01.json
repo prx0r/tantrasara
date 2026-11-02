@@ -2,7 +2,7 @@
  "anupaya": {
   "deva": "अनुपायः",
   "gloss": "the pathless path",
-  "status": "proposed",
+  "status": "confirmed",
   "cue_blocks": [
    "b92"
   ],
@@ -11,7 +11,7 @@
  "anavopaya": {
   "deva": "आणवोपायः",
   "gloss": "the way of the individual",
-  "status": "proposed",
+  "status": "confirmed",
   "cue_blocks": [
    "b98"
   ],
@@ -20,7 +20,7 @@
  "anu": {
   "deva": "अणुः",
   "gloss": "the limited individual",
-  "status": "proposed",
+  "status": "confirmed",
   "cue_blocks": [
    "b81"
   ],
@@ -38,7 +38,7 @@
  "cit-sakti": {
   "deva": "चित्शक्तिः",
   "gloss": "the power of consciousness itself",
-  "status": "proposed",
+  "status": "confirmed",
   "cue_blocks": [
    "b71"
   ],
@@ -47,7 +47,7 @@
  "diksa": {
   "deva": "दीक्षा",
   "gloss": "initiation",
-  "status": "proposed",
+  "status": "confirmed",
   "cue_blocks": [
    "b29"
   ],
@@ -56,7 +56,7 @@
  "iccha-sakti": {
   "deva": "इच्छाशक्तिः",
   "gloss": "the power of will",
-  "status": "proposed",
+  "status": "confirmed",
   "cue_blocks": [
    "b73"
   ],
@@ -65,7 +65,7 @@
  "jnana-sakti": {
   "deva": "ज्ञानशक्तिः",
   "gloss": "the power of knowing",
-  "status": "proposed",
+  "status": "confirmed",
   "cue_blocks": [
    "b74"
   ],
@@ -74,7 +74,7 @@
  "kriya-sakti": {
   "deva": "क्रियाशक्तिः",
   "gloss": "the power of action",
-  "status": "proposed",
+  "status": "confirmed",
   "cue_blocks": [
    "b75"
   ],
@@ -92,7 +92,7 @@
  "saktopaya": {
   "deva": "शाक्तोपायः",
   "gloss": "the way of Śakti",
-  "status": "proposed",
+  "status": "confirmed",
   "cue_blocks": [
    "b96"
   ],
@@ -101,7 +101,7 @@
  "sambhavopaya": {
   "deva": "शाम्भवोपायः",
   "gloss": "the way of Śiva",
-  "status": "proposed",
+  "status": "confirmed",
   "cue_blocks": [
    "b94"
   ],
@@ -110,7 +110,7 @@
  "samsara": {
   "deva": "संसारः",
   "gloss": "the transmigratory round",
-  "status": "proposed",
+  "status": "confirmed",
   "cue_blocks": [
    "b28"
   ]
@@ -118,7 +118,7 @@
  "samkoca": {
   "deva": "संकोचः",
   "gloss": "contraction",
-  "status": "proposed",
+  "status": "confirmed",
   "cue_blocks": [
    "b25"
   ],
@@ -127,7 +127,7 @@
  "svatantrya": {
   "deva": "स्वातन्त्र्यम्",
   "gloss": "absolute freedom",
-  "status": "proposed",
+  "status": "confirmed",
   "cue_blocks": [
    "b65"
   ],
@@ -136,7 +136,7 @@
  "ananda-sakti": {
   "deva": "आनन्दशक्तिः",
   "gloss": "the bliss of being utterly free and complete",
-  "status": "proposed",
+  "status": "confirmed",
   "cue_blocks": [
    "b72"
   ],

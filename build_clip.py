@@ -164,7 +164,7 @@ def main():
     else:
         _HOLD0 = hold_for.get(_first_verse['id'], _blank)
     _HOLD0.save(f'{fdir}/00000.png')
-    entries.append((0, max(0.05, flat[0][2] if flat else off)))
+    entries.append((0, max(0.05, flat[0][2] if flat else off), 'thumbnail'))
     idx = 1
     _first_verse_hold = hold_for.get(_first_verse['id'], _blank)
     _first_verse_fi = next(i for i, (b, *_r) in enumerate(flat) if b['type'] == 'verse')
@@ -200,6 +200,9 @@ def main():
         t0 = next(t for (b, k, t, sw, sub, e) in flat if b['id'] == bid and k == j)
         _cues.append((t0, _next_event(t0), key))
     _cues.sort()
+    # a newer cue always supersedes: clamp each span at the next cue start
+    _cues = [(s, min(e, _cues[i + 1][0]) if i + 1 < len(_cues) else e, k)
+             for i, (s, e, k) in enumerate(_cues)]
     print(f'term cues: {[(k, round(s)) for s, e, k in _cues]}', flush=True)
     def hold_img(b, fi):
         t = flat[fi][2]
@@ -211,6 +214,16 @@ def main():
             if s <= t < e:
                 return _term_imgs[key]
         return _blank
+    def hold_kind(b, fi):
+        t = flat[fi][2]
+        if fi < _first_verse_fi:
+            return 'thumbnail'
+        if b['type'] == 'verse':
+            return 'verse'
+        for (s, e, key) in _cues:
+            if s <= t < e:
+                return 'term:' + key
+        return 'white'
     for fi, (b, k, t_on, sw, sub, t_off) in enumerate(flat):
         im = hold_img(b, fi).copy()
         d = ImageDraw.Draw(im)
@@ -258,11 +271,22 @@ def main():
                    rest, font=fnt, fill=FADE)
         im.save(f'{fdir}/{idx:05d}.png')
         nxt = flat[fi + 1][2] if fi + 1 < len(flat) else off
-        entries.append((idx, max(0.03, nxt - t_on)))
+        entries.append((idx, max(0.03, nxt - t_on), hold_kind(b, fi)))
         idx += 1
-    # pre-render hold base once (after fonts load)
+    # coverage: seconds per hold kind (white = clean default, not content).
+    # opener frame has no kind yet — classify it as thumbnail.
+    from collections import defaultdict as _dd
+    _cov = _dd(float)
+    for (_i, du, hk) in entries:
+        _cov[hk if hk else 'thumbnail'] += du
+    _tot = sum(_cov.values()) or 1
+    print('COVERAGE ' + ' '.join(f'{k}={v:.0f}s' for k, v in sorted(_cov.items())) +
+          f' white_pct={100 * _cov.get("white", 0) / _tot:.0f}%', flush=True)
+    if _tot > 60 and _cov.get('white', 0) / _tot > 0.85:
+        raise SystemExit('COVERAGE FAIL: >85% white on a >60s clip — missing cards?')
+    # concat list (duration,idx pairs; kind is metadata only)
     lines = []
-    for i, du in entries:
+    for i, du, _hk in entries:
         lines += [f"file '{fdir}/{i:05d}.png'", f"duration {du:.4f}"]
     lines.append(f"file '{fdir}/{entries[-1][0]:05d}.png'")
     open(f'{fdir}/concat.txt', 'w').write('\n'.join(lines) + '\n')

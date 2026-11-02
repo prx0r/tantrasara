@@ -12021,8 +12021,8 @@
   {
    "id": "b1502",
    "section": "Tantrasāra — Chapter 13",
-   "type": "narration",
-   "voice": "granny",
+   "type": "meta",
+   "voice": "none",
    "text": "There is no separate concluding metrical verse in the checked Chapter 13 text. The actual ending is this prose formula, following the disciple’s qualification for mantra practice, daily worship, listening and study. gretil.sub.uni-goettingen.de",
    "directed": "There is no separate concluding metrical verse in the checked Chapter 13 text. The actual ending is this prose formula, following the disciple’s qualification for mantra practice, daily worship, listening and study. gretil.sub.uni-goettingen.de"
   },
@@ -12486,14 +12486,14 @@
  "totals": {
   "blocks": 1560,
   "words_per_voice": {
-   "none": 65,
-   "granny": 9348,
+   "none": 98,
+   "granny": 9315,
    "verse": 263,
    "man": 44
   },
   "est_min": {
-   "none": 0.4,
-   "granny": 62.3,
+   "none": 0.7,
+   "granny": 62.1,
    "verse": 1.8,
    "man": 0.3
   }

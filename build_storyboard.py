@@ -74,6 +74,10 @@ def is_beat(t):
 def is_provenance(p):
     """Source notes, not story: never voiced, always a held card or nothing."""
     s = p.strip()
+    _trans = ('transmitted', 'transcription', 'edition', 'witness', 'GRETIL',
+              'variant', 'concluding metrical')
+    if s.startswith(('This verse', 'These verses', 'There is no separate', 'No separate')):
+        return any(w in s for w in _trans)
     return (s.startswith(('Textual basis', 'Source note', 'Sources:', 'Textual sources'))
             or 'Attachment' in s
             or ('creative' in s and 'retelling' in s and 'exact words' in s))

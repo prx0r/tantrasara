@@ -128,14 +128,21 @@ def render_hold(hold, sub_text=None, glossary=None):
             if d.textlength(deva, font=F(FD, 84)) <= 1700:
                 dl.append(([deva], gloss, 84))
             else:
-                ws = deva.split()
-                tot = sum(len(w) for w in ws)
-                acc, bi = 0, 0
-                for i, w_ in enumerate(ws[:-1]):
-                    acc += len(w_) + 1
-                    if abs(acc - tot / 2) < abs(sum(len(x) + 1 for x in ws[:bi + 1]) - tot / 2):
-                        bi = i
-                dl.append(([' '.join(ws[:bi + 1]), ' '.join(ws[bi + 1:])], gloss, 64))
+                # greedy wrap at 64 (Sanskrit compounds can need 3+ lines)
+                f64 = F(FD, 64)
+                parts, cur = [], ''
+                for w_ in deva.split():
+                    t = (cur + ' ' + w_).strip()
+                    if d.textlength(t, font=f64) > 1700 and cur:
+                        parts.append(cur)
+                        cur = w_
+                    else:
+                        cur = t
+                if cur:
+                    parts.append(cur)
+                for ln in parts:
+                    assert d.textlength(ln, font=f64) <= 1780, f'verse overflow: {ln[:40]}'
+                dl.append((parts, gloss, 64))
         lh = lambda sz: int(sz * 1.35)
         total = sum(lh(sz) * len(lines) + (45 if gloss else 0) + 26 for lines, gloss, sz in dl) - 26
         y = max(90, 540 - total // 2 - 40)

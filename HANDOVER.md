@@ -2,6 +2,20 @@
 
 All 13 chapters are green and turnkey. To render, you only render.
 
+## Right now (latest first)
+
+- 2026-11-02: ch01 FULL v2 rendering with all 16 terms (diksa/cit cards
+  verified on screen). MISTAKES M1–M11 read-first. qwen_watch brief fixed.
+  run_all has preflight/verify/cleanup stages. Next agent: run_all for
+  ch02–13 (casting all green, glossaries drafted-proposed), then confirm
+  glossaries with owner for term cards, then review-pack + ears.
+- Previous full video (2 terms only) is STALE, do not link.
+- Read `MISTAKES.md` M1–M10 before touching renders or links.
+- `qwen_watch.py` brief fixed (dead = no card, subtitles don't count).
+- `build_clip.py` prints COVERAGE per build and fails >85% white.
+- Single-word Sanskrit goes to granny + term card, never the verse voice
+  (verse seat = multi-line passages only).
+
 ## State
 
 - Chapters `chapters/ch01.md`–`ch13.md` (ch06 file is `ch06-kaladhva.md`).
