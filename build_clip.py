@@ -105,48 +105,38 @@ def main():
                 flat.append((b, j, r['t_on'] + off, sw, sub, r['t_off'] + off))
             wi += len(sw)
         off += durs[gi] + (0.4 if gi < len(wavs) - 1 else 0)
-    # hold card: first verse block; long lines wrap to 2 at 64, never overflow
-    v0 = next(b for b in blocks if b['type'] == 'verse')
-    _m = ImageDraw.Draw(Image.new('RGB', (W, H), LIGHT))
-    dl = []
-    for ln in v0['text'].strip().splitlines():
-        s = ln.strip().rstrip('.')
-        if not s:
-            continue
-        deva = to_deva(s)
-        if _m.textlength(deva, font=F(FD, 84)) > 1750:
-            ws = deva.split()
-            tot = sum(len(w) for w in ws)
-            acc, bi = 0, 0
-            for i, w_ in enumerate(ws[:-1]):
-                acc += len(w_) + 1
-                if abs(acc - tot / 2) < abs(sum(len(x) + 1 for x in ws[:bi + 1]) - tot / 2):
-                    bi = i
-            dl.append((' '.join(ws[:bi + 1]), 64))
-            dl.append((' '.join(ws[bi + 1:]), 64))
-        else:
-            dl.append((deva, 84))
+    # holds: verse cards while chanting, clean white once speech starts.
+    # (owner: no title cards shown; Sanskrit clears when granny takes over)
+    import sys as _sys
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    import holds as _H
+    _holds = _H.build_holds([b for b in blocks if b['type'] != 'title' or True])
+    hold_for = {}
+    _blank = Image.new('RGB', (W, H), LIGHT)
+    for h in _holds:
+        img = _H.render_hold(h, None)
+        for b in h:
+            hold_for[b['id']] = img
+    # title blocks never shown: map them (and opener) appropriately
     fdir = '/tmp/clip_frames'
     shutil.rmtree(fdir, ignore_errors=True)
     os.makedirs(fdir)
     entries, idx = [], 0
-    HOLD_BASE = Image.new('RGB', (W, H), LIGHT)
-    d0 = ImageDraw.Draw(HOLD_BASE)
-    lh = lambda sz: int(sz * 1.35)
-    total = sum(lh(sz) + 45 for _, sz in dl) - 45
-    y0 = max(120, 540 - total // 2 - 40)
-    for deva, sz in dl:
-        fnt = F(FD, sz)
-        assert d0.textlength(deva, font=fnt) <= 1780, f'verse overflow: {deva[:40]}'
-        rom = to_iast(deva)
-        d0.text(((W - d0.textlength(deva, font=fnt)) / 2, y0), deva, font=fnt, fill=INK)
-        d0.text(((W - d0.textlength(rom, font=F(FR, 40))) / 2, y0 + lh(sz)), rom, font=F(FR, 40), fill=FADE)
-        y0 += lh(sz) + 45
-    HOLD_BASE.save(f'{fdir}/00000.png')
+    # opener: first verse hold, no subtitle (verse up from frame 0)
+    _first_verse = next(b for b in blocks if b['type'] == 'verse')
+    _HOLD0 = hold_for.get(_first_verse['id'], _blank)
+    _HOLD0.save(f'{fdir}/00000.png')
     entries.append((0, max(0.05, flat[0][2] if flat else off)))
     idx = 1
+    _first_verse_hold = hold_for.get(next(b['id'] for b in blocks if b['type'] == 'verse'), _blank)
+    def hold_img(b):
+        if b['type'] == 'verse':
+            return hold_for.get(b['id'], _blank)
+        if b['type'] == 'title' or b['id'] == 'b_opener':
+            return _first_verse_hold
+        return _blank
     for fi, (b, k, t_on, sw, sub, t_off) in enumerate(flat):
-        im = HOLD_BASE.copy()
+        im = hold_img(b).copy()
         d = ImageDraw.Draw(im)
         # subtitle karaoke, wrapped <=2 lines
         fnt = F(FE, 46)
