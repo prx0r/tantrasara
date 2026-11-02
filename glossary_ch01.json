@@ -1,0 +1,145 @@
+{
+ "anupaya": {
+  "deva": "अनुपायः",
+  "gloss": "the pathless path",
+  "status": "proposed",
+  "cue_blocks": [
+   "b92"
+  ],
+  "note": "ch2 is titled the Pathless Path; confirm"
+ },
+ "anavopaya": {
+  "deva": "आणवोपायः",
+  "gloss": "the way of the individual",
+  "status": "proposed",
+  "cue_blocks": [
+   "b98"
+  ],
+  "note": "embodied practices, breath, concentration, activity"
+ },
+ "anu": {
+  "deva": "अणुः",
+  "gloss": "the limited individual",
+  "status": "proposed",
+  "cue_blocks": [
+   "b81"
+  ],
+  "note": "verse card exists; gloss shows on mention"
+ },
+ "bauddha-ajnana": {
+  "deva": "बौद्धाज्ञानम्",
+  "gloss": "ignorance in the intellect",
+  "status": "proposed",
+  "cue_blocks": [
+   "b18"
+  ],
+  "note": "following line: understanding all over the place"
+ },
+ "cit-sakti": {
+  "deva": "चित्शक्तिः",
+  "gloss": "the power of consciousness itself",
+  "status": "proposed",
+  "cue_blocks": [
+   "b71"
+  ],
+  "note": "verbatim appositive in text"
+ },
+ "diksa": {
+  "deva": "दीक्षा",
+  "gloss": "initiation",
+  "status": "proposed",
+  "cue_blocks": [
+   "b29"
+  ],
+  "note": "verbatim appositive in text"
+ },
+ "iccha-sakti": {
+  "deva": "इच्छाशक्तिः",
+  "gloss": "the power of will",
+  "status": "proposed",
+  "cue_blocks": [
+   "b73"
+  ],
+  "note": "verbatim appositive in text"
+ },
+ "jnana-sakti": {
+  "deva": "ज्ञानशक्तिः",
+  "gloss": "the power of knowing",
+  "status": "proposed",
+  "cue_blocks": [
+   "b74"
+  ],
+  "note": "verbatim appositive in text"
+ },
+ "kriya-sakti": {
+  "deva": "क्रियाशक्तिः",
+  "gloss": "the power of action",
+  "status": "proposed",
+  "cue_blocks": [
+   "b75"
+  ],
+  "note": "verbatim appositive in text"
+ },
+ "paurusa-ajnana": {
+  "deva": "पौरुषाज्ञानम्",
+  "gloss": "contracted soul-level ignorance",
+  "status": "proposed",
+  "cue_blocks": [
+   "b21"
+  ],
+  "note": "deeper than intellectual; contraction theme"
+ },
+ "saktopaya": {
+  "deva": "शाक्तोपायः",
+  "gloss": "the way of Śakti",
+  "status": "proposed",
+  "cue_blocks": [
+   "b96"
+  ],
+  "note": "refined understanding and contemplation"
+ },
+ "sambhavopaya": {
+  "deva": "शाम्भवोपायः",
+  "gloss": "the way of Śiva",
+  "status": "proposed",
+  "cue_blocks": [
+   "b94"
+  ],
+  "note": "will, pure awareness, immediate orientation"
+ },
+ "samsara": {
+  "deva": "संसारः",
+  "gloss": "the transmigratory round",
+  "status": "proposed",
+  "cue_blocks": [
+   "b28"
+  ]
+ },
+ "samkoca": {
+  "deva": "संकोचः",
+  "gloss": "contraction",
+  "status": "proposed",
+  "cue_blocks": [
+   "b25"
+  ],
+  "note": "verse card exists; gloss shows on mention"
+ },
+ "svatantrya": {
+  "deva": "स्वातन्त्र्यम्",
+  "gloss": "absolute freedom",
+  "status": "proposed",
+  "cue_blocks": [
+   "b65"
+  ],
+  "note": "verse card exists; gloss shows on mention"
+ },
+ "ananda-sakti": {
+  "deva": "आनन्दशक्तिः",
+  "gloss": "the bliss of being utterly free and complete",
+  "status": "proposed",
+  "cue_blocks": [
+   "b72"
+  ],
+  "note": "verbatim appositive in text"
+ }
+}

@@ -11,7 +11,7 @@ Voice seats (locked 2026-11-02):
 import json, re, sys
 
 DEVA = re.compile(r'[\u0900-\u097F]')
-IAST = re.compile(r'[āīūṛṝḷḹṃḥṅñṭḍṇśṣ]')
+IAST = re.compile(r'[āīūṛṝḷḹṃḥṅñṭḍṇśṣĀĪŪṚṜḶṂḤṄÑṬḌṆŚṢ]')
 QUOTED = re.compile(r'^["\u201c\u201d]')
 
 # ASCII Sanskrit forms (no diacritics to detect). Grows deliberately per
@@ -75,7 +75,8 @@ def is_provenance(p):
     """Source notes, not story: never voiced, always a held card or nothing."""
     s = p.strip()
     return (s.startswith(('Textual basis', 'Source note', 'Sources:', 'Textual sources'))
-            or 'Attachment' in s)
+            or 'Attachment' in s
+            or ('creative' in s and 'retelling' in s and 'exact words' in s))
 
 
 def is_standalone_sanskrit(p):

@@ -885,8 +885,8 @@
   {
    "id": "b110",
    "section": "Tantrasara, written by Abhinavagupta circa a thousand years ",
-   "type": "narration",
-   "voice": "granny",
+   "type": "meta",
+   "voice": "none",
    "text": "This is a creative, slang-language retelling of Chapter 1, not Abhinavagupta’s exact words. It follows the Sanskrit text’s treatment of ignorance, liberating knowledge, prakāśa, svātantrya, the five śaktis and the four upāyas.",
    "directed": "This is a creative, slang-language retelling of Chapter 1, not Abhinavagupta’s exact words. It follows the Sanskrit text’s treatment of ignorance, liberating knowledge, prakāśa, svātantrya, the five śaktis and the four upāyas."
   }
@@ -894,13 +894,13 @@
  "totals": {
   "blocks": 111,
   "words_per_voice": {
-   "none": 1,
-   "granny": 906,
+   "none": 33,
+   "granny": 874,
    "verse": 31
   },
   "est_min": {
-   "none": 0.0,
-   "granny": 6.0,
+   "none": 0.2,
+   "granny": 5.8,
    "verse": 0.2
   }
  },
