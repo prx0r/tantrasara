@@ -126,21 +126,25 @@ def main():
     _first_verse = next(b for b in blocks if b['type'] == 'verse')
     _THUMB = os.path.expanduser('~/tantrasara/assets/thumb_ch1.png')
     if os.path.exists(_THUMB):
-        _HOLD0 = Image.open(_THUMB).convert('RGB').resize((W, H))
+        _tb = Image.open(_THUMB).convert('RGB')
+        _tb.thumbnail((1400, 730), Image.LANCZOS)
+        _HOLD0 = Image.new('RGB', (W, H), LIGHT)
+        _HOLD0.paste(_tb, ((W - _tb.width) // 2, 50))
     else:
         _HOLD0 = hold_for.get(_first_verse['id'], _blank)
     _HOLD0.save(f'{fdir}/00000.png')
     entries.append((0, max(0.05, flat[0][2] if flat else off)))
     idx = 1
     _first_verse_hold = hold_for.get(_first_verse['id'], _blank)
-    def hold_img(b):
+    _first_verse_fi = next(i for i, (b, *_r) in enumerate(flat) if b['type'] == 'verse')
+    def hold_img(b, fi):
+        if fi < _first_verse_fi:
+            return _HOLD0  # thumbnail holds from frame 0 until chanting starts
         if b['type'] == 'verse':
             return hold_for.get(b['id'], _blank)
-        if b['id'] == 'b_opener' or b['type'] == 'title':
-            return _HOLD0
         return _blank
     for fi, (b, k, t_on, sw, sub, t_off) in enumerate(flat):
-        im = hold_img(b).copy()
+        im = hold_img(b, fi).copy()
         d = ImageDraw.Draw(im)
         # subtitle karaoke, wrapped <=2 lines
         fnt = F(FE, 46)
