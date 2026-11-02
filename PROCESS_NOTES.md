@@ -29,6 +29,13 @@
    in the subtitle face — tofu otherwise), verbatim otherwise. Thumbnail
    holds until first chant; verse cards while chanting; term cards pop
    at confirmed-gloss mentions; clean white otherwise.
+7. **Verify** (`verify_clip.py`, post-render gate, runs after every
+   video): streams 1920x1080 + audio present; levels in band
+   (mean -32..-12dB, peak >-8dB); no silence over 3.0s anywhere;
+   ordered-subsequence whisper match over every narration block
+   (exact-match failed on whisper variants — subsequence with 0.35
+   floor, verse excluded); 70%+ frame variance (not frozen). Report
+   JSON beside the clip; FAIL stops the line before review-pack.
 
 ## How timings are confirmed (no trust, only checks)
 
