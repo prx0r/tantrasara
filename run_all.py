@@ -39,7 +39,7 @@ def stage_cleanup():
     print('cleanup: transient frames/tmp audio removed (R2 holds the shipped copies)', flush=True)
     return True
 CHAPTERS = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12', '13']
-STAGES = ['preflight', 'board', 'cast-check', 'render', 'mms', 'assemble', 'holds', 'video', 'review-pack', 'cleanup']
+STAGES = ['preflight', 'board', 'cast-check', 'render', 'mms', 'assemble', 'holds', 'video', 'verify', 'review-pack', 'cleanup']
 
 def sh(cmd, **kw):
     print('+', ' '.join(cmd), flush=True)
@@ -50,9 +50,9 @@ def sh(cmd, **kw):
     return r.returncode == 0
 
 def stage_board(ch):
-    sb = f'{BASE}/storyboard_ch{ch}.json'
+    sb = sb_path(ch)
     ov = f'{BASE}/overrides_ch{ch}.json'
-    cmd = ['python3', f'{BASE}/build_storyboard.py', f'{BASE}/chapters/ch{ch}.md', sb]
+    cmd = ['python3', f'{BASE}/build_storyboard.py', src_path(ch), sb]
     if ch != '06' and os.path.exists(ov):
         cmd.append(ov)
     elif ch == '06':
@@ -63,13 +63,13 @@ def stage_board(ch):
     return sh(cmd)
 
 def stage_cast_check(ch):
-    sb = json.load(open(f'{BASE}/storyboard_ch{ch}.json'))
+    sb = json.load(open(sb_path(ch)))
     errs = sb.get('validation', {}).get('errors', [])
     print(f"  | ch{ch}: {len(errs)} validation errors", flush=True)
     return not errs
 
 def stage_render(ch):
-    return sh(['python3', f'{BASE}/render_chapter.py', f'{BASE}/storyboard_ch{ch}.json'])
+    return sh(['python3', f'{BASE}/render_chapter.py', sb_path(ch)])
 
 def stage_mms(ch):
     # per-group MMS via build_clip's align path is per-clip; full-chapter
@@ -78,29 +78,40 @@ def stage_mms(ch):
     return True
 
 def stage_assemble(ch):
-    return sh(['python3', f'{BASE}/assemble_chapter.py', f'{BASE}/storyboard_ch{ch}.json',
+    return sh(['python3', f'{BASE}/assemble_chapter.py', sb_path(ch),
                f'/tmp/ch{ch}_full.mp3'])
 
 def stage_holds(ch):
-    return sh(['python3', f'{BASE}/render_holds.py', f'{BASE}/storyboard_ch{ch}.json',
+    return sh(['python3', f'{BASE}/render_holds.py', sb_path(ch),
                f'/tmp/holds_ch{ch}'])
 
 def stage_video(ch):
-    sb = json.load(open(f'{BASE}/storyboard_ch{ch}.json'))
+    sb = json.load(open(sb_path(ch)))
     bids = ','.join(b['id'] for b in sb['blocks'] if b['id'] != 'b_opener')
-    return sh(['python3', f'{BASE}/build_clip.py', f'{BASE}/storyboard_ch{ch}.json',
+    return sh(['python3', f'{BASE}/build_clip.py', sb_path(ch),
                bids, f'/tmp/ch{ch}_full.mp4'])
 
+def stage_verify(ch):
+    sb = sb_path(ch)
+    return sh(['python3', f'{BASE}/verify_clip.py', sb, f'/tmp/ch{ch}_full.mp4'])
+
 def stage_review_pack(ch):
-    sb = json.load(open(f'{BASE}/storyboard_ch{ch}.json'))
+    sb = json.load(open(sb_path(ch)))
     words = sum(len(b['text'].split()) for b in sb['blocks'])
     print(f'  | ch{ch}: {len(sb["blocks"])} blocks, ~{words} words — '
           'frames + whisper + Qwen queued for owner review', flush=True)
     return True
 
+
+def sb_path(ch):
+    return f'{BASE}/storyboard_ch6.json' if ch == '06' else sb_path(ch)
+
+def src_path(ch):
+    return f'{BASE}/chapters/ch06-kaladhva.md' if ch == '06' else src_path(ch)
+
 STAGE_FN = {'preflight': lambda ch: storage_preflight() or True, 'board': stage_board, 'cast-check': stage_cast_check, 'render': stage_render,
             'mms': stage_mms, 'assemble': stage_assemble, 'holds': stage_holds,
-            'video': stage_video, 'review-pack': stage_review_pack, 'cleanup': lambda ch: stage_cleanup()}
+            'video': stage_video, 'verify': stage_verify, 'review-pack': stage_review_pack, 'cleanup': lambda ch: stage_cleanup()}
 
 def main():
     args = sys.argv[1:]
