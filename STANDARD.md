@@ -120,7 +120,22 @@ auditions. `rclone copyto` for exact keys (`copy` to a filename creates a
 directory — known footgun). Verify with HEAD (200 + byte match) after
 every upload. Overwrites are fine; CDN settles in minutes.
 
-## 14. Git (repo `prx0r/tantrasara`, public)
+## 14. Storage (local disk is 98% full — this is load-bearing)
+
+- Renders write straight to the opencode2 volume mount (`~/vol`), never
+  local disk. R2 holds shipped copies + the MMS deps tarball
+  (`tantrasara/tools/mmsmod.tgz`, restore: download + untar to /tmp).
+- `run_all` opens with a storage preflight (local >=1G, volume >=4G free,
+  fail loud) and closes with transient cleanup (frames, f32, tmp mp3s).
+  Model caches (whisper, MMS onnx, browsers, npm) belong to other lanes —
+  never delete them.
+- Series footprint ≈ 8h audio ≈ 2.5GB wavs + 1GB mp3s on volume (11G free).
+  Frames are transient (deleted per chapter after mux).
+- Never `rclone copy file remote/path/file` (creates a directory) — use
+  `copyto` for exact keys, verify with HEAD. Never trust mount reads
+  blindly — retry or copy down on failure.
+
+## 15. Git (repo `prx0r/tantrasara`, public)
 
 Commit: chapters, scripts, storyboards, overrides, glossaries, sheets,
 docs. Never commit: audio, frames, model caches, keys, R2 credentials.
