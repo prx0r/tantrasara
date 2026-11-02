@@ -77,7 +77,11 @@ def wrap_lines(draw, text, font, maxw=1750):
     return lines
 
 
-def render_hold(hold, sub_text=None):
+def render_hold(hold, sub_text=None, glossary=None):
+    """Render one hold card. glossary: {folded_term: {'gloss': ...}} —
+    matched terms get their English gloss in grey beneath the Devanagari.
+    (Contact sheets show proposed glosses for review; video gates on
+    confirmed status separately.)"""
     """Render one hold card. sub_text: optional single-line subtitle (ink)."""
     first = hold[0]
     im = Image.new('RGB', (W, H), LIGHT)
@@ -103,7 +107,9 @@ def render_hold(hold, sub_text=None):
             while d.textlength(t, font=fnt) > 1750 and fnt.size > 40:
                 fnt = F(FE, fnt.size - 4)
             ct(d, 430, t, fnt)
-    else:  # verse: Deva lines only, wrapped to <=2 at >=64
+    else:  # verse: Deva lines + English gloss in grey (no romanisation)
+        import unicodedata
+        fold = lambda s: ''.join(c for c in unicodedata.normalize('NFD', s.lower()) if unicodedata.category(c) != 'Mn')
         raw = []
         for b in hold:
             for ln in b['text'].strip().splitlines():
@@ -116,8 +122,11 @@ def render_hold(hold, sub_text=None):
                 deva = to_deva(s)
             except Exception:
                 deva = s
+            gloss = (glossary or {}).get(fold(s.strip('.,!?')), '')
+            if isinstance(gloss, dict):
+                gloss = gloss.get('gloss', '')
             if d.textlength(deva, font=F(FD, 84)) <= 1700:
-                dl.append(([deva], 84))
+                dl.append(([deva], gloss, 84))
             else:
                 ws = deva.split()
                 tot = sum(len(w) for w in ws)
@@ -126,16 +135,19 @@ def render_hold(hold, sub_text=None):
                     acc += len(w_) + 1
                     if abs(acc - tot / 2) < abs(sum(len(x) + 1 for x in ws[:bi + 1]) - tot / 2):
                         bi = i
-                dl.append(([' '.join(ws[:bi + 1]), ' '.join(ws[bi + 1:])], 64))
+                dl.append(([' '.join(ws[:bi + 1]), ' '.join(ws[bi + 1:])], gloss, 64))
         lh = lambda sz: int(sz * 1.35)
-        total = sum(lh(sz) * len(lines) + 26 for lines, sz in dl) - 26
+        total = sum(lh(sz) * len(lines) + (45 if gloss else 0) + 26 for lines, gloss, sz in dl) - 26
         y = max(90, 540 - total // 2 - 40)
-        for lines, sz in dl:
+        for lines, gloss, sz in dl:
             fnt = F(FD, sz)
             for ln in lines:
                 assert d.textlength(ln, font=fnt) <= 1780, f'verse overflow: {ln[:40]}'
                 d.text(((W - d.textlength(ln, font=fnt)) / 2, y), ln, font=fnt, fill=INK)
                 y += lh(sz)
+            if gloss:
+                ct(d, y, gloss, F(FR, 40), FADE)
+                y += 45
             y += 26
     if sub_text:
         fnt = F(FE, 46)

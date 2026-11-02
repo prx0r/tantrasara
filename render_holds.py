@@ -13,6 +13,16 @@ def main():
     sb = json.load(open(sys.argv[1], encoding='utf-8'))
     out = sys.argv[2]
     os.makedirs(out, exist_ok=True)
+    # chapter glossary for term glosses (review mode: proposed shown)
+    import glob as _g, re as _re
+    gl, m = {}, _re.search(r'ch(\d+)', sys.argv[1])
+    if m:
+        gp = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                           f'glossary_ch{m.group(1)}.json')
+        if os.path.exists(gp):
+            raw = json.load(open(gp, encoding='utf-8'))
+            gl = {k: (v.get('gloss', '') if isinstance(v, dict) else v)
+                  for k, v in raw.items()}
     groups = H.build_holds(sb['blocks'])
     flat = sb['blocks']
     idx = {b['id']: i for i, b in enumerate(flat)}
@@ -24,7 +34,7 @@ def main():
             if b.get('type') in ('narration', 'dialogue') and b.get('voice') in ('granny', 'man'):
                 sub = b['text'][:140]
                 break
-        im = H.render_hold(h, sub if sub else None)
+        im = H.render_hold(h, sub if sub else None, gl)
         fn = f'{out}/hold{hi:03d}.png'
         im.save(fn)
         files.append(fn)
