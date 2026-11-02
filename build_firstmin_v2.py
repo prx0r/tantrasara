@@ -20,6 +20,17 @@ def F(p, s):
 def ct(d, y, s, font, fill=INK):
     d.text(((W - d.textlength(s, font=font)) / 2, y), s, font=font, fill=fill)
 
+
+def split_scripts(t):
+    """Devanagari tokens vs roman tokens — never mix scripts on one line."""
+    deva, roman = [], []
+    for w in t.strip().split():
+        c = w.strip('—.,!?;:')
+        if not c:
+            continue
+        (deva if any('\u0900' <= ch <= '\u097f' for ch in c) else roman).append(w.strip('—.,!?;:'))
+    return ' '.join(deva), ' '.join(roman)
+
 sb = json.load(open(os.path.expanduser('~/tantrasara/storyboard_ch6.json'), encoding='utf-8'))
 byid = {b['id']: b for b in sb['blocks']}
 T = '/tmp/asm1'
@@ -87,17 +98,20 @@ def main(out):
         ['ffprobe', '-v', 'error', '-show_entries', 'format=duration',
          '-of', 'default=nw=1:nk=1', mix],
         capture_output=True, text=True).stdout.strip())
+    # ONE held card for the whole minute: verse + roman + gloss, subtitles flow.
+    # (opener gloss "the Path of Time" from the owner's own chapter title)
+    _deva, _roman = split_scripts(byid['b1']['text'])
+    HOLD = Image.new('RGB', (W, H), LIGHT)
+    _hd = ImageDraw.Draw(HOLD)
+    ct(_hd, 400, _deva, F(FD, 84))
+    ct(_hd, 400 + 113, _roman, F(FR, 40), FADE)
+    ct(_hd, 400 + 113 + 90, 'the Path of Time', F(FE, 44), FADE)
     # opener bell hold (verse up from frame 0: right into it)
     first_on = flat[0][2] if flat else AUDIO_END
-    im = Image.new('RGB', (W, H), LIGHT)
-    d = ImageDraw.Draw(im)
-    ct(d, 420, 'षष्ठमाह्निकम्', F(FD, 84))
-    ct(d, 420 + 113, 'Kālādhvaprakāśanam', F(FR, 40), FADE)
-    im.save(f'{fdir}/00000.png')
+    HOLD.save(f'{fdir}/00000.png')
     entries, idx = [(0, max(0.05, first_on))], 1
     for fi, (b, k, t_on) in enumerate(flat):
         t_off = flat[fi + 1][2] if fi + 1 < len(flat) else AUDIO_END
-        # timed rows for this block + display words (must match 1:1)
         rows = None
         for (bb, s, e, wws) in alloc:
             if bb is not None and bb['id'] == b['id']:
@@ -106,17 +120,9 @@ def main(out):
         sw = [w for w in b['text'].strip().split() if re.search(r'\w', w, re.U)]
         if len(sw) != len(rows):
             sw = [r[0] for r in rows]  # fall back to timed tokens
-        # main hold
-        im = Image.new('RGB', (W, H), LIGHT)
+        # subtitle karaoke on the single hold
+        im = HOLD.copy()
         d = ImageDraw.Draw(im)
-        if b['type'] == 'verse':
-            deva = b['text'].strip().rstrip('.')
-            ct(d, 420, deva, F(FD, 84))
-            ct(d, 420 + 113, b['text'].strip(), F(FR, 40), FADE)
-        else:
-            ct(d, 420, 'षष्ठमाह्निकम्', F(FD, 84))
-            ct(d, 420 + 113, 'Kālādhvaprakāśanam', F(FR, 40), FADE)
-        # subtitle karaoke, wrapped to <=2 lines
         fnt = F(FE, 46)
         lines, cur = [], ''
         for w_ in sw:
