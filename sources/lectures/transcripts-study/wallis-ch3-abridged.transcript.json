@@ -1,0 +1,977 @@
+{
+ "source": "wallis_07.mp3",
+ "duration": 2133.159125,
+ "engine": "faster-whisper tiny (study-only; small.en at canon time)",
+ "sentences": [
+  {
+   "t": 3.12,
+   "end": 11.12,
+   "text": "Tantra illuminated, with Dr. Christopher Wallace, is a journey through the depths of the human experience."
+  },
+  {
+   "t": 11.12,
+   "end": 18.5,
+   "text": "As viewed through the lens of the tradition called, Nondual Shiva Tantra,"
+  },
+  {
+   "t": 18.5,
+   "end": 24.5,
+   "text": "this multi-format podcast delves into the fascinating world of classical Tantra"
+  },
+  {
+   "t": 24.5,
+   "end": 30.5,
+   "text": "and its intersections with philosophy, neuroscience, psychology,"
+  },
+  {
+   "t": 30.5,
+   "end": 34.5,
+   "text": "human development and the broader world of spirituality."
+  },
+  {
+   "t": 69.33,
+   "end": 83.34,
+   "text": "I've already shared with you my translations of chapter one and two of this incredible work."
+  },
+  {
+   "t": 83.34,
+   "end": 93.34,
+   "text": "And if you haven't heard chapter one, at least go back and hear that, which is episode four of this podcast."
+  },
+  {
+   "t": 93.34,
+   "end": 102.82,
+   "text": "This time I'll be sharing an abridgement of my translation, because chapter three of the Tantra Sada"
+  },
+  {
+   "t": 102.82,
+   "end": 110.82,
+   "text": "has a detailed disposition on linguistic mysticism."
+  },
+  {
+   "t": 110.82,
+   "end": 116.82,
+   "text": "As I prefer to call it, there being no official name for this doctrine,"
+  },
+  {
+   "t": 116.82,
+   "end": 124.82,
+   "text": "whereby the fundamental structure and nature of reality is analyzed in terms of the"
+  },
+  {
+   "t": 124.82,
+   "end": 128.82,
+   "text": "letters or rather phonemes of the Sanskrit alphabet."
+  },
+  {
+   "t": 128.82,
+   "end": 142.82,
+   "text": "So this discussion is not at all comprehensible or clear for somebody who hasn't learned a little bit of Sanskrit,"
+  },
+  {
+   "t": 142.82,
+   "end": 152.82,
+   "text": "whereas it is for someone who has, even just a few weeks of university-level Sanskrit"
+  },
+  {
+   "t": 152.82,
+   "end": 160.82,
+   "text": "would be enough to understand what a bit of a group that is saying, but since most people don't have that,"
+  },
+  {
+   "t": 160.82,
+   "end": 168.64,
+   "text": "I'm omitting that part of the chapter, but you can read it on my blog site."
+  },
+  {
+   "t": 168.64,
+   "end": 178.64,
+   "text": "Chapter three is a wonderful explanation of how spiritual realization, also known as enlightenment,"
+  },
+  {
+   "t": 178.64,
+   "end": 188.64,
+   "text": "or awakening, or liberation, can unfold without any need for conceptual understanding,"
+  },
+  {
+   "t": 188.64,
+   "end": 196.64,
+   "text": "but rather through intuitive insight, which remains primarily non-conceptual."
+  },
+  {
+   "t": 196.64,
+   "end": 202.64,
+   "text": "Of course, to talk about this, a bit of a group that has to use words,"
+  },
+  {
+   "t": 202.64,
+   "end": 212.64,
+   "text": "and so what he is referring to might sound conceptual, but please understand that he is using words"
+  },
+  {
+   "t": 212.64,
+   "end": 222.64,
+   "text": "here to point beyond words to the non-conceptual insights that blossom when one cultivates awareness"
+  },
+  {
+   "t": 222.64,
+   "end": 232.64,
+   "text": "of one's innate power of autonomy and the power of will subsequent to one's initial awakening,"
+  },
+  {
+   "t": 232.64,
+   "end": 238.64,
+   "text": "which is certainly a prerequisite for the process that he describes here."
+  },
+  {
+   "t": 238.64,
+   "end": 250.82,
+   "text": "So without further ado, I bring you tantrasada by a bit of a group that the third day."
+  },
+  {
+   "t": 250.82,
+   "end": 261.97,
+   "text": "We have taught that the Divine Principle is the Light of Consciousness."
+  },
+  {
+   "t": 261.97,
+   "end": 275.63,
+   "text": "Shiva Tupla is precaution. If one is not able to enter into its undivided wholeness without any method,"
+  },
+  {
+   "t": 275.63,
+   "end": 285.63,
+   "text": "then simply focusing on its most fundamental potency, the power of autonomy."
+  },
+  {
+   "t": 285.63,
+   "end": 293.63,
+   "text": "One may experience immersion into the absolute, without any need for conceptualization."
+  },
+  {
+   "t": 293.63,
+   "end": 309.98,
+   "text": "This is the teaching for such a one. This entire world is simply a reflection in the space of awareness."
+  },
+  {
+   "t": 309.98,
+   "end": 325.02,
+   "text": "Alternate translation of that last line. This whole, all beings, things and states of mind"
+  },
+  {
+   "t": 325.02,
+   "end": 331.02,
+   "text": "is simply a reflection in the sky of consciousness."
+  },
+  {
+   "t": 331.02,
+   "end": 344.78,
+   "text": "We use this metaphor because this world we experience possesses the characteristics of a reflection."
+  },
+  {
+   "t": 347.02,
+   "end": 359.3,
+   "text": "For a reflection is that which being unable to appear on its own, manifests only by virtue of being intermingled with another."
+  },
+  {
+   "t": 359.3,
+   "end": 375.68,
+   "text": "Like the appearance of one's face in a mirror, like the flavor in saliva, like smell in the nose, like the sensation of sexual union in the organs of pleasure,"
+  },
+  {
+   "t": 375.68,
+   "end": 388.7,
+   "text": "like feeling a spear in one's organs of internal sensation, or like an echo in the sky, translators note."
+  },
+  {
+   "t": 388.7,
+   "end": 401.7,
+   "text": "The idea here concerns sympathetic experiences. The seeming flavor in one's saliva when merely seeing or remembering delicious food one has eaten before."
+  },
+  {
+   "t": 402.7,
+   "end": 408.7,
+   "text": "The painful contraction in one's own innards when seeing someone impaled,"
+  },
+  {
+   "t": 408.7,
+   "end": 418.7,
+   "text": "the feeling of pleasure in one's genital area when remembering sexual union with one's beloved and so on."
+  },
+  {
+   "t": 418.7,
+   "end": 429.98,
+   "text": "All of these are examples of reflection, and a bit of a group that wants to show that the principle of reflection"
+  },
+  {
+   "t": 429.98,
+   "end": 441.17,
+   "text": "obtains not only in the visual arena, back to a bit of a group's words."
+  },
+  {
+   "t": 441.17,
+   "end": 452.37,
+   "text": "For example, the flavor in this case is not primary, but rather is like a reflection."
+  },
+  {
+   "t": 452.37,
+   "end": 459.37,
+   "text": "As is obvious by its lack of an observable effect, such as the soothing of an ailment."
+  },
+  {
+   "t": 463.02,
+   "end": 473.02,
+   "text": "Neither are sympathetic smell or sensation, like their primary causes, because they fail to catalyze a series of effects."
+  },
+  {
+   "t": 473.02,
+   "end": 480.02,
+   "text": "Being disconnected from the substances that they are qualities of, the latter not actually being present."
+  },
+  {
+   "t": 480.02,
+   "end": 487.26,
+   "text": "But it cannot be said that these sympathetic reflections are unreal,"
+  },
+  {
+   "t": 487.26,
+   "end": 496.26,
+   "text": "because we see shuttering of the body, for example, in the case of a smell that triggers a somscata,"
+  },
+  {
+   "t": 496.26,
+   "end": 504.66,
+   "text": "and ejaculation in the case of an intensely pleasurable sexual memory."
+  },
+  {
+   "t": 504.66,
+   "end": 513.29,
+   "text": "And so on, sound too is not the primary thing."
+  },
+  {
+   "t": 513.29,
+   "end": 523.07,
+   "text": "Because it is only someone who speaks that hears an echo returning as it were."
+  },
+  {
+   "t": 523.07,
+   "end": 537.07,
+   "text": "Thus, just as each of these sense experiences manifests as a reflection, in the same way the universe manifests as a reflection within the divine light of consciousness."
+  },
+  {
+   "t": 537.07,
+   "end": 544.18,
+   "text": "Here an objection might arise to it."
+  },
+  {
+   "t": 544.18,
+   "end": 553.09,
+   "text": "What would be the original that is reflected in the space of awareness?"
+  },
+  {
+   "t": 553.09,
+   "end": 557.75,
+   "text": "There is no such thing whatsoever."
+  },
+  {
+   "t": 557.75,
+   "end": 567.28,
+   "text": "What, you mean the reflection has no cause, then your question concerns a cause,"
+  },
+  {
+   "t": 567.28,
+   "end": 572.53,
+   "text": "and what's the point of using the word original?"
+  },
+  {
+   "t": 572.53,
+   "end": 583.53,
+   "text": "The cause is simply the power of divine consciousness, which will be explained as another synonym for its autonomy,"
+  },
+  {
+   "t": 583.53,
+   "end": 592.88,
+   "text": "because he holds everything within himself as a reflection."
+  },
+  {
+   "t": 592.88,
+   "end": 599.88,
+   "text": "The Blessed Lord, who is nothing but consciousness, is everything."
+  },
+  {
+   "t": 602.38,
+   "end": 615.13,
+   "text": "Indeed, the universe consisting of his consciousness is the foundation for the manifestation of conscious agency."
+  },
+  {
+   "t": 615.13,
+   "end": 626.3,
+   "text": "Surely, the objectioners says, that very universe within consciousness appears in opposition to it."
+  },
+  {
+   "t": 626.3,
+   "end": 640.15,
+   "text": "It is in just this sense that it holds a reflection, and in so far as the very nature of the highest divinity is the fact that"
+  },
+  {
+   "t": 640.15,
+   "end": 645.15,
+   "text": "that it consists of the universe."
+  },
+  {
+   "t": 645.15,
+   "end": 650.15,
+   "text": "The universe is not, and never could be untouched."
+  },
+  {
+   "t": 650.15,
+   "end": 659.9,
+   "text": "The highest divinity is not, and could not be unaware of the universe."
+  },
+  {
+   "t": 659.9,
+   "end": 671.63,
+   "text": "This is so because it is impossible that one whose essential nature is awareness could be unaware of that which he is."
+  },
+  {
+   "t": 671.63,
+   "end": 677.63,
+   "text": "For if he were unaware of that which he is, he would in fact be insentient."
+  },
+  {
+   "t": 677.63,
+   "end": 685.58,
+   "text": "And this self-awareness is not like conventional thought at all."
+  },
+  {
+   "t": 685.58,
+   "end": 694.58,
+   "text": "But rather is taught in the scriptures as being filled with the supreme resonance."
+  },
+  {
+   "t": 694.58,
+   "end": 703.98,
+   "text": "Paranada, inseparable from one's essence nature as pure awareness."
+  },
+  {
+   "t": 703.98,
+   "end": 716.66,
+   "text": "And in so far as the array of powers of the highest divinity establishes and orders the universe,"
+  },
+  {
+   "t": 716.66,
+   "end": 730.21,
+   "text": "he is aware of himself as that array of powers, or it is aware of itself."
+  },
+  {
+   "t": 730.21,
+   "end": 735.21,
+   "text": "He is going to attribute significance to the pronouns here."
+  },
+  {
+   "t": 735.21,
+   "end": 741.22,
+   "text": "That is our Lord."
+  },
+  {
+   "t": 741.22,
+   "end": 747.22,
+   "text": "The absolute itself in the form of Kuleishwara."
+  },
+  {
+   "t": 747.22,
+   "end": 760.22,
+   "text": "The Lord of the family of powers that is to say the overarching consciousness which cohes all those powers."
+  },
+  {
+   "t": 760.22,
+   "end": 769.5,
+   "text": "And that Lord has only one consort, which we call the familial power of a mission."
+  },
+  {
+   "t": 769.5,
+   "end": 789.82,
+   "text": "Kaleki, the Saragashakni, and this is an early alternative form for the word Kundalini."
+  },
+  {
+   "t": 789.82,
+   "end": 801.82,
+   "text": "This very power of a mission, the Saragana, is of three types that pertaining to the individual,"
+  },
+  {
+   "t": 801.82,
+   "end": 806.82,
+   "text": "one of them, which is where pose of the heart mind."
+  },
+  {
+   "t": 806.82,
+   "end": 823.16,
+   "text": "Chittavishranth, second that pertaining to power, Shakt, which constitutes a awakening of the heart mind."
+  },
+  {
+   "t": 823.16,
+   "end": 841.41,
+   "text": "Chittavishamoda, and third that pertaining to Shiva, Shambhava, which constitutes dissolution of the heart mind."
+  },
+  {
+   "t": 841.41,
+   "end": 858.98,
+   "text": "Chittav, Kaleki, thus emission in these three aspects is the singular power of the blessed Lord in the birthing of the universe."
+  },
+  {
+   "t": 858.98,
+   "end": 873.53,
+   "text": "How many when awareness is undivided?"
+  },
+  {
+   "t": 873.53,
+   "end": 885.42,
+   "text": "Then there is only one Bhagavan, the blessed Lord."
+  },
+  {
+   "t": 885.42,
+   "end": 892.42,
+   "text": "When awareness is divided, in terms of seed and womb."
+  },
+  {
+   "t": 892.42,
+   "end": 905.93,
+   "text": "Then there are two Shakti, power, and the one who holds her."
+  },
+  {
+   "t": 905.93,
+   "end": 914.93,
+   "text": "When perceiving in terms of the eight groups of phonemes presided over by the eight mother goddesses,"
+  },
+  {
+   "t": 914.93,
+   "end": 924.74,
+   "text": "there are nine classes in total, with Shiva as the ninth the Lord of the Circle."
+  },
+  {
+   "t": 924.74,
+   "end": 932.74,
+   "text": "When one perceives predominantly in terms of each individual phonemes of the Sanskrit language,"
+  },
+  {
+   "t": 932.74,
+   "end": 935.74,
+   "text": "it has a fiftyfold nature."
+  },
+  {
+   "t": 935.74,
+   "end": 954.78,
+   "text": "These phonemes, despite being meek, that is the realm of plurality, become potent when viewed as almost like bodies that can be resuscitated"
+  },
+  {
+   "t": 954.78,
+   "end": 964.78,
+   "text": "with the pure forms of awareness previously taught, that are like the life breath to those inert bodies."
+  },
+  {
+   "t": 964.78,
+   "end": 974.31,
+   "text": "Then in the form of enlivened mantras, they bestow both enjoyment and liberation."
+  },
+  {
+   "t": 974.31,
+   "end": 989.29,
+   "text": "Thus it is that a person, non-conceptually seeing him or herself as nothing but the ground in which all these reflections abide,"
+  },
+  {
+   "t": 989.29,
+   "end": 1000.05,
+   "text": "and therefore that in which the diversity of all the various principles, beings and worlds are reflected."
+  },
+  {
+   "t": 1000.05,
+   "end": 1008.94,
+   "text": "Attains embodied liberation through the divine immersion."
+  },
+  {
+   "t": 1008.94,
+   "end": 1011.94,
+   "text": "Shambhava-sama-vasya."
+  },
+  {
+   "t": 1011.94,
+   "end": 1028.32,
+   "text": "Here too, as before, the methodless method described in chapter two."
+  },
+  {
+   "t": 1028.32,
+   "end": 1039.32,
+   "text": "There is no necessity whatsoever to practice mantras and external rituals of any kind."
+  },
+  {
+   "t": 1039.32,
+   "end": 1061.66,
+   "text": "Some reverse, the entire world shines here within the self, just as a complex creation appears in a single mirror."
+  },
+  {
+   "t": 1061.66,
+   "end": 1076.7,
+   "text": "However, awareness articulates the universe as if other than itself, in accordance with the flavors of its own self reflection."
+  },
+  {
+   "t": 1076.7,
+   "end": 1090.0,
+   "text": "No mirror can do that, and here's that verse in Sanskrit."
+  },
+  {
+   "t": 1116.3,
+   "end": 1137.48,
+   "text": "In the essence of the tantras composed by the revered master Abhinavagupta, this chapter entitled,"
+  },
+  {
+   "t": 1137.48,
+   "end": 1153.44,
+   "text": "light on the divine means the Shambhava-vapaya."
+  },
+  {
+   "t": 1153.44,
+   "end": 1166.44,
+   "text": "Music for this episode composed and recorded by Aegeman Sunli, find his incredible tracks on soundcloud and Spotify."
+  },
+  {
+   "t": 1166.44,
+   "end": 1176.85,
+   "text": "And for those who find the music distracting, here is the same episode again, but without the music."
+  },
+  {
+   "t": 1179.06,
+   "end": 1186.06,
+   "text": "We have taught that the divine principle is the light of consciousness."
+  },
+  {
+   "t": 1186.06,
+   "end": 1189.06,
+   "text": "Shivatatwa is prakarsha."
+  },
+  {
+   "t": 1189.06,
+   "end": 1201.69,
+   "text": "If one is not able to enter into its undivided wholeness without any method, then, simple."
+  },
+  {
+   "t": 1200.0,
+   "end": 1210.16,
+   "text": "focusing on its most fundamental potency, the power of autonomy. One may experience immersion"
+  },
+  {
+   "t": 1210.16,
+   "end": 1221.22,
+   "text": "into the absolute, without any need for conceptualization. This is the teaching for such a one."
+  },
+  {
+   "t": 1225.07,
+   "end": 1239.1,
+   "text": "This entire world is simply a reflection in the space of awareness, alternate translation of"
+  },
+  {
+   "t": 1239.1,
+   "end": 1252.05,
+   "text": "that last line. This whole all-beings things and states of mind is simply a reflection in the sky of"
+  },
+  {
+   "t": 1252.05,
+   "end": 1265.95,
+   "text": "consciousness. We use this metaphor because this world we experience possesses the characteristics"
+  },
+  {
+   "t": 1265.95,
+   "end": 1275.87,
+   "text": "of a reflection. For a reflection is that which being unable to appear on its own manifests"
+  },
+  {
+   "t": 1275.87,
+   "end": 1284.59,
+   "text": "only by virtue of being intermingled with another. Like the appearance of one's face in a mirror,"
+  },
+  {
+   "t": 1286.03,
+   "end": 1294.83,
+   "text": "like the flavor in saliva, like smell in the nose, like the sensation of sexual union in the organs"
+  },
+  {
+   "t": 1294.83,
+   "end": 1306.5,
+   "text": "of pleasure, like feeling a spear in one's organs of internal sensation or like an echo in the sky."
+  },
+  {
+   "t": 1309.2,
+   "end": 1319.28,
+   "text": "Translators note. The idea here concerns sympathetic experiences. The seeming flavor in one's saliva"
+  },
+  {
+   "t": 1319.28,
+   "end": 1326.8,
+   "text": "when merely seeing or remembering delicious food one has eaten before. The painful contraction in"
+  },
+  {
+   "t": 1326.8,
+   "end": 1335.12,
+   "text": "one's own innards when seeing someone impaled the feeling of pleasure in one's genital area"
+  },
+  {
+   "t": 1335.12,
+   "end": 1346.08,
+   "text": "when remembering sexual union with one's beloved and so on. All of these are examples of reflection"
+  },
+  {
+   "t": 1347.6,
+   "end": 1351.92,
+   "text": "and a benefit of a group that wants to show that the principle of reflection"
+  },
+  {
+   "t": 1352.88,
+   "end": 1363.15,
+   "text": "obtains not only in the visual arena and now back to a bit of a group that's words."
+  },
+  {
+   "t": 1367.2,
+   "end": 1376.48,
+   "text": "For example, the flavor in this case is not primary, but rather is like a reflection. As is obvious"
+  },
+  {
+   "t": 1376.48,
+   "end": 1386.51,
+   "text": "by its lack of an observable effect such as the soothing of an ailment. Neither are sympathetic"
+  },
+  {
+   "t": 1386.51,
+   "end": 1393.71,
+   "text": "smell or sensation like their primary causes because they fail to catalyze a series of effects."
+  },
+  {
+   "t": 1395.15,
+   "end": 1401.71,
+   "text": "Being disconnected from the substances that their qualities of, the latter not actually being present,"
+  },
+  {
+   "t": 1405.66,
+   "end": 1410.94,
+   "text": "but it cannot be said that these sympathetic reflections are unreal because we see"
+  },
+  {
+   "t": 1411.9,
+   "end": 1422.24,
+   "text": "shuddering of the body. For example, in the case of a smell that triggers a somescata and ejaculation"
+  },
+  {
+   "t": 1423.36,
+   "end": 1434.45,
+   "text": "in the case of an intensely pleasurable sexual memory. And so on, sound too is not the primary thing"
+  },
+  {
+   "t": 1435.73,
+   "end": 1441.81,
+   "text": "because it is only someone who speaks that hears an echo returning as it were."
+  },
+  {
+   "t": 1445.28,
+   "end": 1452.8,
+   "text": "Thus, just as each of these sense experiences manifests as a reflection, in the same way the"
+  },
+  {
+   "t": 1452.8,
+   "end": 1463.89,
+   "text": "universe manifests as a reflection within the divine light of consciousness. Here an objection might"
+  },
+  {
+   "t": 1463.89,
+   "end": 1475.1,
+   "text": "arise to it. What would be the original that is reflected in the space of awareness? Well,"
+  },
+  {
+   "t": 1475.1,
+   "end": 1486.58,
+   "text": "there is no such thing whatsoever. What? You mean the reflection has no cause? Oh, then your"
+  },
+  {
+   "t": 1486.58,
+   "end": 1496.42,
+   "text": "question concerns a cause. And what's the point of using the word original? The cause is simply the"
+  },
+  {
+   "t": 1496.42,
+   "end": 1505.78,
+   "text": "power of the divine consciousness, which will be explained as another synonym for its autonomy."
+  },
+  {
+   "t": 1510.66,
+   "end": 1518.74,
+   "text": "Because he holds everything within himself as a reflection. The blessed lord, who is nothing but"
+  },
+  {
+   "t": 1518.74,
+   "end": 1529.47,
+   "text": "consciousness, is everything. Indeed, the universe consisting of his consciousness is the foundation"
+  },
+  {
+   "t": 1529.47,
+   "end": 1541.31,
+   "text": "for the manifestation of conscious agency. Surely, the objectioner says, that very universe within"
+  },
+  {
+   "t": 1541.39,
+   "end": 1555.57,
+   "text": "consciousness appears in opposition to it. It is in just this sense that it holds a reflection."
+  },
+  {
+   "t": 1558.02,
+   "end": 1565.7,
+   "text": "And in so far as the very nature of the highest divinity is the fact that it consists of the universe."
+  },
+  {
+   "t": 1566.02,
+   "end": 1577.92,
+   "text": "The universe is not and never could be untouched. The highest divinity is not and could"
+  },
+  {
+   "t": 1577.92,
+   "end": 1587.78,
+   "text": "not be unaware of the universe. This is so because it is impossible that one who's essential"
+  },
+  {
+   "t": 1587.78,
+   "end": 1596.74,
+   "text": "nature is awareness could be unaware of that which he is. For if he were unaware of that which he is,"
+  },
+  {
+   "t": 1596.74,
+   "end": 1607.62,
+   "text": "he would in fact be insentient. And this self-awareness is not like conventional thought at all."
+  },
+  {
+   "t": 1608.66,
+   "end": 1618.42,
+   "text": "But rather is taught in the scriptures as being filled with the supreme resonance. Paranada,"
+  },
+  {
+   "t": 1620.42,
+   "end": 1632.82,
+   "text": "inseparable from one's essence nature as pure awareness. And in so far as the array of powers of"
+  },
+  {
+   "t": 1632.82,
+   "end": 1643.86,
+   "text": "the highest divinity establishes and orders the universe, he is aware of himself as that array of"
+  },
+  {
+   "t": 1643.86,
+   "end": 1662.21,
+   "text": "powers or it is aware of itself. Please don't attribute significance to the pronouns here. That is our"
+  },
+  {
+   "t": 1662.29,
+   "end": 1672.29,
+   "text": "Lord. The absolute itself in the form of Kulishwara, the Lord of the family of powers"
+  },
+  {
+   "t": 1673.49,
+   "end": 1681.73,
+   "text": "that is to say the overarching consciousness which co-hears all those powers."
+  },
+  {
+   "t": 1683.81,
+   "end": 1691.25,
+   "text": "And that Lord has only one consort which we call the familial power of a mission."
+  },
+  {
+   "t": 1693.17,
+   "end": 1704.37,
+   "text": "Kauliki, the Saragha Shakti. And this is an early alternative form for the word Kundalini."
+  },
+  {
+   "t": 1711.87,
+   "end": 1722.99,
+   "text": "This very power of a mission, the Saragha, is of three types that pertaining to the individual"
+  },
+  {
+   "t": 1722.99,
+   "end": 1738.26,
+   "text": "Anava, which is repose of the heart-mind. Chittavishranti, second that pertaining to power,"
+  },
+  {
+   "t": 1739.3,
+   "end": 1754.06,
+   "text": "Shakta, which constitutes awakening of the heart-mind, Chittasambodha. And third that pertaining to Shiva,"
+  },
+  {
+   "t": 1754.38,
+   "end": 1765.01,
+   "text": "Shambhava, which constitutes dissolution of the heart-mind, Chittavishranti,"
+  },
+  {
+   "t": 1770.02,
+   "end": 1779.62,
+   "text": "thus emission in these three aspects is the singular power of the blessed Lord in the birthing"
+  },
+  {
+   "t": 1779.62,
+   "end": 1798.26,
+   "text": "of the universe. How many is it? When awareness is undivided, then there is only one."
+  },
+  {
+   "t": 1801.26,
+   "end": 1816.04,
+   "text": "Bhagavan, the Blessed Lord, when awareness is divided in terms of seed and womb, then there"
+  },
+  {
+   "t": 1816.04,
+   "end": 1828.47,
+   "text": "are two, Shakti, power, and the one who holds her."
+  },
+  {
+   "t": 1828.47,
+   "end": 1837.49,
+   "text": "When perceiving in terms of the eight groups of phonemes presided over by the eight mother goddesses,"
+  },
+  {
+   "t": 1837.49,
+   "end": 1847.07,
+   "text": "there are nine classes in total, with Shiva as the ninth, the Lord of the Circle."
+  },
+  {
+   "t": 1847.07,
+   "end": 1853.93,
+   "text": "When one perceives predominantly in terms of each individual phonemes of the Sanskrit"
+  },
+  {
+   "t": 1853.93,
+   "end": 1862.54,
+   "text": "language, it has a fifty-fold nature."
+  },
+  {
+   "t": 1862.54,
+   "end": 1872.3,
+   "text": "These phonemes, despite being myek, that is, of the realm of plurality, become potent"
+  },
+  {
+   "t": 1872.3,
+   "end": 1880.14,
+   "text": "when viewed as almost like bodies that can be resuscitated with the pure forms of awareness"
+  },
+  {
+   "t": 1880.14,
+   "end": 1889.38,
+   "text": "previously taught, that are like the life breath to those inert bodies."
+  },
+  {
+   "t": 1889.38,
+   "end": 1900.34,
+   "text": "Then in the form of enlivened mantras, they bestow both enjoyment and liberation."
+  },
+  {
+   "t": 1900.34,
+   "end": 1908.34,
+   "text": "Thus it is that a person, non-conceptually seeing him or herself as nothing but the ground,"
+  },
+  {
+   "t": 1908.34,
+   "end": 1918.28,
+   "text": "in which all these reflections abide, and therefore that in which the diversity of all the various"
+  },
+  {
+   "t": 1918.28,
+   "end": 1929.8,
+   "text": "principles, beings and worlds are reflected, attains embodied liberation through the divine"
+  },
+  {
+   "t": 1929.8,
+   "end": 1932.12,
+   "text": "immersion."
+  },
+  {
+   "t": 1932.12,
+   "end": 1951.61,
+   "text": "Jambhava Samava Asha, here too, as before, in the Methodless Method described in Chapter 2,"
+  },
+  {
+   "t": 1951.61,
+   "end": 1969.7,
+   "text": "there is no necessity whatsoever to practice mantras and external rituals of any kind."
+  },
+  {
+   "t": 1969.7,
+   "end": 1982.89,
+   "text": "Some rivers, the entire world shines here within the self, just as a complex creation appears"
+  },
+  {
+   "t": 1982.89,
+   "end": 1994.66,
+   "text": "in a single mirror, however, awareness articulates the universe as if other than itself,"
+  },
+  {
+   "t": 1994.66,
+   "end": 2009.81,
+   "text": "in accordance with the flavors of its own self reflection, no mirror can do that, and here's"
+  },
+  {
+   "t": 2009.81,
+   "end": 2027.46,
+   "text": "that verse in Sanskrit."
+  },
+  {
+   "t": 2041.86,
+   "end": 2048.58,
+   "text": "Thus ends the third day."
+  },
+  {
+   "t": 2048.58,
+   "end": 2060.29,
+   "text": "In the essence of the tantras, composed by the revered master Abhinavagupta, this chapter entitled,"
+  },
+  {
+   "t": 2060.29,
+   "end": 2069.22,
+   "text": "light on the divine means, the shambhava Upaya."
+  },
+  {
+   "t": 2069.22,
+   "end": 2072.02,
+   "text": "Hope you enjoyed the episode."
+  },
+  {
+   "t": 2072.02,
+   "end": 2077.46,
+   "text": "Remember, you can always find out more about the tradition of non-dual Shiva Tantra"
+  },
+  {
+   "t": 2077.46,
+   "end": 2081.3,
+   "text": "at tantrailluminated.org."
+  },
+  {
+   "t": 2081.3,
+   "end": 2087.14,
+   "text": "Where, if you wish, you can become a subscriber to our online learning portal, and you'll"
+  },
+  {
+   "t": 2087.14,
+   "end": 2094.34,
+   "text": "receive access to a vast number of recordings, including a comprehensive curriculum, in Tantra"
+  },
+  {
+   "t": 2094.58,
+   "end": 2102.26,
+   "text": "philosophy, Tantra Ghyoga, guided meditation, and much, much more."
+  },
+  {
+   "t": 2102.26,
+   "end": 2107.22,
+   "text": "Music for the podcast composed and recorded by Anne Leiter."
+  },
+  {
+   "t": 2107.22,
+   "end": 2120.7,
+   "text": "Find her at nleiter.com, podcast produced by Gracia Thribulato, new episodes drop every week,"
+  },
+  {
+   "t": 2120.7,
+   "end": 2122.54,
+   "text": "and may all beings benefit."
+  }
+ ]
+}

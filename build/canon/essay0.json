@@ -1,0 +1,138 @@
+{
+ "rule": "essay-0 = pointed answers (Q + plain + verbatim TEXT). Single source; builders read this file.",
+ "built": "2026-10-29 from spans_pool.json (98-span full-text read); owner ratified chain + plains",
+ "status": "CANONICAL",
+ "units": {
+  "1": {
+   "question": "What is my own nature?",
+   "plain": "You are one free, self-shining light of awareness. The world you take for real is only its reflection; nothing actually covers it.",
+   "text": "The freedom belonging to that light is its energy of bliss",
+   "text_span": "TS1.4",
+   "text_line_range": [
+    2664,
+    2754
+   ],
+   "audio": [],
+   "alternates": [
+    {
+     "span": "TS9.2",
+     "quote": "self-luminous and it shines with reference to none"
+    },
+    {
+     "span": "TS21.1",
+     "quote": "This universe is composed solely of consciousness"
+    },
+    {
+     "span": "TS22.1",
+     "quote": "Bliss is Brahman which abides in the body"
+    }
+   ],
+   "note": "canonical 2026-10-29 (owner: answers approved); span TS1.4; drafted by agent on owner instruction 2026-10-29; subject-first, no source-language terms, every clause traceable to the text span; OWNER SIGN-OFF PENDING; plains SIGNED OFF same day"
+  },
+  "2": {
+   "question": "Why don't I see it right now?",
+   "plain": "Because your own thinking keeps insisting you are a limited person in a limited world - and until grace touches you, that story keeps winning.",
+   "text": "immediately attains liberation while still living",
+   "text_span": "TS11.3",
+   "text_line_range": [
+    6693,
+    6783
+   ],
+   "audio": [],
+   "alternates": [
+    {
+     "span": "TS16.3",
+     "quote": "grace has unthinkably glorious capacity"
+    }
+   ],
+   "note": "canonical 2026-10-29 (owner: answers approved); span TS11.3; drafted by agent on owner instruction 2026-10-29; subject-first, no source-language terms, every clause traceable to the text span; OWNER SIGN-OFF PENDING; plains SIGNED OFF same day"
+  },
+  "3": {
+   "question": "What keeps me bound?",
+   "plain": "Your own thought keeps it going: every time you take yourself to be the doer in a world of your own, another veil weaves - of time, knowledge, wanting and effort - over a freedom that never left.",
+   "text": "then it is called a bound soul",
+   "text_span": "TS8.5",
+   "text_line_range": [
+    5380,
+    5421
+   ],
+   "audio": [],
+   "alternates": [
+    {
+     "span": "TS4.7",
+     "quote": "Upon perfect attainment of a firm conviction contrary"
+    }
+   ],
+   "note": "canonical 2026-10-29 (owner: answers approved); span TS8.5; drafted by agent on owner instruction 2026-10-29; subject-first, no source-language terms, every clause traceable to the text span; OWNER SIGN-OFF PENDING; plains SIGNED OFF same day"
+  },
+  "4": {
+   "question": "How do I see this?",
+   "plain": "There are four ways in, and each one comes to fit the person: some are freed at a single hearing, some by seeing all this as reflection, some by true thought replacing old thought, some by breath, body and practice.",
+   "text": "Could the thousand-rayed sun be illuminated by a jar",
+   "text_span": "TS2.1",
+   "text_line_range": [
+    2755,
+    2801
+   ],
+   "audio": [],
+   "alternates": [
+    {
+     "span": "TS3.1",
+     "quote": "That which cannot shine separately, but shines when merged with others"
+    },
+    {
+     "span": "TS4.4",
+     "quote": "Yoga is offering of all entities to the Lord"
+    },
+    {
+     "span": "TS5.1",
+     "quote": "One should meditate in the blissful and luminous abode"
+    }
+   ],
+   "note": "canonical 2026-10-29 (owner: answers approved); span TS2.1; drafted by agent on owner instruction 2026-10-29; subject-first, no source-language terms, every clause traceable to the text span; OWNER SIGN-OFF PENDING; plains SIGNED OFF same day"
+  },
+  "5": {
+   "question": "How do I practice?",
+   "plain": "It starts with breath: rest in your breathing and time itself shows up as one breath. Then the bath, the offering and the mantra are only real as the inner absorption they point to - kept up daily, not done once.",
+   "text": "Bathing",
+   "text_span": "TS12.1",
+   "text_line_range": [
+    6877,
+    6961
+   ],
+   "audio": [],
+   "alternates": [
+    {
+     "span": "TS5.1",
+     "quote": "One should meditate in the blissful and luminous abode"
+    },
+    {
+     "span": "TS4.4",
+     "quote": "Yoga is offering of all entities to the Lord"
+    },
+    {
+     "span": "TS13.4",
+     "quote": "the very essence of all entities, is called worship"
+    },
+    {
+     "span": "TS20.2",
+     "quote": "the net of all the bonds has dissolved"
+    }
+   ],
+   "note": "canonical 2026-10-29 (owner: answers approved); span TS12.1; drafted by agent on owner instruction 2026-10-29; subject-first, no source-language terms, every clause traceable to the text span; OWNER SIGN-OFF PENDING; plains SIGNED OFF same day"
+  },
+  "6": {
+   "question": "What remains after death?",
+   "plain": "Nothing ends at death for anyone grace has touched - they can be lifted from anywhere, even from hell. The knower's own death changes nothing: what remains is what was always so, and only grace decides the rest.",
+   "text": "Siva is by nature inclined to show grace",
+   "text_span": "TS19.1",
+   "text_line_range": [
+    8471,
+    8535
+   ],
+   "audio": [],
+   "alternates": [],
+   "note": "canonical 2026-10-29 (owner: answers approved); span TS19.1; drafted by agent on owner instruction 2026-10-29; subject-first, no source-language terms, every clause traceable to the text span; OWNER SIGN-OFF PENDING; plains SIGNED OFF same day"
+  }
+ }
+}
