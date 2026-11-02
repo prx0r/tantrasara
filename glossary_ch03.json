@@ -1,0 +1,200 @@
+{
+ "ananda": {
+  "deva": "अनन्द",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b181"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "anava-visarga": {
+  "deva": "अनव विसर्ग",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b347"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "anupaya": {
+  "deva": "अनुपय",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b5"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "bija": {
+  "deva": "बिज",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b285"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "iccha": {
+  "deva": "इच्छ",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b305"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "isana": {
+  "deva": "इसन",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b185"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "kalis": {
+  "deva": "कलिस्",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b400"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "kulesvara": {
+  "deva": "कुलेस्वर",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b336"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "maya": {
+  "deva": "मय",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b418"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "moksa": {
+  "deva": "मोक्स",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b455"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "paramarsa": {
+  "deva": "परमर्स",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b140"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "prakasa": {
+  "deva": "प्रकस",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b199"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "sakta-visarga": {
+  "deva": "सक्त विसर्ग",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b352"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "sambhava": {
+  "deva": "सम्भव",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b461"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "sambhava-samavesa": {
+  "deva": "सम्भव समवेस",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b481"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "sambhava-visarga": {
+  "deva": "सम्भव विसर्ग",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b357"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "sambhavopaya": {
+  "deva": "सम्भवोपय",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b15"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "sambhu": {
+  "deva": "सम्भु",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b16"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "suddhavidya": {
+  "deva": "सुद्धविद्य",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b413"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "unmesa": {
+  "deva": "उन्मेस",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b311"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "urmi": {
+  "deva": "उर्मि",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b188"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "vimarsa": {
+  "deva": "विमर्स",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b138"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ }
+}

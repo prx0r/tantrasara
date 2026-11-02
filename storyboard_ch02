@@ -1,0 +1,1089 @@
+{
+ "title": "Tantrasāra — Chapter 2",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "title",
+   "voice": "granny",
+   "text": "Tantrasāra — Chapter 2",
+   "directed": "[long pause] Tantrasāra — Chapter 2"
+  },
+  {
+   "id": "b2",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "verse",
+   "voice": "verse",
+   "text": "अनुपायप्रकाशनम् — Anupāyaprakāśanam",
+   "directed": "[slowly] अनुपायप्रकाशनम् — Anupāyaprakāśanam"
+  },
+  {
+   "id": "b3",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Pathless Path: or, how to attain Śiva without doing a single bloody thing.",
+   "directed": "The Pathless Path: or, how to attain Śiva without doing a single bloody thing."
+  },
+  {
+   "id": "b4",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Right.",
+   "directed": "[short pause] Right."
+  },
+  {
+   "id": "b5",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Last chapter, we established that your true nature is Śiva.",
+   "directed": "Last chapter, we established that your true nature is Śiva."
+  },
+  {
+   "id": "b6",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Infinite consciousness. Completely free. Absolutely sovereign.",
+   "directed": "Infinite consciousness. Completely free. Absolutely sovereign."
+  },
+  {
+   "id": "b7",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Lovely stuff.",
+   "directed": "[short pause] Lovely stuff."
+  },
+  {
+   "id": "b8",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now you’re probably thinking:",
+   "directed": "[short pause] Now you’re probably thinking:"
+  },
+  {
+   "id": "b9",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Brilliant. So how do I get there?”",
+   "directed": "[short pause] “Brilliant. So how do I get there?”"
+  },
+  {
+   "id": "b10",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that’s where you’ve already cocked it up.",
+   "directed": "And that’s where you’ve already cocked it up."
+  },
+  {
+   "id": "b11",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because the first thing we’re discussing is anupāya.",
+   "directed": "Because the first thing we’re discussing is anupāya."
+  },
+  {
+   "id": "b12",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "An — without.",
+   "directed": "An — without."
+  },
+  {
+   "id": "b13",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Upāya — means, method, approach.",
+   "directed": "Upāya — means, method, approach."
+  },
+  {
+   "id": "b14",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Literally, the method of no method.",
+   "directed": "Literally, the method of no method."
+  },
+  {
+   "id": "b15",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, imagine someone who’s been absolutely struck by śaktipāta.",
+   "directed": "Now, imagine someone who’s been absolutely struck by śaktipāta."
+  },
+  {
+   "id": "b16",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The descent of divine power.",
+   "directed": "The descent of divine power."
+  },
+  {
+   "id": "b17",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And I don’t mean they’ve had a nice meditation, felt a bit peaceful, and started calling themselves enlightened.",
+   "directed": "And I don’t mean they’ve had a nice meditation, felt a bit peaceful, and started calling themselves enlightened."
+  },
+  {
+   "id": "b18",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "I mean Śakti has hit them so profoundly that their entire understanding of reality is ready to turn inside out.",
+   "directed": "I mean Śakti has hit them so profoundly that their entire understanding of reality is ready to turn inside out."
+  },
+  {
+   "id": "b19",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Their guru says something.",
+   "directed": "Their guru says something."
+  },
+  {
+   "id": "b20",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Once.",
+   "directed": "Once."
+  },
+  {
+   "id": "b21",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That’s it.",
+   "directed": "That’s it."
+  },
+  {
+   "id": "b22",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They hear it, comprehend what it actually means, and immediately recognise the truth.",
+   "directed": "They hear it, comprehend what it actually means, and immediately recognise the truth."
+  },
+  {
+   "id": "b23",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "No six-month retreat.",
+   "directed": "No six-month retreat."
+  },
+  {
+   "id": "b24",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "No breathing exercises.",
+   "directed": "No breathing exercises."
+  },
+  {
+   "id": "b25",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "No spending twelve years sitting in a cave trying to get your kuṇḍalinī to cooperate.",
+   "directed": "No spending twelve years sitting in a cave trying to get your kuṇḍalinī to cooperate."
+  },
+  {
+   "id": "b26",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Immediate recognition.",
+   "directed": "Immediate recognition."
+  },
+  {
+   "id": "b27",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the extraordinary thing is that this isn’t some temporary spiritual experience.",
+   "directed": "And the extraordinary thing is that this isn’t some temporary spiritual experience."
+  },
+  {
+   "id": "b28",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Their samāveśa — immersion into divine consciousness — is nityodita.",
+   "directed": "Their samāveśa — immersion into divine consciousness — is nityodita."
+  },
+  {
+   "id": "b29",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ever arisen. Continuously present.",
+   "directed": "Ever arisen. Continuously present."
+  },
+  {
+   "id": "b30",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It doesn’t have to be repeatedly manufactured.",
+   "directed": "It doesn’t have to be repeatedly manufactured."
+  },
+  {
+   "id": "b31",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, hang on.",
+   "directed": "Now, hang on."
+  },
+  {
+   "id": "b32",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You might reasonably object:",
+   "directed": "[short pause] You might reasonably object:"
+  },
+  {
+   "id": "b33",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Abhinava, mate, didn’t you just say understanding and reasoning are part of yoga? Surely this person has used some kind of method?”",
+   "directed": "[short pause] “Abhinava, mate, didn’t you just say understanding and reasoning are part of yoga? Surely this person has used some kind of method?”"
+  },
+  {
+   "id": "b34",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Excellent question.",
+   "directed": "Excellent question."
+  },
+  {
+   "id": "b35",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s investigate.",
+   "directed": "Let’s investigate."
+  },
+  {
+   "id": "b36",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "First, tell me something.",
+   "directed": "First, tell me something."
+  },
+  {
+   "id": "b37",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "If the supreme Lord, Parameśvara, is your own Self, svātmā, and is inherently self-luminous, svaprakāśa, what exactly is any method supposed to accomplish?",
+   "directed": "If the supreme Lord, Parameśvara, is your own Self, svātmā, and is inherently self-luminous, svaprakāśa, what exactly is any method supposed to accomplish?"
+  },
+  {
+   "id": "b38",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Seriously.",
+   "directed": "Seriously."
+  },
+  {
+   "id": "b39",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s go through the possibilities.",
+   "directed": "Let’s go through the possibilities."
+  },
+  {
+   "id": "b40",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Possibility number one: You’re trying to attain your true nature.",
+   "directed": "Possibility number one: You’re trying to attain your true nature."
+  },
+  {
+   "id": "b41",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Right.",
+   "directed": "[short pause] Right."
+  },
+  {
+   "id": "b42",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But your true nature is eternal.",
+   "directed": "But your true nature is eternal."
+  },
+  {
+   "id": "b43",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nitya.",
+   "directed": "Nitya."
+  },
+  {
+   "id": "b44",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "How are you going to acquire something that has never been absent?",
+   "directed": "How are you going to acquire something that has never been absent?"
+  },
+  {
+   "id": "b45",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s not a parcel arriving next Tuesday.",
+   "directed": "It’s not a parcel arriving next Tuesday."
+  },
+  {
+   "id": "b46",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s what you already are.",
+   "directed": "It’s what you already are."
+  },
+  {
+   "id": "b47",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So that’s out.",
+   "directed": "So that’s out."
+  },
+  {
+   "id": "b48",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Possibility number two: You’re trying to make Śiva known.",
+   "directed": "Possibility number two: You’re trying to make Śiva known."
+  },
+  {
+   "id": "b49",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Known to whom?",
+   "directed": "Known to whom?"
+  },
+  {
+   "id": "b50",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Consciousness illuminates itself.",
+   "directed": "Consciousness illuminates itself."
+  },
+  {
+   "id": "b51",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It doesn’t require some second consciousness to come along and announce:",
+   "directed": "[short pause] It doesn’t require some second consciousness to come along and announce:"
+  },
+  {
+   "id": "b52",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Excuse me, mate, you’re conscious.”",
+   "directed": "[short pause] “Excuse me, mate, you’re conscious.”"
+  },
+  {
+   "id": "b53",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The very awareness through which you’re attempting to discover Śiva is already the self-luminosity of Śiva.",
+   "directed": "The very awareness through which you’re attempting to discover Śiva is already the self-luminosity of Śiva."
+  },
+  {
+   "id": "b54",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’re trying to illuminate the illuminator.",
+   "directed": "You’re trying to illuminate the illuminator."
+  },
+  {
+   "id": "b55",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Absolute nonsense.",
+   "directed": "Absolute nonsense."
+  },
+  {
+   "id": "b56",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Possibility number three: You’re trying to remove the veil covering Śiva.",
+   "directed": "Possibility number three: You’re trying to remove the veil covering Śiva."
+  },
+  {
+   "id": "b57",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ah, now we’re getting somewhere.",
+   "directed": "Ah, now we’re getting somewhere."
+  },
+  {
+   "id": "b58",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Except we’re not.",
+   "directed": "Except we’re not."
+  },
+  {
+   "id": "b59",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because what exactly could cover the supreme consciousness?",
+   "directed": "Because what exactly could cover the supreme consciousness?"
+  },
+  {
+   "id": "b60",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "An object?",
+   "directed": "An object?"
+  },
+  {
+   "id": "b61",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A thought?",
+   "directed": "A thought?"
+  },
+  {
+   "id": "b62",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ignorance?",
+   "directed": "Ignorance?"
+  },
+  {
+   "id": "b63",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "All of these can appear only through consciousness.",
+   "directed": "All of these can appear only through consciousness."
+  },
+  {
+   "id": "b64",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "From the standpoint of Śiva’s unrestricted nature, there isn’t some independently existing veil capable of covering him.",
+   "directed": "From the standpoint of Śiva’s unrestricted nature, there isn’t some independently existing veil capable of covering him."
+  },
+  {
+   "id": "b65",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So what are you removing?",
+   "directed": "So what are you removing?"
+  },
+  {
+   "id": "b66",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Possibility number four: You’re trying to enter Śiva.",
+   "directed": "Possibility number four: You’re trying to enter Śiva."
+  },
+  {
+   "id": "b67",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Enter?",
+   "directed": "Enter?"
+  },
+  {
+   "id": "b68",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "From where?",
+   "directed": "From where?"
+  },
+  {
+   "id": "b69",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "For there to be an entrance, you’d need someone standing outside and something waiting inside.",
+   "directed": "For there to be an entrance, you’d need someone standing outside and something waiting inside."
+  },
+  {
+   "id": "b70",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But there is no outside.",
+   "directed": "But there is no outside."
+  },
+  {
+   "id": "b71",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There is no second reality.",
+   "directed": "There is no second reality."
+  },
+  {
+   "id": "b72",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’re proposing to travel from Śiva to Śiva.",
+   "directed": "You’re proposing to travel from Śiva to Śiva."
+  },
+  {
+   "id": "b73",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Bit of a pointless journey, isn’t it?",
+   "directed": "Bit of a pointless journey, isn’t it?"
+  },
+  {
+   "id": "b74",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this brings us to the central absurdity.",
+   "directed": "And this brings us to the central absurdity."
+  },
+  {
+   "id": "b75",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Even the method you propose using would have to exist within Śiva.",
+   "directed": "Even the method you propose using would have to exist within Śiva."
+  },
+  {
+   "id": "b76",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So how could it stand apart from Śiva and take you to him?",
+   "directed": "So how could it stand apart from Śiva and take you to him?"
+  },
+  {
+   "id": "b77",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The whole bloody thing is Śiva already.",
+   "directed": "The whole bloody thing is Śiva already."
+  },
+  {
+   "id": "b78",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Every appearance.",
+   "directed": "Every appearance."
+  },
+  {
+   "id": "b79",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Every moment.",
+   "directed": "Every moment."
+  },
+  {
+   "id": "b80",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Every experience.",
+   "directed": "Every experience."
+  },
+  {
+   "id": "b81",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "One reality.",
+   "directed": "One reality."
+  },
+  {
+   "id": "b82",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Cinmātra-tattva.",
+   "directed": "[slowly] Cinmātra-tattva."
+  },
+  {
+   "id": "b83",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Consciousness alone.",
+   "directed": "Consciousness alone."
+  },
+  {
+   "id": "b84",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this consciousness is not divided by time.",
+   "directed": "And this consciousness is not divided by time."
+  },
+  {
+   "id": "b85",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not chopped up by space.",
+   "directed": "Not chopped up by space."
+  },
+  {
+   "id": "b86",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not diminished by limiting conditions.",
+   "directed": "Not diminished by limiting conditions."
+  },
+  {
+   "id": "b87",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not imprisoned by forms.",
+   "directed": "Not imprisoned by forms."
+  },
+  {
+   "id": "b88",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Words cannot properly circumscribe it.",
+   "directed": "Words cannot properly circumscribe it."
+  },
+  {
+   "id": "b89",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ordinary instruments of knowledge cannot contain it.",
+   "directed": "Ordinary instruments of knowledge cannot contain it."
+  },
+  {
+   "id": "b90",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Why?",
+   "directed": "Why?"
+  },
+  {
+   "id": "b91",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because time, space, forms, and the very instruments through which things are known arise through its own freedom.",
+   "directed": "Because time, space, forms, and the very instruments through which things are known arise through its own freedom."
+  },
+  {
+   "id": "b92",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Svātantrya.",
+   "directed": "[slowly] Svātantrya."
+  },
+  {
+   "id": "b93",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This reality isn’t waiting for permission from something else to exist.",
+   "directed": "This reality isn’t waiting for permission from something else to exist."
+  },
+  {
+   "id": "b94",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is utterly independent.",
+   "directed": "It is utterly independent."
+  },
+  {
+   "id": "b95",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ānanda-ghana.",
+   "directed": "Ānanda-ghana."
+  },
+  {
+   "id": "b96",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A fullness of bliss.",
+   "directed": "A fullness of bliss."
+  },
+  {
+   "id": "b97",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now comes the crucial recognition.",
+   "directed": "And now comes the crucial recognition."
+  },
+  {
+   "id": "b98",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Tad eva cāham.",
+   "directed": "Tad eva cāham."
+  },
+  {
+   "id": "b99",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That very reality am I.",
+   "directed": "That very reality am I."
+  },
+  {
+   "id": "b100",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not this little personality you’ve spent your whole life constructing.",
+   "directed": "Not this little personality you’ve spent your whole life constructing."
+  },
+  {
+   "id": "b101",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not merely your body, your biography, your opinions, or your collection of spiritual accomplishments.",
+   "directed": "Not merely your body, your biography, your opinions, or your collection of spiritual accomplishments."
+  },
+  {
+   "id": "b102",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The self-luminous reality in which all of these appear.",
+   "directed": "The self-luminous reality in which all of these appear."
+  },
+  {
+   "id": "b103",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the entire universe?",
+   "directed": "And the entire universe?"
+  },
+  {
+   "id": "b104",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Viśvaṃ pratibimbitam.",
+   "directed": "Viśvaṃ pratibimbitam."
+  },
+  {
+   "id": "b105",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Reflected within that consciousness.",
+   "directed": "Reflected within that consciousness."
+  },
+  {
+   "id": "b106",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Within me.",
+   "directed": "Within me."
+  },
+  {
+   "id": "b107",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not within my skull.",
+   "directed": "Not within my skull."
+  },
+  {
+   "id": "b108",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Within the unrestricted awareness that I actually am.",
+   "directed": "Within the unrestricted awareness that I actually am."
+  },
+  {
+   "id": "b109",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, when this is discerned with unshakeable certainty, there’s no further method necessary.",
+   "directed": "Now, when this is discerned with unshakeable certainty, there’s no further method necessary."
+  },
+  {
+   "id": "b110",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The immersion in Parameśvara is already present.",
+   "directed": "The immersion in Parameśvara is already present."
+  },
+  {
+   "id": "b111",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So for such a person, there is no compulsory dependence on mantra.",
+   "directed": "So for such a person, there is no compulsory dependence on mantra."
+  },
+  {
+   "id": "b112",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "No compulsory dependence on pūjā.",
+   "directed": "No compulsory dependence on pūjā."
+  },
+  {
+   "id": "b113",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "No compulsory dependence on meditation.",
+   "directed": "No compulsory dependence on meditation."
+  },
+  {
+   "id": "b114",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "No compulsory dependence on elaborate religious observances.",
+   "directed": "No compulsory dependence on elaborate religious observances."
+  },
+  {
+   "id": "b115",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not because these things are rubbish.",
+   "directed": "Not because these things are rubbish."
+  },
+  {
+   "id": "b116",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’ll discuss their value in subsequent chapters.",
+   "directed": "We’ll discuss their value in subsequent chapters."
+  },
+  {
+   "id": "b117",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But because a means is unnecessary when the end is already fully realised.",
+   "directed": "But because a means is unnecessary when the end is already fully realised."
+  },
+  {
+   "id": "b118",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Abhinavagupta finishes with an absolutely beautiful image.",
+   "directed": "And Abhinavagupta finishes with an absolutely beautiful image."
+  },
+  {
+   "id": "b119",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He asks, in effect:",
+   "directed": "[short pause] He asks, in effect:"
+  },
+  {
+   "id": "b120",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Can a little clay pot be responsible for illuminating the thousand-rayed sun?”",
+   "directed": "[short pause] “Can a little clay pot be responsible for illuminating the thousand-rayed sun?”"
+  },
+  {
+   "id": "b121",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Of course it bloody can’t.",
+   "directed": "Of course it bloody can’t."
+  },
+  {
+   "id": "b122",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The sun is already shining.",
+   "directed": "The sun is already shining."
+  },
+  {
+   "id": "b123",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You could assemble every lamp, every candle, every instrument of illumination in the entire universe.",
+   "directed": "You could assemble every lamp, every candle, every instrument of illumination in the entire universe."
+  },
+  {
+   "id": "b124",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "None of them would contribute a single ray to the sun’s own radiance.",
+   "directed": "None of them would contribute a single ray to the sun’s own radiance."
+  },
+  {
+   "id": "b125",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And likewise, no collection of spiritual techniques can produce the self-luminous Śiva.",
+   "directed": "And likewise, no collection of spiritual techniques can produce the self-luminous Śiva."
+  },
+  {
+   "id": "b126",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "For one who genuinely sees this, divine immersion is immediate.",
+   "directed": "For one who genuinely sees this, divine immersion is immediate."
+  },
+  {
+   "id": "b127",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Kṣaṇāt.",
+   "directed": "[slowly] Kṣaṇāt."
+  },
+  {
+   "id": "b128",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In an instant.",
+   "directed": "In an instant."
+  },
+  {
+   "id": "b129",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that’s anupāya.",
+   "directed": "And that’s anupāya."
+  },
+  {
+   "id": "b130",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The pathless path.",
+   "directed": "The pathless path."
+  },
+  {
+   "id": "b131",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not that you’ve finally found the perfect technique.",
+   "directed": "Not that you’ve finally found the perfect technique."
+  },
+  {
+   "id": "b132",
+   "section": "Tantrasāra — Chapter 2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But that there was never any distance to travel.",
+   "directed": "But that there was never any distance to travel."
+  }
+ ],
+ "totals": {
+  "blocks": 133,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 818,
+   "verse": 6,
+   "man": 46
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 5.5,
+   "verse": 0.0,
+   "man": 0.3
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

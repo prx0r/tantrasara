@@ -1,0 +1,6801 @@
+{
+ "title": "Tantrasāra — Chapter 10",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "title",
+   "voice": "granny",
+   "text": "Tantrasāra — Chapter 10",
+   "directed": "[long pause] Tantrasāra — Chapter 10"
+  },
+  {
+   "id": "b2",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "दशममाह्निकम् — Kalādyadhvaprakāśanam",
+   "directed": "[slowly] दशममाह्निकम् — Kalādyadhvaprakāśanam"
+  },
+  {
+   "id": "b3",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Five Great Kalās: or, how Śiva has divided the entire bloody universe into five departments, thirty-six principles, six cosmic pathways, and then casually admitted that none of the divisions actually exist independently.",
+   "directed": "The Five Great Kalās: or, how Śiva has divided the entire bloody universe into five departments, thirty-six principles, six cosmic pathways, and then casually admitted that none of the divisions actually exist independently."
+  },
+  {
+   "id": "b4",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Right then.",
+   "directed": "[short pause] Right then."
+  },
+  {
+   "id": "b5",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Last chapter we discussed the different kinds of knowing subject.",
+   "directed": "Last chapter we discussed the different kinds of knowing subject."
+  },
+  {
+   "id": "b6",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Pramātṛ.",
+   "directed": "[slowly] Pramātṛ."
+  },
+  {
+   "id": "b7",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Seven of the little bastards.",
+   "directed": "Seven of the little bastards."
+  },
+  {
+   "id": "b8",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "From the ordinary, embodied individual — the Sakala — all the way up to Śiva himself.",
+   "directed": "From the ordinary, embodied individual — the Sakala — all the way up to Śiva himself."
+  },
+  {
+   "id": "b9",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And we established something rather magnificent.",
+   "directed": "And we established something rather magnificent."
+  },
+  {
+   "id": "b10",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There aren’t actually seven independent consciousnesses.",
+   "directed": "There aren’t actually seven independent consciousnesses."
+  },
+  {
+   "id": "b11",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There’s one consciousness appearing through different powers.",
+   "directed": "There’s one consciousness appearing through different powers."
+  },
+  {
+   "id": "b12",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śakti.",
+   "directed": "Śakti."
+  },
+  {
+   "id": "b13",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Lovely.",
+   "directed": "[short pause] Lovely."
+  },
+  {
+   "id": "b14",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But now we’ve got a problem.",
+   "directed": "But now we’ve got a problem."
+  },
+  {
+   "id": "b15",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Over the last several chapters, I’ve given you an absolutely enormous collection of information.",
+   "directed": "Over the last several chapters, I’ve given you an absolutely enormous collection of information."
+  },
+  {
+   "id": "b16",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Thirty-six tattvas.",
+   "directed": "Thirty-six tattvas."
+  },
+  {
+   "id": "b17",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "118 worlds.",
+   "directed": "118 worlds."
+  },
+  {
+   "id": "b18",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Cosmic eggs.",
+   "directed": "Cosmic eggs."
+  },
+  {
+   "id": "b19",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Divine hierarchies.",
+   "directed": "Divine hierarchies."
+  },
+  {
+   "id": "b20",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Subtle powers.",
+   "directed": "Subtle powers."
+  },
+  {
+   "id": "b21",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Different kinds of knowing subject.",
+   "directed": "Different kinds of knowing subject."
+  },
+  {
+   "id": "b22",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And apparently the entire Sanskrit alphabet is involved.",
+   "directed": "And apparently the entire Sanskrit alphabet is involved."
+  },
+  {
+   "id": "b23",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve probably got diagrams all over your bedroom.",
+   "directed": "You’ve probably got diagrams all over your bedroom."
+  },
+  {
+   "id": "b24",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’re sitting there with seventeen pieces of paper going:",
+   "directed": "[short pause] You’re sitting there with seventeen pieces of paper going:"
+  },
+  {
+   "id": "b25",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Right. So earth is number thirty-six, Śiva is number one, and somehow all of this is inside my own consciousness?”",
+   "directed": "[short pause] “Right. So earth is number thirty-six, Śiva is number one, and somehow all of this is inside my own consciousness?”"
+  },
+  {
+   "id": "b26",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Correct.",
+   "directed": "[short pause] Correct."
+  },
+  {
+   "id": "b27",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“And now I’ve got to remember all of it?”",
+   "directed": "[short pause] “And now I’ve got to remember all of it?”"
+  },
+  {
+   "id": "b28",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Well.",
+   "directed": "Well."
+  },
+  {
+   "id": "b29",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not necessarily.",
+   "directed": "Not necessarily."
+  },
+  {
+   "id": "b30",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because today we’re going to organise the whole thing.",
+   "directed": "Because today we’re going to organise the whole thing."
+  },
+  {
+   "id": "b31",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Five great divisions.",
+   "directed": "Five great divisions."
+  },
+  {
+   "id": "b32",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Pañca-kalā.",
+   "directed": "[slowly] Pañca-kalā."
+  },
+  {
+   "id": "b33",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And then we’re going to establish why the entire universe can be understood through six pathways, even though there’s actually only one reality.",
+   "directed": "And then we’re going to establish why the entire universe can be understood through six pathways, even though there’s actually only one reality."
+  },
+  {
+   "id": "b34",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Yes.",
+   "directed": "[short pause] Yes."
+  },
+  {
+   "id": "b35",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re doing cosmic administration.",
+   "directed": "We’re doing cosmic administration."
+  },
+  {
+   "id": "b36",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And let me tell you something.",
+   "directed": "And let me tell you something."
+  },
+  {
+   "id": "b37",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śiva’s filing system is absolutely magnificent.",
+   "directed": "Śiva’s filing system is absolutely magnificent."
+  },
+  {
+   "id": "b38",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "1. What exactly is a kalā?\nRight.",
+   "directed": "1. What exactly is a kalā?\nRight."
+  },
+  {
+   "id": "b39",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "First things first.",
+   "directed": "First things first."
+  },
+  {
+   "id": "b40",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Last chapter, we explained the tattva-adhvan.",
+   "directed": "Last chapter, we explained the tattva-adhvan."
+  },
+  {
+   "id": "b41",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The path of the principles of reality.",
+   "directed": "The path of the principles of reality."
+  },
+  {
+   "id": "b42",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now we’re going to explain:",
+   "directed": "[short pause] Now we’re going to explain:"
+  },
+  {
+   "id": "b43",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Kalādyadhvan.",
+   "directed": "[slowly] Kalādyadhvan."
+  },
+  {
+   "id": "b44",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The path beginning with the kalās.",
+   "directed": "The path beginning with the kalās."
+  },
+  {
+   "id": "b45",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But what is a kalā?",
+   "directed": "But what is a kalā?"
+  },
+  {
+   "id": "b46",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Excellent question.",
+   "directed": "Excellent question."
+  },
+  {
+   "id": "b47",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Remember our definition of a tattva?",
+   "directed": "Remember our definition of a tattva?"
+  },
+  {
+   "id": "b48",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A tattva is a principle whose characteristic nature runs through a particular collection of worlds.",
+   "directed": "A tattva is a principle whose characteristic nature runs through a particular collection of worlds."
+  },
+  {
+   "id": "b49",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Bhuvana.",
+   "directed": "Bhuvana."
+  },
+  {
+   "id": "b50",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "For example, the earth principle encompasses numerous worlds.",
+   "directed": "For example, the earth principle encompasses numerous worlds."
+  },
+  {
+   "id": "b51",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Different realms.",
+   "directed": "Different realms."
+  },
+  {
+   "id": "b52",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Different presiding beings.",
+   "directed": "Different presiding beings."
+  },
+  {
+   "id": "b53",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Different kinds of experience.",
+   "directed": "Different kinds of experience."
+  },
+  {
+   "id": "b54",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But something common runs through them.",
+   "directed": "But something common runs through them."
+  },
+  {
+   "id": "b55",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Pṛthivī-tattva.",
+   "directed": "[slowly] Pṛthivī-tattva."
+  },
+  {
+   "id": "b56",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now imagine taking an even bigger step.",
+   "directed": "Now imagine taking an even bigger step."
+  },
+  {
+   "id": "b57",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Instead of asking:",
+   "directed": "[short pause] Instead of asking:"
+  },
+  {
+   "id": "b58",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“What unites this collection of worlds?”",
+   "directed": "[short pause] “What unites this collection of worlds?”"
+  },
+  {
+   "id": "b59",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re asking:",
+   "directed": "[short pause] We’re asking:"
+  },
+  {
+   "id": "b60",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“What unites this collection of tattvas?”",
+   "directed": "[short pause] “What unites this collection of tattvas?”"
+  },
+  {
+   "id": "b61",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that unifying power is called a:",
+   "directed": "[short pause] And that unifying power is called a:"
+  },
+  {
+   "id": "b62",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Kalā.",
+   "directed": "[slowly] Kalā."
+  },
+  {
+   "id": "b63",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, you may already know that kalā can mean a part, portion, phase or aspect.",
+   "directed": "Now, you may already know that kalā can mean a part, portion, phase or aspect."
+  },
+  {
+   "id": "b64",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And in our previous chapters, we encountered kalā as one of the limiting coverings of Māyā.",
+   "directed": "And in our previous chapters, we encountered kalā as one of the limiting coverings of Māyā."
+  },
+  {
+   "id": "b65",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But don’t confuse the two.",
+   "directed": "But don’t confuse the two."
+  },
+  {
+   "id": "b66",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The kalās we’re discussing here are great divisions of the entire cosmic manifestation.",
+   "directed": "The kalās we’re discussing here are great divisions of the entire cosmic manifestation."
+  },
+  {
+   "id": "b67",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not merely the one tattva called Kalā.",
+   "directed": "Not merely the one tattva called Kalā."
+  },
+  {
+   "id": "b68",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Same Sanskrit word.",
+   "directed": "Same Sanskrit word."
+  },
+  {
+   "id": "b69",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Different technical application.",
+   "directed": "Different technical application."
+  },
+  {
+   "id": "b70",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Very important.",
+   "directed": "Very important."
+  },
+  {
+   "id": "b71",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Abhinavagupta explains their function through:",
+   "directed": "[short pause] And Abhinavagupta explains their function through:"
+  },
+  {
+   "id": "b72",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Ekarūpa-kalanā-sahiṣṇutva.",
+   "directed": "[slowly] Ekarūpa-kalanā-sahiṣṇutva."
+  },
+  {
+   "id": "b73",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The capacity to accommodate or bring many things together under one form.",
+   "directed": "The capacity to accommodate or bring many things together under one form."
+  },
+  {
+   "id": "b74",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In other words:",
+   "directed": "[short pause] In other words:"
+  },
+  {
+   "id": "b75",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A kalā allows us to recognise a common unity across a group of distinct principles.",
+   "directed": "A kalā allows us to recognise a common unity across a group of distinct principles."
+  },
+  {
+   "id": "b76",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Imagine you’ve got twenty-three departments in a company.",
+   "directed": "Imagine you’ve got twenty-three departments in a company."
+  },
+  {
+   "id": "b77",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Each department has its own function.",
+   "directed": "Each department has its own function."
+  },
+  {
+   "id": "b78",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Different employees.",
+   "directed": "Different employees."
+  },
+  {
+   "id": "b79",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Different responsibilities.",
+   "directed": "Different responsibilities."
+  },
+  {
+   "id": "b80",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But all belong to one larger division.",
+   "directed": "But all belong to one larger division."
+  },
+  {
+   "id": "b81",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That larger division isn’t an additional employee.",
+   "directed": "That larger division isn’t an additional employee."
+  },
+  {
+   "id": "b82",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s the unity encompassing the departments.",
+   "directed": "It’s the unity encompassing the departments."
+  },
+  {
+   "id": "b83",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That’s roughly what we’re doing with kalā.",
+   "directed": "That’s roughly what we’re doing with kalā."
+  },
+  {
+   "id": "b84",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Except the company is the entire bloody cosmos.",
+   "directed": "Except the company is the entire bloody cosmos."
+  },
+  {
+   "id": "b85",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the CEO is unlimited consciousness.",
+   "directed": "And the CEO is unlimited consciousness."
+  },
+  {
+   "id": "b86",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Right.",
+   "directed": "[short pause] Right."
+  },
+  {
+   "id": "b87",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s meet the divisions.",
+   "directed": "Let’s meet the divisions."
+  },
+  {
+   "id": "b88",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "2. Nivṛtti — the division where manifestation reaches its limit\nFirst:",
+   "directed": "[short pause] 2. Nivṛtti — the division where manifestation reaches its limit\nFirst:"
+  },
+  {
+   "id": "b89",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Nivṛtti-kalā.",
+   "directed": "[slowly] Nivṛtti-kalā."
+  },
+  {
+   "id": "b90",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "निवृत्ति",
+   "directed": "[slowly] निवृत्ति"
+  },
+  {
+   "id": "b91",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Nivṛtti.",
+   "directed": "[slowly] Nivṛtti."
+  },
+  {
+   "id": "b92",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The turning back.",
+   "directed": "The turning back."
+  },
+  {
+   "id": "b93",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Withdrawal.",
+   "directed": "Withdrawal."
+  },
+  {
+   "id": "b94",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Cessation.",
+   "directed": "Cessation."
+  },
+  {
+   "id": "b95",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And where does it operate?",
+   "directed": "And where does it operate?"
+  },
+  {
+   "id": "b96",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In:",
+   "directed": "[short pause] In:"
+  },
+  {
+   "id": "b97",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Pṛthivī-tattva.",
+   "directed": "[slowly] Pṛthivī-tattva."
+  },
+  {
+   "id": "b98",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The earth principle.",
+   "directed": "The earth principle."
+  },
+  {
+   "id": "b99",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Number thirty-six.",
+   "directed": "Number thirty-six."
+  },
+  {
+   "id": "b100",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The lowest of all thirty-six tattvas.",
+   "directed": "The lowest of all thirty-six tattvas."
+  },
+  {
+   "id": "b101",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, why call it Nivṛtti?",
+   "directed": "Now, why call it Nivṛtti?"
+  },
+  {
+   "id": "b102",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Abhinavagupta gives the explanation:",
+   "directed": "[short pause] Abhinavagupta gives the explanation:"
+  },
+  {
+   "id": "b103",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nivartate yatas tattvasargaḥ.",
+   "directed": "Nivartate yatas tattvasargaḥ."
+  },
+  {
+   "id": "b104",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because the creation or emanation of the tattvas ceases there.",
+   "directed": "Because the creation or emanation of the tattvas ceases there."
+  },
+  {
+   "id": "b105",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’ve reached the end of the descent.",
+   "directed": "We’ve reached the end of the descent."
+  },
+  {
+   "id": "b106",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Think about our previous chapters.",
+   "directed": "Think about our previous chapters."
+  },
+  {
+   "id": "b107",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śiva’s power begins manifesting differentiated reality.",
+   "directed": "Śiva’s power begins manifesting differentiated reality."
+  },
+  {
+   "id": "b108",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The pure principles.",
+   "directed": "The pure principles."
+  },
+  {
+   "id": "b109",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then Māyā.",
+   "directed": "Then Māyā."
+  },
+  {
+   "id": "b110",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then limited individuality.",
+   "directed": "Then limited individuality."
+  },
+  {
+   "id": "b111",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then the intellect.",
+   "directed": "Then the intellect."
+  },
+  {
+   "id": "b112",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The senses.",
+   "directed": "The senses."
+  },
+  {
+   "id": "b113",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The subtle elements.",
+   "directed": "The subtle elements."
+  },
+  {
+   "id": "b114",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And finally, the earth principle.",
+   "directed": "And finally, the earth principle."
+  },
+  {
+   "id": "b115",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That’s it.",
+   "directed": "That’s it."
+  },
+  {
+   "id": "b116",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There’s no thirty-seventh lower tattva waiting beneath earth.",
+   "directed": "There’s no thirty-seventh lower tattva waiting beneath earth."
+  },
+  {
+   "id": "b117",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The series has reached its grossest limit.",
+   "directed": "The series has reached its grossest limit."
+  },
+  {
+   "id": "b118",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So Nivṛtti marks the point where this particular unfolding stops.",
+   "directed": "So Nivṛtti marks the point where this particular unfolding stops."
+  },
+  {
+   "id": "b119",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, don’t mistake that for saying consciousness itself stops.",
+   "directed": "Now, don’t mistake that for saying consciousness itself stops."
+  },
+  {
+   "id": "b120",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Absolutely not.",
+   "directed": "[short pause] Absolutely not."
+  },
+  {
+   "id": "b121",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Consciousness doesn’t suddenly run out of existence when it produces a lump of earth.",
+   "directed": "Consciousness doesn’t suddenly run out of existence when it produces a lump of earth."
+  },
+  {
+   "id": "b122",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It simply reaches the final category of this hierarchy.",
+   "directed": "It simply reaches the final category of this hierarchy."
+  },
+  {
+   "id": "b123",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And remember, the earth principle already contains entire worlds.",
+   "directed": "And remember, the earth principle already contains entire worlds."
+  },
+  {
+   "id": "b124",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Hell realms.",
+   "directed": "Hell realms."
+  },
+  {
+   "id": "b125",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Human realms.",
+   "directed": "Human realms."
+  },
+  {
+   "id": "b126",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Heavenly realms.",
+   "directed": "Heavenly realms."
+  },
+  {
+   "id": "b127",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The cosmic egg of Brahmā.",
+   "directed": "The cosmic egg of Brahmā."
+  },
+  {
+   "id": "b128",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s hardly a trivial little department.",
+   "directed": "It’s hardly a trivial little department."
+  },
+  {
+   "id": "b129",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But it is the final point in the succession of tattvas.",
+   "directed": "But it is the final point in the succession of tattvas."
+  },
+  {
+   "id": "b130",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So:",
+   "directed": "[short pause] So:"
+  },
+  {
+   "id": "b131",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nivṛtti — the limit of the downward unfolding.",
+   "directed": "Nivṛtti — the limit of the downward unfolding."
+  },
+  {
+   "id": "b132",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Right.",
+   "directed": "[short pause] Right."
+  },
+  {
+   "id": "b133",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Next.",
+   "directed": "Next."
+  },
+  {
+   "id": "b134",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "3. Pratiṣṭhā — the universe gets itself established\nSecond:",
+   "directed": "[short pause] 3. Pratiṣṭhā — the universe gets itself established\nSecond:"
+  },
+  {
+   "id": "b135",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Pratiṣṭhā-kalā.",
+   "directed": "[slowly] Pratiṣṭhā-kalā."
+  },
+  {
+   "id": "b136",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "प्रतिष्ठा",
+   "directed": "[slowly] प्रतिष्ठा"
+  },
+  {
+   "id": "b137",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Pratiṣṭhā.",
+   "directed": "[slowly] Pratiṣṭhā."
+  },
+  {
+   "id": "b138",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Establishment.",
+   "directed": "Establishment."
+  },
+  {
+   "id": "b139",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Foundation.",
+   "directed": "Foundation."
+  },
+  {
+   "id": "b140",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Support.",
+   "directed": "Support."
+  },
+  {
+   "id": "b141",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now we’re encompassing the principles from water up to Prakṛti.",
+   "directed": "Now we’re encompassing the principles from water up to Prakṛti."
+  },
+  {
+   "id": "b142",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Jalādi-pradhānānta.",
+   "directed": "[slowly] Jalādi-pradhānānta."
+  },
+  {
+   "id": "b143",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "From water, number thirty-five, through to primordial nature, number thirteen.",
+   "directed": "From water, number thirty-five, through to primordial nature, number thirteen."
+  },
+  {
+   "id": "b144",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That’s twenty-three tattvas.",
+   "directed": "That’s twenty-three tattvas."
+  },
+  {
+   "id": "b145",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "An enormous range.",
+   "directed": "An enormous range."
+  },
+  {
+   "id": "b146",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re talking about the gross elements above earth, the subtle sensory potentials, the faculties of perception and action, mind, ego, intellect, and primordial nature.",
+   "directed": "We’re talking about the gross elements above earth, the subtle sensory potentials, the faculties of perception and action, mind, ego, intellect, and primordial nature."
+  },
+  {
+   "id": "b147",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And why is this called Pratiṣṭhā?",
+   "directed": "And why is this called Pratiṣṭhā?"
+  },
+  {
+   "id": "b148",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because it establishes, nourishes and fills the manifestation through its causal activity.",
+   "directed": "Because it establishes, nourishes and fills the manifestation through its causal activity."
+  },
+  {
+   "id": "b149",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Āpyāyana.",
+   "directed": "[slowly] Āpyāyana."
+  },
+  {
+   "id": "b150",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nourishing.",
+   "directed": "Nourishing."
+  },
+  {
+   "id": "b151",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Pūraṇa.",
+   "directed": "[slowly] Pūraṇa."
+  },
+  {
+   "id": "b152",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Filling or bringing to completion.",
+   "directed": "Filling or bringing to completion."
+  },
+  {
+   "id": "b153",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So if Nivṛtti is where the whole manifest succession reaches its lower limit, Pratiṣṭhā encompasses the principles that supply and sustain the differentiated field of experience.",
+   "directed": "So if Nivṛtti is where the whole manifest succession reaches its lower limit, Pratiṣṭhā encompasses the principles that supply and sustain the differentiated field of experience."
+  },
+  {
+   "id": "b154",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Imagine the universe is a gigantic theatre.",
+   "directed": "Imagine the universe is a gigantic theatre."
+  },
+  {
+   "id": "b155",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nivṛtti is the final physical stage on which the performance takes place.",
+   "directed": "Nivṛtti is the final physical stage on which the performance takes place."
+  },
+  {
+   "id": "b156",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Pratiṣṭhā is the enormous collection of structures making the performance possible.",
+   "directed": "Pratiṣṭhā is the enormous collection of structures making the performance possible."
+  },
+  {
+   "id": "b157",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The scenery.",
+   "directed": "The scenery."
+  },
+  {
+   "id": "b158",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The lighting.",
+   "directed": "The lighting."
+  },
+  {
+   "id": "b159",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The instruments.",
+   "directed": "The instruments."
+  },
+  {
+   "id": "b160",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The costumes.",
+   "directed": "The costumes."
+  },
+  {
+   "id": "b161",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The whole bloody operation.",
+   "directed": "The whole bloody operation."
+  },
+  {
+   "id": "b162",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, it’s not a literal metaphor in the Sanskrit.",
+   "directed": "Now, it’s not a literal metaphor in the Sanskrit."
+  },
+  {
+   "id": "b163",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That’s mine.",
+   "directed": "That’s mine."
+  },
+  {
+   "id": "b164",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the point is faithful.",
+   "directed": "But the point is faithful."
+  },
+  {
+   "id": "b165",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Pratiṣṭhā encompasses the sustaining causal structure of differentiated manifestation.",
+   "directed": "Pratiṣṭhā encompasses the sustaining causal structure of differentiated manifestation."
+  },
+  {
+   "id": "b166",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And remember, these principles don’t have independent existence outside consciousness.",
+   "directed": "And remember, these principles don’t have independent existence outside consciousness."
+  },
+  {
+   "id": "b167",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re describing how Śakti’s manifestation is ordered.",
+   "directed": "We’re describing how Śakti’s manifestation is ordered."
+  },
+  {
+   "id": "b168",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not discovering twenty-three substances that have somehow escaped Śiva’s jurisdiction.",
+   "directed": "Not discovering twenty-three substances that have somehow escaped Śiva’s jurisdiction."
+  },
+  {
+   "id": "b169",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Right.",
+   "directed": "[short pause] Right."
+  },
+  {
+   "id": "b170",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Next.",
+   "directed": "Next."
+  },
+  {
+   "id": "b171",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this one’s particularly interesting.",
+   "directed": "And this one’s particularly interesting."
+  },
+  {
+   "id": "b172",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "4. Vidyā — consciousness starts becoming more evident\nThird:",
+   "directed": "[short pause] 4. Vidyā — consciousness starts becoming more evident\nThird:"
+  },
+  {
+   "id": "b173",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Vidyā-kalā.",
+   "directed": "[slowly] Vidyā-kalā."
+  },
+  {
+   "id": "b174",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "विद्या",
+   "directed": "[slowly] विद्या"
+  },
+  {
+   "id": "b175",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Vidyā.",
+   "directed": "[slowly] Vidyā."
+  },
+  {
+   "id": "b176",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Knowledge.",
+   "directed": "Knowledge."
+  },
+  {
+   "id": "b177",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now we’re moving from Puruṣa up to Māyā.",
+   "directed": "Now we’re moving from Puruṣa up to Māyā."
+  },
+  {
+   "id": "b178",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Seven tattvas.",
+   "directed": "Seven tattvas."
+  },
+  {
+   "id": "b179",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Puruṣa.",
+   "directed": "[slowly] Puruṣa."
+  },
+  {
+   "id": "b180",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Niyati.",
+   "directed": "Niyati."
+  },
+  {
+   "id": "b181",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Kāla.",
+   "directed": "[slowly] Kāla."
+  },
+  {
+   "id": "b182",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Rāga.",
+   "directed": "[slowly] Rāga."
+  },
+  {
+   "id": "b183",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Vidyā.",
+   "directed": "[slowly] Vidyā."
+  },
+  {
+   "id": "b184",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Kalā.",
+   "directed": "[slowly] Kalā."
+  },
+  {
+   "id": "b185",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Māyā.",
+   "directed": "[slowly] Māyā."
+  },
+  {
+   "id": "b186",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Remember these?",
+   "directed": "Remember these?"
+  },
+  {
+   "id": "b187",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The apparently limited individual and the principles through which unlimited consciousness takes on restricted conditions.",
+   "directed": "The apparently limited individual and the principles through which unlimited consciousness takes on restricted conditions."
+  },
+  {
+   "id": "b188",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, here’s the remarkable thing.",
+   "directed": "Now, here’s the remarkable thing."
+  },
+  {
+   "id": "b189",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re still within the domain of limitation.",
+   "directed": "We’re still within the domain of limitation."
+  },
+  {
+   "id": "b190",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Māyā hasn’t disappeared.",
+   "directed": "Māyā hasn’t disappeared."
+  },
+  {
+   "id": "b191",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But Abhinavagupta says this great division is called Vidyā because of:",
+   "directed": "[short pause] But Abhinavagupta says this great division is called Vidyā because of:"
+  },
+  {
+   "id": "b192",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Vedyatirobhāve saṃvidādhikyāt.",
+   "directed": "[slowly] Vedyatirobhāve saṃvidādhikyāt."
+  },
+  {
+   "id": "b193",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "As the knowable objects recede or become concealed, consciousness becomes more predominant.",
+   "directed": "As the knowable objects recede or become concealed, consciousness becomes more predominant."
+  },
+  {
+   "id": "b194",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s break that down.",
+   "directed": "Let’s break that down."
+  },
+  {
+   "id": "b195",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vedya — the knowable.",
+   "directed": "Vedya — the knowable."
+  },
+  {
+   "id": "b196",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Tirobhāva — concealment, disappearance or withdrawal.",
+   "directed": "Tirobhāva — concealment, disappearance or withdrawal."
+  },
+  {
+   "id": "b197",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Saṃvid — consciousness.",
+   "directed": "Saṃvid — consciousness."
+  },
+  {
+   "id": "b198",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ādhikya — predominance.",
+   "directed": "Ādhikya — predominance."
+  },
+  {
+   "id": "b199",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So:",
+   "directed": "[short pause] So:"
+  },
+  {
+   "id": "b200",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "As objectivity recedes, consciousness predominates.",
+   "directed": "As objectivity recedes, consciousness predominates."
+  },
+  {
+   "id": "b201",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now that’s absolutely beautiful.",
+   "directed": "Now that’s absolutely beautiful."
+  },
+  {
+   "id": "b202",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because look at the hierarchy.",
+   "directed": "Because look at the hierarchy."
+  },
+  {
+   "id": "b203",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "At the lower levels, manifestation is dominated by objects.",
+   "directed": "At the lower levels, manifestation is dominated by objects."
+  },
+  {
+   "id": "b204",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Things.",
+   "directed": "Things."
+  },
+  {
+   "id": "b205",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sensory qualities.",
+   "directed": "Sensory qualities."
+  },
+  {
+   "id": "b206",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The material world.",
+   "directed": "The material world."
+  },
+  {
+   "id": "b207",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But as we move upward toward the more fundamental principles of subjectivity, the emphasis shifts.",
+   "directed": "But as we move upward toward the more fundamental principles of subjectivity, the emphasis shifts."
+  },
+  {
+   "id": "b208",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re no longer merely examining what appears.",
+   "directed": "We’re no longer merely examining what appears."
+  },
+  {
+   "id": "b209",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re examining the conditions through which anything can appear to a knower.",
+   "directed": "We’re examining the conditions through which anything can appear to a knower."
+  },
+  {
+   "id": "b210",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The entire experience is moving toward its conscious ground.",
+   "directed": "The entire experience is moving toward its conscious ground."
+  },
+  {
+   "id": "b211",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And it’s called Vidyā.",
+   "directed": "And it’s called Vidyā."
+  },
+  {
+   "id": "b212",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Knowledge.",
+   "directed": "Knowledge."
+  },
+  {
+   "id": "b213",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not because someone has acquired a magnificent library.",
+   "directed": "Not because someone has acquired a magnificent library."
+  },
+  {
+   "id": "b214",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But because the predominance of consciousness is becoming increasingly evident.",
+   "directed": "But because the predominance of consciousness is becoming increasingly evident."
+  },
+  {
+   "id": "b215",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now imagine you’ve spent your whole life staring at a cinema screen.",
+   "directed": "Now imagine you’ve spent your whole life staring at a cinema screen."
+  },
+  {
+   "id": "b216",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Films.",
+   "directed": "Films."
+  },
+  {
+   "id": "b217",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Colours.",
+   "directed": "Colours."
+  },
+  {
+   "id": "b218",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Characters.",
+   "directed": "Characters."
+  },
+  {
+   "id": "b219",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Explosions.",
+   "directed": "Explosions."
+  },
+  {
+   "id": "b220",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Drama.",
+   "directed": "Drama."
+  },
+  {
+   "id": "b221",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And then, gradually, your attention turns toward the very fact that these images are appearing.",
+   "directed": "And then, gradually, your attention turns toward the very fact that these images are appearing."
+  },
+  {
+   "id": "b222",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’re no longer exclusively fascinated by the content.",
+   "directed": "You’re no longer exclusively fascinated by the content."
+  },
+  {
+   "id": "b223",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’re becoming interested in the appearing itself.",
+   "directed": "You’re becoming interested in the appearing itself."
+  },
+  {
+   "id": "b224",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That’s something like the movement we’re examining.",
+   "directed": "That’s something like the movement we’re examining."
+  },
+  {
+   "id": "b225",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But don’t confuse the Vidyā-kalā with full liberation.",
+   "directed": "But don’t confuse the Vidyā-kalā with full liberation."
+  },
+  {
+   "id": "b226",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re still discussing a level that reaches Māyā.",
+   "directed": "We’re still discussing a level that reaches Māyā."
+  },
+  {
+   "id": "b227",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The ultimate transcendence of the coverings hasn’t yet been reached.",
+   "directed": "The ultimate transcendence of the coverings hasn’t yet been reached."
+  },
+  {
+   "id": "b228",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "For that, we need the fourth division.",
+   "directed": "For that, we need the fourth division."
+  },
+  {
+   "id": "b229",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "5. Śāntā — the coverings finally calm down\nFourth:",
+   "directed": "[short pause] 5. Śāntā — the coverings finally calm down\nFourth:"
+  },
+  {
+   "id": "b230",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Śāntā-kalā.",
+   "directed": "[slowly] Śāntā-kalā."
+  },
+  {
+   "id": "b231",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "शान्ता",
+   "directed": "[slowly] शान्ता"
+  },
+  {
+   "id": "b232",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Śāntā.",
+   "directed": "[slowly] Śāntā."
+  },
+  {
+   "id": "b233",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Peaceful.",
+   "directed": "Peaceful."
+  },
+  {
+   "id": "b234",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Pacified.",
+   "directed": "Pacified."
+  },
+  {
+   "id": "b235",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Calmed.",
+   "directed": "Calmed."
+  },
+  {
+   "id": "b236",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now we move from:",
+   "directed": "[short pause] Now we move from:"
+  },
+  {
+   "id": "b237",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śuddhavidyā to Śakti.",
+   "directed": "Śuddhavidyā to Śakti."
+  },
+  {
+   "id": "b238",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Four tattvas in the prose account.",
+   "directed": "Four tattvas in the prose account."
+  },
+  {
+   "id": "b239",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Śuddhavidyā.",
+   "directed": "[slowly] Śuddhavidyā."
+  },
+  {
+   "id": "b240",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Īśvara.",
+   "directed": "[slowly] Īśvara."
+  },
+  {
+   "id": "b241",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Sadāśiva.",
+   "directed": "[slowly] Sadāśiva."
+  },
+  {
+   "id": "b242",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śakti.",
+   "directed": "Śakti."
+  },
+  {
+   "id": "b243",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And why is this division called Śāntā?",
+   "directed": "And why is this division called Śāntā?"
+  },
+  {
+   "id": "b244",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because:",
+   "directed": "[short pause] Because:"
+  },
+  {
+   "id": "b245",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Kañcuka-taraṅgopaśamāt.",
+   "directed": "[slowly] Kañcuka-taraṅgopaśamāt."
+  },
+  {
+   "id": "b246",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The waves of the coverings have subsided.",
+   "directed": "The waves of the coverings have subsided."
+  },
+  {
+   "id": "b247",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now that’s a gorgeous expression.",
+   "directed": "Now that’s a gorgeous expression."
+  },
+  {
+   "id": "b248",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s break it down.",
+   "directed": "Let’s break it down."
+  },
+  {
+   "id": "b249",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Kañcuka.",
+   "directed": "[slowly] Kañcuka."
+  },
+  {
+   "id": "b250",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A covering.",
+   "directed": "A covering."
+  },
+  {
+   "id": "b251",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Taraṅga.",
+   "directed": "[slowly] Taraṅga."
+  },
+  {
+   "id": "b252",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A wave.",
+   "directed": "A wave."
+  },
+  {
+   "id": "b253",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Upaśama.",
+   "directed": "[slowly] Upaśama."
+  },
+  {
+   "id": "b254",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Pacification. Subsiding. Coming to rest.",
+   "directed": "Pacification. Subsiding. Coming to rest."
+  },
+  {
+   "id": "b255",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The waves of limitation have become peaceful.",
+   "directed": "The waves of limitation have become peaceful."
+  },
+  {
+   "id": "b256",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Remember the kañcukas?",
+   "directed": "Remember the kañcukas?"
+  },
+  {
+   "id": "b257",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Limited agency.",
+   "directed": "Limited agency."
+  },
+  {
+   "id": "b258",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Limited knowledge.",
+   "directed": "Limited knowledge."
+  },
+  {
+   "id": "b259",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "meta",
+   "voice": "none",
+   "text": "Attachment.",
+   "directed": "Attachment."
+  },
+  {
+   "id": "b260",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Time.",
+   "directed": "[short pause] Time."
+  },
+  {
+   "id": "b261",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Determination.",
+   "directed": "Determination."
+  },
+  {
+   "id": "b262",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The conditions through which unrestricted consciousness appears as a little individual operating under restrictions.",
+   "directed": "The conditions through which unrestricted consciousness appears as a little individual operating under restrictions."
+  },
+  {
+   "id": "b263",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Well, here those limiting movements have subsided.",
+   "directed": "Well, here those limiting movements have subsided."
+  },
+  {
+   "id": "b264",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re in the pure domain.",
+   "directed": "We’re in the pure domain."
+  },
+  {
+   "id": "b265",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The divine principles.",
+   "directed": "The divine principles."
+  },
+  {
+   "id": "b266",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The powers of consciousness are no longer operating in the same restricted manner.",
+   "directed": "The powers of consciousness are no longer operating in the same restricted manner."
+  },
+  {
+   "id": "b267",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Abhinavagupta calls the encompassing division:",
+   "directed": "[short pause] And Abhinavagupta calls the encompassing division:"
+  },
+  {
+   "id": "b268",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Śāntā.",
+   "directed": "[slowly] Śāntā."
+  },
+  {
+   "id": "b269",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Peaceful.",
+   "directed": "Peaceful."
+  },
+  {
+   "id": "b270",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, don’t interpret that as the universe becoming an inert, motionless nothingness.",
+   "directed": "Now, don’t interpret that as the universe becoming an inert, motionless nothingness."
+  },
+  {
+   "id": "b271",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The very principle of Śakti is still present.",
+   "directed": "The very principle of Śakti is still present."
+  },
+  {
+   "id": "b272",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Divine manifestation hasn’t been abolished.",
+   "directed": "Divine manifestation hasn’t been abolished."
+  },
+  {
+   "id": "b273",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Rather, the agitated differentiating movement of the coverings has been pacified.",
+   "directed": "Rather, the agitated differentiating movement of the coverings has been pacified."
+  },
+  {
+   "id": "b274",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There’s manifestation, but not the same condition of restricted individuality.",
+   "directed": "There’s manifestation, but not the same condition of restricted individuality."
+  },
+  {
+   "id": "b275",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that is a fundamental distinction.",
+   "directed": "And that is a fundamental distinction."
+  },
+  {
+   "id": "b276",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You don’t need to destroy Śakti’s power of manifestation to transcend the limited condition.",
+   "directed": "You don’t need to destroy Śakti’s power of manifestation to transcend the limited condition."
+  },
+  {
+   "id": "b277",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The pure divine domain is itself a manifestation of that power.",
+   "directed": "The pure divine domain is itself a manifestation of that power."
+  },
+  {
+   "id": "b278",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now.",
+   "directed": "[short pause] Now."
+  },
+  {
+   "id": "b279",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’ve got four divisions.",
+   "directed": "We’ve got four divisions."
+  },
+  {
+   "id": "b280",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And these correspond to four great cosmic eggs.",
+   "directed": "And these correspond to four great cosmic eggs."
+  },
+  {
+   "id": "b281",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Yes.",
+   "directed": "[short pause] Yes."
+  },
+  {
+   "id": "b282",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The eggs are back.",
+   "directed": "The eggs are back."
+  },
+  {
+   "id": "b283",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "6. The four cosmic eggs — Śiva’s universal filing cabinets\nRight.",
+   "directed": "6. The four cosmic eggs — Śiva’s universal filing cabinets\nRight."
+  },
+  {
+   "id": "b284",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’ve got four kalās so far.",
+   "directed": "We’ve got four kalās so far."
+  },
+  {
+   "id": "b285",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Nivṛtti.",
+   "directed": "[slowly] Nivṛtti."
+  },
+  {
+   "id": "b286",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Pratiṣṭhā.",
+   "directed": "[slowly] Pratiṣṭhā."
+  },
+  {
+   "id": "b287",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Vidyā.",
+   "directed": "[slowly] Vidyā."
+  },
+  {
+   "id": "b288",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Śāntā.",
+   "directed": "[slowly] Śāntā."
+  },
+  {
+   "id": "b289",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And each corresponds to a great cosmic enclosure.",
+   "directed": "And each corresponds to a great cosmic enclosure."
+  },
+  {
+   "id": "b290",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Aṇḍa.",
+   "directed": "[slowly] Aṇḍa."
+  },
+  {
+   "id": "b291",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Literally, an egg.",
+   "directed": "Literally, an egg."
+  },
+  {
+   "id": "b292",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, these aren’t ordinary chicken eggs.",
+   "directed": "Now, these aren’t ordinary chicken eggs."
+  },
+  {
+   "id": "b293",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Obviously.",
+   "directed": "Obviously."
+  },
+  {
+   "id": "b294",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re describing an entire domain of manifestation contained within a particular metaphysical boundary.",
+   "directed": "We’re describing an entire domain of manifestation contained within a particular metaphysical boundary."
+  },
+  {
+   "id": "b295",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "First:",
+   "directed": "[short pause] First:"
+  },
+  {
+   "id": "b296",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Pārthivāṇḍa.",
+   "directed": "[slowly] Pārthivāṇḍa."
+  },
+  {
+   "id": "b297",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The egg of earth.",
+   "directed": "The egg of earth."
+  },
+  {
+   "id": "b298",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Associated with Nivṛtti.",
+   "directed": "Associated with Nivṛtti."
+  },
+  {
+   "id": "b299",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Second:",
+   "directed": "[short pause] Second:"
+  },
+  {
+   "id": "b300",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Prākṛtāṇḍa.",
+   "directed": "[slowly] Prākṛtāṇḍa."
+  },
+  {
+   "id": "b301",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The egg of Prakṛti.",
+   "directed": "The egg of Prakṛti."
+  },
+  {
+   "id": "b302",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Associated with Pratiṣṭhā.",
+   "directed": "Associated with Pratiṣṭhā."
+  },
+  {
+   "id": "b303",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Third:",
+   "directed": "[short pause] Third:"
+  },
+  {
+   "id": "b304",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Māyīyāṇḍa.",
+   "directed": "[slowly] Māyīyāṇḍa."
+  },
+  {
+   "id": "b305",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The egg of Māyā.",
+   "directed": "The egg of Māyā."
+  },
+  {
+   "id": "b306",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Associated with Vidyā.",
+   "directed": "Associated with Vidyā."
+  },
+  {
+   "id": "b307",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Fourth:",
+   "directed": "[short pause] Fourth:"
+  },
+  {
+   "id": "b308",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Śāktāṇḍa.",
+   "directed": "[slowly] Śāktāṇḍa."
+  },
+  {
+   "id": "b309",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The egg of Śakti.",
+   "directed": "The egg of Śakti."
+  },
+  {
+   "id": "b310",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Associated with Śāntā.",
+   "directed": "Associated with Śāntā."
+  },
+  {
+   "id": "b311",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And they encompass the following principles.",
+   "directed": "And they encompass the following principles."
+  },
+  {
+   "id": "b312",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Cosmic division",
+   "directed": "Cosmic division"
+  },
+  {
+   "id": "b313",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Tattvas",
+   "directed": "Tattvas"
+  },
+  {
+   "id": "b314",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Number",
+   "directed": "Number"
+  },
+  {
+   "id": "b315",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Nivṛtti",
+   "directed": "[slowly] Nivṛtti"
+  },
+  {
+   "id": "b316",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Earth",
+   "directed": "Earth"
+  },
+  {
+   "id": "b317",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "1",
+   "directed": "1"
+  },
+  {
+   "id": "b318",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Pratiṣṭhā",
+   "directed": "[slowly] Pratiṣṭhā"
+  },
+  {
+   "id": "b319",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Water through Prakṛti",
+   "directed": "Water through Prakṛti"
+  },
+  {
+   "id": "b320",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "23",
+   "directed": "23"
+  },
+  {
+   "id": "b321",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Vidyā",
+   "directed": "[slowly] Vidyā"
+  },
+  {
+   "id": "b322",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Puruṣa through Māyā",
+   "directed": "Puruṣa through Māyā"
+  },
+  {
+   "id": "b323",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "7",
+   "directed": "7"
+  },
+  {
+   "id": "b324",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Śāntā",
+   "directed": "[slowly] Śāntā"
+  },
+  {
+   "id": "b325",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śuddhavidyā through Śakti",
+   "directed": "Śuddhavidyā through Śakti"
+  },
+  {
+   "id": "b326",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "4",
+   "directed": "4"
+  },
+  {
+   "id": "b327",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Thirty-five tattvas.",
+   "directed": "Thirty-five tattvas."
+  },
+  {
+   "id": "b328",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Four cosmic eggs.",
+   "directed": "Four cosmic eggs."
+  },
+  {
+   "id": "b329",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now you might be wondering:",
+   "directed": "[short pause] Now you might be wondering:"
+  },
+  {
+   "id": "b330",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Hang on, Abhinava. You’ve only counted thirty-five. Where’s the thirty-sixth?”",
+   "directed": "[short pause] “Hang on, Abhinava. You’ve only counted thirty-five. Where’s the thirty-sixth?”"
+  },
+  {
+   "id": "b331",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Excellent question.",
+   "directed": "Excellent question."
+  },
+  {
+   "id": "b332",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because the thirty-sixth is Śiva.",
+   "directed": "Because the thirty-sixth is Śiva."
+  },
+  {
+   "id": "b333",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And he’s not being treated as simply another egg.",
+   "directed": "And he’s not being treated as simply another egg."
+  },
+  {
+   "id": "b334",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But first, why do the eggs end at Śakti?",
+   "directed": "But first, why do the eggs end at Śakti?"
+  },
+  {
+   "id": "b335",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is where Abhinavagupta makes a subtle argument involving sparśa.",
+   "directed": "This is where Abhinavagupta makes a subtle argument involving sparśa."
+  },
+  {
+   "id": "b336",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Contact.",
+   "directed": "Contact."
+  },
+  {
+   "id": "b337",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He says that, through the presence of the powers from earth onward, a kind of contact remains possible all the way up to the Śakti-tattva.",
+   "directed": "He says that, through the presence of the powers from earth onward, a kind of contact remains possible all the way up to the Śakti-tattva."
+  },
+  {
+   "id": "b338",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Parasparśa.",
+   "directed": "[slowly] Parasparśa."
+  },
+  {
+   "id": "b339",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And contact possesses a characteristic of resistance.",
+   "directed": "And contact possesses a characteristic of resistance."
+  },
+  {
+   "id": "b340",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sapratighatva.",
+   "directed": "Sapratighatva."
+  },
+  {
+   "id": "b341",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Something that can stand over against something else.",
+   "directed": "Something that can stand over against something else."
+  },
+  {
+   "id": "b342",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, this doesn’t mean we’re supposed to imagine Śakti as a physical object you can bump into.",
+   "directed": "Now, this doesn’t mean we’re supposed to imagine Śakti as a physical object you can bump into."
+  },
+  {
+   "id": "b343",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re discussing the limiting boundary characteristic of an enclosure.",
+   "directed": "We’re discussing the limiting boundary characteristic of an enclosure."
+  },
+  {
+   "id": "b344",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The four eggs are meaningful insofar as manifestation can be described in terms of bounded or distinguishable domains.",
+   "directed": "The four eggs are meaningful insofar as manifestation can be described in terms of bounded or distinguishable domains."
+  },
+  {
+   "id": "b345",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Śakti is the highest limit of these enclosures.",
+   "directed": "And Śakti is the highest limit of these enclosures."
+  },
+  {
+   "id": "b346",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Beyond that?",
+   "directed": "Beyond that?"
+  },
+  {
+   "id": "b347",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re dealing with the supreme Śiva-tattva.",
+   "directed": "We’re dealing with the supreme Śiva-tattva."
+  },
+  {
+   "id": "b348",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now we encounter the fifth kalā.",
+   "directed": "And now we encounter the fifth kalā."
+  },
+  {
+   "id": "b349",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "7. Śāntātītā — beyond even peace\nŚāntātītā-kalā.",
+   "directed": "7. Śāntātītā — beyond even peace\nŚāntātītā-kalā."
+  },
+  {
+   "id": "b350",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "शान्तातीता",
+   "directed": "[slowly] शान्तातीता"
+  },
+  {
+   "id": "b351",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śānta — peaceful.",
+   "directed": "Śānta — peaceful."
+  },
+  {
+   "id": "b352",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Atīta — gone beyond, transcended.",
+   "directed": "Atīta — gone beyond, transcended."
+  },
+  {
+   "id": "b353",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So:",
+   "directed": "[short pause] So:"
+  },
+  {
+   "id": "b354",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Beyond peace.",
+   "directed": "Beyond peace."
+  },
+  {
+   "id": "b355",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this belongs to:",
+   "directed": "[short pause] And this belongs to:"
+  },
+  {
+   "id": "b356",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śiva-tattva.",
+   "directed": "Śiva-tattva."
+  },
+  {
+   "id": "b357",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now listen carefully.",
+   "directed": "Now listen carefully."
+  },
+  {
+   "id": "b358",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Abhinavagupta isn’t saying Śiva has abandoned peace and become an angry lunatic.",
+   "directed": "Abhinavagupta isn’t saying Śiva has abandoned peace and become an angry lunatic."
+  },
+  {
+   "id": "b359",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Absolutely not.",
+   "directed": "[short pause] Absolutely not."
+  },
+  {
+   "id": "b360",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He’s saying that even the divine division called Śāntā is not the final nature of the absolute.",
+   "directed": "He’s saying that even the divine division called Śāntā is not the final nature of the absolute."
+  },
+  {
+   "id": "b361",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The supreme reality transcends the division.",
+   "directed": "The supreme reality transcends the division."
+  },
+  {
+   "id": "b362",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But here’s something fascinating.",
+   "directed": "But here’s something fascinating."
+  },
+  {
+   "id": "b363",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He still permits Śiva-tattva to be described through a kalā.",
+   "directed": "He still permits Śiva-tattva to be described through a kalā."
+  },
+  {
+   "id": "b364",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Why?",
+   "directed": "Why?"
+  },
+  {
+   "id": "b365",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because Śiva can be spoken about.",
+   "directed": "Because Śiva can be spoken about."
+  },
+  {
+   "id": "b366",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Contemplated.",
+   "directed": "Contemplated."
+  },
+  {
+   "id": "b367",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Worshipped.",
+   "directed": "Worshipped."
+  },
+  {
+   "id": "b368",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Upadeśa.",
+   "directed": "[slowly] Upadeśa."
+  },
+  {
+   "id": "b369",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Instruction.",
+   "directed": "Instruction."
+  },
+  {
+   "id": "b370",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Bhāvanā.",
+   "directed": "[slowly] Bhāvanā."
+  },
+  {
+   "id": "b371",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Contemplation.",
+   "directed": "Contemplation."
+  },
+  {
+   "id": "b372",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Arcā.",
+   "directed": "[slowly] Arcā."
+  },
+  {
+   "id": "b373",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Worship.",
+   "directed": "Worship."
+  },
+  {
+   "id": "b374",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And whenever we contemplate Śiva as something articulated in teaching, we’re making a conceptual distinction.",
+   "directed": "And whenever we contemplate Śiva as something articulated in teaching, we’re making a conceptual distinction."
+  },
+  {
+   "id": "b375",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re bringing something into a form that can be taught or contemplated.",
+   "directed": "We’re bringing something into a form that can be taught or contemplated."
+  },
+  {
+   "id": "b376",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That’s why the designation Śāntātītā has a function.",
+   "directed": "That’s why the designation Śāntātītā has a function."
+  },
+  {
+   "id": "b377",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But then comes the important qualification.",
+   "directed": "But then comes the important qualification."
+  },
+  {
+   "id": "b378",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The supreme reality is utterly free.",
+   "directed": "The supreme reality is utterly free."
+  },
+  {
+   "id": "b379",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Svatantraṃ paraṃ tattvam.",
+   "directed": "Svatantraṃ paraṃ tattvam."
+  },
+  {
+   "id": "b380",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And insofar as it is completely beyond objectification, it’s not merely Śāntātītā.",
+   "directed": "And insofar as it is completely beyond objectification, it’s not merely Śāntātītā."
+  },
+  {
+   "id": "b381",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s:",
+   "directed": "[short pause] It’s:"
+  },
+  {
+   "id": "b382",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Kalātīta.",
+   "directed": "[slowly] Kalātīta."
+  },
+  {
+   "id": "b383",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "कलातीत",
+   "directed": "[slowly] कलातीत"
+  },
+  {
+   "id": "b384",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Beyond the kalās altogether.",
+   "directed": "Beyond the kalās altogether."
+  },
+  {
+   "id": "b385",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, that’s a profound distinction.",
+   "directed": "Now, that’s a profound distinction."
+  },
+  {
+   "id": "b386",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You can contemplate Śiva.",
+   "directed": "You can contemplate Śiva."
+  },
+  {
+   "id": "b387",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But whatever appears as the contemplated object isn’t the whole unrestricted reality of Śiva.",
+   "directed": "But whatever appears as the contemplated object isn’t the whole unrestricted reality of Śiva."
+  },
+  {
+   "id": "b388",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because Śiva isn’t merely an object.",
+   "directed": "Because Śiva isn’t merely an object."
+  },
+  {
+   "id": "b389",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He’s the very conscious freedom in which contemplation itself appears.",
+   "directed": "He’s the very conscious freedom in which contemplation itself appears."
+  },
+  {
+   "id": "b390",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So we’ve got five kalās.",
+   "directed": "So we’ve got five kalās."
+  },
+  {
+   "id": "b391",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the absolute is not imprisoned by the classification.",
+   "directed": "But the absolute is not imprisoned by the classification."
+  },
+  {
+   "id": "b392",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Abhinavagupta sums up the whole arrangement:",
+   "directed": "[short pause] And Abhinavagupta sums up the whole arrangement:"
+  },
+  {
+   "id": "b393",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Evaṃ pañcaiva kalāḥ ṣaṭtriṃśattattvāni.",
+   "directed": "[slowly] Evaṃ pañcaiva kalāḥ ṣaṭtriṃśattattvāni."
+  },
+  {
+   "id": "b394",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Thus, precisely five kalās and thirty-six tattvas.",
+   "directed": "Thus, precisely five kalās and thirty-six tattvas."
+  },
+  {
+   "id": "b395",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Right.",
+   "directed": "[short pause] Right."
+  },
+  {
+   "id": "b396",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’d think that would settle the matter.",
+   "directed": "You’d think that would settle the matter."
+  },
+  {
+   "id": "b397",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Five and thirty-six.",
+   "directed": "Five and thirty-six."
+  },
+  {
+   "id": "b398",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Lovely.",
+   "directed": "[short pause] Lovely."
+  },
+  {
+   "id": "b399",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But no.",
+   "directed": "But no."
+  },
+  {
+   "id": "b400",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Abhinavagupta now decides to explain why thirty-six is a philosophically intelligible number in the first place.",
+   "directed": "Abhinavagupta now decides to explain why thirty-six is a philosophically intelligible number in the first place."
+  },
+  {
+   "id": "b401",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the way he does it is absolutely fascinating.",
+   "directed": "And the way he does it is absolutely fascinating."
+  },
+  {
+   "id": "b402",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "8. Why exactly thirty-six tattvas?\nRight.",
+   "directed": "8. Why exactly thirty-six tattvas?\nRight."
+  },
+  {
+   "id": "b403",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Someone’s going to ask:",
+   "directed": "[short pause] Someone’s going to ask:"
+  },
+  {
+   "id": "b404",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Abhinava, why thirty-six? Why not thirty-five or forty-two?”",
+   "directed": "[short pause] “Abhinava, why thirty-six? Why not thirty-five or forty-two?”"
+  },
+  {
+   "id": "b405",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Fair question.",
+   "directed": "Fair question."
+  },
+  {
+   "id": "b406",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now we’re not simply repeating the list of principles from Chapter Eight.",
+   "directed": "Now we’re not simply repeating the list of principles from Chapter Eight."
+  },
+  {
+   "id": "b407",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re grouping them according to the fundamental functions of conscious manifestation.",
+   "directed": "We’re grouping them according to the fundamental functions of conscious manifestation."
+  },
+  {
+   "id": "b408",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "First:",
+   "directed": "[short pause] First:"
+  },
+  {
+   "id": "b409",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Prameyatva.",
+   "directed": "Prameyatva."
+  },
+  {
+   "id": "b410",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The condition of being knowable.",
+   "directed": "The condition of being knowable."
+  },
+  {
+   "id": "b411",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Objecthood.",
+   "directed": "Objecthood."
+  },
+  {
+   "id": "b412",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is twofold.",
+   "directed": "And this is twofold."
+  },
+  {
+   "id": "b413",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sthūla — gross.\nSūkṣma — subtle.\nFive gross principles.",
+   "directed": "Sthūla — gross.\nSūkṣma — subtle.\nFive gross principles."
+  },
+  {
+   "id": "b414",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Five subtle principles.",
+   "directed": "Five subtle principles."
+  },
+  {
+   "id": "b415",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ten.",
+   "directed": "Ten."
+  },
+  {
+   "id": "b416",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Next:",
+   "directed": "[short pause] Next:"
+  },
+  {
+   "id": "b417",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Karaṇatva.",
+   "directed": "[slowly] Karaṇatva."
+  },
+  {
+   "id": "b418",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Instrumentality.",
+   "directed": "Instrumentality."
+  },
+  {
+   "id": "b419",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The condition of functioning as a means or instrument.",
+   "directed": "The condition of functioning as a means or instrument."
+  },
+  {
+   "id": "b420",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this too is twofold.",
+   "directed": "And this too is twofold."
+  },
+  {
+   "id": "b421",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Pure instrumentality.",
+   "directed": "Pure instrumentality."
+  },
+  {
+   "id": "b422",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śuddha.",
+   "directed": "Śuddha."
+  },
+  {
+   "id": "b423",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And instrumentality in contact with agency.",
+   "directed": "And instrumentality in contact with agency."
+  },
+  {
+   "id": "b424",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Kartṛtāsparśi.",
+   "directed": "[slowly] Kartṛtāsparśi."
+  },
+  {
+   "id": "b425",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Five in each division.",
+   "directed": "Five in each division."
+  },
+  {
+   "id": "b426",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Another ten.",
+   "directed": "Another ten."
+  },
+  {
+   "id": "b427",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So now we’ve got twenty.",
+   "directed": "So now we’ve got twenty."
+  },
+  {
+   "id": "b428",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But there are further levels.",
+   "directed": "But there are further levels."
+  },
+  {
+   "id": "b429",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Next come five principles in which instrumentality becomes subordinate and agency becomes explicit.",
+   "directed": "Next come five principles in which instrumentality becomes subordinate and agency becomes explicit."
+  },
+  {
+   "id": "b430",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Kartṛbhāva-sphuṭatva.",
+   "directed": "[slowly] Kartṛbhāva-sphuṭatva."
+  },
+  {
+   "id": "b431",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Five more.",
+   "directed": "Five more."
+  },
+  {
+   "id": "b432",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Twenty-five.",
+   "directed": "Twenty-five."
+  },
+  {
+   "id": "b433",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then five in which pure agency predominates.",
+   "directed": "Then five in which pure agency predominates."
+  },
+  {
+   "id": "b434",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Śuddha-kartṛbhāva.",
+   "directed": "[slowly] Śuddha-kartṛbhāva."
+  },
+  {
+   "id": "b435",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now we’re at thirty.",
+   "directed": "Now we’re at thirty."
+  },
+  {
+   "id": "b436",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then five in which differentiation is dissolving and consciousness is turning toward expansion.",
+   "directed": "Then five in which differentiation is dissolving and consciousness is turning toward expansion."
+  },
+  {
+   "id": "b437",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Vigalita-vibhāgatayā vikāsonmukhatva.",
+   "directed": "[slowly] Vigalita-vibhāgatayā vikāsonmukhatva."
+  },
+  {
+   "id": "b438",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now we’re at thirty-five.",
+   "directed": "Now we’re at thirty-five."
+  },
+  {
+   "id": "b439",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And finally:",
+   "directed": "[short pause] And finally:"
+  },
+  {
+   "id": "b440",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śiva-tattva.",
+   "directed": "Śiva-tattva."
+  },
+  {
+   "id": "b441",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The thirty-sixth.",
+   "directed": "The thirty-sixth."
+  },
+  {
+   "id": "b442",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Free from every limitation.",
+   "directed": "Free from every limitation."
+  },
+  {
+   "id": "b443",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Sarvāvaccheda-śūnya.",
+   "directed": "[slowly] Sarvāvaccheda-śūnya."
+  },
+  {
+   "id": "b444",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "figure",
+   "voice": "none",
+   "text": "ABHINAVAGUPTA’S FUNCTIONAL RECOUNT",
+   "directed": "ABHINAVAGUPTA’S FUNCTIONAL RECOUNT"
+  },
+  {
+   "id": "b445",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "10\nGross and subtle knowability",
+   "directed": "10\nGross and subtle knowability"
+  },
+  {
+   "id": "b446",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "10\nTwo forms of instrumentality",
+   "directed": "10\nTwo forms of instrumentality"
+  },
+  {
+   "id": "b447",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "5\nAgency becoming explicit",
+   "directed": "5\nAgency becoming explicit"
+  },
+  {
+   "id": "b448",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "5\nPure agency",
+   "directed": "5\nPure agency"
+  },
+  {
+   "id": "b449",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "5\nDissolving distinctions, approaching expansion",
+   "directed": "5\nDissolving distinctions, approaching expansion"
+  },
+  {
+   "id": "b450",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "1\nŚiva, unrestricted consciousness",
+   "directed": "1\nŚiva, unrestricted consciousness"
+  },
+  {
+   "id": "b451",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Total",
+   "directed": "Total"
+  },
+  {
+   "id": "b452",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "36\nNow, isn’t that remarkable?",
+   "directed": "36\nNow, isn’t that remarkable?"
+  },
+  {
+   "id": "b453",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re not just counting cosmic substances.",
+   "directed": "We’re not just counting cosmic substances."
+  },
+  {
+   "id": "b454",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re following the changing predominance of three fundamental dimensions.",
+   "directed": "We’re following the changing predominance of three fundamental dimensions."
+  },
+  {
+   "id": "b455",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The known.",
+   "directed": "The known."
+  },
+  {
+   "id": "b456",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Prameya.",
+   "directed": "Prameya."
+  },
+  {
+   "id": "b457",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The instrument of knowledge.",
+   "directed": "The instrument of knowledge."
+  },
+  {
+   "id": "b458",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Pramāṇa.",
+   "directed": "[slowly] Pramāṇa."
+  },
+  {
+   "id": "b459",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The knower.",
+   "directed": "The knower."
+  },
+  {
+   "id": "b460",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Pramātṛ.",
+   "directed": "[slowly] Pramātṛ."
+  },
+  {
+   "id": "b461",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Remember those?",
+   "directed": "Remember those?"
+  },
+  {
+   "id": "b462",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They’ve been following us throughout the entire Tantrasāra.",
+   "directed": "They’ve been following us throughout the entire Tantrasāra."
+  },
+  {
+   "id": "b463",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here the movement is from objectivity through instrumentality and agency toward the unrestricted knower.",
+   "directed": "And here the movement is from objectivity through instrumentality and agency toward the unrestricted knower."
+  },
+  {
+   "id": "b464",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Eventually, there’s no limitation whatsoever.",
+   "directed": "Eventually, there’s no limitation whatsoever."
+  },
+  {
+   "id": "b465",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that’s Śiva.",
+   "directed": "And that’s Śiva."
+  },
+  {
+   "id": "b466",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But now Abhinavagupta introduces an absolutely brilliant philosophical problem.",
+   "directed": "But now Abhinavagupta introduces an absolutely brilliant philosophical problem."
+  },
+  {
+   "id": "b467",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because someone can apparently turn thirty-six tattvas into thirty-seven.",
+   "directed": "Because someone can apparently turn thirty-six tattvas into thirty-seven."
+  },
+  {
+   "id": "b468",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then thirty-eight.",
+   "directed": "Then thirty-eight."
+  },
+  {
+   "id": "b469",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And suddenly we seem to be creating an infinite number of tattvas.",
+   "directed": "And suddenly we seem to be creating an infinite number of tattvas."
+  },
+  {
+   "id": "b470",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Here we go.",
+   "directed": "Here we go."
+  },
+  {
+   "id": "b471",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "9. The thirty-seventh tattva — Śiva becomes an object\nRight.",
+   "directed": "9. The thirty-seventh tattva — Śiva becomes an object\nRight."
+  },
+  {
+   "id": "b472",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’ve established thirty-six principles.",
+   "directed": "We’ve established thirty-six principles."
+  },
+  {
+   "id": "b473",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Śiva is the thirty-sixth.",
+   "directed": "And Śiva is the thirty-sixth."
+  },
+  {
+   "id": "b474",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Fine.",
+   "directed": "Fine."
+  },
+  {
+   "id": "b475",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But suppose I teach you about Śiva.",
+   "directed": "But suppose I teach you about Śiva."
+  },
+  {
+   "id": "b476",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "I say:",
+   "directed": "[short pause] I say:"
+  },
+  {
+   "id": "b477",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Śiva is unrestricted consciousness.”",
+   "directed": "[short pause] “Śiva is unrestricted consciousness.”"
+  },
+  {
+   "id": "b478",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now you’re thinking about Śiva.",
+   "directed": "Now you’re thinking about Śiva."
+  },
+  {
+   "id": "b479",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You have some conception of him.",
+   "directed": "You have some conception of him."
+  },
+  {
+   "id": "b480",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve made Śiva into something contemplated.",
+   "directed": "You’ve made Śiva into something contemplated."
+  },
+  {
+   "id": "b481",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A knowable.",
+   "directed": "A knowable."
+  },
+  {
+   "id": "b482",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vedya.",
+   "directed": "Vedya."
+  },
+  {
+   "id": "b483",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, there’s a distinction between the unrestricted reality itself and the reality as it appears within a particular act of contemplation.",
+   "directed": "Now, there’s a distinction between the unrestricted reality itself and the reality as it appears within a particular act of contemplation."
+  },
+  {
+   "id": "b484",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So Abhinavagupta permits a further conceptual position.",
+   "directed": "So Abhinavagupta permits a further conceptual position."
+  },
+  {
+   "id": "b485",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The thirty-seventh.",
+   "directed": "The thirty-seventh."
+  },
+  {
+   "id": "b486",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The standpoint established when the thirty-sixth principle is taught or contemplated.",
+   "directed": "The standpoint established when the thirty-sixth principle is taught or contemplated."
+  },
+  {
+   "id": "b487",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, you might say:",
+   "directed": "[short pause] Now, you might say:"
+  },
+  {
+   "id": "b488",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Well, what if I contemplate that thirty-seventh position?”",
+   "directed": "[short pause] “Well, what if I contemplate that thirty-seventh position?”"
+  },
+  {
+   "id": "b489",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Good question.",
+   "directed": "Good question."
+  },
+  {
+   "id": "b490",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Apparently, we can speak of a thirty-eighth.",
+   "directed": "Apparently, we can speak of a thirty-eighth."
+  },
+  {
+   "id": "b491",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now imagine this keeps happening.",
+   "directed": "Now imagine this keeps happening."
+  },
+  {
+   "id": "b492",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "I contemplate Śiva.",
+   "directed": "I contemplate Śiva."
+  },
+  {
+   "id": "b493",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then I contemplate my contemplation of Śiva.",
+   "directed": "Then I contemplate my contemplation of Śiva."
+  },
+  {
+   "id": "b494",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then I contemplate that contemplation.",
+   "directed": "Then I contemplate that contemplation."
+  },
+  {
+   "id": "b495",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then I contemplate my contemplation of the contemplation of Śiva.",
+   "directed": "Then I contemplate my contemplation of the contemplation of Śiva."
+  },
+  {
+   "id": "b496",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And so on.",
+   "directed": "And so on."
+  },
+  {
+   "id": "b497",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Congratulations.",
+   "directed": "Congratulations."
+  },
+  {
+   "id": "b498",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve invented spiritual bureaucracy.",
+   "directed": "You’ve invented spiritual bureaucracy."
+  },
+  {
+   "id": "b499",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re going to need an infinite number of metaphysical filing cabinets.",
+   "directed": "We’re going to need an infinite number of metaphysical filing cabinets."
+  },
+  {
+   "id": "b500",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But Abhinavagupta says:",
+   "directed": "[short pause] But Abhinavagupta says:"
+  },
+  {
+   "id": "b501",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Na ca anavasthā.",
+   "directed": "Na ca anavasthā."
+  },
+  {
+   "id": "b502",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There is no infinite regress.",
+   "directed": "There is no infinite regress."
+  },
+  {
+   "id": "b503",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Why?",
+   "directed": "Why?"
+  },
+  {
+   "id": "b504",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because the distinction terminates when the unrestricted reality possessing unbroken freedom is considered as the object of contemplation.",
+   "directed": "Because the distinction terminates when the unrestricted reality possessing unbroken freedom is considered as the object of contemplation."
+  },
+  {
+   "id": "b505",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The apparent additional levels don’t produce an endless succession of genuinely independent tattvas.",
+   "directed": "The apparent additional levels don’t produce an endless succession of genuinely independent tattvas."
+  },
+  {
+   "id": "b506",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They resolve into the already established distinction between unrestricted reality and its objectified presentation.",
+   "directed": "They resolve into the already established distinction between unrestricted reality and its objectified presentation."
+  },
+  {
+   "id": "b507",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So the number thirty-six remains valid within the original scheme.",
+   "directed": "So the number thirty-six remains valid within the original scheme."
+  },
+  {
+   "id": "b508",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the teaching acknowledges that the very act of speaking about or contemplating Śiva introduces a conceptual standpoint.",
+   "directed": "But the teaching acknowledges that the very act of speaking about or contemplating Śiva introduces a conceptual standpoint."
+  },
+  {
+   "id": "b509",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here’s the beautiful point.",
+   "directed": "And here’s the beautiful point."
+  },
+  {
+   "id": "b510",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Śiva you are thinking about is not identical, as an object of thought, with the unrestricted consciousness through which that thought appears.",
+   "directed": "The Śiva you are thinking about is not identical, as an object of thought, with the unrestricted consciousness through which that thought appears."
+  },
+  {
+   "id": "b511",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now that is a proper philosophical distinction.",
+   "directed": "Now that is a proper philosophical distinction."
+  },
+  {
+   "id": "b512",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And notice how it relates to our earlier discussions.",
+   "directed": "And notice how it relates to our earlier discussions."
+  },
+  {
+   "id": "b513",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In Śāktopāya, correct concepts help overcome mistaken concepts.",
+   "directed": "In Śāktopāya, correct concepts help overcome mistaken concepts."
+  },
+  {
+   "id": "b514",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the concepts don’t manufacture Śiva.",
+   "directed": "But the concepts don’t manufacture Śiva."
+  },
+  {
+   "id": "b515",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Likewise here, the conceptual presentation of Śiva doesn’t exhaust the reality it indicates.",
+   "directed": "Likewise here, the conceptual presentation of Śiva doesn’t exhaust the reality it indicates."
+  },
+  {
+   "id": "b516",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The supreme is:",
+   "directed": "[short pause] The supreme is:"
+  },
+  {
+   "id": "b517",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Aprameya.",
+   "directed": "Aprameya."
+  },
+  {
+   "id": "b518",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not an object of knowledge in the ordinary sense.",
+   "directed": "Not an object of knowledge in the ordinary sense."
+  },
+  {
+   "id": "b519",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that brings us back to the purpose of the five kalās.",
+   "directed": "And that brings us back to the purpose of the five kalās."
+  },
+  {
+   "id": "b520",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They’re an intelligible arrangement of manifestation.",
+   "directed": "They’re an intelligible arrangement of manifestation."
+  },
+  {
+   "id": "b521",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not five independently existing substances outside supreme consciousness.",
+   "directed": "Not five independently existing substances outside supreme consciousness."
+  },
+  {
+   "id": "b522",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Right.",
+   "directed": "[short pause] Right."
+  },
+  {
+   "id": "b523",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Five kalās established.",
+   "directed": "Five kalās established."
+  },
+  {
+   "id": "b524",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Thirty-six tattvas explained.",
+   "directed": "Thirty-six tattvas explained."
+  },
+  {
+   "id": "b525",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Potential infinite regress defeated.",
+   "directed": "Potential infinite regress defeated."
+  },
+  {
+   "id": "b526",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Surely we’re finished?",
+   "directed": "Surely we’re finished?"
+  },
+  {
+   "id": "b527",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "No.",
+   "directed": "No."
+  },
+  {
+   "id": "b528",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because apparently somebody has suggested another classification.",
+   "directed": "Because apparently somebody has suggested another classification."
+  },
+  {
+   "id": "b529",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This time with just three divisions.",
+   "directed": "This time with just three divisions."
+  },
+  {
+   "id": "b530",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "10. The threefold classification — even the thirty-six can be simplified\nNow we encounter:",
+   "directed": "[short pause] 10. The threefold classification — even the thirty-six can be simplified\nNow we encounter:"
+  },
+  {
+   "id": "b531",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Tritattvavidhi.",
+   "directed": "Tritattvavidhi."
+  },
+  {
+   "id": "b532",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The method of three principles.",
+   "directed": "The method of three principles."
+  },
+  {
+   "id": "b533",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Abhinavagupta gives us three divisions.",
+   "directed": "And Abhinavagupta gives us three divisions."
+  },
+  {
+   "id": "b534",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "First:",
+   "directed": "[short pause] First:"
+  },
+  {
+   "id": "b535",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Ātmakalā.",
+   "directed": "[slowly] Ātmakalā."
+  },
+  {
+   "id": "b536",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The division of the self.",
+   "directed": "The division of the self."
+  },
+  {
+   "id": "b537",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Extending up to the level of the Vijñānākala.",
+   "directed": "Extending up to the level of the Vijñānākala."
+  },
+  {
+   "id": "b538",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Second:",
+   "directed": "[short pause] Second:"
+  },
+  {
+   "id": "b539",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Vidyākalā.",
+   "directed": "[slowly] Vidyākalā."
+  },
+  {
+   "id": "b540",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The division of knowledge.",
+   "directed": "The division of knowledge."
+  },
+  {
+   "id": "b541",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Extending up to Īśvara.",
+   "directed": "Extending up to Īśvara."
+  },
+  {
+   "id": "b542",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And third:",
+   "directed": "[short pause] And third:"
+  },
+  {
+   "id": "b543",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Śivakalā.",
+   "directed": "[slowly] Śivakalā."
+  },
+  {
+   "id": "b544",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The division belonging to Śiva.",
+   "directed": "The division belonging to Śiva."
+  },
+  {
+   "id": "b545",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Encompassing what remains beyond that.",
+   "directed": "Encompassing what remains beyond that."
+  },
+  {
+   "id": "b546",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, this is interesting.",
+   "directed": "Now, this is interesting."
+  },
+  {
+   "id": "b547",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because we’ve just spent a long time insisting on precisely five kalās.",
+   "directed": "Because we’ve just spent a long time insisting on precisely five kalās."
+  },
+  {
+   "id": "b548",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And suddenly we can use three.",
+   "directed": "And suddenly we can use three."
+  },
+  {
+   "id": "b549",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Isn’t that a contradiction?",
+   "directed": "Isn’t that a contradiction?"
+  },
+  {
+   "id": "b550",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "No.",
+   "directed": "No."
+  },
+  {
+   "id": "b551",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because these are different arrangements of the same manifested reality.",
+   "directed": "Because these are different arrangements of the same manifested reality."
+  },
+  {
+   "id": "b552",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re not changing the ultimate nature of Śiva every time we change our classification.",
+   "directed": "We’re not changing the ultimate nature of Śiva every time we change our classification."
+  },
+  {
+   "id": "b553",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re grouping the manifestations differently.",
+   "directed": "We’re grouping the manifestations differently."
+  },
+  {
+   "id": "b554",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Abhinavagupta says:",
+   "directed": "[short pause] And Abhinavagupta says:"
+  },
+  {
+   "id": "b555",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Evaṃ navatattvādy api ūhayet.",
+   "directed": "Evaṃ navatattvādy api ūhayet."
+  },
+  {
+   "id": "b556",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In the same way, one may reason out a ninefold classification and other arrangements.",
+   "directed": "In the same way, one may reason out a ninefold classification and other arrangements."
+  },
+  {
+   "id": "b557",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, that’s remarkably flexible.",
+   "directed": "Now, that’s remarkably flexible."
+  },
+  {
+   "id": "b558",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because the point isn’t to become obsessed with one particular number.",
+   "directed": "Because the point isn’t to become obsessed with one particular number."
+  },
+  {
+   "id": "b559",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The divisions have to be intelligible.",
+   "directed": "The divisions have to be intelligible."
+  },
+  {
+   "id": "b560",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They must correspond to meaningful distinctions in the manner of manifestation.",
+   "directed": "They must correspond to meaningful distinctions in the manner of manifestation."
+  },
+  {
+   "id": "b561",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the same cosmic reality can be understood through different arrangements.",
+   "directed": "But the same cosmic reality can be understood through different arrangements."
+  },
+  {
+   "id": "b562",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that’s quite profound.",
+   "directed": "And that’s quite profound."
+  },
+  {
+   "id": "b563",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because sometimes people encounter different Śaiva classifications and immediately conclude:",
+   "directed": "[short pause] Because sometimes people encounter different Śaiva classifications and immediately conclude:"
+  },
+  {
+   "id": "b564",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Well, somebody’s got the numbers wrong.”",
+   "directed": "[short pause] “Well, somebody’s got the numbers wrong.”"
+  },
+  {
+   "id": "b565",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But Abhinavagupta is explicitly allowing several schemes.",
+   "directed": "But Abhinavagupta is explicitly allowing several schemes."
+  },
+  {
+   "id": "b566",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Five.",
+   "directed": "Five."
+  },
+  {
+   "id": "b567",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Three.",
+   "directed": "Three."
+  },
+  {
+   "id": "b568",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nine.",
+   "directed": "Nine."
+  },
+  {
+   "id": "b569",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And other possibilities.",
+   "directed": "And other possibilities."
+  },
+  {
+   "id": "b570",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The arrangement depends upon the kind of analysis being undertaken.",
+   "directed": "The arrangement depends upon the kind of analysis being undertaken."
+  },
+  {
+   "id": "b571",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The divisions are instruments of understanding, not independent ultimate realities.",
+   "directed": "The divisions are instruments of understanding, not independent ultimate realities."
+  },
+  {
+   "id": "b572",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now comes the climax of the chapter.",
+   "directed": "And now comes the climax of the chapter."
+  },
+  {
+   "id": "b573",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because we’re going to take absolutely everything we’ve learned and show why there are six great cosmic pathways.",
+   "directed": "Because we’re going to take absolutely everything we’ve learned and show why there are six great cosmic pathways."
+  },
+  {
+   "id": "b574",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not five.",
+   "directed": "Not five."
+  },
+  {
+   "id": "b575",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not three.",
+   "directed": "Not three."
+  },
+  {
+   "id": "b576",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Six.",
+   "directed": "Six."
+  },
+  {
+   "id": "b577",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And they’re all the same reality.",
+   "directed": "And they’re all the same reality."
+  },
+  {
+   "id": "b578",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "11. The six adhvans — three ways of being an object\nRight.",
+   "directed": "11. The six adhvans — three ways of being an object\nRight."
+  },
+  {
+   "id": "b579",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Remember the six pathways?",
+   "directed": "Remember the six pathways?"
+  },
+  {
+   "id": "b580",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Ṣaḍadhvan.",
+   "directed": "[slowly] Ṣaḍadhvan."
+  },
+  {
+   "id": "b581",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re finally going to explain how they fit together.",
+   "directed": "We’re finally going to explain how they fit together."
+  },
+  {
+   "id": "b582",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "First, three belong to the domain of the knowable.",
+   "directed": "First, three belong to the domain of the knowable."
+  },
+  {
+   "id": "b583",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Meya.",
+   "directed": "Meya."
+  },
+  {
+   "id": "b584",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Or:",
+   "directed": "[short pause] Or:"
+  },
+  {
+   "id": "b585",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Prameya.",
+   "directed": "Prameya."
+  },
+  {
+   "id": "b586",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The object of knowledge.",
+   "directed": "The object of knowledge."
+  },
+  {
+   "id": "b587",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "These are:",
+   "directed": "[short pause] These are:"
+  },
+  {
+   "id": "b588",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Bhuvana-adhvan.",
+   "directed": "Bhuvana-adhvan."
+  },
+  {
+   "id": "b589",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The path of worlds.",
+   "directed": "The path of worlds."
+  },
+  {
+   "id": "b590",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Tattva-adhvan.",
+   "directed": "Tattva-adhvan."
+  },
+  {
+   "id": "b591",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The path of principles.",
+   "directed": "The path of principles."
+  },
+  {
+   "id": "b592",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Kalā-adhvan.",
+   "directed": "[slowly] Kalā-adhvan."
+  },
+  {
+   "id": "b593",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The path of the great divisions.",
+   "directed": "The path of the great divisions."
+  },
+  {
+   "id": "b594",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, why three?",
+   "directed": "Now, why three?"
+  },
+  {
+   "id": "b595",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because the objective side of manifestation can be considered in three modes.",
+   "directed": "Because the objective side of manifestation can be considered in three modes."
+  },
+  {
+   "id": "b596",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sthūla — gross.\nSūkṣma — subtle.\nPara — supreme or higher.\nSo the same objective manifestation is considered through increasingly comprehensive levels.",
+   "directed": "Sthūla — gross.\nSūkṣma — subtle.\nPara — supreme or higher.\nSo the same objective manifestation is considered through increasingly comprehensive levels."
+  },
+  {
+   "id": "b597",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "First, particular worlds.",
+   "directed": "First, particular worlds."
+  },
+  {
+   "id": "b598",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then the principles pervading those worlds.",
+   "directed": "Then the principles pervading those worlds."
+  },
+  {
+   "id": "b599",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then the kalās encompassing collections of principles.",
+   "directed": "Then the kalās encompassing collections of principles."
+  },
+  {
+   "id": "b600",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now think about that.",
+   "directed": "Now think about that."
+  },
+  {
+   "id": "b601",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A world is a particular domain of manifestation.",
+   "directed": "A world is a particular domain of manifestation."
+  },
+  {
+   "id": "b602",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A tattva is a common principle running through worlds.",
+   "directed": "A tattva is a common principle running through worlds."
+  },
+  {
+   "id": "b603",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And a kalā is a higher unity running through groups of tattvas.",
+   "directed": "And a kalā is a higher unity running through groups of tattvas."
+  },
+  {
+   "id": "b604",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So we’re not talking about three completely different universes.",
+   "directed": "So we’re not talking about three completely different universes."
+  },
+  {
+   "id": "b605",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re examining one universe at three degrees of generality.",
+   "directed": "We’re examining one universe at three degrees of generality."
+  },
+  {
+   "id": "b606",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s like looking at a book.",
+   "directed": "It’s like looking at a book."
+  },
+  {
+   "id": "b607",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You can examine a particular sentence.",
+   "directed": "You can examine a particular sentence."
+  },
+  {
+   "id": "b608",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then the grammar through which sentences are structured.",
+   "directed": "Then the grammar through which sentences are structured."
+  },
+  {
+   "id": "b609",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then the more comprehensive organisation through which language becomes meaningful.",
+   "directed": "Then the more comprehensive organisation through which language becomes meaningful."
+  },
+  {
+   "id": "b610",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Different levels of analysis.",
+   "directed": "Different levels of analysis."
+  },
+  {
+   "id": "b611",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "One expressive reality.",
+   "directed": "One expressive reality."
+  },
+  {
+   "id": "b612",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Right.",
+   "directed": "[short pause] Right."
+  },
+  {
+   "id": "b613",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That’s the objective side.",
+   "directed": "That’s the objective side."
+  },
+  {
+   "id": "b614",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But now we turn toward the knowing subject.",
+   "directed": "But now we turn toward the knowing subject."
+  },
+  {
+   "id": "b615",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And something astonishing happens.",
+   "directed": "And something astonishing happens."
+  },
+  {
+   "id": "b616",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "12. The three pathways of expression — word, mantra and phoneme\nNow Abhinavagupta says that through repose in the knowing subject:",
+   "directed": "[short pause] 12. The three pathways of expression — word, mantra and phoneme\nNow Abhinavagupta says that through repose in the knowing subject:"
+  },
+  {
+   "id": "b617",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Mātṛ-viśrānti.",
+   "directed": "[slowly] Mātṛ-viśrānti."
+  },
+  {
+   "id": "b618",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The same manifestation can be understood through another threefold distinction.",
+   "directed": "The same manifestation can be understood through another threefold distinction."
+  },
+  {
+   "id": "b619",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And these three are:",
+   "directed": "[short pause] And these three are:"
+  },
+  {
+   "id": "b620",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Pada.",
+   "directed": "Pada."
+  },
+  {
+   "id": "b621",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Mantra.",
+   "directed": "Mantra."
+  },
+  {
+   "id": "b622",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Varṇa.",
+   "directed": "[slowly] Varṇa."
+  },
+  {
+   "id": "b623",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now here’s where we need to be very careful.",
+   "directed": "Now here’s where we need to be very careful."
+  },
+  {
+   "id": "b624",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because you might simply translate these as:",
+   "directed": "[short pause] Because you might simply translate these as:"
+  },
+  {
+   "id": "b625",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Word.",
+   "directed": "Word."
+  },
+  {
+   "id": "b626",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Mantra.",
+   "directed": "Mantra."
+  },
+  {
+   "id": "b627",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Letter.",
+   "directed": "Letter."
+  },
+  {
+   "id": "b628",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And conclude that we’re discussing three increasingly small bits of language.",
+   "directed": "And conclude that we’re discussing three increasingly small bits of language."
+  },
+  {
+   "id": "b629",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That’s not enough.",
+   "directed": "That’s not enough."
+  },
+  {
+   "id": "b630",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Sanskrit chapter explicitly connects these pathways with the changing condition of cognition.",
+   "directed": "The Sanskrit chapter explicitly connects these pathways with the changing condition of cognition."
+  },
+  {
+   "id": "b631",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "First:",
+   "directed": "[short pause] First:"
+  },
+  {
+   "id": "b632",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Pada — articulation through the means of knowing\nPada-adhvan.",
+   "directed": "Pada — articulation through the means of knowing\nPada-adhvan."
+  },
+  {
+   "id": "b633",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Here the manifestation is associated with:",
+   "directed": "[short pause] Here the manifestation is associated with:"
+  },
+  {
+   "id": "b634",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Pramāṇatā.",
+   "directed": "[slowly] Pramāṇatā."
+  },
+  {
+   "id": "b635",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The condition of being a means of knowing.",
+   "directed": "The condition of being a means of knowing."
+  },
+  {
+   "id": "b636",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, pada can mean an articulated word, expression, or meaningful linguistic unit.",
+   "directed": "Now, pada can mean an articulated word, expression, or meaningful linguistic unit."
+  },
+  {
+   "id": "b637",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And ordinary linguistic articulation involves differentiation.",
+   "directed": "And ordinary linguistic articulation involves differentiation."
+  },
+  {
+   "id": "b638",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This word means this.",
+   "directed": "This word means this."
+  },
+  {
+   "id": "b639",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That word means that.",
+   "directed": "That word means that."
+  },
+  {
+   "id": "b640",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The structure of language permits different meanings to be expressed and known.",
+   "directed": "The structure of language permits different meanings to be expressed and known."
+  },
+  {
+   "id": "b641",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But in this tantric analysis, pada isn’t merely a dictionary category.",
+   "directed": "But in this tantric analysis, pada isn’t merely a dictionary category."
+  },
+  {
+   "id": "b642",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s the pathway in which the expressive power of consciousness is functioning through differentiated cognition.",
+   "directed": "It’s the pathway in which the expressive power of consciousness is functioning through differentiated cognition."
+  },
+  {
+   "id": "b643",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The means of knowledge is active.",
+   "directed": "The means of knowledge is active."
+  },
+  {
+   "id": "b644",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the many are articulated.",
+   "directed": "And the many are articulated."
+  },
+  {
+   "id": "b645",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now imagine you’re investigating some complicated Sanskrit passage.",
+   "directed": "Now imagine you’re investigating some complicated Sanskrit passage."
+  },
+  {
+   "id": "b646",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’re distinguishing words.",
+   "directed": "You’re distinguishing words."
+  },
+  {
+   "id": "b647",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Parsing grammar.",
+   "directed": "Parsing grammar."
+  },
+  {
+   "id": "b648",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Separating compounds.",
+   "directed": "Separating compounds."
+  },
+  {
+   "id": "b649",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Establishing meanings.",
+   "directed": "Establishing meanings."
+  },
+  {
+   "id": "b650",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The differentiated cognitive operation is extraordinarily active.",
+   "directed": "The differentiated cognitive operation is extraordinarily active."
+  },
+  {
+   "id": "b651",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That’s a useful illustration of this level.",
+   "directed": "That’s a useful illustration of this level."
+  },
+  {
+   "id": "b652",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But now suppose the activity begins to become calmer.",
+   "directed": "But now suppose the activity begins to become calmer."
+  },
+  {
+   "id": "b653",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Mantra — the waves begin to settle\nMantra-adhvan.",
+   "directed": "Mantra — the waves begin to settle\nMantra-adhvan."
+  },
+  {
+   "id": "b654",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Abhinavagupta says:",
+   "directed": "[short pause] And Abhinavagupta says:"
+  },
+  {
+   "id": "b655",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Pramāṇasyaiva kṣobhataraṅgaśāmyattāyām.",
+   "directed": "[slowly] Pramāṇasyaiva kṣobhataraṅgaśāmyattāyām."
+  },
+  {
+   "id": "b656",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "When the waves of agitation belonging to the means of knowledge are becoming pacified.",
+   "directed": "When the waves of agitation belonging to the means of knowledge are becoming pacified."
+  },
+  {
+   "id": "b657",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now that’s absolutely magnificent.",
+   "directed": "Now that’s absolutely magnificent."
+  },
+  {
+   "id": "b658",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because we’ve encountered this imagery already.",
+   "directed": "Because we’ve encountered this imagery already."
+  },
+  {
+   "id": "b659",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The waves of the kañcukas.",
+   "directed": "The waves of the kañcukas."
+  },
+  {
+   "id": "b660",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The agitation of differentiated manifestation.",
+   "directed": "The agitation of differentiated manifestation."
+  },
+  {
+   "id": "b661",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now, the waves of the knowing instrument itself.",
+   "directed": "And now, the waves of the knowing instrument itself."
+  },
+  {
+   "id": "b662",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Kṣobha.",
+   "directed": "[slowly] Kṣobha."
+  },
+  {
+   "id": "b663",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Disturbance.",
+   "directed": "Disturbance."
+  },
+  {
+   "id": "b664",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Taraṅga.",
+   "directed": "[slowly] Taraṅga."
+  },
+  {
+   "id": "b665",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Wave.",
+   "directed": "Wave."
+  },
+  {
+   "id": "b666",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Śāmyattā.",
+   "directed": "[slowly] Śāmyattā."
+  },
+  {
+   "id": "b667",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Becoming calm.",
+   "directed": "Becoming calm."
+  },
+  {
+   "id": "b668",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So the mantra pathway is connected with the settling of the differentiated cognitive activity.",
+   "directed": "So the mantra pathway is connected with the settling of the differentiated cognitive activity."
+  },
+  {
+   "id": "b669",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now imagine a mantra that you’ve learned.",
+   "directed": "Now imagine a mantra that you’ve learned."
+  },
+  {
+   "id": "b670",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "At first you’re intensely concerned with pronunciation.",
+   "directed": "At first you’re intensely concerned with pronunciation."
+  },
+  {
+   "id": "b671",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "With each syllable.",
+   "directed": "With each syllable."
+  },
+  {
+   "id": "b672",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "With where one sound begins and another ends.",
+   "directed": "With where one sound begins and another ends."
+  },
+  {
+   "id": "b673",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Perhaps with the meaning.",
+   "directed": "Perhaps with the meaning."
+  },
+  {
+   "id": "b674",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But as contemplation deepens, those differentiated operations can become increasingly unified.",
+   "directed": "But as contemplation deepens, those differentiated operations can become increasingly unified."
+  },
+  {
+   "id": "b675",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The mantra is no longer merely a sequence of separately apprehended sounds.",
+   "directed": "The mantra is no longer merely a sequence of separately apprehended sounds."
+  },
+  {
+   "id": "b676",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Its contemplative activity approaches repose.",
+   "directed": "Its contemplative activity approaches repose."
+  },
+  {
+   "id": "b677",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, that’s an illustration, not a claim that Abhinavagupta gives a full japa instruction in this sentence.",
+   "directed": "Now, that’s an illustration, not a claim that Abhinavagupta gives a full japa instruction in this sentence."
+  },
+  {
+   "id": "b678",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He’s defining the pathway in terms of the calming of cognition.",
+   "directed": "He’s defining the pathway in terms of the calming of cognition."
+  },
+  {
+   "id": "b679",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And then comes the final one.",
+   "directed": "And then comes the final one."
+  },
+  {
+   "id": "b680",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Varṇa — the full knower\nVarṇa-adhvan.",
+   "directed": "Varṇa — the full knower\nVarṇa-adhvan."
+  },
+  {
+   "id": "b681",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now the agitations of cognition have subsided.",
+   "directed": "And now the agitations of cognition have subsided."
+  },
+  {
+   "id": "b682",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Tad-praśama.",
+   "directed": "[slowly] Tad-praśama."
+  },
+  {
+   "id": "b683",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The process is related to:",
+   "directed": "[short pause] The process is related to:"
+  },
+  {
+   "id": "b684",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Pūrṇa-pramātṛtā.",
+   "directed": "[slowly] Pūrṇa-pramātṛtā."
+  },
+  {
+   "id": "b685",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Full knowership.",
+   "directed": "Full knowership."
+  },
+  {
+   "id": "b686",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The completeness of the knowing subject.",
+   "directed": "The completeness of the knowing subject."
+  },
+  {
+   "id": "b687",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Remember our previous chapters?",
+   "directed": "Remember our previous chapters?"
+  },
+  {
+   "id": "b688",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The ultimate knower isn’t an isolated little individual.",
+   "directed": "The ultimate knower isn’t an isolated little individual."
+  },
+  {
+   "id": "b689",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s consciousness resting in the bliss of its own freedom.",
+   "directed": "It’s consciousness resting in the bliss of its own freedom."
+  },
+  {
+   "id": "b690",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Cit-svātantryānanda.",
+   "directed": "[slowly] Cit-svātantryānanda."
+  },
+  {
+   "id": "b691",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here the phonemic pathway is understood through that fullness.",
+   "directed": "And here the phonemic pathway is understood through that fullness."
+  },
+  {
+   "id": "b692",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now that’s quite extraordinary.",
+   "directed": "Now that’s quite extraordinary."
+  },
+  {
+   "id": "b693",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because we began with language as something that articulates distinct meanings.",
+   "directed": "Because we began with language as something that articulates distinct meanings."
+  },
+  {
+   "id": "b694",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then mantra as the calming of cognitive differentiation.",
+   "directed": "Then mantra as the calming of cognitive differentiation."
+  },
+  {
+   "id": "b695",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now varṇa as related to the fully awakened knowing subject.",
+   "directed": "And now varṇa as related to the fully awakened knowing subject."
+  },
+  {
+   "id": "b696",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Abhinavagupta says that through repose in this fullness, the reality attains its own essential nature.",
+   "directed": "And Abhinavagupta says that through repose in this fullness, the reality attains its own essential nature."
+  },
+  {
+   "id": "b697",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Labdha-svarūpa.",
+   "directed": "[slowly] Labdha-svarūpa."
+  },
+  {
+   "id": "b698",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Having obtained or recovered its own nature.",
+   "directed": "Having obtained or recovered its own nature."
+  },
+  {
+   "id": "b699",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So what’s the underlying movement?",
+   "directed": "So what’s the underlying movement?"
+  },
+  {
+   "id": "b700",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "From differentiation.",
+   "directed": "From differentiation."
+  },
+  {
+   "id": "b701",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Toward repose.",
+   "directed": "Toward repose."
+  },
+  {
+   "id": "b702",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Toward the fullness of awareness.",
+   "directed": "Toward the fullness of awareness."
+  },
+  {
+   "id": "b703",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And what exactly has been moving through these stages?",
+   "directed": "And what exactly has been moving through these stages?"
+  },
+  {
+   "id": "b704",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The one reality itself.",
+   "directed": "The one reality itself."
+  },
+  {
+   "id": "b705",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not three independent substances.",
+   "directed": "Not three independent substances."
+  },
+  {
+   "id": "b706",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not three separate consciousnesses.",
+   "directed": "Not three separate consciousnesses."
+  },
+  {
+   "id": "b707",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Three modes in which its expressive power is understood.",
+   "directed": "Three modes in which its expressive power is understood."
+  },
+  {
+   "id": "b708",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now the entire chapter comes together.",
+   "directed": "And now the entire chapter comes together."
+  },
+  {
+   "id": "b709",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "13. The punchline — there are six pathways, but only one reality\nRight.",
+   "directed": "13. The punchline — there are six pathways, but only one reality\nRight."
+  },
+  {
+   "id": "b710",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s count.",
+   "directed": "Let’s count."
+  },
+  {
+   "id": "b711",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "On the objective side:",
+   "directed": "[short pause] On the objective side:"
+  },
+  {
+   "id": "b712",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Bhuvana.",
+   "directed": "Bhuvana."
+  },
+  {
+   "id": "b713",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Tattva.",
+   "directed": "Tattva."
+  },
+  {
+   "id": "b714",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Kalā.",
+   "directed": "[slowly] Kalā."
+  },
+  {
+   "id": "b715",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "On the expressive and subjective side:",
+   "directed": "[short pause] On the expressive and subjective side:"
+  },
+  {
+   "id": "b716",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Pada.",
+   "directed": "Pada."
+  },
+  {
+   "id": "b717",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Mantra.",
+   "directed": "Mantra."
+  },
+  {
+   "id": "b718",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Varṇa.",
+   "directed": "[slowly] Varṇa."
+  },
+  {
+   "id": "b719",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "figure",
+   "voice": "none",
+   "text": "OBJECTIVE PATH",
+   "directed": "OBJECTIVE PATH"
+  },
+  {
+   "id": "b720",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Bhuvana — worlds",
+   "directed": "Bhuvana — worlds"
+  },
+  {
+   "id": "b721",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Tattva — principles",
+   "directed": "Tattva — principles"
+  },
+  {
+   "id": "b722",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kalā — encompassing divisions",
+   "directed": "Kalā — encompassing divisions"
+  },
+  {
+   "id": "b723",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "figure",
+   "voice": "none",
+   "text": "EXPRESSIVE PATH",
+   "directed": "EXPRESSIVE PATH"
+  },
+  {
+   "id": "b724",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Pada — articulated expression",
+   "directed": "Pada — articulated expression"
+  },
+  {
+   "id": "b725",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Mantra — pacifying cognitive activity",
+   "directed": "Mantra — pacifying cognitive activity"
+  },
+  {
+   "id": "b726",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Varṇa — phonemic power resting in full knowership",
+   "directed": "Varṇa — phonemic power resting in full knowership"
+  },
+  {
+   "id": "b727",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "One manifested reality, six modes of articulation.",
+   "directed": "One manifested reality, six modes of articulation."
+  },
+  {
+   "id": "b728",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Abhinavagupta concludes his prose with the central claim:",
+   "directed": "[short pause] And Abhinavagupta concludes his prose with the central claim:"
+  },
+  {
+   "id": "b729",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ekasyaiva ṣaḍvidhatvaṃ yuktam.",
+   "directed": "Ekasyaiva ṣaḍvidhatvaṃ yuktam."
+  },
+  {
+   "id": "b730",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s appropriate that one and the same reality should be sixfold.",
+   "directed": "It’s appropriate that one and the same reality should be sixfold."
+  },
+  {
+   "id": "b731",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now that’s a beautiful sentence.",
+   "directed": "Now that’s a beautiful sentence."
+  },
+  {
+   "id": "b732",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because we’ve spent ten chapters examining an absolutely enormous array of distinctions.",
+   "directed": "Because we’ve spent ten chapters examining an absolutely enormous array of distinctions."
+  },
+  {
+   "id": "b733",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here Abhinavagupta is saying that the very division of manifestation into six cosmic pathways doesn’t compromise its fundamental unity.",
+   "directed": "And here Abhinavagupta is saying that the very division of manifestation into six cosmic pathways doesn’t compromise its fundamental unity."
+  },
+  {
+   "id": "b734",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You can examine reality as worlds.",
+   "directed": "You can examine reality as worlds."
+  },
+  {
+   "id": "b735",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Or principles.",
+   "directed": "Or principles."
+  },
+  {
+   "id": "b736",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Or great divisions.",
+   "directed": "Or great divisions."
+  },
+  {
+   "id": "b737",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Or meaningful expressions.",
+   "directed": "Or meaningful expressions."
+  },
+  {
+   "id": "b738",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Or mantras.",
+   "directed": "Or mantras."
+  },
+  {
+   "id": "b739",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Or phonemes.",
+   "directed": "Or phonemes."
+  },
+  {
+   "id": "b740",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But all six are ways in which one reality manifests itself.",
+   "directed": "But all six are ways in which one reality manifests itself."
+  },
+  {
+   "id": "b741",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And it’s that one reality that finally rests in its own nature.",
+   "directed": "And it’s that one reality that finally rests in its own nature."
+  },
+  {
+   "id": "b742",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, isn’t that extraordinary?",
+   "directed": "Now, isn’t that extraordinary?"
+  },
+  {
+   "id": "b743",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The entire universe becomes intelligible through a structured series of distinctions.",
+   "directed": "The entire universe becomes intelligible through a structured series of distinctions."
+  },
+  {
+   "id": "b744",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Yet the distinctions themselves don’t establish six independent worlds.",
+   "directed": "Yet the distinctions themselves don’t establish six independent worlds."
+  },
+  {
+   "id": "b745",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They articulate one manifestation.",
+   "directed": "They articulate one manifestation."
+  },
+  {
+   "id": "b746",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that manifestation isn’t independent of the conscious freedom of Śiva.",
+   "directed": "And that manifestation isn’t independent of the conscious freedom of Śiva."
+  },
+  {
+   "id": "b747",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So now the whole cosmological part of our discussion has acquired a new purpose.",
+   "directed": "So now the whole cosmological part of our discussion has acquired a new purpose."
+  },
+  {
+   "id": "b748",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The six adhvans aren’t merely abstract classifications.",
+   "directed": "The six adhvans aren’t merely abstract classifications."
+  },
+  {
+   "id": "b749",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They’re going to become essential in the practices of purification and initiation.",
+   "directed": "They’re going to become essential in the practices of purification and initiation."
+  },
+  {
+   "id": "b750",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Adhvaśuddhi.",
+   "directed": "[slowly] Adhvaśuddhi."
+  },
+  {
+   "id": "b751",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And when we come to the initiation chapters, you’ll see why it was so important to establish the cosmic pathways first.",
+   "directed": "And when we come to the initiation chapters, you’ll see why it was so important to establish the cosmic pathways first."
+  },
+  {
+   "id": "b752",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because in those rituals, the practitioner is not merely receiving some arbitrary ceremonial blessing.",
+   "directed": "Because in those rituals, the practitioner is not merely receiving some arbitrary ceremonial blessing."
+  },
+  {
+   "id": "b753",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The entire structure of differentiated existence becomes relevant to the process of liberation.",
+   "directed": "The entire structure of differentiated existence becomes relevant to the process of liberation."
+  },
+  {
+   "id": "b754",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But before we get to that, Abhinavagupta has one final thing.",
+   "directed": "But before we get to that, Abhinavagupta has one final thing."
+  },
+  {
+   "id": "b755",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this time, he’s actually provided a neat little summary.",
+   "directed": "And this time, he’s actually provided a neat little summary."
+  },
+  {
+   "id": "b756",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Three verses.",
+   "directed": "Three verses."
+  },
+  {
+   "id": "b757",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Real ones.",
+   "directed": "Real ones."
+  },
+  {
+   "id": "b758",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In the Āryā metre.",
+   "directed": "In the Āryā metre."
+  },
+  {
+   "id": "b759",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Apparently even Abhinavagupta understands that memorising this entire bloody system is a rather tall order.",
+   "directed": "Apparently even Abhinavagupta understands that memorising this entire bloody system is a rather tall order."
+  },
+  {
+   "id": "b760",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "14. The three concluding Āryā verses\nThese three verses occur at the close of Chapter 10 in the Sanskrit & Trika Shaivism edition. They are also independently attested in Tantrāloka 11.51–53. They summarise the numbers of worlds, principles, phonemes, mantras and padas associated with the kalās. Sanskrit &",
+   "directed": "14. The three concluding Āryā verses\nThese three verses occur at the close of Chapter 10 in the Sanskrit & Trika Shaivism edition. They are also independently attested in Tantrāloka 11.51–53. They summarise the numbers of worlds, principles, phonemes, mantras and padas associated with the kalās. Sanskrit &"
+  },
+  {
+   "id": "b761",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "figure",
+   "voice": "none",
+   "text": "VERSE ONE",
+   "directed": "VERSE ONE"
+  },
+  {
+   "id": "b762",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "पदमन्त्रवर्णमेकं पुरषोडशकं धरेति च निवृत्तिः।",
+   "directed": "[slowly] पदमन्त्रवर्णमेकं पुरषोडशकं धरेति च निवृत्तिः।"
+  },
+  {
+   "id": "b763",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "तत्त्वार्णमग्निनयनं रसशरपुरमस्त्रमन्त्रपदमन्या॥१॥",
+   "directed": "[slowly] तत्त्वार्णमग्निनयनं रसशरपुरमस्त्रमन्त्रपदमन्या॥१॥"
+  },
+  {
+   "id": "b764",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Padamantravarṇam ekaṃ puraṣoḍaśakaṃ dhareti ca nivṛttiḥ.",
+   "directed": "Padamantravarṇam ekaṃ puraṣoḍaśakaṃ dhareti ca nivṛttiḥ."
+  },
+  {
+   "id": "b765",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Tattvārṇam agninayanaṃ rasaśarap uram astramantrapadam anyā.",
+   "directed": "Tattvārṇam agninayanaṃ rasaśarap uram astramantrapadam anyā."
+  },
+  {
+   "id": "b766",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Right.",
+   "directed": "[short pause] Right."
+  },
+  {
+   "id": "b767",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s decode the bloody thing.",
+   "directed": "Let’s decode the bloody thing."
+  },
+  {
+   "id": "b768",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nivṛtti has one pada, one mantra, one phoneme and sixteen worlds, with earth as its single tattva.",
+   "directed": "Nivṛtti has one pada, one mantra, one phoneme and sixteen worlds, with earth as its single tattva."
+  },
+  {
+   "id": "b769",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then Pratiṣṭhā gets twenty-three tattvas, twenty-three phonemes, fifty-six worlds, five mantras and five padas.",
+   "directed": "Then Pratiṣṭhā gets twenty-three tattvas, twenty-three phonemes, fifty-six worlds, five mantras and five padas."
+  },
+  {
+   "id": "b770",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, why does he say agni-nayana?",
+   "directed": "Now, why does he say agni-nayana?"
+  },
+  {
+   "id": "b771",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because he’s encoding numbers through symbolic words.",
+   "directed": "Because he’s encoding numbers through symbolic words."
+  },
+  {
+   "id": "b772",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Agni — fire — represents three.",
+   "directed": "Agni — fire — represents three."
+  },
+  {
+   "id": "b773",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nayana — eye — represents two.",
+   "directed": "Nayana — eye — represents two."
+  },
+  {
+   "id": "b774",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And in this mnemonic arrangement, they give twenty-three.",
+   "directed": "And in this mnemonic arrangement, they give twenty-three."
+  },
+  {
+   "id": "b775",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then rasa — six — and śara — five — give fifty-six.",
+   "directed": "Then rasa — six — and śara — five — give fifty-six."
+  },
+  {
+   "id": "b776",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So Abhinavagupta is using Sanskrit numerical wordplay to pack enormous amounts of information into a tiny metrical space.",
+   "directed": "So Abhinavagupta is using Sanskrit numerical wordplay to pack enormous amounts of information into a tiny metrical space."
+  },
+  {
+   "id": "b777",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Rather clever.",
+   "directed": "Rather clever."
+  },
+  {
+   "id": "b778",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s like creating a mnemonic spreadsheet.",
+   "directed": "It’s like creating a mnemonic spreadsheet."
+  },
+  {
+   "id": "b779",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Except your spreadsheet is poetry.",
+   "directed": "Except your spreadsheet is poetry."
+  },
+  {
+   "id": "b780",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "figure",
+   "voice": "none",
+   "text": "VERSE TWO",
+   "directed": "VERSE TWO"
+  },
+  {
+   "id": "b781",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "मुनितत्त्वार्णं द्विकपदमन्त्रं वस्वक्षिभुवनमपरकला।",
+   "directed": "[slowly] मुनितत्त्वार्णं द्विकपदमन्त्रं वस्वक्षिभुवनमपरकला।"
+  },
+  {
+   "id": "b782",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "अग्न्यर्णतत्त्वमेककपदमन्त्रं सैन्यभुवनमिति तुर्या॥२॥",
+   "directed": "[slowly] अग्न्यर्णतत्त्वमेककपदमन्त्रं सैन्यभुवनमिति तुर्या॥२॥"
+  },
+  {
+   "id": "b783",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Munitattvārṇaṃ dvikapadamantraṃ vasvakṣibhuvanam aparakalā.",
+   "directed": "[slowly] Munitattvārṇaṃ dvikapadamantraṃ vasvakṣibhuvanam aparakalā."
+  },
+  {
+   "id": "b784",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Agnyarṇatattvam ekakapadamantraṃ sainyabhuvanam iti turyā.",
+   "directed": "Agnyarṇatattvam ekakapadamantraṃ sainyabhuvanam iti turyā."
+  },
+  {
+   "id": "b785",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now the third division, Vidyā.",
+   "directed": "Now the third division, Vidyā."
+  },
+  {
+   "id": "b786",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Seven tattvas.",
+   "directed": "Seven tattvas."
+  },
+  {
+   "id": "b787",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Seven phonemes.",
+   "directed": "Seven phonemes."
+  },
+  {
+   "id": "b788",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Two mantras.",
+   "directed": "Two mantras."
+  },
+  {
+   "id": "b789",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Two padas.",
+   "directed": "Two padas."
+  },
+  {
+   "id": "b790",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Twenty-eight worlds.",
+   "directed": "Twenty-eight worlds."
+  },
+  {
+   "id": "b791",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the fourth, Śāntā, is summarised in this mnemonic as three tattvas, three phonemes, one mantra, one pada and eighteen worlds.",
+   "directed": "And the fourth, Śāntā, is summarised in this mnemonic as three tattvas, three phonemes, one mantra, one pada and eighteen worlds."
+  },
+  {
+   "id": "b792",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There’s a textual subtlety here: the prose explicitly assigns four tattvas to Śāntā, from Śuddhavidyā through Śakti, whereas the closing mnemonic says three. The discrepancy appears in the transmitted text and should not be silently harmonised.",
+   "directed": "There’s a textual subtlety here: the prose explicitly assigns four tattvas to Śāntā, from Śuddhavidyā through Śakti, whereas the closing mnemonic says three. The discrepancy appears in the transmitted text and should not be silently harmonised."
+  },
+  {
+   "id": "b793",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the basic structure is clear.",
+   "directed": "But the basic structure is clear."
+  },
+  {
+   "id": "b794",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The verse gives the counts of the cosmic and linguistic constituents assigned to the two divisions.",
+   "directed": "The verse gives the counts of the cosmic and linguistic constituents assigned to the two divisions."
+  },
+  {
+   "id": "b795",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "figure",
+   "voice": "none",
+   "text": "VERSE THREE",
+   "directed": "VERSE THREE"
+  },
+  {
+   "id": "b796",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "षोडश वर्णाः पदमन्त्रतत्त्वमेकं च शान्त्यतीतेयम्।",
+   "directed": "[slowly] षोडश वर्णाः पदमन्त्रतत्त्वमेकं च शान्त्यतीतेयम्।"
+  },
+  {
+   "id": "b797",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "अभिनवगुप्तेनार्यात्रयमुक्तं सङ्ग्रहाय शिष्येभ्यः॥३॥",
+   "directed": "[slowly] अभिनवगुप्तेनार्यात्रयमुक्तं सङ्ग्रहाय शिष्येभ्यः॥३॥"
+  },
+  {
+   "id": "b798",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ṣoḍaśa varṇāḥ padamantratattvam ekaṃ ca śāntyatīteyam.",
+   "directed": "Ṣoḍaśa varṇāḥ padamantratattvam ekaṃ ca śāntyatīteyam."
+  },
+  {
+   "id": "b799",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Abhinavaguptenāryātrayam uktaṃ saṅgrahāya śiṣyebhyaḥ.",
+   "directed": "[slowly] Abhinavaguptenāryātrayam uktaṃ saṅgrahāya śiṣyebhyaḥ."
+  },
+  {
+   "id": "b800",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now the fifth.",
+   "directed": "Now the fifth."
+  },
+  {
+   "id": "b801",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Śāntātītā.",
+   "directed": "[slowly] Śāntātītā."
+  },
+  {
+   "id": "b802",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sixteen phonemes.",
+   "directed": "Sixteen phonemes."
+  },
+  {
+   "id": "b803",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "One pada.",
+   "directed": "One pada."
+  },
+  {
+   "id": "b804",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "One mantra.",
+   "directed": "One mantra."
+  },
+  {
+   "id": "b805",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "One tattva.",
+   "directed": "One tattva."
+  },
+  {
+   "id": "b806",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And then comes the closing statement.",
+   "directed": "And then comes the closing statement."
+  },
+  {
+   "id": "b807",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is lovely.",
+   "directed": "And this is lovely."
+  },
+  {
+   "id": "b808",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Abhinavaguptena āryātrayam uktam saṅgrahāya śiṣyebhyaḥ.",
+   "directed": "Abhinavaguptena āryātrayam uktam saṅgrahāya śiṣyebhyaḥ."
+  },
+  {
+   "id": "b809",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "These three Āryā verses have been spoken by Abhinavagupta as a summary for his disciples.",
+   "directed": "These three Āryā verses have been spoken by Abhinavagupta as a summary for his disciples."
+  },
+  {
+   "id": "b810",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Yes.",
+   "directed": "[short pause] Yes."
+  },
+  {
+   "id": "b811",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He’s actually named himself.",
+   "directed": "He’s actually named himself."
+  },
+  {
+   "id": "b812",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Essentially:",
+   "directed": "[short pause] Essentially:"
+  },
+  {
+   "id": "b813",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Right, I’ve written you three little verses so you can remember all of this.”",
+   "directed": "[short pause] “Right, I’ve written you three little verses so you can remember all of this.”"
+  },
+  {
+   "id": "b814",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Thanks, Abhinava.",
+   "directed": "Thanks, Abhinava."
+  },
+  {
+   "id": "b815",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Very considerate.",
+   "directed": "Very considerate."
+  },
+  {
+   "id": "b816",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Could’ve perhaps done it about six chapters earlier, but I appreciate the gesture.",
+   "directed": "Could’ve perhaps done it about six chapters earlier, but I appreciate the gesture."
+  },
+  {
+   "id": "b817",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "End of Chapter Ten — Kalādyadhvaprakāśanam\nAnd now we’ve arrived at an important turning point in the Tantrasāra.",
+   "directed": "End of Chapter Ten — Kalādyadhvaprakāśanam\nAnd now we’ve arrived at an important turning point in the Tantrasāra."
+  },
+  {
+   "id": "b818",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’ve established the fundamental nature of consciousness.",
+   "directed": "We’ve established the fundamental nature of consciousness."
+  },
+  {
+   "id": "b819",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’ve discussed the different methods of recognition.",
+   "directed": "We’ve discussed the different methods of recognition."
+  },
+  {
+   "id": "b820",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’ve examined the structure of time.",
+   "directed": "We’ve examined the structure of time."
+  },
+  {
+   "id": "b821",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The structure of space.",
+   "directed": "The structure of space."
+  },
+  {
+   "id": "b822",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The thirty-six tattvas.",
+   "directed": "The thirty-six tattvas."
+  },
+  {
+   "id": "b823",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The different classes of knowing subject.",
+   "directed": "The different classes of knowing subject."
+  },
+  {
+   "id": "b824",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now the five kalās and six cosmic pathways.",
+   "directed": "And now the five kalās and six cosmic pathways."
+  },
+  {
+   "id": "b825",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But here’s the question that’s been hanging over the entire discussion.",
+   "directed": "But here’s the question that’s been hanging over the entire discussion."
+  },
+  {
+   "id": "b826",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "If all this is already Śiva, why isn’t everyone liberated?",
+   "directed": "If all this is already Śiva, why isn’t everyone liberated?"
+  },
+  {
+   "id": "b827",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And more specifically:",
+   "directed": "[short pause] And more specifically:"
+  },
+  {
+   "id": "b828",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Why does recognition arise in one person and not another?",
+   "directed": "Why does recognition arise in one person and not another?"
+  },
+  {
+   "id": "b829",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "What actually brings about the descent of Śakti?",
+   "directed": "What actually brings about the descent of Śakti?"
+  },
+  {
+   "id": "b830",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Śaktipāta.",
+   "directed": "[slowly] Śaktipāta."
+  },
+  {
+   "id": "b831",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Is it karma?",
+   "directed": "Is it karma?"
+  },
+  {
+   "id": "b832",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Is it correct understanding?",
+   "directed": "Is it correct understanding?"
+  },
+  {
+   "id": "b833",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Is it the maturation of impurity?",
+   "directed": "Is it the maturation of impurity?"
+  },
+  {
+   "id": "b834",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Is it because you’ve done enough meditation?",
+   "directed": "Is it because you’ve done enough meditation?"
+  },
+  {
+   "id": "b835",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Enough worship?",
+   "directed": "Enough worship?"
+  },
+  {
+   "id": "b836",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Enough good deeds?",
+   "directed": "Enough good deeds?"
+  },
+  {
+   "id": "b837",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Or is there something much more radical going on?",
+   "directed": "Or is there something much more radical going on?"
+  },
+  {
+   "id": "b838",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because the next chapter is going to examine the cause of spiritual awakening.",
+   "directed": "Because the next chapter is going to examine the cause of spiritual awakening."
+  },
+  {
+   "id": "b839",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Abhinavagupta is about to challenge some very popular explanations.",
+   "directed": "And Abhinavagupta is about to challenge some very popular explanations."
+  },
+  {
+   "id": "b840",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Including the idea that liberation must be earned through karma.",
+   "directed": "Including the idea that liberation must be earned through karma."
+  },
+  {
+   "id": "b841",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Apparently the supreme Lord doesn’t need you to collect spiritual loyalty points before he’ll reveal himself.",
+   "directed": "Apparently the supreme Lord doesn’t need you to collect spiritual loyalty points before he’ll reveal himself."
+  },
+  {
+   "id": "b842",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which raises a rather serious philosophical problem.",
+   "directed": "Which raises a rather serious philosophical problem."
+  },
+  {
+   "id": "b843",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Why does grace fall where it does?",
+   "directed": "Why does grace fall where it does?"
+  },
+  {
+   "id": "b844",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that’s where we’re going next.",
+   "directed": "And that’s where we’re going next."
+  },
+  {
+   "id": "b845",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "meta",
+   "voice": "none",
+   "text": "Source note: This retelling follows Tantrasāra Chapter 10 (GRETIL)⁠Attachment.png for the prose and the Sanskrit & Trika Shaivism edition⁠Attachment.png for the three concluding mnemonic verses, cross-checked against Tantrāloka 11.51–53. The explanatory examples and dialogue are mine. The chapter’s actual philosophical exposition is much briefer than this adaptation.",
+   "directed": "Source note: This retelling follows Tantrasāra Chapter 10 (GRETIL)⁠Attachment.png for the prose and the Sanskrit & Trika Shaivism edition⁠Attachment.png for the three concluding mnemonic verses, cross-checked against Tantrāloka 11.51–53. The explanatory examples and dialogue are mine. The chapter’s actual philosophical exposition is much briefer than this adaptation."
+  },
+  {
+   "id": "b846",
+   "section": "Tantrasāra — Chapter 10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Descent of Grace: why Śiva chooses to awaken, why karma cannot explain liberation, and what distinguishes a genuine guru.",
+   "directed": "The Descent of Grace: why Śiva chooses to awaken, why karma cannot explain liberation, and what distinguishes a genuine guru."
+  }
+ ],
+ "totals": {
+  "blocks": 847,
+  "words_per_voice": {
+   "none": 62,
+   "granny": 4546,
+   "verse": 125,
+   "man": 38
+  },
+  "est_min": {
+   "none": 0.4,
+   "granny": 30.3,
+   "verse": 0.8,
+   "man": 0.3
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

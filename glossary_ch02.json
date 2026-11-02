@@ -1,0 +1,110 @@
+{
+ "ananda-ghana": {
+  "deva": "अनन्द घन",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b95"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "anupaya": {
+  "deva": "अनुपय",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b11"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "caham": {
+  "deva": "चहम्",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b98"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "kundalini": {
+  "deva": "कुन्दलिनि",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b25"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "paramesvara": {
+  "deva": "परमेस्वर",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b37"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "puja": {
+  "deva": "पुज",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b112"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "saktipata": {
+  "deva": "सक्तिपत",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b15"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "samavesa": {
+  "deva": "समवेस",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b28"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "svaprakasa": {
+  "deva": "स्वप्रकस",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b37"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "svatma": {
+  "deva": "स्वत्म",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b37"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "upaya": {
+  "deva": "उपय",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b13"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "visvam": {
+  "deva": "विस्वम्",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b104"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ }
+}

@@ -1,0 +1,533 @@
+{
+ "adhikya": {
+  "deva": "अधिक्य",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b198"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "agninayanam": {
+  "deva": "अग्निनयनम्",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b765"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "agnyarnatattvam": {
+  "deva": "अग्न्यर्नतत्त्वम्",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b784"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "anavastha": {
+  "deva": "अनवस्थ",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b501"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "anya": {
+  "deva": "अन्य",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b765"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "arya": {
+  "deva": "अर्य",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b758"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "aryatrayam": {
+  "deva": "अर्यत्रयम्",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b808"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "atita": {
+  "deva": "अतित",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b352"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "brahma": {
+  "deva": "ब्रह्म",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b127"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "ekakapadamantram": {
+  "deva": "एककपदमन्त्रम्",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b784"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "ekam": {
+  "deva": "एकम्",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b764"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "evam": {
+  "deva": "एवम्",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b555"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "isvara": {
+  "deva": "इस्वर",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b541"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "kala": {
+  "deva": "कल",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b38"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "kaladyadhvaprakasanam": {
+  "deva": "कलद्यध्वप्रकसनम्",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b817"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "kalas": {
+  "deva": "कलस्",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "kancukas": {
+  "deva": "कन्चुकस्",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b256"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "maya": {
+  "deva": "मय",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b64"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "navatattvady": {
+  "deva": "नवतत्त्वद्य्",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b555"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "nivrtti": {
+  "deva": "निव्र्त्ति",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b88"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "nivrttih": {
+  "deva": "निव्र्त्तिह्",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b764"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "padamantravarnam": {
+  "deva": "पदमन्त्रवर्नम्",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b764"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "param": {
+  "deva": "परम्",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b379"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "prakrti": {
+  "deva": "प्रक्र्ति",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b141"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "pratistha": {
+  "deva": "प्रतिस्थ",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b134"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "purasodasakam": {
+  "deva": "पुरसोदसकम्",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b764"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "purusa": {
+  "deva": "पुरुस",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b177"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "rasasarap": {
+  "deva": "रससरप्",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b765"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "sadvidhatvam": {
+  "deva": "सद्विधत्वम्",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b729"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "saiva": {
+  "deva": "सैव",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b563"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "sakti-tattva": {
+  "deva": "सक्ति तत्त्व",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b337"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "saktopaya": {
+  "deva": "सक्तोपय",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b513"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "samvid": {
+  "deva": "सम्विद्",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b197"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "sangrahaya": {
+  "deva": "सन्ग्रहय",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b808"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "santa": {
+  "deva": "सन्त",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b229"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "santatita": {
+  "deva": "सन्ततित",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b349"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "santatita-kala": {
+  "deva": "सन्ततित कल",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b349"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "santyatiteyam": {
+  "deva": "सन्त्यतितेयम्",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b798"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "sara": {
+  "deva": "सर",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b775"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "sisyebhyah": {
+  "deva": "सिस्येभ्यह्",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b808"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "siva-tattva": {
+  "deva": "सिव तत्त्व",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b347"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "sodasa": {
+  "deva": "सोदस",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b798"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "sparsa": {
+  "deva": "स्पर्स",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b335"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "sthula": {
+  "deva": "स्थुल",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b413"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "suddha": {
+  "deva": "सुद्ध",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b422"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "suddhavidya": {
+  "deva": "सुद्धविद्य",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b237"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "suksma": {
+  "deva": "सुक्स्म",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b413"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "svatantram": {
+  "deva": "स्वतन्त्रम्",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b379"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "tattvarnam": {
+  "deva": "तत्त्वर्नम्",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b765"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "tattvasargah": {
+  "deva": "तत्त्वसर्गह्",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b103"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "tirobhava": {
+  "deva": "तिरोभव",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b196"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "turya": {
+  "deva": "तुर्य",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b784"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "uhayet": {
+  "deva": "उहयेत्",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b555"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "varna": {
+  "deva": "वर्न",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b680"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "varna-adhvan": {
+  "deva": "वर्न अध्वन्",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b680"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "varnah": {
+  "deva": "वर्नह्",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b798"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "vidya": {
+  "deva": "विद्य",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b172"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "vidya-kala": {
+  "deva": "विद्य कल",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b225"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "vijnanakala": {
+  "deva": "विज्ननकल",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b537"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ }
+}
