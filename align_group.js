@@ -7,11 +7,21 @@ const fs = require("fs");
 const { execSync } = require("child_process");
 const { createAligner, alignNative } = require("mms-forced-align");
 
-const NUM = { "0": "zero", "1": "one", "2": "two", "3": "three", "4": "four", "5": "five", "6": "six", "7": "seven", "8": "eight", "9": "nine", "10": "ten", "12": "twelve", "21": "twenty-one", "60": "sixty", "72": "seventy-two", "108": "one-hundred-eight", "216": "two-hundred-sixteen" };
+const NUM = { "0": "zero", "1": "one", "2": "two", "3": "three", "4": "four", "5": "five", "6": "six", "7": "seven", "8": "eight", "9": "nine", "10": "ten", "11": "eleven", "12": "twelve", "13": "thirteen", "14": "fourteen", "15": "fifteen", "16": "sixteen", "17": "seventeen", "18": "eighteen", "19": "nineteen", "20": "twenty", "30": "thirty", "40": "forty", "50": "fifty", "60": "sixty", "70": "seventy", "80": "eighty", "90": "ninety" };
+function spellNum(s) {
+  const n = parseInt(String(s).replace(/,/g, ""), 10);
+  if (isNaN(n)) return String(s);
+  if (NUM[n] !== undefined) return NUM[n];
+  if (n < 100) return NUM[Math.floor(n / 10) * 10] + " " + NUM[n % 10];
+  if (n < 1000) return NUM[Math.floor(n / 100)] + " hundred" + (n % 100 ? " " + spellNum(String(n % 100)) : "");
+  if (n < 1000000) return spellNum(String(Math.floor(n / 1000))) + " thousand" + (n % 1000 ? " " + spellNum(String(n % 1000)) : "");
+  return "number";
+}
 function spoken(w) {
   let f = w.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
   const bare = f.replace(/[^0-9]/g, "");
-  if (bare && NUM[bare]) return NUM[bare];
+  if (/^\d[\d,]*$/.test(bare)) return spellNum(bare).replace(/ /g, '-');
+  if (bare && NUM[bare] !== undefined) return NUM[bare];
   return f;
 }
 
