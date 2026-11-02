@@ -147,10 +147,10 @@ def build(md_path, overrides=None):
         return out
     paras, cur = [], []
     for l in lines:
-        if l.startswith('## '):
+        if l.startswith('## ') or (l.startswith('# ') and not l.startswith('### ')):
             if cur:
                 paras.append(('\n'.join(cur), False)); cur = []
-            paras.append((l[3:].strip(), True))
+            paras.append((re.sub(r'^#{1,2} ', '', l).strip(), True))
         elif l.strip() == '':
             if cur:
                 paras.append(('\n'.join(cur), False)); cur = []
