@@ -29,7 +29,7 @@
  "bauddha-ajnana": {
   "deva": "बौद्धाज्ञानम्",
   "gloss": "ignorance in the intellect",
-  "status": "proposed",
+  "status": "confirmed",
   "cue_blocks": [
    "b18"
   ],
@@ -83,7 +83,7 @@
  "paurusa-ajnana": {
   "deva": "पौरुषाज्ञानम्",
   "gloss": "contracted soul-level ignorance",
-  "status": "proposed",
+  "status": "confirmed",
   "cue_blocks": [
    "b21"
   ],

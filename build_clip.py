@@ -64,7 +64,11 @@ def main():
         lang = 'sa-IN' if g[0]['voice'] == 'verse' else 'en-IN'
         wpath = f'/tmp/mmsclip/cw{i}.json'
         opath = f'/tmp/mmsclip/ct{i}.json'
-        json.dump(disp, open(wpath, 'w'), ensure_ascii=False)
+        # sa-IN wants Devanagari (its romanizer rejects IAST diacritics);
+        # display/subtitle mapping stays 1:1 either way
+        from indic_transliteration.sanscript import transliterate as _tr, IAST as _IA, DEVANAGARI as _DV
+        ali = [(_tr(w, _IA, _DV) if not re.search(r'[\u0900-\u097F]', w) else w) for w in disp] if lang == 'sa-IN' else disp
+        json.dump(ali, open(wpath, 'w'), ensure_ascii=False)
         r = subprocess.run(['node', ALIGN, f, wpath, opath, lang],
                            capture_output=True, text=True, env={**os.environ, 'NODE_PATH': NODE_MOD})
         assert os.path.exists(opath), f'MMS failed group {i}: {r.stderr[-300:]}'
@@ -73,12 +77,28 @@ def main():
         mean = sum(x['mms'] for x in rows) / len(rows)
         print(f'group {i}: n={len(rows)} mean={mean:.3f}', flush=True)
         al.append((g, rows))
-    # assembly: bell(+6dB) + groups with 0.4 beds
+    # assembly: bell(+6dB) + groups with rhythm beds by boundary —
+    # 0.8 after titles / long-pause beats / dialogue / section ends,
+    # 0.6 after verse, 0.3 in flow. Deterministic, no model-mood gaps.
+    def bed_after(g, nxt):
+        txt = ' '.join(x.get('directed', x['text']) for x in g)
+        if g[0]['type'] == 'title' or (nxt and nxt[0]['section'] != g[0]['section']):
+            return 0.8
+        if any(x['type'] == 'dialogue' for x in g):
+            return 0.8
+        if g[0]['voice'] == 'verse':
+            return 0.6
+        if '[long pause]' in txt:
+            return 0.8
+        return 0.3
+    beds = []
     final_inputs = ['-i', BELL]
     for i, (f, g) in enumerate(wavs):
         final_inputs += ['-i', f]
         if i < len(wavs) - 1:
-            final_inputs += ['-f', 'lavfi', '-i', 'anullsrc=r=44100:cl=mono:d=0.4']
+            bd = bed_after(g, wavs[i + 1][1])
+            beds.append(bd)
+            final_inputs += ['-f', 'lavfi', '-i', f'anullsrc=r=44100:cl=mono:d={bd}']
     nAud = 1 + len(wavs) + max(0, len(wavs) - 1)
     mix = '/tmp/clip_mix.mp3'
     subprocess.run(['ffmpeg', '-y', '-v', 'error'] + final_inputs +
@@ -104,7 +124,18 @@ def main():
             for j, r in enumerate(seg):
                 flat.append((b, j, r['t_on'] + off, sw, sub, r['t_off'] + off))
             wi += len(sw)
-        off += durs[gi] + (0.4 if gi < len(wavs) - 1 else 0)
+        off += durs[gi] + (beds[gi] if gi < len(beds) else 0)
+    # glossary: confirmed terms only (proposed terms play over white)
+    import glob as _gg
+    _gm = re.search(r'ch(\d+)', sys.argv[1])
+    _gl = {}
+    if _gm:
+        _gp = os.path.join(os.path.dirname(os.path.abspath(__file__)), f'glossary_ch{_gm.group(1)}.json')
+        if os.path.exists(_gp):
+            _raw = json.load(open(_gp, encoding='utf-8'))
+            _gl = {k: v['gloss'] for k, v in _raw.items()
+                   if isinstance(v, dict) and v.get('status') == 'confirmed' and v.get('gloss')}
+    print(f'confirmed glossary terms: {len(_gl)}', flush=True)
     # holds: verse cards while chanting, clean white once speech starts.
     # (owner: no title cards shown; Sanskrit clears when granny takes over)
     import sys as _sys
@@ -137,11 +168,48 @@ def main():
     idx = 1
     _first_verse_hold = hold_for.get(_first_verse['id'], _blank)
     _first_verse_fi = next(i for i, (b, *_r) in enumerate(flat) if b['type'] == 'verse')
+    # term cues: (start, end, image) from confirmed glossary mentions
+    import unicodedata as _ud
+    _fold = lambda s: ''.join(c for c in _ud.normalize('NFD', s.lower()) if _ud.category(c) != 'Mn')
+    _cue_starts = {}
+    for (b, k, t_on, sw, sub, t_off) in flat:
+        if b['type'] not in ('narration', 'dialogue'):
+            continue
+        for j, w in enumerate(sw):
+            key = _fold(w.strip('.,!?;:\'"—-'))
+            if key in _gl and (b['id'], j) not in _cue_starts:
+                _cue_starts[(b['id'], j)] = key
+                break
+    _events = []
+    for (b, k, t_on, sw, sub, t_off) in flat:
+        if b['type'] in ('verse', 'title', 'figure', 'dialogue') or b.get('directed', '').startswith('[long pause]'):
+            _events.append(t_on)
+    _events = sorted(set(_events))
+    def _next_event(t):
+        for e in _events:
+            if e > t + 0.05:
+                return e
+        return off
+    _term_imgs = {}
+    for key in set(_cue_starts.values()):
+        _term_imgs[key] = _H.render_hold(
+            [{'id': f'term-{key}', 'type': 'verse', 'section': '', 'voice': 'verse', 'text': key}],
+            None, {key: _gl[key]})
+    _cues = []
+    for (bid, j), key in _cue_starts.items():
+        t0 = next(t for (b, k, t, sw, sub, e) in flat if b['id'] == bid and k == j)
+        _cues.append((t0, _next_event(t0), key))
+    _cues.sort()
+    print(f'term cues: {[(k, round(s)) for s, e, k in _cues]}', flush=True)
     def hold_img(b, fi):
+        t = flat[fi][2]
         if fi < _first_verse_fi:
             return _HOLD0  # thumbnail holds from frame 0 until chanting starts
         if b['type'] == 'verse':
             return hold_for.get(b['id'], _blank)
+        for (s, e, key) in _cues:
+            if s <= t < e:
+                return _term_imgs[key]
         return _blank
     for fi, (b, k, t_on, sw, sub, t_off) in enumerate(flat):
         im = hold_img(b, fi).copy()

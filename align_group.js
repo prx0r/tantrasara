@@ -17,8 +17,9 @@ function spellNum(s) {
   if (n < 1000000) return spellNum(String(Math.floor(n / 1000))) + " thousand" + (n % 1000 ? " " + spellNum(String(n % 1000)) : "");
   return "number";
 }
+const IAST_FOLD = {ā:'a',ī:'i',ū:'u',ṛ:'r',ṝ:'r',ḷ:'l',ṃ:'m',ḥ:'h',ṅ:'n',ñ:'n',ṭ:'t',ḍ:'d',ṇ:'n',ś:'s',ṣ:'s',Ā:'A',Ī:'I',Ū:'U',Ṛ:'R',Ṃ:'M',Ḥ:'H',Ṅ:'N',Ñ:'N',Ṭ:'T',Ḍ:'D',Ṇ:'N',Ś:'S',Ṣ:'S'};
 function spoken(w) {
-  let f = w.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+  let f = [...w].map(c => IAST_FOLD[c] || c).join("").normalize("NFD").replace(/[\u0300-\u036f]/g, "");
   const bare = f.replace(/[^0-9]/g, "");
   if (/^\d[\d,]*$/.test(bare)) return spellNum(bare).replace(/ /g, '-');
   if (bare && NUM[bare] !== undefined) return NUM[bare];
