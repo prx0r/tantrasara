@@ -4,13 +4,16 @@ All 13 chapters are green and turnkey. To render, you only render.
 
 ## Right now (latest first)
 
-- 2026-11-02: ch01 FULL v2 rendering with all 16 terms (diksa/cit cards
-  verified on screen). MISTAKES M1–M11 read-first. qwen_watch brief fixed.
-  run_all has preflight/verify/cleanup stages. Next agent: run_all for
-  ch02–13 (casting all green, glossaries drafted-proposed), then confirm
-  glossaries with owner for term cards, then review-pack + ears.
+- 2026-11-02: ch01 FULL v2 DONE + uploaded (16MB, 439s, 898 cuts):
+  `https://pub-87169194562a44fcb8279a799d626c62.r2.dev/tantrasara/ch01_full_v2.mp4`
+  All 16 glossary terms confirmed; all 13 cues verified on screen
+  (diksa + cit-śakti frames checked). COVERAGE: thumbnail 52s, verse 38s,
+  terms ~270s, white 91s (21%) — was ~80% white before M11 fix.
+  Next agent: run_all for ch02–13 (casting green, glossaries
+  drafted-proposed), confirm glossaries with owner for term cards,
+  then review-pack + ears.
 - Previous full video (2 terms only) is STALE, do not link.
-- Read `MISTAKES.md` M1–M10 before touching renders or links.
+- Read `MISTAKES.md` M1–M11 before touching renders or links.
 - `qwen_watch.py` brief fixed (dead = no card, subtitles don't count).
 - `build_clip.py` prints COVERAGE per build and fails >85% white.
 - Single-word Sanskrit goes to granny + term card, never the verse voice
@@ -23,8 +26,8 @@ All 13 chapters are green and turnkey. To render, you only render.
 - Storyboards `storyboard_chNN.json` (ch06: `storyboard_ch6.json`): 0 errors
   0 warnings everywhere. Casting fully encoded in `overrides_chNN.json`
   (ch06: `overrides_ch6.json`).
-- Glossaries `glossary_chNN.json`: ch01 has 2 confirmed terms, everything
-  else proposed (renders as white until confirmed — by design, not a blocker).
+- Glossaries `glossary_chNN.json`: ch01 all 16 confirmed, ch02–13
+  proposed (renders as white until confirmed — by design, not a blocker).
 - Voices: granny `614f…`, man `fcfd…` (75%), verse `4e87…`, Fish
   `s2.1-pro-free` only. Key: `~/.config/opencode/.env`.
 - Renders go to `~/vol` (opencode2 sftp mount — local disk is 98% full,
