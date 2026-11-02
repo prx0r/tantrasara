@@ -71,6 +71,13 @@ def is_beat(t):
     return s in BEAT_LEXICON or t.strip().endswith(':')
 
 
+def is_provenance(p):
+    """Source notes, not story: never voiced, always a held card or nothing."""
+    s = p.strip()
+    return (s.startswith(('Textual basis', 'Source note', 'Sources:', 'Textual sources'))
+            or 'Attachment' in s)
+
+
 def is_standalone_sanskrit(p):
     """A paragraph that IS Sanskrit, not a sentence containing it.
     EVERY token must be Sanskrit (diacritic or lexicon) — one English
@@ -189,6 +196,10 @@ def build(md_path, overrides=None):
                 bid += 1
                 continue
             in_translit = False
+        if is_provenance(text):
+            blocks.append({'id': f'b{bid}', 'section': section, 'type': 'meta', 'voice': 'none', 'text': text})
+            bid += 1
+            continue
         if re.match(r'^#\s*\d+\s*$', text):
             blocks.append({'id': f'b{bid}', 'section': section, 'type': 'figure', 'voice': 'none', 'text': text})
             bid += 1

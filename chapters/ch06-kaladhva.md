@@ -4,7 +4,6 @@
 
 The Path of Time: or, how Śiva managed to cram sixty years, several billion universes, and the entire history of existence into one bloody breath.
 
-An original slang retelling following Chapter 6 of Abhinavagupta's Sanskrit Tantrasāra in order. The jokes and imaginary dialogue are added; the philosophical and cosmological structure follows the original.
 
 Right then.
 
@@ -2139,4 +2138,3 @@ Next: Chapter 7 — Deśādhva
 
 The Path of Space: how the 36 tattvas, entire worlds, and cosmic geography are contained within Śiva.
 
-Keep reading
