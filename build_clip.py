@@ -97,8 +97,12 @@ def main():
         for b in g:
             sw = [w for w in b['text'].strip().split() if re.search(r'\w', w, re.U)]
             seg = rows[wi:wi + len(sw)]
+            assert len(seg) == len(sw), f"{b['id']}: {len(sw)} vs {len(seg)}"
+            # subtitle display: IAST for verse blocks (Devanagari has no
+            # glyphs in the subtitle face — bare boxes otherwise)
+            sub = [to_iast(w) if b['type'] == 'verse' else w for w in sw]
             for j, r in enumerate(seg):
-                flat.append((b, j, r['t_on'] + off, sw, r['t_off'] + off))
+                flat.append((b, j, r['t_on'] + off, sw, sub, r['t_off'] + off))
             wi += len(sw)
         off += durs[gi] + (0.4 if gi < len(wavs) - 1 else 0)
     # hold card: first verse block; long lines wrap to 2 at 64, never overflow
@@ -141,13 +145,13 @@ def main():
     HOLD_BASE.save(f'{fdir}/00000.png')
     entries.append((0, max(0.05, flat[0][2] if flat else off)))
     idx = 1
-    for fi, (b, k, t_on, sw, t_off) in enumerate(flat):
+    for fi, (b, k, t_on, sw, sub, t_off) in enumerate(flat):
         im = HOLD_BASE.copy()
         d = ImageDraw.Draw(im)
         # subtitle karaoke, wrapped <=2 lines
         fnt = F(FE, 46)
         lines, cur = [], ''
-        for w_ in sw:
+        for w_ in sub:
             t_ = (cur + ' ' + w_).strip()
             if d.textlength(t_, font=fnt) > 1750 and cur:
                 lines.append(cur); cur = w_
@@ -158,7 +162,7 @@ def main():
         if len(lines) > 2:
             fnt = F(FE, 40)
             lines, cur = [], ''
-            for w_ in sw:
+            for w_ in sub:
                 t_ = (cur + ' ' + w_).strip()
                 if d.textlength(t_, font=fnt) > 1750 and cur:
                     lines.append(cur); cur = w_

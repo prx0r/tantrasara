@@ -106,7 +106,7 @@ def main():
                     ct(d, 580, m.group(2).strip(), F(FE, 44))
             else:
                 ct_fit(d, 430, t, FE, 72)
-        else:  # term card(s): Deva lines (wrapped to <=2 at >=64) + IAST
+        else:  # term card(s): Deva lines only (no romanisation), wrapped to <=2 at >=64
             raw = []
             for b in h:
                 for ln in b['text'].strip().splitlines():
@@ -133,7 +133,7 @@ def main():
                         bi = i
                 dl.append(([' '.join(wl[:bi + 1]), ' '.join(wl[bi + 1:])], roman, 64))
             lh = lambda sz: int(sz * 1.35)
-            total = sum(lh(sz) * len(lines) + 45 + 26 for lines, roman, sz in dl) - 26
+            total = sum(lh(sz) * len(lines) + 26 for lines, _, sz in dl) - 26
             y = max(90, 540 - total // 2 - 40)
             bottom = y
             for lines, roman, sz in dl:
@@ -141,8 +141,7 @@ def main():
                 for ln in lines:
                     ct(d, y, ln, fnt)
                     y += lh(sz)
-                ct(d, y, roman, F(FR, 40), FADE)
-                y += 45 + 26
+                y += 26
             bottom = y
             assert bottom + 30 < SUB_Y, f'stack hits subtitle (bottom={bottom})'
         # subtitle: next spoken line after hold, wrapped to <=2 lines
