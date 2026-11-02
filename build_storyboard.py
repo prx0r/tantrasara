@@ -26,7 +26,7 @@ SANSKRIT_LEXICON = {
 DIRECT_TAGS = {'long pause', 'short pause', 'soft pause', 'slowly', 'calm'}
 
 # Chapter opener: vatulanatha kit logic, free-only. One bell at the head
-# of every chapter — bowls_intro (swell → strike → decay), +10 dB at mix.
+# of every chapter — bell_ding (0.99s attention grab), +6 dB at mix.
 # Kit stays in vatulanatha (single source); pipeline only references it.
 OPENER_ASSET = '/home/ubuntu/vatulanatha/sfx/bell_ding.wav'
 TAG_RE = re.compile(r'\[([^\]]{1,40})\]')
@@ -161,8 +161,8 @@ def build(md_path, overrides=None):
     bid = 0
     blocks = [{'id': 'b_opener', 'section': 'opener',
                'type': 'opener', 'voice': 'none',
-               'text': '[bowls_intro]',
-               'asset': OPENER_ASSET, 'mix': '+10dB at mix, voice beds under decay tail'}]
+                       'text': '[bell_ding]',
+               'asset': OPENER_ASSET, 'mix': '+6dB at mix, voice beds under decay tail'}]
     bid = 1
     for text, is_head in paras:
         text = text.strip()

@@ -19,7 +19,12 @@ for f in sorted(glob.glob('/home/ubuntu/tantrasara/chapters/ch*.md')):
                 break
     out = []
     for l in lines:
-        s = l
+        s = l.strip()
+        if s in ('/', '//'):
+            continue  # lone danda markers
+        # GRETIL archival / // line-end markers: notation, never voiced or shown
+        s = re.sub(r'\s*//\s*$', '', s)
+        s = re.sub(r'\s*/\s*$', '', s)
         if s.strip() == 'Keep reading':
             print(f'{f.split("/")[-1]}: drop Keep reading')
             continue
