@@ -23,15 +23,31 @@ def F(p, s):
     return I.truetype(p, s)
 
 try:
-    from indic_transliteration import sanscript
+    from indic_transliteration.sanscript import transliterate, IAST, DEVANAGARI
     def to_deva(s):
-        return sanscript.transliterate(s, sanscript.IAST, sanscript.DEVANAGARI)
+        return transliterate(s, IAST, DEVANAGARI)
+    def to_iast(s):
+        return transliterate(s, DEVANAGARI, IAST)
 except Exception:
     def to_deva(s):
+        return s
+    def to_iast(s):
         return s
 
 def ct(d, y, s, font, fill=INK):
     d.text(((W - d.textlength(s, font=font)) / 2, y), s, font=font, fill=fill)
+
+def fit_font(draw, text, path, start, min_sz, maxw=1750):
+    size = start
+    while size > min_sz and draw.textlength(text, font=F(path, size)) > maxw:
+        size -= 4
+    return F(path, size), size
+
+def ct_fit(d, y, s, path, start, min_sz=48, fill=INK):
+    fnt, sz = fit_font(d, s, path, start, min_sz)
+    assert d.textlength(s, font=fnt) <= 1780, f'too wide even at {min_sz}: {s[:60]}'
+    ct(d, y, s, fnt, fill)
+    return fnt
 
 def Fail(s):
     return None
@@ -42,19 +58,25 @@ def main():
     os.makedirs(out, exist_ok=True)
     # holds (term groups chunked to max 3 pairs so the stack + subtitle
     # never collide; bounds asserted per card, fail loudly like make_card)
+    def npairs(b):
+        return sum(1 for ln in b['text'].strip().splitlines() if ln.strip())
     MAX_PAIRS = 3
     holds = []
-    cur = None
+    cur, cur_pairs = None, 0
     for b in sb['blocks']:
         if b['id'] == 'b_opener':
             holds.append([b]); continue
         if b['type'] == 'verse':
-            if cur is None: cur = []
+            if cur is None:
+                cur, cur_pairs = [], 0
+            if cur_pairs + npairs(b) > MAX_PAIRS:
+                holds.append(cur); cur, cur_pairs = [], 0
             cur.append(b)
-            if len(cur) >= MAX_PAIRS:
-                holds.append(cur); cur = None
+            cur_pairs += npairs(b)
+            if cur_pairs >= MAX_PAIRS:
+                holds.append(cur); cur, cur_pairs = None, 0
         else:
-            if cur: holds.append(cur); cur = None
+            if cur: holds.append(cur); cur, cur_pairs = None, 0
             if b['type'] in ('title', 'figure'):
                 holds.append([b])
     if cur: holds.append(cur)
@@ -62,18 +84,19 @@ def main():
     flat = sb['blocks']
     idx = {b['id']: i for i, b in enumerate(flat)}
     files = []
+    ch_title = next((b['text'] for b in sb['blocks'] if b['type'] == 'title'), 'Tantrasara')
+    ch_title = re.sub(r'^\d+\.\s*', '', ch_title)
     for hi, h in enumerate(holds):
         im = Image.new('RGB', (W, H), LIGHT)
         d = ImageDraw.Draw(im)
         first = h[0]
         bottom = 700  # default stack bottom for opener/title/figure
         if first['id'] == 'b_opener':
-            ct(d, 430, 'Chapter Six', F(FE, 96))
-            ct(d, 560, 'Kālādhva — the Path of Time', F(FR, 48), FADE)
+            ct_fit(d, 430, ch_title, FE, 96)
         elif first['type'] == 'title':
             t = first['text']
             t = re.sub(r'^\d+\.\s*', '', t)
-            ct(d, 430, t, F(FE, 96))
+            ct_fit(d, 430, t, FE, 96)
         elif first['type'] == 'figure':
             t = first['text']
             m = re.match(r'^#?\s*(\d+)\s*(.*)$', t)
@@ -82,21 +105,46 @@ def main():
                 if m.group(2).strip():
                     ct(d, 580, m.group(2).strip(), F(FE, 44))
             else:
-                ct(d, 430, t, F(FE, 72))
-        else:  # term card(s), noen-exact ruby pairs
-            y = 1080 // 2 - (len(h) * (113 + 26) - 26) // 2 - 60
-            y = max(180, y)
-            bottom = y
+                ct_fit(d, 430, t, FE, 72)
+        else:  # term card(s): Deva lines (wrapped to <=2 at >=64) + IAST
+            raw = []
             for b in h:
-                s = b['text'].strip().rstrip('.')
+                for ln in b['text'].strip().splitlines():
+                    s = ln.strip().rstrip('.')
+                    if s:
+                        raw.append(s)
+            dl = []  # (deva_lines[], roman, size)
+            for s in raw:
                 try:
                     deva = to_deva(s)
+                    roman = to_iast(deva)
                 except Exception:
-                    deva = s
-                ct(d, y, deva, F(FD, 84))
-                ct(d, y + 113, s, F(FR, 40), FADE)
-                y += 113 + 26 + 40
+                    deva, roman = s, s
+                if d.textlength(deva, font=F(FD, 84)) <= 1700:
+                    dl.append(([deva], roman, 84))
+                    continue
+                # wrap near the middle into 2 Deva lines at 64
+                wl = deva.split()
+                tot = sum(len(w) for w in wl)
+                acc, bi = 0, 0
+                for i, w_ in enumerate(wl[:-1]):
+                    acc += len(w_) + 1
+                    if abs(acc - tot / 2) < abs(sum(len(x) + 1 for x in wl[:bi + 1]) - tot / 2):
+                        bi = i
+                dl.append(([' '.join(wl[:bi + 1]), ' '.join(wl[bi + 1:])], roman, 64))
+            lh = lambda sz: int(sz * 1.35)
+            total = sum(lh(sz) * len(lines) + 45 + 26 for lines, roman, sz in dl) - 26
+            y = max(90, 540 - total // 2 - 40)
             bottom = y
+            for lines, roman, sz in dl:
+                fnt = F(FD, sz)
+                for ln in lines:
+                    ct(d, y, ln, fnt)
+                    y += lh(sz)
+                ct(d, y, roman, F(FR, 40), FADE)
+                y += 45 + 26
+            bottom = y
+            assert bottom + 30 < SUB_Y, f'stack hits subtitle (bottom={bottom})'
         # subtitle: next spoken line after hold, wrapped to <=2 lines
         last_id = h[-1]['id']
         sub = ''
