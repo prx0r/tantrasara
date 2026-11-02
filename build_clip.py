@@ -122,18 +122,22 @@ def main():
     shutil.rmtree(fdir, ignore_errors=True)
     os.makedirs(fdir)
     entries, idx = [], 0
-    # opener: first verse hold, no subtitle (verse up from frame 0)
+    # opener: thumbnail if it exists, else first verse hold (verse up fast)
     _first_verse = next(b for b in blocks if b['type'] == 'verse')
-    _HOLD0 = hold_for.get(_first_verse['id'], _blank)
+    _THUMB = os.path.expanduser('~/tantrasara/assets/thumb_ch1.png')
+    if os.path.exists(_THUMB):
+        _HOLD0 = Image.open(_THUMB).convert('RGB').resize((W, H))
+    else:
+        _HOLD0 = hold_for.get(_first_verse['id'], _blank)
     _HOLD0.save(f'{fdir}/00000.png')
     entries.append((0, max(0.05, flat[0][2] if flat else off)))
     idx = 1
-    _first_verse_hold = hold_for.get(next(b['id'] for b in blocks if b['type'] == 'verse'), _blank)
+    _first_verse_hold = hold_for.get(_first_verse['id'], _blank)
     def hold_img(b):
         if b['type'] == 'verse':
             return hold_for.get(b['id'], _blank)
-        if b['type'] == 'title' or b['id'] == 'b_opener':
-            return _first_verse_hold
+        if b['id'] == 'b_opener' or b['type'] == 'title':
+            return _HOLD0
         return _blank
     for fi, (b, k, t_on, sw, sub, t_off) in enumerate(flat):
         im = hold_img(b).copy()
