@@ -1,0 +1,415 @@
+{
+ "title": "Śiva Sūtras 1.15",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 1.15",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 1.15",
+   "directed": "[long pause] Śiva Sūtras 1.15"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 1.15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "हृदये चित्तसङ्घट्टाद्दृश्यस्वापदर्शनम्",
+   "directed": "[slowly] हृदये चित्तसङ्घट्टाद्दृश्यस्वापदर्शनम्"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Hṛdaye cittasaṅghaṭṭād dṛśyasvāpadarśanam.",
+   "directed": "Hṛdaye cittasaṅghaṭṭād dṛśyasvāpadarśanam."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Through the merging of mind into the Heart, the true nature of the seen and the state of apparent void become visible.",
+   "directed": "Through the merging of mind into the Heart, the true nature of the seen and the state of apparent void become visible."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Put Your Mind Back Where It Came From, You Lunatic.",
+   "directed": "Put Your Mind Back Where It Came From, You Lunatic."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now Vasugupta is going to explain how the extraordinary recognition described in the previous sūtra becomes possible.",
+   "directed": "Now Vasugupta is going to explain how the extraordinary recognition described in the previous sūtra becomes possible."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the key word is hṛdaya.",
+   "directed": "And the key word is hṛdaya."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Heart.",
+   "directed": "The Heart."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not merely the muscular organ pumping blood around your chest.",
+   "directed": "Not merely the muscular organ pumping blood around your chest."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Heart in Trika is the centre, the innermost reality of consciousness.",
+   "directed": "The Heart in Trika is the centre, the innermost reality of consciousness."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The source from which manifestation arises.",
+   "directed": "The source from which manifestation arises."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Everything you’ve ever experienced has appeared in awareness.",
+   "directed": "Everything you’ve ever experienced has appeared in awareness."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Every sound.",
+   "directed": "Every sound."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Every image.",
+   "directed": "Every image."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Every thought.",
+   "directed": "Every thought."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Every memory.",
+   "directed": "Every memory."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But ordinary attention continually moves towards the things appearing.",
+   "directed": "But ordinary attention continually moves towards the things appearing."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A noise appears.",
+   "directed": "A noise appears."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You follow the noise.",
+   "directed": "You follow the noise."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A thought appears.",
+   "directed": "A thought appears."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You follow the thought.",
+   "directed": "You follow the thought."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A sensation appears.",
+   "directed": "A sensation appears."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You construct a story about the sensation.",
+   "directed": "You construct a story about the sensation."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Before long, you’ve become entirely occupied with the contents of consciousness while ignoring the reality in which those contents appear.",
+   "directed": "Before long, you’ve become entirely occupied with the contents of consciousness while ignoring the reality in which those contents appear."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The instruction involves cittasaṅghaṭṭa — bringing the mind into union with the Heart.",
+   "directed": "The instruction involves cittasaṅghaṭṭa — bringing the mind into union with the Heart."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Instead of merely following the succession of objects, awareness becomes established in its own conscious ground.",
+   "directed": "Instead of merely following the succession of objects, awareness becomes established in its own conscious ground."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now something fascinating happens.",
+   "directed": "And now something fascinating happens."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Dṛśya — the seen.",
+   "directed": "Dṛśya — the seen."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Svāpa — the condition of apparent absence or void.",
+   "directed": "Svāpa — the condition of apparent absence or void."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Both are recognised in their underlying reality.",
+   "directed": "Both are recognised in their underlying reality."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Presence and absence.",
+   "directed": "Presence and absence."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Manifestation and apparent emptiness.",
+   "directed": "Manifestation and apparent emptiness."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The appearance of a universe and the disappearance of its differentiated contents.",
+   "directed": "The appearance of a universe and the disappearance of its differentiated contents."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Neither is ultimately independent of consciousness.",
+   "directed": "Neither is ultimately independent of consciousness."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is a genuinely subtle point.",
+   "directed": "And this is a genuinely subtle point."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because you might assume that the way to find consciousness is to remove every possible experience.",
+   "directed": "Because you might assume that the way to find consciousness is to remove every possible experience."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Close your eyes.",
+   "directed": "Close your eyes."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Stop thinking.",
+   "directed": "Stop thinking."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Become absolutely still.",
+   "directed": "Become absolutely still."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Find a blank space.",
+   "directed": "Find a blank space."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And declare victory.",
+   "directed": "And declare victory."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But Kṣemarāja doesn’t simply identify the void with the ultimate.",
+   "directed": "But Kṣemarāja doesn’t simply identify the void with the ultimate."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He describes the recognition of both manifested objects and the apparent void through their unity in conscious reality. Sanskrit & Trika Shaivism.",
+   "directed": "He describes the recognition of both manifested objects and the apparent void through their unity in conscious reality. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The point is not that consciousness is a special object hiding behind experience.",
+   "directed": "The point is not that consciousness is a special object hiding behind experience."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nor is it a blankness that replaces experience.",
+   "directed": "Nor is it a blankness that replaces experience."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is the fundamental reality through which both appearing and disappearing are possible.",
+   "directed": "It is the fundamental reality through which both appearing and disappearing are possible."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’re not trying to manufacture the Heart.",
+   "directed": "You’re not trying to manufacture the Heart."
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 1.15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’re recognising what was already fundamental.",
+   "directed": "You’re recognising what was already fundamental."
+  }
+ ],
+ "totals": {
+  "blocks": 49,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 356,
+   "verse": 2
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 2.4,
+   "verse": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

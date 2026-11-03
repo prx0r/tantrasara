@@ -1,0 +1,1055 @@
+{
+ "title": "Śiva Sūtras 3.20",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 3.20",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 3.20",
+   "directed": "[long pause] Śiva Sūtras 3.20"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 3.20",
+   "type": "verse",
+   "voice": "verse",
+   "text": "त्रिषु चतुर्थं तैलवदासेच्यम्",
+   "directed": "[slowly] त्रिषु चतुर्थं तैलवदासेच्यम्"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Triṣu caturthaṃ tailavad āsecyam.",
+   "directed": "Triṣu caturthaṃ tailavad āsecyam."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The fourth should be poured into the three like oil.",
+   "directed": "The fourth should be poured into the three like oil."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Pour Turya Over Your Entire Life Like Divine Olive Oil.",
+   "directed": "Pour Turya Over Your Entire Life Like Divine Olive Oil."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ladies and gentlemen.",
+   "directed": "Ladies and gentlemen."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This might be one of the most beautiful instructions in the entire Śiva Sūtras.",
+   "directed": "This might be one of the most beautiful instructions in the entire Śiva Sūtras."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And also one of the funniest when translated literally.",
+   "directed": "And also one of the funniest when translated literally."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because Vasugupta has apparently decided that supreme consciousness is a substance with which the other states should be thoroughly basted.",
+   "directed": "Because Vasugupta has apparently decided that supreme consciousness is a substance with which the other states should be thoroughly basted."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Tailavat.",
+   "directed": "Tailavat."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Like oil.",
+   "directed": "Like oil."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Wonderful.",
+   "directed": "Wonderful."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s unpack it.",
+   "directed": "Let’s unpack it."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Triṣu — into the three.",
+   "directed": "Triṣu — into the three."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Caturtham — the fourth.",
+   "directed": "Caturtham — the fourth."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Tailavat — like oil.",
+   "directed": "Tailavat — like oil."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Āsecyam — should be poured, sprinkled, infused.",
+   "directed": "Āsecyam — should be poured, sprinkled, infused."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, what are the three?",
+   "directed": "Now, what are the three?"
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Waking.",
+   "directed": "Waking."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Dreaming.",
+   "directed": "Dreaming."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Deep sleep.",
+   "directed": "Deep sleep."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Jāgrat. Svapna. Suṣupti.",
+   "directed": "Jāgrat. Svapna. Suṣupti."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And what’s the fourth?",
+   "directed": "And what’s the fourth?"
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Turya.",
+   "directed": "Turya."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The underlying nondual consciousness.",
+   "directed": "The underlying nondual consciousness."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’ve encountered this several times.",
+   "directed": "We’ve encountered this several times."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But now the instruction becomes exceptionally concrete.",
+   "directed": "But now the instruction becomes exceptionally concrete."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The fourth is to permeate the other three.",
+   "directed": "The fourth is to permeate the other three."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not merely appear during meditation.",
+   "directed": "Not merely appear during meditation."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not merely be recognised at the beginning of a dream.",
+   "directed": "Not merely be recognised at the beginning of a dream."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not merely become momentarily apparent when the mind falls silent.",
+   "directed": "Not merely become momentarily apparent when the mind falls silent."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It must become established throughout the changing conditions of experience.",
+   "directed": "It must become established throughout the changing conditions of experience."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja explains this with extraordinary precision.",
+   "directed": "And Kṣemarāja explains this with extraordinary precision."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He says that oil gradually spreads through and permeates what receives it.",
+   "directed": "He says that oil gradually spreads through and permeates what receives it."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In the same way, the bliss of turya is to become increasingly pervasive throughout the three states.",
+   "directed": "In the same way, the bliss of turya is to become increasingly pervasive throughout the three states."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now imagine pouring oil onto cloth.",
+   "directed": "Now imagine pouring oil onto cloth."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "At first, it touches one small region.",
+   "directed": "At first, it touches one small region."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then it spreads.",
+   "directed": "Then it spreads."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It penetrates the fibres.",
+   "directed": "It penetrates the fibres."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Gradually, a larger portion becomes saturated.",
+   "directed": "Gradually, a larger portion becomes saturated."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The oil doesn’t have to destroy the cloth to permeate it.",
+   "directed": "The oil doesn’t have to destroy the cloth to permeate it."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The cloth remains.",
+   "directed": "The cloth remains."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But its condition changes.",
+   "directed": "But its condition changes."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that’s the analogy.",
+   "directed": "And that’s the analogy."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The waking state doesn’t necessarily disappear.",
+   "directed": "The waking state doesn’t necessarily disappear."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Dreaming doesn’t have to be abolished.",
+   "directed": "Dreaming doesn’t have to be abolished."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Deep sleep doesn’t have to be replaced by some permanently excited mental condition.",
+   "directed": "Deep sleep doesn’t have to be replaced by some permanently excited mental condition."
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Instead, the underlying conscious reality is recognised throughout their changing forms.",
+   "directed": "Instead, the underlying conscious reality is recognised throughout their changing forms."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now comes a particularly subtle distinction.",
+   "directed": "And now comes a particularly subtle distinction."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja explicitly contrasts this with the teaching of Book I.",
+   "directed": "Kṣemarāja explicitly contrasts this with the teaching of Book I."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Remember:",
+   "directed": "[short pause] Remember:"
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 3.20",
+   "type": "verse",
+   "voice": "verse",
+   "text": "जाग्रत्स्वप्नसुषुप्तभेदे तुर्याभोगसम्भवः।",
+   "directed": "[slowly] जाग्रत्स्वप्नसुषुप्तभेदे तुर्याभोगसम्भवः।"
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 3.20",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Jāgratsvapnasuṣuptabhede turyābhogasambhavaḥ.",
+   "directed": "[slowly] Jāgratsvapnasuṣuptabhede turyābhogasambhavaḥ."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The enjoyment of turya is possible through the distinctions of waking, dreaming and deep sleep.",
+   "directed": "The enjoyment of turya is possible through the distinctions of waking, dreaming and deep sleep."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That was 1.7.",
+   "directed": "That was 1.7."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And then:",
+   "directed": "[short pause] And then:"
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 3.20",
+   "type": "verse",
+   "voice": "verse",
+   "text": "त्रितयभोक्ता वीरेशः।",
+   "directed": "[slowly] त्रितयभोक्ता वीरेशः।"
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 3.20",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Tritayabhoktā vīreśaḥ.",
+   "directed": "[slowly] Tritayabhoktā vīreśaḥ."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The experiencer of the three is the lord of the heroes.",
+   "directed": "The experiencer of the three is the lord of the heroes."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That was 1.11.",
+   "directed": "That was 1.11."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the method described in Śāmbhavopāya concerns a more immediate, powerful recognition.",
+   "directed": "But the method described in Śāmbhavopāya concerns a more immediate, powerful recognition."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Here in Āṇavopāya, Kṣemarāja describes a gradual process.",
+   "directed": "Here in Āṇavopāya, Kṣemarāja describes a gradual process."
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The practitioner begins with moments of recognition.",
+   "directed": "The practitioner begins with moments of recognition."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Perhaps at the transition between mental states.",
+   "directed": "Perhaps at the transition between mental states."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Perhaps when thought subsides.",
+   "directed": "Perhaps when thought subsides."
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Perhaps during deep absorption.",
+   "directed": "Perhaps during deep absorption."
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But those moments are not yet sufficient.",
+   "directed": "But those moments are not yet sufficient."
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The recognition must extend into the intervening experience.",
+   "directed": "The recognition must extend into the intervening experience."
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The ordinary movement of awareness.",
+   "directed": "The ordinary movement of awareness."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The countless activities of waking life.",
+   "directed": "The countless activities of waking life."
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is where the metaphor of oil becomes magnificent.",
+   "directed": "And this is where the metaphor of oil becomes magnificent."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’re not trying to isolate one sacred moment from all the other moments.",
+   "directed": "You’re not trying to isolate one sacred moment from all the other moments."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’re allowing recognition to pervade the entire structure of experience.",
+   "directed": "You’re allowing recognition to pervade the entire structure of experience."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now think about what that means in practice.",
+   "directed": "Now think about what that means in practice."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You sit in meditation.",
+   "directed": "You sit in meditation."
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There’s a moment of extraordinary clarity.",
+   "directed": "There’s a moment of extraordinary clarity."
+  },
+  {
+   "id": "b77",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The usual sense of separate selfhood relaxes.",
+   "directed": "The usual sense of separate selfhood relaxes."
+  },
+  {
+   "id": "b78",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You recognise awareness as the ground of experience.",
+   "directed": "You recognise awareness as the ground of experience."
+  },
+  {
+   "id": "b79",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Beautiful.",
+   "directed": "Beautiful."
+  },
+  {
+   "id": "b80",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then you get up.",
+   "directed": "Then you get up."
+  },
+  {
+   "id": "b81",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You walk outside.",
+   "directed": "You walk outside."
+  },
+  {
+   "id": "b82",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Somebody drops a plate.",
+   "directed": "Somebody drops a plate."
+  },
+  {
+   "id": "b83",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A dog starts barking.",
+   "directed": "A dog starts barking."
+  },
+  {
+   "id": "b84",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A motorbike drives past.",
+   "directed": "A motorbike drives past."
+  },
+  {
+   "id": "b85",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And suddenly:",
+   "directed": "[short pause] And suddenly:"
+  },
+  {
+   "id": "b86",
+   "section": "Śiva Sūtras 3.20",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“FOR FUCK’S SAKE, CAN EVERYONE PLEASE BE QUIET, I’M TRYING TO BE ŚIVA.”",
+   "directed": "[short pause] “FOR FUCK’S SAKE, CAN EVERYONE PLEASE BE QUIET, I’M TRYING TO BE ŚIVA.”"
+  },
+  {
+   "id": "b87",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Well.",
+   "directed": "Well."
+  },
+  {
+   "id": "b88",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The oil hasn’t spread very far, has it?",
+   "directed": "The oil hasn’t spread very far, has it?"
+  },
+  {
+   "id": "b89",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The recognition has remained confined to one particular circumstance.",
+   "directed": "The recognition has remained confined to one particular circumstance."
+  },
+  {
+   "id": "b90",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The task is to discover the same fundamental reality amidst the changing contents of experience.",
+   "directed": "The task is to discover the same fundamental reality amidst the changing contents of experience."
+  },
+  {
+   "id": "b91",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here’s an important correction.",
+   "directed": "And here’s an important correction."
+  },
+  {
+   "id": "b92",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The sūtra isn’t instructing the practitioner to remain physically awake throughout deep sleep.",
+   "directed": "The sūtra isn’t instructing the practitioner to remain physically awake throughout deep sleep."
+  },
+  {
+   "id": "b93",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s describing the pervasion of the three states by the recognition of turya within the tradition’s contemplative framework.",
+   "directed": "It’s describing the pervasion of the three states by the recognition of turya within the tradition’s contemplative framework."
+  },
+  {
+   "id": "b94",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is not a recommendation to deprive yourself of sleep or strain to maintain ordinary alertness while unconscious.",
+   "directed": "It is not a recommendation to deprive yourself of sleep or strain to maintain ordinary alertness while unconscious."
+  },
+  {
+   "id": "b95",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The metaphysical issue is the continuity of consciousness, not the elimination of physiological sleep.",
+   "directed": "The metaphysical issue is the continuity of consciousness, not the elimination of physiological sleep."
+  },
+  {
+   "id": "b96",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now Kṣemarāja introduces a crucial detail.",
+   "directed": "And now Kṣemarāja introduces a crucial detail."
+  },
+  {
+   "id": "b97",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He refers to the initial and final boundaries of the three states.",
+   "directed": "He refers to the initial and final boundaries of the three states."
+  },
+  {
+   "id": "b98",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The moments of emergence.",
+   "directed": "The moments of emergence."
+  },
+  {
+   "id": "b99",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The moments of subsidence.",
+   "directed": "The moments of subsidence."
+  },
+  {
+   "id": "b100",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But says the practitioner should also permeate their middle.",
+   "directed": "But says the practitioner should also permeate their middle."
+  },
+  {
+   "id": "b101",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The intervening condition.",
+   "directed": "The intervening condition."
+  },
+  {
+   "id": "b102",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Why?",
+   "directed": "Why?"
+  },
+  {
+   "id": "b103",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because it’s relatively easy, within this contemplative framework, to value the special transition.",
+   "directed": "Because it’s relatively easy, within this contemplative framework, to value the special transition."
+  },
+  {
+   "id": "b104",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The moment of silence.",
+   "directed": "The moment of silence."
+  },
+  {
+   "id": "b105",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The moment before a thought.",
+   "directed": "The moment before a thought."
+  },
+  {
+   "id": "b106",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The moment of waking.",
+   "directed": "The moment of waking."
+  },
+  {
+   "id": "b107",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The extraordinary gap.",
+   "directed": "The extraordinary gap."
+  },
+  {
+   "id": "b108",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But what about the rest of experience?",
+   "directed": "But what about the rest of experience?"
+  },
+  {
+   "id": "b109",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "What about the ongoing activity?",
+   "directed": "What about the ongoing activity?"
+  },
+  {
+   "id": "b110",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "What about the entire middle of your life?",
+   "directed": "What about the entire middle of your life?"
+  },
+  {
+   "id": "b111",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That’s where the recognition must become established.",
+   "directed": "That’s where the recognition must become established."
+  },
+  {
+   "id": "b112",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja explains this as an Āṇavopāya-specific form of sustained attentiveness, distinguishing it from the more immediate attainment discussed in the first section. Sanskrit & Trika Shaivism.",
+   "directed": "Kṣemarāja explains this as an Āṇavopāya-specific form of sustained attentiveness, distinguishing it from the more immediate attainment discussed in the first section. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b113",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is why the metaphor is so extraordinary.",
+   "directed": "And this is why the metaphor is so extraordinary."
+  },
+  {
+   "id": "b114",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The point isn’t to acquire a fourth experience and then abandon the other three.",
+   "directed": "The point isn’t to acquire a fourth experience and then abandon the other three."
+  },
+  {
+   "id": "b115",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s to recognise the fourth as fundamental throughout them.",
+   "directed": "It’s to recognise the fourth as fundamental throughout them."
+  },
+  {
+   "id": "b116",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The cloth remains.",
+   "directed": "The cloth remains."
+  },
+  {
+   "id": "b117",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The oil permeates it.",
+   "directed": "The oil permeates it."
+  },
+  {
+   "id": "b118",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And gradually the whole thing becomes saturated.",
+   "directed": "And gradually the whole thing becomes saturated."
+  },
+  {
+   "id": "b119",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which, if you think about it, is an absolutely beautiful image for spiritual integration.",
+   "directed": "Which, if you think about it, is an absolutely beautiful image for spiritual integration."
+  },
+  {
+   "id": "b120",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not escaping the world.",
+   "directed": "Not escaping the world."
+  },
+  {
+   "id": "b121",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not rejecting experience.",
+   "directed": "Not rejecting experience."
+  },
+  {
+   "id": "b122",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not constructing a separate sacred compartment.",
+   "directed": "Not constructing a separate sacred compartment."
+  },
+  {
+   "id": "b123",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But recognising the conscious reality through every condition of life.",
+   "directed": "But recognising the conscious reality through every condition of life."
+  },
+  {
+   "id": "b124",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now Vasugupta gives the method.",
+   "directed": "And now Vasugupta gives the method."
+  },
+  {
+   "id": "b125",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "How do you actually enter this fourth condition?",
+   "directed": "How do you actually enter this fourth condition?"
+  },
+  {
+   "id": "b126",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Well, apparently you have to plunge into it with your mind.",
+   "directed": "Well, apparently you have to plunge into it with your mind."
+  },
+  {
+   "id": "b127",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then relinquish the very mental operations you used to approach it.",
+   "directed": "Then relinquish the very mental operations you used to approach it."
+  },
+  {
+   "id": "b128",
+   "section": "Śiva Sūtras 3.20",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which is a perfectly normal sort of paradox for Kashmir.",
+   "directed": "Which is a perfectly normal sort of paradox for Kashmir."
+  }
+ ],
+ "totals": {
+  "blocks": 129,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 869,
+   "verse": 11
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 5.8,
+   "verse": 0.1
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

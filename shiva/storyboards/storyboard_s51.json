@@ -1,0 +1,1017 @@
+{
+ "title": "Śiva Sūtras 3.19",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 3.19",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 3.19",
+   "directed": "[long pause] Śiva Sūtras 3.19"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 3.19",
+   "type": "verse",
+   "voice": "verse",
+   "text": "कवर्गादिषु माहेश्वर्याद्याः पशुमातरः",
+   "directed": "[slowly] कवर्गादिषु माहेश्वर्याद्याः पशुमातरः"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kavargādiṣu māheśvaryādyāḥ paśumātaraḥ.",
+   "directed": "Kavargādiṣu māheśvaryādyāḥ paśumātaraḥ."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Mothers of bound beings, beginning with Māheśvarī and the others, preside over the phonemic classes beginning with the ka-group.",
+   "directed": "The Mothers of bound beings, beginning with Māheśvarī and the others, preside over the phonemic classes beginning with the ka-group."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Sanskrit Alphabet Has Eight Divine Mothers, and They’re All Watching You.",
+   "directed": "The Sanskrit Alphabet Has Eight Divine Mothers, and They’re All Watching You."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "OH, HERE WE GO.",
+   "directed": "OH, HERE WE GO."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "THE MOTHERS ARE BACK.",
+   "directed": "THE MOTHERS ARE BACK."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And I cannot overstate how interesting this sūtra is.",
+   "directed": "And I cannot overstate how interesting this sūtra is."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because we’ve already encountered the divine power of the Sanskrit alphabet several times.",
+   "directed": "Because we’ve already encountered the divine power of the Sanskrit alphabet several times."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In Book I:",
+   "directed": "[short pause] In Book I:"
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 3.19",
+   "type": "verse",
+   "voice": "verse",
+   "text": "ज्ञानाधिष्ठानं मातृका।",
+   "directed": "[slowly] ज्ञानाधिष्ठानं मातृका।"
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 3.19",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Jñānādhiṣṭhānaṃ mātṛkā.",
+   "directed": "[slowly] Jñānādhiṣṭhānaṃ mātṛkā."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Mātṛkā is the foundation of differentiated knowledge.",
+   "directed": "Mātṛkā is the foundation of differentiated knowledge."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In Book II:",
+   "directed": "[short pause] In Book II:"
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 3.19",
+   "type": "verse",
+   "voice": "verse",
+   "text": "मातृकाचक्रसम्बोधः।",
+   "directed": "[slowly] मातृकाचक्रसम्बोधः।"
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 3.19",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Mātṛkācakrasambodhaḥ.",
+   "directed": "[slowly] Mātṛkācakrasambodhaḥ."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Complete awakening to the wheel of Mātṛkā.",
+   "directed": "Complete awakening to the wheel of Mātṛkā."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now, in Book III, Vasugupta is telling us that the phonemic powers are associated with divine Mothers who govern the limited beings.",
+   "directed": "And now, in Book III, Vasugupta is telling us that the phonemic powers are associated with divine Mothers who govern the limited beings."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which raises the obvious question.",
+   "directed": "Which raises the obvious question."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 3.19",
+   "type": "figure",
+   "voice": "none",
+   "text": "WHY IS THE ALPHABET TRYING TO ENSLAVE ME?",
+   "directed": "WHY IS THE ALPHABET TRYING TO ENSLAVE ME?"
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Excellent question.",
+   "directed": "Excellent question."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s begin with the Sanskrit.",
+   "directed": "Let’s begin with the Sanskrit."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ka-varga — the group of consonants beginning with ka.",
+   "directed": "Ka-varga — the group of consonants beginning with ka."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ādiṣu — among those beginning with, and the following groups.",
+   "directed": "Ādiṣu — among those beginning with, and the following groups."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Māheśvarī — the goddess Māheśvarī.",
+   "directed": "Māheśvarī — the goddess Māheśvarī."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ādyāḥ — those beginning with her, and the others.",
+   "directed": "Ādyāḥ — those beginning with her, and the others."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Paśu — the bound individual.",
+   "directed": "Paśu — the bound individual."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Mātaraḥ — mothers.",
+   "directed": "Mātaraḥ — mothers."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, Kṣemarāja invokes the Mālinīvijayatantra to explain the emergence of phonemic differentiation.",
+   "directed": "Now, Kṣemarāja invokes the Mālinīvijayatantra to explain the emergence of phonemic differentiation."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the argument is absolutely fascinating.",
+   "directed": "And the argument is absolutely fascinating."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śakti is one.",
+   "directed": "Śakti is one."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But she possesses the freedom to manifest in many forms.",
+   "directed": "But she possesses the freedom to manifest in many forms."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "As icchāśakti, she is will.",
+   "directed": "As icchāśakti, she is will."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "As jñānaśakti, she is knowledge.",
+   "directed": "As jñānaśakti, she is knowledge."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "As kriyāśakti, she is action.",
+   "directed": "As kriyāśakti, she is action."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "These powers are not fundamentally separate divine substances.",
+   "directed": "These powers are not fundamentally separate divine substances."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They’re expressions of one conscious power.",
+   "directed": "They’re expressions of one conscious power."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But through their manifestation, differentiated objects and cognitions arise.",
+   "directed": "But through their manifestation, differentiated objects and cognitions arise."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here’s the important step.",
+   "directed": "And here’s the important step."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Language articulates these differentiations.",
+   "directed": "Language articulates these differentiations."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You encounter an object.",
+   "directed": "You encounter an object."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You recognise it.",
+   "directed": "You recognise it."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You name it.",
+   "directed": "You name it."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You evaluate it.",
+   "directed": "You evaluate it."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You develop a relationship towards it.",
+   "directed": "You develop a relationship towards it."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the phonemic powers are understood as participating in this entire process.",
+   "directed": "And the phonemic powers are understood as participating in this entire process."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja describes Mātṛkā as permeating cognition through subtle and gross verbal articulation.",
+   "directed": "Kṣemarāja describes Mātṛkā as permeating cognition through subtle and gross verbal articulation."
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, think about your own experience.",
+   "directed": "Now, think about your own experience."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You see somebody.",
+   "directed": "You see somebody."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Immediately a word appears.",
+   "directed": "Immediately a word appears."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 3.19",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Friend.”",
+   "directed": "[short pause] “Friend.”"
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 3.19",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Enemy.”",
+   "directed": "[short pause] “Enemy.”"
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 3.19",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Beautiful.”",
+   "directed": "[short pause] “Beautiful.”"
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 3.19",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Annoying.”",
+   "directed": "[short pause] “Annoying.”"
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 3.19",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Stranger.”",
+   "directed": "[short pause] “Stranger.”"
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the word doesn’t simply sit there neutrally.",
+   "directed": "And the word doesn’t simply sit there neutrally."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It may become involved in an entire structure of attraction, aversion, memory and expectation.",
+   "directed": "It may become involved in an entire structure of attraction, aversion, memory and expectation."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 3.19",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“This person is dangerous.”",
+   "directed": "[short pause] “This person is dangerous.”"
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 3.19",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“This person can make me happy.”",
+   "directed": "[short pause] “This person can make me happy.”"
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 3.19",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“This person is responsible for my unhappiness.”",
+   "directed": "[short pause] “This person is responsible for my unhappiness.”"
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And suddenly you’re living inside a universe of emotionally charged conceptual distinctions.",
+   "directed": "And suddenly you’re living inside a universe of emotionally charged conceptual distinctions."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The remarkable thing about Kṣemarāja’s position is that he treats this not merely as a psychological habit but as a manifestation of divine phonemic powers.",
+   "directed": "The remarkable thing about Kṣemarāja’s position is that he treats this not merely as a psychological habit but as a manifestation of divine phonemic powers."
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Mothers.",
+   "directed": "The Mothers."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, within the tantric system, the Sanskrit letters are organised into groups.",
+   "directed": "Now, within the tantric system, the Sanskrit letters are organised into groups."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And these groups are associated with goddesses.",
+   "directed": "And these groups are associated with goddesses."
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "One traditional eightfold classification, explained in the source tradition, includes:",
+   "directed": "[short pause] One traditional eightfold classification, explained in the source tradition, includes:"
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Yogīśvarī, associated with the vowel group.\nBrāhmī, associated with the ka-group.\nMāheśvarī, associated with the ca-group.\nKaumārī, associated with the ṭa-group.\nVaiṣṇavī, associated with the ta-group.\nVārāhī, associated with the pa-group.\nAindrī, associated with the semivowels.\nCāmuṇḍā, associated with the sibilants and related final phonemes.\nThis is a particular tantric correspondence, not an assertion that every Indian tradition assigns identical goddesses to identical letters.",
+   "directed": "Yogīśvarī, associated with the vowel group.\nBrāhmī, associated with the ka-group.\nMāheśvarī, associated with the ca-group.\nKaumārī, associated with the ṭa-group.\nVaiṣṇavī, associated with the ta-group.\nVārāhī, associated with the pa-group.\nAindrī, associated with the semivowels.\nCāmuṇḍā, associated with the sibilants and related final phonemes.\nThis is a particular tantric correspondence, not an assertion that every Indian tradition assigns identical goddesses to identical letters."
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja’s commentary is more intricate than this simple list.",
+   "directed": "And Kṣemarāja’s commentary is more intricate than this simple list."
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He discusses the division into phonemic seeds and matrices, the multiplicity of the powers of speech, and their relation to the fifty letters and their presiding Rudras.",
+   "directed": "He discusses the division into phonemic seeds and matrices, the multiplicity of the powers of speech, and their relation to the fifty letters and their presiding Rudras."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The whole thing is like discovering that your ordinary alphabet is actually a metaphysical government with several departments and an alarming number of female executives.",
+   "directed": "The whole thing is like discovering that your ordinary alphabet is actually a metaphysical government with several departments and an alarming number of female executives."
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And every department reports to Śakti.",
+   "directed": "And every department reports to Śakti."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But here’s the crucial point.",
+   "directed": "But here’s the crucial point."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "These goddesses can function as powers of bondage.",
+   "directed": "These goddesses can function as powers of bondage."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The same Mātṛkā whose true nature can be recognised as supreme consciousness also supports differentiated cognitions that conceal that nature.",
+   "directed": "The same Mātṛkā whose true nature can be recognised as supreme consciousness also supports differentiated cognitions that conceal that nature."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja adds a particularly uncomfortable warning.",
+   "directed": "And Kṣemarāja adds a particularly uncomfortable warning."
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Even someone who has attained recognition can become confused again through inattention.",
+   "directed": "Even someone who has attained recognition can become confused again through inattention."
+  },
+  {
+   "id": "b77",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The phonemic powers can reassert their binding influence.",
+   "directed": "The phonemic powers can reassert their binding influence."
+  },
+  {
+   "id": "b78",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Think about that.",
+   "directed": "Think about that."
+  },
+  {
+   "id": "b79",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve had the most profound realisation of your life.",
+   "directed": "You’ve had the most profound realisation of your life."
+  },
+  {
+   "id": "b80",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You understand that the universe is Śiva.",
+   "directed": "You understand that the universe is Śiva."
+  },
+  {
+   "id": "b81",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve recognised the nature of awareness.",
+   "directed": "You’ve recognised the nature of awareness."
+  },
+  {
+   "id": "b82",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Everything is luminous.",
+   "directed": "Everything is luminous."
+  },
+  {
+   "id": "b83",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Everything is extraordinary.",
+   "directed": "Everything is extraordinary."
+  },
+  {
+   "id": "b84",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And then somebody says:",
+   "directed": "[short pause] And then somebody says:"
+  },
+  {
+   "id": "b85",
+   "section": "Śiva Sūtras 3.19",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“You’re wrong.”",
+   "directed": "[short pause] “You’re wrong.”"
+  },
+  {
+   "id": "b86",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Immediately, a concept arises.",
+   "directed": "Immediately, a concept arises."
+  },
+  {
+   "id": "b87",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Wrong.",
+   "directed": "Wrong."
+  },
+  {
+   "id": "b88",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then another.",
+   "directed": "Then another."
+  },
+  {
+   "id": "b89",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Me.",
+   "directed": "Me."
+  },
+  {
+   "id": "b90",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then another.",
+   "directed": "Then another."
+  },
+  {
+   "id": "b91",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Disrespect.",
+   "directed": "Disrespect."
+  },
+  {
+   "id": "b92",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then:",
+   "directed": "[short pause] Then:"
+  },
+  {
+   "id": "b93",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "I MUST DEFEND MYSELF.",
+   "directed": "I MUST DEFEND MYSELF."
+  },
+  {
+   "id": "b94",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And before you know it, you’re writing an eight-thousand-word reply proving why your spiritual interpretation is superior.",
+   "directed": "And before you know it, you’re writing an eight-thousand-word reply proving why your spiritual interpretation is superior."
+  },
+  {
+   "id": "b95",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Mothers have got you.",
+   "directed": "The Mothers have got you."
+  },
+  {
+   "id": "b96",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Again.",
+   "directed": "Again."
+  },
+  {
+   "id": "b97",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, this doesn’t mean the goddesses are literally malicious entities in Kṣemarāja’s metaphysical account.",
+   "directed": "Now, this doesn’t mean the goddesses are literally malicious entities in Kṣemarāja’s metaphysical account."
+  },
+  {
+   "id": "b98",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They are powers of Śakti.",
+   "directed": "They are powers of Śakti."
+  },
+  {
+   "id": "b99",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But when their differentiating activity operates without recognition of the underlying unity, the individual becomes bound by the distinctions they manifest.",
+   "directed": "But when their differentiating activity operates without recognition of the underlying unity, the individual becomes bound by the distinctions they manifest."
+  },
+  {
+   "id": "b100",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja specifically connects their operation with emotional states such as amazement, joy, fear, attachment and aversion.",
+   "directed": "Kṣemarāja specifically connects their operation with emotional states such as amazement, joy, fear, attachment and aversion."
+  },
+  {
+   "id": "b101",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And he explains how the power of speech can conceal unrestricted consciousness beneath the apparent identity of a dependent, embodied individual. Sanskrit & Trika Shaivism.",
+   "directed": "And he explains how the power of speech can conceal unrestricted consciousness beneath the apparent identity of a dependent, embodied individual. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b102",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is why the sūtra belongs exactly here.",
+   "directed": "This is why the sūtra belongs exactly here."
+  },
+  {
+   "id": "b103",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "At 3.18, we discovered that the continuity of innate knowledge ends rebirth.",
+   "directed": "At 3.18, we discovered that the continuity of innate knowledge ends rebirth."
+  },
+  {
+   "id": "b104",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now Kṣemarāja says:",
+   "directed": "[short pause] And now Kṣemarāja says:"
+  },
+  {
+   "id": "b105",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Careful.",
+   "directed": "Careful."
+  },
+  {
+   "id": "b106",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "If that recognition subsides, the differentiated powers of language can once again sustain limitation.",
+   "directed": "If that recognition subsides, the differentiated powers of language can once again sustain limitation."
+  },
+  {
+   "id": "b107",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The problem isn’t the existence of words.",
+   "directed": "The problem isn’t the existence of words."
+  },
+  {
+   "id": "b108",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s the failure to recognise the conscious power manifesting through them.",
+   "directed": "It’s the failure to recognise the conscious power manifesting through them."
+  },
+  {
+   "id": "b109",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this creates one of the most beautiful reversals in the entire work.",
+   "directed": "And this creates one of the most beautiful reversals in the entire work."
+  },
+  {
+   "id": "b110",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Mātṛkā first appears as the foundation of bondage.",
+   "directed": "Mātṛkā first appears as the foundation of bondage."
+  },
+  {
+   "id": "b111",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then as the object of liberating awakening.",
+   "directed": "Then as the object of liberating awakening."
+  },
+  {
+   "id": "b112",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then as a power that can reintroduce limitation when the practitioner becomes inattentive.",
+   "directed": "Then as a power that can reintroduce limitation when the practitioner becomes inattentive."
+  },
+  {
+   "id": "b113",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "She hasn’t fundamentally changed.",
+   "directed": "She hasn’t fundamentally changed."
+  },
+  {
+   "id": "b114",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Your relationship with her has.",
+   "directed": "Your relationship with her has."
+  },
+  {
+   "id": "b115",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Goddess can appear as the source of your confusion.",
+   "directed": "The Goddess can appear as the source of your confusion."
+  },
+  {
+   "id": "b116",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Or as the revelation of your own deepest nature.",
+   "directed": "Or as the revelation of your own deepest nature."
+  },
+  {
+   "id": "b117",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Same Śakti.",
+   "directed": "Same Śakti."
+  },
+  {
+   "id": "b118",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Different recognition.",
+   "directed": "Different recognition."
+  },
+  {
+   "id": "b119",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Vasugupta now gives us an absolutely extraordinary practical metaphor for keeping that recognition alive.",
+   "directed": "And Vasugupta now gives us an absolutely extraordinary practical metaphor for keeping that recognition alive."
+  },
+  {
+   "id": "b120",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He’s going to pour the fourth state of consciousness into the other three.",
+   "directed": "He’s going to pour the fourth state of consciousness into the other three."
+  },
+  {
+   "id": "b121",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Like oil.",
+   "directed": "Like oil."
+  },
+  {
+   "id": "b122",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Yes.",
+   "directed": "[short pause] Yes."
+  },
+  {
+   "id": "b123",
+   "section": "Śiva Sūtras 3.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re now lubricating enlightenment.",
+   "directed": "We’re now lubricating enlightenment."
+  }
+ ],
+ "totals": {
+  "blocks": 124,
+  "words_per_voice": {
+   "none": 9,
+   "granny": 910,
+   "verse": 9,
+   "man": 14
+  },
+  "est_min": {
+   "none": 0.1,
+   "granny": 6.1,
+   "verse": 0.1,
+   "man": 0.1
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

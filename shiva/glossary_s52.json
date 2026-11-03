@@ -1,0 +1,74 @@
+{
+ "anavopaya": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b62"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "anavopaya-specific": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b112"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "asecyam": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "caturtham": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "jagrat": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b22"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "sambhavopaya": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b61"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "susupti": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b22"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "trisu": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ }
+}

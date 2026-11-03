@@ -1,0 +1,745 @@
+{
+ "title": "Śiva Sūtras 3.35",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 3.35",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 3.35",
+   "directed": "[long pause] Śiva Sūtras 3.35"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 3.35",
+   "type": "verse",
+   "voice": "verse",
+   "text": "मोहप्रतिसंहतस्तु कर्मात्मा",
+   "directed": "[slowly] मोहप्रतिसंहतस्तु कर्मात्मा"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Mohapratisaṃhatas tu karmātmā.",
+   "directed": "Mohapratisaṃhatas tu karmātmā."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the one compacted in delusion is constituted by karmic activity.",
+   "directed": "But the one compacted in delusion is constituted by karmic activity."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve Been Doing Karma. Karma Has Been Doing You.",
+   "directed": "You’ve Been Doing Karma. Karma Has Been Doing You."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now this is a wonderful contrast.",
+   "directed": "Now this is a wonderful contrast."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And notice that little word again.",
+   "directed": "And notice that little word again."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Tu.",
+   "directed": "Tu."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But.",
+   "directed": "But."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "On the one hand, the liberated yogi.",
+   "directed": "On the one hand, the liberated yogi."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 3.35",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Kevalī.",
+   "directed": "[slowly] Kevalī."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "On the other hand, the bound individual.",
+   "directed": "On the other hand, the bound individual."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 3.35",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Karmātmā.",
+   "directed": "[slowly] Karmātmā."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The one whose identity is bound up with action.",
+   "directed": "The one whose identity is bound up with action."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s unpack the Sanskrit.",
+   "directed": "Let’s unpack the Sanskrit."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Moha — delusion, bewilderment, ignorance.",
+   "directed": "Moha — delusion, bewilderment, ignorance."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Pratisaṃhata — compacted, gathered densely, thoroughly enveloped.",
+   "directed": "Pratisaṃhata — compacted, gathered densely, thoroughly enveloped."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Karma — action, deed, karmic activity.",
+   "directed": "Karma — action, deed, karmic activity."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ātmā — self, here the individual understood through involvement in karma.",
+   "directed": "Ātmā — self, here the individual understood through involvement in karma."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, mohapratisaṃhata is a magnificent word.",
+   "directed": "Now, mohapratisaṃhata is a magnificent word."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A compact mass of delusion.",
+   "directed": "A compact mass of delusion."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not merely:",
+   "directed": "[short pause] Not merely:"
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 3.35",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“I happen to be mistaken about one particular thing.”",
+   "directed": "[short pause] “I happen to be mistaken about one particular thing.”"
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "No.",
+   "directed": "No."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The whole structure of ordinary self-identification is saturated with misrecognition.",
+   "directed": "The whole structure of ordinary self-identification is saturated with misrecognition."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The individual believes themselves to be a finite subject possessing independent agency.",
+   "directed": "The individual believes themselves to be a finite subject possessing independent agency."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They experience the world as fundamentally separate.",
+   "directed": "They experience the world as fundamentally separate."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They act through attraction and aversion.",
+   "directed": "They act through attraction and aversion."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And those actions produce karmic consequences.",
+   "directed": "And those actions produce karmic consequences."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja explains that the bound person becomes the receptacle of pleasure and pain precisely because they are enveloped in ignorance.",
+   "directed": "Kṣemarāja explains that the bound person becomes the receptacle of pleasure and pain precisely because they are enveloped in ignorance."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And they are continually implicated in good and bad actions.",
+   "directed": "And they are continually implicated in good and bad actions."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śubha.",
+   "directed": "Śubha."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Auspicious, good.",
+   "directed": "Auspicious, good."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 3.35",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Aśubha.",
+   "directed": "[slowly] Aśubha."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Inauspicious, bad.",
+   "directed": "Inauspicious, bad."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, here’s something important.",
+   "directed": "Now, here’s something important."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja isn’t saying morally good and bad actions are indistinguishable.",
+   "directed": "Kṣemarāja isn’t saying morally good and bad actions are indistinguishable."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Quite the opposite.",
+   "directed": "Quite the opposite."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He explicitly discusses their consequences.",
+   "directed": "He explicitly discusses their consequences."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But both belong to the condition of the individual agent acting under limited identification.",
+   "directed": "But both belong to the condition of the individual agent acting under limited identification."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The person experiences:",
+   "directed": "[short pause] The person experiences:"
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 3.35",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“I am the doer.”",
+   "directed": "[short pause] “I am the doer.”"
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 3.35",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“I performed this action.”",
+   "directed": "[short pause] “I performed this action.”"
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 3.35",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“I must receive the result.”",
+   "directed": "[short pause] “I must receive the result.”"
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the entire karmic machinery becomes involved.",
+   "directed": "And the entire karmic machinery becomes involved."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, remember the three malas.",
+   "directed": "Now, remember the three malas."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Āṇavamala — the primordial sense of limitation.",
+   "directed": "Āṇavamala — the primordial sense of limitation."
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Māyīyamala — the experience of differentiation.",
+   "directed": "Māyīyamala — the experience of differentiation."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kārmamala — the limitation associated with agency and karmic action.",
+   "directed": "Kārmamala — the limitation associated with agency and karmic action."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Here we’re seeing the consequences of the third.",
+   "directed": "Here we’re seeing the consequences of the third."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The individual isn’t merely experiencing a separate world.",
+   "directed": "The individual isn’t merely experiencing a separate world."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They are acting within it through the conviction of limited doership.",
+   "directed": "They are acting within it through the conviction of limited doership."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And therefore the consequences of action become part of their conditioned existence.",
+   "directed": "And therefore the consequences of action become part of their conditioned existence."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja cites the Kālikākrama to explain how ignorance and conceptual construction prevent the individual from recognising the tattvas, beginning with Śiva, as manifestations of consciousness.",
+   "directed": "Kṣemarāja cites the Kālikākrama to explain how ignorance and conceptual construction prevent the individual from recognising the tattvas, beginning with Śiva, as manifestations of consciousness."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then good and bad conditions arise through the person’s dependence upon ignorance.",
+   "directed": "Then good and bad conditions arise through the person’s dependence upon ignorance."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And suffering follows from inauspicious states and deeds. Sanskrit & Trika Shaivism.",
+   "directed": "And suffering follows from inauspicious states and deeds. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now think about the contrast with the previous sūtra.",
+   "directed": "Now think about the contrast with the previous sūtra."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The kevalī experiences the body and mind without treating their changing states as the ultimate Self.",
+   "directed": "The kevalī experiences the body and mind without treating their changing states as the ultimate Self."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The karmātmā identifies with the limited subject and its actions.",
+   "directed": "The karmātmā identifies with the limited subject and its actions."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "One recognises the underlying reality.",
+   "directed": "One recognises the underlying reality."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The other remains caught within its contracted manifestation.",
+   "directed": "The other remains caught within its contracted manifestation."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the important difference isn’t necessarily visible from the outside.",
+   "directed": "And the important difference isn’t necessarily visible from the outside."
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Two people might perform the same ordinary action.",
+   "directed": "Two people might perform the same ordinary action."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They might both walk down a road.",
+   "directed": "They might both walk down a road."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Speak to another person.",
+   "directed": "Speak to another person."
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Eat a meal.",
+   "directed": "Eat a meal."
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But Kṣemarāja’s philosophical distinction concerns the conscious standpoint from which action occurs.",
+   "directed": "But Kṣemarāja’s philosophical distinction concerns the conscious standpoint from which action occurs."
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not merely the outward movement.",
+   "directed": "Not merely the outward movement."
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "One identifies with the finite agent as ultimate.",
+   "directed": "One identifies with the finite agent as ultimate."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The other recognises the universal conscious source.",
+   "directed": "The other recognises the universal conscious source."
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Of course, this doesn’t remove conventional responsibility.",
+   "directed": "Of course, this doesn’t remove conventional responsibility."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A person claiming spiritual liberation cannot simply declare themselves exempt from the consequences of harming others.",
+   "directed": "A person claiming spiritual liberation cannot simply declare themselves exempt from the consequences of harming others."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The metaphysical recognition of Śiva is not an ethical loophole.",
+   "directed": "The metaphysical recognition of Śiva is not an ethical loophole."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the tradition’s point is that the ordinary structure of karmic bondage depends upon limited self-identification.",
+   "directed": "But the tradition’s point is that the ordinary structure of karmic bondage depends upon limited self-identification."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now comes the extraordinary turn.",
+   "directed": "And now comes the extraordinary turn."
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because even the person compacted in delusion hasn’t ceased to be Śiva in their fundamental nature.",
+   "directed": "Because even the person compacted in delusion hasn’t ceased to be Śiva in their fundamental nature."
+  },
+  {
+   "id": "b77",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which means the possibility of recognition remains.",
+   "directed": "Which means the possibility of recognition remains."
+  },
+  {
+   "id": "b78",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja introduces śaktipāta.",
+   "directed": "And Kṣemarāja introduces śaktipāta."
+  },
+  {
+   "id": "b79",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The descent of divine grace.",
+   "directed": "The descent of divine grace."
+  },
+  {
+   "id": "b80",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The intervention of Śiva’s own power through which the individual’s innate freedom becomes disclosed.",
+   "directed": "The intervention of Śiva’s own power through which the individual’s innate freedom becomes disclosed."
+  },
+  {
+   "id": "b81",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And suddenly the whole situation changes.",
+   "directed": "And suddenly the whole situation changes."
+  },
+  {
+   "id": "b82",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The compact mass of delusion doesn’t have to remain compact forever.",
+   "directed": "The compact mass of delusion doesn’t have to remain compact forever."
+  },
+  {
+   "id": "b83",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The limitation can be recognised.",
+   "directed": "The limitation can be recognised."
+  },
+  {
+   "id": "b84",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Difference can be transcended.",
+   "directed": "Difference can be transcended."
+  },
+  {
+   "id": "b85",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And then, according to the tradition, something rather spectacular becomes possible.",
+   "directed": "And then, according to the tradition, something rather spectacular becomes possible."
+  },
+  {
+   "id": "b86",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The creation of another world.",
+   "directed": "The creation of another world."
+  },
+  {
+   "id": "b87",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Oh, for God’s sake.",
+   "directed": "Oh, for God’s sake."
+  },
+  {
+   "id": "b88",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re back to supernatural powers.",
+   "directed": "We’re back to supernatural powers."
+  },
+  {
+   "id": "b89",
+   "section": "Śiva Sūtras 3.35",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Apparently Śiva cannot resist showing off.",
+   "directed": "Apparently Śiva cannot resist showing off."
+  }
+ ],
+ "totals": {
+  "blocks": 90,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 631,
+   "verse": 5,
+   "man": 9
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 4.2,
+   "verse": 0.0,
+   "man": 0.1
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

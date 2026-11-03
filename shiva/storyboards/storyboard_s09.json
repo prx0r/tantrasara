@@ -1,0 +1,255 @@
+{
+ "title": "Śiva Sūtras 1.9",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 1.9",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 1.9",
+   "directed": "[long pause] Śiva Sūtras 1.9"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 1.9",
+   "type": "verse",
+   "voice": "verse",
+   "text": "स्वप्नो विकल्पाः",
+   "directed": "[slowly] स्वप्नो विकल्पाः"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 1.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Svapno vikalpāḥ.",
+   "directed": "Svapno vikalpāḥ."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 1.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Dreaming consists of conceptual constructions.",
+   "directed": "Dreaming consists of conceptual constructions."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 1.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Dreams Are Your Mind Making Stuff Up.",
+   "directed": "Dreams Are Your Mind Making Stuff Up."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 1.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vikalpa is a hugely important word.",
+   "directed": "Vikalpa is a hugely important word."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 1.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It means conceptual construction, differentiation, imagination, or determinate mental representation, depending on context.",
+   "directed": "It means conceptual construction, differentiation, imagination, or determinate mental representation, depending on context."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 1.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Your mind has an extraordinary ability.",
+   "directed": "Your mind has an extraordinary ability."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 1.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It can construct an entire experienced world without corresponding external sensory objects.",
+   "directed": "It can construct an entire experienced world without corresponding external sensory objects."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 1.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You fall asleep.",
+   "directed": "You fall asleep."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 1.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Suddenly you’re late for a mathematics exam.",
+   "directed": "Suddenly you’re late for a mathematics exam."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 1.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’re naked.",
+   "directed": "You’re naked."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 1.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Your childhood friend has become the prime minister of Bulgaria.",
+   "directed": "Your childhood friend has become the prime minister of Bulgaria."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 1.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And none of this seems particularly unusual.",
+   "directed": "And none of this seems particularly unusual."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 1.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The mind is constructing appearances.",
+   "directed": "The mind is constructing appearances."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 1.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But Trika’s observation extends beyond sleeping dreams.",
+   "directed": "But Trika’s observation extends beyond sleeping dreams."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 1.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Much of ordinary waking experience is also shaped by conceptual constructions.",
+   "directed": "Much of ordinary waking experience is also shaped by conceptual constructions."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 1.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You remember an argument.",
+   "directed": "You remember an argument."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 1.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You imagine tomorrow.",
+   "directed": "You imagine tomorrow."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 1.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You rehearse a conversation that hasn’t happened.",
+   "directed": "You rehearse a conversation that hasn’t happened."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 1.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You construct an entire future in which someone rejects you.",
+   "directed": "You construct an entire future in which someone rejects you."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 1.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then you get upset about it.",
+   "directed": "Then you get upset about it."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 1.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The other person hasn’t even entered the imaginary conversation yet.",
+   "directed": "The other person hasn’t even entered the imaginary conversation yet."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 1.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve invented them, invented their words, invented your response, and somehow come out of the encounter emotionally exhausted.",
+   "directed": "You’ve invented them, invented their words, invented your response, and somehow come out of the encounter emotionally exhausted."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 1.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Congratulations.",
+   "directed": "Congratulations."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 1.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve been defeated by your own screenplay.",
+   "directed": "You’ve been defeated by your own screenplay."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 1.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The crucial distinction is that Vasugupta is classifying modes of experience, not claiming that waking sensory perception and dreams are empirically identical.",
+   "directed": "The crucial distinction is that Vasugupta is classifying modes of experience, not claiming that waking sensory perception and dreams are empirically identical."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 1.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the same manifesting consciousness is involved in both.",
+   "directed": "But the same manifesting consciousness is involved in both."
+  }
+ ],
+ "totals": {
+  "blocks": 29,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 203,
+   "verse": 2
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 1.4,
+   "verse": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

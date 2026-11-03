@@ -1,0 +1,681 @@
+{
+ "title": "Śiva Sūtras 2.8",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 2.8",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 2.8",
+   "directed": "[long pause] Śiva Sūtras 2.8"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 2.8",
+   "type": "verse",
+   "voice": "verse",
+   "text": "शरीरं हविः",
+   "directed": "[slowly] शरीरं हविः"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śarīraṃ haviḥ.",
+   "directed": "Śarīraṃ haviḥ."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The body is the sacrificial offering.",
+   "directed": "The body is the sacrificial offering."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Congratulations, You’re the Sacrifice.",
+   "directed": "Congratulations, You’re the Sacrifice."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 2.8",
+   "type": "figure",
+   "voice": "none",
+   "text": "RIGHT.",
+   "directed": "RIGHT."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Before anybody gets any ideas, let’s establish something important.",
+   "directed": "Before anybody gets any ideas, let’s establish something important."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja is not telling practitioners to physically burn themselves.",
+   "directed": "Kṣemarāja is not telling practitioners to physically burn themselves."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The fire in question is the supreme fire of consciousness.",
+   "directed": "The fire in question is the supreme fire of consciousness."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the body is offered through the dissolution of identification with it as the ultimate Self.",
+   "directed": "And the body is offered through the dissolution of identification with it as the ultimate Self."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now let’s unpack the Sanskrit.",
+   "directed": "Now let’s unpack the Sanskrit."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śarīra — body.",
+   "directed": "Śarīra — body."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Havis — sacrificial oblation or offering; haviḥ is its nominative form.",
+   "directed": "Havis — sacrificial oblation or offering; haviḥ is its nominative form."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this refers us to the ancient Indian sacrificial vocabulary of yajña.",
+   "directed": "And this refers us to the ancient Indian sacrificial vocabulary of yajña."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The fire.",
+   "directed": "The fire."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The offering.",
+   "directed": "The offering."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The act of offering.",
+   "directed": "The act of offering."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The officiant.",
+   "directed": "The officiant."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The divine recipient.",
+   "directed": "The divine recipient."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ordinarily, these are differentiated elements of a ritual.",
+   "directed": "Ordinarily, these are differentiated elements of a ritual."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Somebody performs the sacrifice.",
+   "directed": "Somebody performs the sacrifice."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Something is offered.",
+   "directed": "Something is offered."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The offering goes into the fire.",
+   "directed": "The offering goes into the fire."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The ritual is directed towards a divine reality.",
+   "directed": "The ritual is directed towards a divine reality."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But Trika makes an extraordinary internal transformation of this structure.",
+   "directed": "But Trika makes an extraordinary internal transformation of this structure."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The body becomes the offering.",
+   "directed": "The body becomes the offering."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Consciousness becomes the fire.",
+   "directed": "Consciousness becomes the fire."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the false identification of the limited body as the ultimate perceiver is consumed.",
+   "directed": "And the false identification of the limited body as the ultimate perceiver is consumed."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, notice the specificity.",
+   "directed": "Now, notice the specificity."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja isn’t merely saying:",
+   "directed": "[short pause] Kṣemarāja isn’t merely saying:"
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 2.8",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Stop being attached to your body.”",
+   "directed": "[short pause] “Stop being attached to your body.”"
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He’s talking about the pramātṛ, the knowing subject.",
+   "directed": "He’s talking about the pramātṛ, the knowing subject."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ordinarily, you identify the knower with your embodied individuality.",
+   "directed": "Ordinarily, you identify the knower with your embodied individuality."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 2.8",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“I am this body.”",
+   "directed": "[short pause] “I am this body.”"
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 2.8",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“My eyes are seeing.”",
+   "directed": "[short pause] “My eyes are seeing.”"
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 2.8",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“My brain is thinking.”",
+   "directed": "[short pause] “My brain is thinking.”"
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 2.8",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“My personal history defines what I am.”",
+   "directed": "[short pause] “My personal history defines what I am.”"
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But remember the very first sūtra.",
+   "directed": "But remember the very first sūtra."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Caitanyam ātmā.",
+   "directed": "Caitanyam ātmā."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Consciousness is the Self.",
+   "directed": "Consciousness is the Self."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "From the standpoint of Kṣemarāja’s nondual metaphysics, the body itself belongs to the field of manifestation.",
+   "directed": "From the standpoint of Kṣemarāja’s nondual metaphysics, the body itself belongs to the field of manifestation."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is not the ultimate foundation of the conscious subject.",
+   "directed": "It is not the ultimate foundation of the conscious subject."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So what does it mean to offer the body?",
+   "directed": "So what does it mean to offer the body?"
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It means that the body, together with its subtle forms and the structures of limited identification, is recognised as an expression within supreme consciousness.",
+   "directed": "It means that the body, together with its subtle forms and the structures of limited identification, is recognised as an expression within supreme consciousness."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The body is not destroyed.",
+   "directed": "The body is not destroyed."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Its erroneous status as an independently existing ultimate Self is relinquished.",
+   "directed": "Its erroneous status as an independently existing ultimate Self is relinquished."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Imagine standing before a fire.",
+   "directed": "Imagine standing before a fire."
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You take the entire notion:",
+   "directed": "[short pause] You take the entire notion:"
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 2.8",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“I am nothing more than this limited organism.”",
+   "directed": "[short pause] “I am nothing more than this limited organism.”"
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And you offer it into the recognition:",
+   "directed": "[short pause] And you offer it into the recognition:"
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 2.8",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“My deepest nature is the consciousness in which this organism, its experiences, and the universe itself are manifest.”",
+   "directed": "[short pause] “My deepest nature is the consciousness in which this organism, its experiences, and the universe itself are manifest.”"
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The body hasn’t vanished.",
+   "directed": "The body hasn’t vanished."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve not stopped eating.",
+   "directed": "You’ve not stopped eating."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve not magically become impervious to a falling coconut.",
+   "directed": "You’ve not magically become impervious to a falling coconut."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But its ontological status within your understanding has changed.",
+   "directed": "But its ontological status within your understanding has changed."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the beauty is that Kṣemarāja draws on the Vijñānabhairava to explain this inner sacrifice.",
+   "directed": "And the beauty is that Kṣemarāja draws on the Vijñānabhairava to explain this inner sacrifice."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He describes the elements, senses, their objects, and mind as offerings into the fire of consciousness.",
+   "directed": "He describes the elements, senses, their objects, and mind as offerings into the fire of consciousness."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the power that performs the offering is itself cetanā, conscious Śakti.",
+   "directed": "And the power that performs the offering is itself cetanā, conscious Śakti."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So who’s the priest?",
+   "directed": "So who’s the priest?"
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śakti.",
+   "directed": "Śakti."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "What’s the offering?",
+   "directed": "What’s the offering?"
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The limited structures of embodiment.",
+   "directed": "The limited structures of embodiment."
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "What’s the fire?",
+   "directed": "What’s the fire?"
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Consciousness.",
+   "directed": "Consciousness."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And who’s the divine recipient?",
+   "directed": "And who’s the divine recipient?"
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śiva.",
+   "directed": "Śiva."
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So the entire sacrificial process is ultimately an expression of the same reality.",
+   "directed": "So the entire sacrificial process is ultimately an expression of the same reality."
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The priest is Śiva’s power.",
+   "directed": "The priest is Śiva’s power."
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The fire is Śiva.",
+   "directed": "The fire is Śiva."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The offering belongs to Śiva.",
+   "directed": "The offering belongs to Śiva."
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the sacrifice discloses the nondual nature of the whole performance.",
+   "directed": "And the sacrifice discloses the nondual nature of the whole performance."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s rather like turning up to a wedding and discovering you’re the bride, groom, priest, venue, and the entire congregation.",
+   "directed": "It’s rather like turning up to a wedding and discovering you’re the bride, groom, priest, venue, and the entire congregation."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Except this is an internal metaphysical ritual rather than an unusually complicated marital arrangement.",
+   "directed": "Except this is an internal metaphysical ritual rather than an unusually complicated marital arrangement."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is especially beautiful when compared with the Bhagavadgītā’s vision of sacrificial action.",
+   "directed": "And this is especially beautiful when compared with the Bhagavadgītā’s vision of sacrificial action."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Different traditions develop the idea in different ways, but the structural resemblance is unmistakable.",
+   "directed": "Different traditions develop the idea in different ways, but the structural resemblance is unmistakable."
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The apparent separation between the act, its instruments, its object, and the divine reality is overcome through knowledge.",
+   "directed": "The apparent separation between the act, its instruments, its object, and the divine reality is overcome through knowledge."
+  },
+  {
+   "id": "b77",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja explicitly cites both the Vijñānabhairava and Bhagavadgītā when explaining the sūtra. Sanskrit & Trika Shaivism.",
+   "directed": "Kṣemarāja explicitly cites both the Vijñānabhairava and Bhagavadgītā when explaining the sūtra. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b78",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The offering is not a rejection of embodiment.",
+   "directed": "The offering is not a rejection of embodiment."
+  },
+  {
+   "id": "b79",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is the end of mistaking embodiment for your ultimate identity.",
+   "directed": "It is the end of mistaking embodiment for your ultimate identity."
+  },
+  {
+   "id": "b80",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now we arrive at one of my favourite statements in the entire text.",
+   "directed": "And now we arrive at one of my favourite statements in the entire text."
+  },
+  {
+   "id": "b81",
+   "section": "Śiva Sūtras 2.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because having turned the body into a sacrificial offering, Vasugupta announces that knowledge is dinner.",
+   "directed": "Because having turned the body into a sacrificial offering, Vasugupta announces that knowledge is dinner."
+  }
+ ],
+ "totals": {
+  "blocks": 82,
+  "words_per_voice": {
+   "none": 2,
+   "granny": 611,
+   "verse": 2,
+   "man": 8
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 4.1,
+   "verse": 0.0,
+   "man": 0.1
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

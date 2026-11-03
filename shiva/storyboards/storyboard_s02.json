@@ -1,0 +1,271 @@
+{
+ "title": "Śiva Sūtras 1.2",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 1.2",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 1.2",
+   "directed": "[long pause] Śiva Sūtras 1.2"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 1.2",
+   "type": "verse",
+   "voice": "verse",
+   "text": "ज्ञानं बन्धः",
+   "directed": "[slowly] ज्ञानं बन्धः"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 1.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Jñānaṃ bandhaḥ.",
+   "directed": "Jñānaṃ bandhaḥ."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 1.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Knowledge is bondage.",
+   "directed": "Knowledge is bondage."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 1.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Congratulations, Your Knowledge Is the Problem.",
+   "directed": "Congratulations, Your Knowledge Is the Problem."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 1.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Oh, brilliant.",
+   "directed": "Oh, brilliant."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 1.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’ve gone from “you are infinite consciousness” to “knowledge is your prison”.",
+   "directed": "We’ve gone from “you are infinite consciousness” to “knowledge is your prison”."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 1.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Thanks, Vasugupta. Shall I cancel university?",
+   "directed": "Thanks, Vasugupta. Shall I cancel university?"
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 1.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not quite.",
+   "directed": "Not quite."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 1.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Here jñāna means limited, differentiated knowing — knowledge structured around the fundamental division:",
+   "directed": "[short pause] Here jñāna means limited, differentiated knowing — knowledge structured around the fundamental division:"
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 1.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "I am here. That thing is over there.",
+   "directed": "I am here. That thing is over there."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 1.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You see a tree.",
+   "directed": "You see a tree."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 1.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There is you, the perceiver, and the tree, the perceived.",
+   "directed": "There is you, the perceiver, and the tree, the perceived."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 1.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You immediately organise reality into categories.",
+   "directed": "You immediately organise reality into categories."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 1.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Me. Tree. Other people. My possessions. My memories. My terribly important opinions.",
+   "directed": "Me. Tree. Other people. My possessions. My memories. My terribly important opinions."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 1.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now ordinary differentiated knowledge is useful. It stops you walking into trees.",
+   "directed": "Now ordinary differentiated knowledge is useful. It stops you walking into trees."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 1.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the problem begins when this limited standpoint is mistaken for your complete identity.",
+   "directed": "But the problem begins when this limited standpoint is mistaken for your complete identity."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 1.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja associates this with āṇavamala, the primordial contraction in which universal consciousness experiences itself as a limited individual.",
+   "directed": "Kṣemarāja associates this with āṇavamala, the primordial contraction in which universal consciousness experiences itself as a limited individual."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 1.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Mala means impurity, but don’t imagine literal dirt covering a perfectly clean soul.",
+   "directed": "Mala means impurity, but don’t imagine literal dirt covering a perfectly clean soul."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 1.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Think of it as a fundamental limitation of awareness.",
+   "directed": "Think of it as a fundamental limitation of awareness."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 1.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The infinite experiences itself as finite.",
+   "directed": "The infinite experiences itself as finite."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 1.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The complete experiences itself as incomplete.",
+   "directed": "The complete experiences itself as incomplete."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 1.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The universally free experiences itself as somebody who desperately needs everything to work out a particular way.",
+   "directed": "The universally free experiences itself as somebody who desperately needs everything to work out a particular way."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 1.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here’s the extraordinary move.",
+   "directed": "And here’s the extraordinary move."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 1.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "From the Trika perspective, bondage doesn’t require a second power to capture Śiva.",
+   "directed": "From the Trika perspective, bondage doesn’t require a second power to capture Śiva."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 1.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śiva’s own freedom makes contraction possible.",
+   "directed": "Śiva’s own freedom makes contraction possible."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 1.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The prisoner, the prison, and the authority permitting the imprisonment are not ultimately three independent entities.",
+   "directed": "The prisoner, the prison, and the authority permitting the imprisonment are not ultimately three independent entities."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 1.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s Śiva.",
+   "directed": "It’s Śiva."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 1.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Doing the entire performance himself.",
+   "directed": "Doing the entire performance himself."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 1.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The philosophical point: Bondage is not knowledge as such, but the limiting mode of knowing which obscures one’s undivided nature. Kṣemarāja also connects bondage to the failure to recognise nondual awareness.",
+   "directed": "The philosophical point: Bondage is not knowledge as such, but the limiting mode of knowing which obscures one’s undivided nature. Kṣemarāja also connects bondage to the failure to recognise nondual awareness."
+  }
+ ],
+ "totals": {
+  "blocks": 31,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 262,
+   "verse": 2
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 1.7,
+   "verse": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

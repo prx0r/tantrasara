@@ -1,0 +1,191 @@
+{
+ "title": "Śiva Sūtras 1.8",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 1.8",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 1.8",
+   "directed": "[long pause] Śiva Sūtras 1.8"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 1.8",
+   "type": "verse",
+   "voice": "verse",
+   "text": "ज्ञानं जाग्रत्",
+   "directed": "[slowly] ज्ञानं जाग्रत्"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 1.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Jñānaṃ jāgrat.",
+   "directed": "Jñānaṃ jāgrat."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 1.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Knowledge is waking.",
+   "directed": "Knowledge is waking."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 1.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Waking World Is Just One Department.",
+   "directed": "The Waking World Is Just One Department."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 1.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Specifically, the relevant form of jñāna is cognition of the externally presented world.",
+   "directed": "Specifically, the relevant form of jñāna is cognition of the externally presented world."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 1.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You open your eyes.",
+   "directed": "You open your eyes."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 1.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There’s a cup.",
+   "directed": "There’s a cup."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 1.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There’s a table.",
+   "directed": "There’s a table."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 1.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There’s a gecko on the wall looking suspiciously like he owns the property.",
+   "directed": "There’s a gecko on the wall looking suspiciously like he owns the property."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 1.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Everything appears organised into objects apprehended through the senses.",
+   "directed": "Everything appears organised into objects apprehended through the senses."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 1.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is waking consciousness.",
+   "directed": "This is waking consciousness."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 1.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But do not confuse the waking state’s relative clarity with ultimate awakening.",
+   "directed": "But do not confuse the waking state’s relative clarity with ultimate awakening."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 1.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You can be wide awake physically and completely unaware of your own fundamental nature.",
+   "directed": "You can be wide awake physically and completely unaware of your own fundamental nature."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 1.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve got your eyes open.",
+   "directed": "You’ve got your eyes open."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 1.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve got eighteen tabs open.",
+   "directed": "You’ve got eighteen tabs open."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 1.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’re analysing interest rates and arguing about whether somebody has used a Sanskrit compound correctly.",
+   "directed": "You’re analysing interest rates and arguing about whether somebody has used a Sanskrit compound correctly."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 1.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the whole time, the consciousness in which all these things are appearing remains unrecognised.",
+   "directed": "And the whole time, the consciousness in which all these things are appearing remains unrecognised."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 1.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’re very busy knowing things.",
+   "directed": "You’re very busy knowing things."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 1.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But you’ve forgotten the knower.",
+   "directed": "But you’ve forgotten the knower."
+  }
+ ],
+ "totals": {
+  "blocks": 21,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 140,
+   "verse": 2
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 0.9,
+   "verse": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

@@ -1,0 +1,359 @@
+{
+ "title": "Śiva Sūtras 1.7",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 1.7",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 1.7",
+   "directed": "[long pause] Śiva Sūtras 1.7"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 1.7",
+   "type": "verse",
+   "voice": "verse",
+   "text": "जाग्रत्स्वप्नसुषुप्तभेदे तुर्याभोगसम्भवः",
+   "directed": "[slowly] जाग्रत्स्वप्नसुषुप्तभेदे तुर्याभोगसम्भवः"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 1.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Jāgratsvapnasuṣuptabhede turyābhogasambhavaḥ.",
+   "directed": "Jāgratsvapnasuṣuptabhede turyābhogasambhavaḥ."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 1.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In the distinctions of waking, dreaming and deep sleep, the experience of the fourth is possible.",
+   "directed": "In the distinctions of waking, dreaming and deep sleep, the experience of the fourth is possible."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 1.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Turns Out You’re Supposed to Be Awake While You’re Asleep.",
+   "directed": "Turns Out You’re Supposed to Be Awake While You’re Asleep."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 1.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now Vasugupta introduces a magnificent idea.",
+   "directed": "Now Vasugupta introduces a magnificent idea."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 1.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The ordinary person experiences three principal states.",
+   "directed": "The ordinary person experiences three principal states."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 1.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Jāgrat — waking.",
+   "directed": "Jāgrat — waking."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 1.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Svapna — dreaming.",
+   "directed": "Svapna — dreaming."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 1.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Suṣupti — deep sleep.",
+   "directed": "Suṣupti — deep sleep."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 1.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You wake up.",
+   "directed": "You wake up."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 1.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There’s a world.",
+   "directed": "There’s a world."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 1.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You go to sleep.",
+   "directed": "You go to sleep."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 1.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There’s another world.",
+   "directed": "There’s another world."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 1.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You fall into dreamless sleep.",
+   "directed": "You fall into dreamless sleep."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 1.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Apparently, there’s no world at all.",
+   "directed": "Apparently, there’s no world at all."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 1.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then you wake up again and go, “Bloody hell, where have eight hours gone?”",
+   "directed": "Then you wake up again and go, “Bloody hell, where have eight hours gone?”"
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 1.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But across these changing conditions, the tradition introduces a fourth principle.",
+   "directed": "But across these changing conditions, the tradition introduces a fourth principle."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 1.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Turya.",
+   "directed": "Turya."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 1.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Literally, “the fourth”.",
+   "directed": "Literally, “the fourth”."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 1.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A beautifully understated name for something of such metaphysical significance.",
+   "directed": "A beautifully understated name for something of such metaphysical significance."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 1.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Didn’t call it the Great Golden Celestial Palace of Eternal Transcendent Consciousness.",
+   "directed": "Didn’t call it the Great Golden Celestial Palace of Eternal Transcendent Consciousness."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 1.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Just “number four”.",
+   "directed": "Just “number four”."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 1.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Turya is the underlying nondual consciousness that can be recognised throughout waking, dreaming and deep sleep.",
+   "directed": "Turya is the underlying nondual consciousness that can be recognised throughout waking, dreaming and deep sleep."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 1.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is where the teaching becomes extraordinarily subtle.",
+   "directed": "And this is where the teaching becomes extraordinarily subtle."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 1.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because turya is not simply another mental state to be entered after the other three.",
+   "directed": "Because turya is not simply another mental state to be entered after the other three."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 1.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is the conscious reality that remains fundamental regardless of their changing contents.",
+   "directed": "It is the conscious reality that remains fundamental regardless of their changing contents."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 1.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In waking, experiences appear through sensory cognition.",
+   "directed": "In waking, experiences appear through sensory cognition."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 1.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In dreaming, experiences appear through mental constructions.",
+   "directed": "In dreaming, experiences appear through mental constructions."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 1.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In deep sleep, differentiated cognition is unmanifest.",
+   "directed": "In deep sleep, differentiated cognition is unmanifest."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 1.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But from the standpoint of Trika, the ultimate reality of consciousness is not exhausted by any of these states.",
+   "directed": "But from the standpoint of Trika, the ultimate reality of consciousness is not exhausted by any of these states."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 1.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The accomplished yogi recognises that reality through their transformations.",
+   "directed": "The accomplished yogi recognises that reality through their transformations."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 1.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Imagine three films being projected onto a screen.",
+   "directed": "Imagine three films being projected onto a screen."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 1.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "An action film.",
+   "directed": "An action film."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 1.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A romantic comedy.",
+   "directed": "A romantic comedy."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 1.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And an entirely black film in which nothing happens.",
+   "directed": "And an entirely black film in which nothing happens."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 1.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The images differ.",
+   "directed": "The images differ."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 1.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the screen is not destroyed whenever the film changes.",
+   "directed": "But the screen is not destroyed whenever the film changes."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 1.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now take that metaphor carefully: unlike an ordinary screen, Śiva is not an inert support. Śiva is self-aware and free.",
+   "directed": "Now take that metaphor carefully: unlike an ordinary screen, Śiva is not an inert support. Śiva is self-aware and free."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 1.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The point is the continuity of the underlying reality, not an assertion that your personal waking mind remains fully alert throughout every period of sleep.",
+   "directed": "The point is the continuity of the underlying reality, not an assertion that your personal waking mind remains fully alert throughout every period of sleep."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 1.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The remarkable claim: Liberation does not require fleeing from ordinary conscious life. The same fundamental reality can be recognised through every mode of experience.",
+   "directed": "The remarkable claim: Liberation does not require fleeing from ordinary conscious life. The same fundamental reality can be recognised through every mode of experience."
+  }
+ ],
+ "totals": {
+  "blocks": 42,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 339,
+   "verse": 2
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 2.3,
+   "verse": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

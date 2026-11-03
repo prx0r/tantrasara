@@ -1,0 +1,775 @@
+{
+ "title": "Śiva Sūtras 3.34",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 3.34",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 3.34",
+   "directed": "[long pause] Śiva Sūtras 3.34"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 3.34",
+   "type": "verse",
+   "voice": "verse",
+   "text": "तद्विमुक्तस्तु केवली",
+   "directed": "[slowly] तद्विमुक्तस्तु केवली"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Tadvimuktas tu kevalī.",
+   "directed": "Tadvimuktas tu kevalī."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the one liberated from those is kevalī — established in their own pure, independent nature.",
+   "directed": "But the one liberated from those is kevalī — established in their own pure, independent nature."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Congratulations, You’re Alone. Not Lonely. Metaphysically Alone.",
+   "directed": "Congratulations, You’re Alone. Not Lonely. Metaphysically Alone."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now this is absolutely magnificent.",
+   "directed": "Now this is absolutely magnificent."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because we’ve just learned that the yogi can experience pleasure and pain without identifying their deepest nature with either.",
+   "directed": "Because we’ve just learned that the yogi can experience pleasure and pain without identifying their deepest nature with either."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Vasugupta immediately announces:",
+   "directed": "[short pause] And Vasugupta immediately announces:"
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 3.34",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Kevalī.",
+   "directed": "[slowly] Kevalī."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The one who stands alone.",
+   "directed": "The one who stands alone."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Oh dear.",
+   "directed": "Oh dear."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That sounds rather depressing.",
+   "directed": "That sounds rather depressing."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve attained the highest spiritual realization imaginable, and apparently there’s nobody else at the party.",
+   "directed": "You’ve attained the highest spiritual realization imaginable, and apparently there’s nobody else at the party."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Just you.",
+   "directed": "Just you."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Śiva.",
+   "directed": "And Śiva."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Who is also you.",
+   "directed": "Who is also you."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the entire universe.",
+   "directed": "And the entire universe."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which is also the manifestation of your own Śakti.",
+   "directed": "Which is also the manifestation of your own Śakti."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "What an extraordinarily confusing social gathering.",
+   "directed": "What an extraordinarily confusing social gathering."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But let’s unpack the Sanskrit.",
+   "directed": "But let’s unpack the Sanskrit."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Tad — those; referring to pleasure and pain.",
+   "directed": "Tad — those; referring to pleasure and pain."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vimuktaḥ — released, liberated, freed.",
+   "directed": "Vimuktaḥ — released, liberated, freed."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Tu — but, indeed, marking a distinction.",
+   "directed": "Tu — but, indeed, marking a distinction."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kevalī — one established in aloneness, purity, or independence.",
+   "directed": "Kevalī — one established in aloneness, purity, or independence."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here we need to understand kaivalya.",
+   "directed": "And here we need to understand kaivalya."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because this is a term that appears in multiple Indian philosophical traditions, but it doesn’t always mean the same thing.",
+   "directed": "Because this is a term that appears in multiple Indian philosophical traditions, but it doesn’t always mean the same thing."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In classical Sāṃkhya-Yoga, kaivalya is associated with the isolation of puruṣa from prakṛti.",
+   "directed": "In classical Sāṃkhya-Yoga, kaivalya is associated with the isolation of puruṣa from prakṛti."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The conscious principle is distinguished from the material processes with which it had been confused.",
+   "directed": "The conscious principle is distinguished from the material processes with which it had been confused."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But Trika doesn’t accept that ultimate metaphysical separation.",
+   "directed": "But Trika doesn’t accept that ultimate metaphysical separation."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because for Trika, the world of manifestation is not fundamentally independent of Śiva.",
+   "directed": "Because for Trika, the world of manifestation is not fundamentally independent of Śiva."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s Śiva’s own Śakti.",
+   "directed": "It’s Śiva’s own Śakti."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So Kṣemarāja’s kevalī is not an isolated consciousness hiding from an independently existing universe.",
+   "directed": "So Kṣemarāja’s kevalī is not an isolated consciousness hiding from an independently existing universe."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The yogi is established in the pure conscious nature of the Self, no longer bound by identification with the subtle body and its pleasure-pain experiences.",
+   "directed": "The yogi is established in the pure conscious nature of the Self, no longer bound by identification with the subtle body and its pleasure-pain experiences."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is what makes the doctrine so subtle.",
+   "directed": "And this is what makes the doctrine so subtle."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The yogi isn’t simply detached from objects because objects are horrible.",
+   "directed": "The yogi isn’t simply detached from objects because objects are horrible."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The yogi recognises their fundamental conscious nature as not dependent upon those objects.",
+   "directed": "The yogi recognises their fundamental conscious nature as not dependent upon those objects."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now Kṣemarāja makes the point exceptionally strongly.",
+   "directed": "Now Kṣemarāja makes the point exceptionally strongly."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The liberated yogi is not internally touched even by the residual impressions of pleasure and pain.",
+   "directed": "The liberated yogi is not internally touched even by the residual impressions of pleasure and pain."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 3.34",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Saṃskāra.",
+   "directed": "[slowly] Saṃskāra."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The latent impressions left by experience.",
+   "directed": "The latent impressions left by experience."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that’s interesting.",
+   "directed": "And that’s interesting."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because ordinary pleasure and pain don’t simply disappear the moment the immediate experience ends.",
+   "directed": "Because ordinary pleasure and pain don’t simply disappear the moment the immediate experience ends."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They can leave tendencies.",
+   "directed": "They can leave tendencies."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Memories.",
+   "directed": "Memories."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Habits.",
+   "directed": "Habits."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Expectations.",
+   "directed": "Expectations."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A pleasant experience may produce desire for repetition.",
+   "directed": "A pleasant experience may produce desire for repetition."
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A painful experience may produce aversion.",
+   "directed": "A painful experience may produce aversion."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the individual becomes governed by those residual dispositions.",
+   "directed": "And the individual becomes governed by those residual dispositions."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But Kṣemarāja describes a yogi whose true conscious identity is no longer bound by even those impressions.",
+   "directed": "But Kṣemarāja describes a yogi whose true conscious identity is no longer bound by even those impressions."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Their nature is cinmātra.",
+   "directed": "Their nature is cinmātra."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Pure consciousness.",
+   "directed": "Pure consciousness."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now this is a traditional description of the highest yogic condition, not a clinical claim that liberated persons become incapable of remembering painful experiences.",
+   "directed": "Now this is a traditional description of the highest yogic condition, not a clinical claim that liberated persons become incapable of remembering painful experiences."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And it certainly shouldn’t be used to deny someone’s suffering.",
+   "directed": "And it certainly shouldn’t be used to deny someone’s suffering."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The distinction is between the functioning of experience and the ultimate identity of the experiencer.",
+   "directed": "The distinction is between the functioning of experience and the ultimate identity of the experiencer."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja invokes the Kālikākrama, which describes the yogi breaking through the great delusion of duality constructed through the cognitions of pleasure, pain and related mental states.",
+   "directed": "Kṣemarāja invokes the Kālikākrama, which describes the yogi breaking through the great delusion of duality constructed through the cognitions of pleasure, pain and related mental states."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The problem is not simply that an unpleasant event occurs.",
+   "directed": "The problem is not simply that an unpleasant event occurs."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s the metaphysical misunderstanding through which the limited cognitive subject is mistaken for the ultimate Self. Sanskrit & Trika Shaivism.",
+   "directed": "It’s the metaphysical misunderstanding through which the limited cognitive subject is mistaken for the ultimate Self. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now here’s the extraordinary point.",
+   "directed": "Now here’s the extraordinary point."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kevalī doesn’t mean a lonely individual.",
+   "directed": "Kevalī doesn’t mean a lonely individual."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It means the yogi is no longer fundamentally dependent on the limitations that define individual subjectivity.",
+   "directed": "It means the yogi is no longer fundamentally dependent on the limitations that define individual subjectivity."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They’re established in the conscious reality from which the appearance of individuality proceeds.",
+   "directed": "They’re established in the conscious reality from which the appearance of individuality proceeds."
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that reality is not empty of manifestation.",
+   "directed": "And that reality is not empty of manifestation."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s the source of manifestation.",
+   "directed": "It’s the source of manifestation."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So we’re not talking about a person who has become metaphysically stranded in an infinite void.",
+   "directed": "So we’re not talking about a person who has become metaphysically stranded in an infinite void."
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re talking about consciousness no longer mistaken for the limited forms appearing within it.",
+   "directed": "We’re talking about consciousness no longer mistaken for the limited forms appearing within it."
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now imagine someone obsessed with maintaining a particular state of happiness.",
+   "directed": "Now imagine someone obsessed with maintaining a particular state of happiness."
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Every experience is evaluated according to whether it produces pleasure.",
+   "directed": "Every experience is evaluated according to whether it produces pleasure."
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They seek pleasant things.",
+   "directed": "They seek pleasant things."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Avoid unpleasant things.",
+   "directed": "Avoid unpleasant things."
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And organise their entire lives around protecting the conditions of satisfaction.",
+   "directed": "And organise their entire lives around protecting the conditions of satisfaction."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which, to be fair, is a fairly accurate description of much ordinary human behaviour.",
+   "directed": "Which, to be fair, is a fairly accurate description of much ordinary human behaviour."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the difficulty is that pleasure and pain are changing phenomena.",
+   "directed": "But the difficulty is that pleasure and pain are changing phenomena."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "If your identity depends upon preserving pleasant experience, you’re vulnerable to every change in its conditions.",
+   "directed": "If your identity depends upon preserving pleasant experience, you’re vulnerable to every change in its conditions."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The happiness arrives.",
+   "directed": "The happiness arrives."
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You cling to it.",
+   "directed": "You cling to it."
+  },
+  {
+   "id": "b77",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The happiness disappears.",
+   "directed": "The happiness disappears."
+  },
+  {
+   "id": "b78",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You suffer.",
+   "directed": "You suffer."
+  },
+  {
+   "id": "b79",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then you begin searching for another happiness.",
+   "directed": "Then you begin searching for another happiness."
+  },
+  {
+   "id": "b80",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the entire process continues.",
+   "directed": "And the entire process continues."
+  },
+  {
+   "id": "b81",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the kevalī, in Kṣemarāja’s account, has recognised a reality not exhausted by this sequence.",
+   "directed": "But the kevalī, in Kṣemarāja’s account, has recognised a reality not exhausted by this sequence."
+  },
+  {
+   "id": "b82",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that changes the meaning of freedom.",
+   "directed": "And that changes the meaning of freedom."
+  },
+  {
+   "id": "b83",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Freedom is not simply obtaining permanent pleasant sensations.",
+   "directed": "Freedom is not simply obtaining permanent pleasant sensations."
+  },
+  {
+   "id": "b84",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s the recognition of the conscious reality underlying changing sensations.",
+   "directed": "It’s the recognition of the conscious reality underlying changing sensations."
+  },
+  {
+   "id": "b85",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now comes the rather devastating contrast.",
+   "directed": "And now comes the rather devastating contrast."
+  },
+  {
+   "id": "b86",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because Vasugupta is about to show us the opposite condition.",
+   "directed": "Because Vasugupta is about to show us the opposite condition."
+  },
+  {
+   "id": "b87",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The individual who has not recognised their true nature.",
+   "directed": "The individual who has not recognised their true nature."
+  },
+  {
+   "id": "b88",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The one who remains absorbed in pleasure and pain.",
+   "directed": "The one who remains absorbed in pleasure and pain."
+  },
+  {
+   "id": "b89",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The one whose activity is governed by ignorance.",
+   "directed": "The one whose activity is governed by ignorance."
+  },
+  {
+   "id": "b90",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The one who keeps generating karma.",
+   "directed": "The one who keeps generating karma."
+  },
+  {
+   "id": "b91",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In other words:",
+   "directed": "[short pause] In other words:"
+  },
+  {
+   "id": "b92",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The rest of us.",
+   "directed": "The rest of us."
+  },
+  {
+   "id": "b93",
+   "section": "Śiva Sūtras 3.34",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Lovely.",
+   "directed": "[short pause] Lovely."
+  }
+ ],
+ "totals": {
+  "blocks": 94,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 784,
+   "verse": 4
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 5.2,
+   "verse": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

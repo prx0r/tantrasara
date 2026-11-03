@@ -1,0 +1,911 @@
+{
+ "title": "Śiva Sūtras 1.22",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 1.22",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 1.22",
+   "directed": "[long pause] Śiva Sūtras 1.22"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 1.22",
+   "type": "verse",
+   "voice": "verse",
+   "text": "महाह्रदानुसन्धानान्मन्त्रवीर्यानुभवः",
+   "directed": "[slowly] महाह्रदानुसन्धानान्मन्त्रवीर्यानुभवः"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Mahāhradānusandhānān mantravīryānubhavaḥ.",
+   "directed": "Mahāhradānusandhānān mantravīryānubhavaḥ."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Through union with the Great Lake comes the experience of the potency of mantra.",
+   "directed": "Through union with the Great Lake comes the experience of the potency of mantra."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Great Lake, and Why Mantras Are More Than Just Words.",
+   "directed": "The Great Lake, and Why Mantras Are More Than Just Words."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here we are.",
+   "directed": "And here we are."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The final sūtra of the first section.",
+   "directed": "The final sūtra of the first section."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Vasugupta ends with an absolutely beautiful image.",
+   "directed": "And Vasugupta ends with an absolutely beautiful image."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 1.22",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Mahāhrada.",
+   "directed": "[slowly] Mahāhrada."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Great Lake.",
+   "directed": "The Great Lake."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Mahā — great.",
+   "directed": "Mahā — great."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Hrada — lake, deep pool, or reservoir.",
+   "directed": "Hrada — lake, deep pool, or reservoir."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Anusandhāna — sustained connection, contemplation, or identification.",
+   "directed": "Anusandhāna — sustained connection, contemplation, or identification."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Mantravīrya — the potency, vital efficacy, or generative power of mantra.",
+   "directed": "Mantravīrya — the potency, vital efficacy, or generative power of mantra."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Anubhava — direct experience.",
+   "directed": "Anubhava — direct experience."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now think about what a mantra ordinarily seems to be.",
+   "directed": "Now think about what a mantra ordinarily seems to be."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A collection of sounds.",
+   "directed": "A collection of sounds."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Perhaps a Sanskrit phrase.",
+   "directed": "Perhaps a Sanskrit phrase."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You pronounce it.",
+   "directed": "You pronounce it."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You repeat it.",
+   "directed": "You repeat it."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You listen to the vibration.",
+   "directed": "You listen to the vibration."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But Trika has a much deeper philosophy of mantra.",
+   "directed": "But Trika has a much deeper philosophy of mantra."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Remember sūtra 1.4?",
+   "directed": "Remember sūtra 1.4?"
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 1.22",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Mātṛkā.",
+   "directed": "[slowly] Mātṛkā."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The mother power of the phonemes.",
+   "directed": "The mother power of the phonemes."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The alphabet as an expression of Śakti and the ground of differentiated cognition.",
+   "directed": "The alphabet as an expression of Śakti and the ground of differentiated cognition."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Well, now we’re at the other end of the journey.",
+   "directed": "Well, now we’re at the other end of the journey."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The first encounter with Mātṛkā revealed how differentiated knowledge participates in bondage.",
+   "directed": "The first encounter with Mātṛkā revealed how differentiated knowledge participates in bondage."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the final sūtra describes the power of mantra when recognised through its supreme source.",
+   "directed": "But the final sūtra describes the power of mantra when recognised through its supreme source."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja identifies the Great Lake with the supreme divine consciousness, Parā Śakti, whose manifestations extend throughout the entire universe.",
+   "directed": "Kṣemarāja identifies the Great Lake with the supreme divine consciousness, Parā Śakti, whose manifestations extend throughout the entire universe."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The mantravīrya is not merely the mechanical acoustic effect of pronouncing certain syllables.",
+   "directed": "The mantravīrya is not merely the mechanical acoustic effect of pronouncing certain syllables."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is the potency of mantra understood through the conscious power from which it arises. Sanskrit & Trika Shaivism.",
+   "directed": "It is the potency of mantra understood through the conscious power from which it arises. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this changes the meaning of sacred speech.",
+   "directed": "And this changes the meaning of sacred speech."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The mantra is not fundamentally a little verbal machine that forces reality to obey you.",
+   "directed": "The mantra is not fundamentally a little verbal machine that forces reality to obey you."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Its highest efficacy, within this system, is inseparable from recognition of Śakti.",
+   "directed": "Its highest efficacy, within this system, is inseparable from recognition of Śakti."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The power of the sound is rooted in the power of consciousness.",
+   "directed": "The power of the sound is rooted in the power of consciousness."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Think about the relationship between a river and its source.",
+   "directed": "Think about the relationship between a river and its source."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Downstream you encounter the flowing water.",
+   "directed": "Downstream you encounter the flowing water."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Its movements.",
+   "directed": "Its movements."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Its branching channels.",
+   "directed": "Its branching channels."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Its individual forms.",
+   "directed": "Its individual forms."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But by following its origin, you arrive at the reservoir from which the movement proceeds.",
+   "directed": "But by following its origin, you arrive at the reservoir from which the movement proceeds."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Great Lake.",
+   "directed": "The Great Lake."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In the same way, the manifested phonemes, the mental activities, and the differentiated forms of knowledge can be traced back to their conscious source.",
+   "directed": "In the same way, the manifested phonemes, the mental activities, and the differentiated forms of knowledge can be traced back to their conscious source."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And there, the yogi experiences the potency underlying mantra.",
+   "directed": "And there, the yogi experiences the potency underlying mantra."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The teaching has travelled from Mātṛkā as the basis of bondage to mantra as an expression of recognised divine power.",
+   "directed": "The teaching has travelled from Mātṛkā as the basis of bondage to mantra as an expression of recognised divine power."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The same Śakti.",
+   "directed": "The same Śakti."
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "First misunderstood.",
+   "directed": "First misunderstood."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then recognised.",
+   "directed": "Then recognised."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The mother hasn’t changed.",
+   "directed": "The mother hasn’t changed."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Your relation to her has.",
+   "directed": "Your relation to her has."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Great Reveal — What Did Vasugupta Actually Just Tell Us?\nLet’s look at the structure of the first twenty-two sūtras.",
+   "directed": "The Great Reveal — What Did Vasugupta Actually Just Tell Us?\nLet’s look at the structure of the first twenty-two sūtras."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because this is not a random collection of spiritual one-liners.",
+   "directed": "Because this is not a random collection of spiritual one-liners."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s an extraordinarily compressed progression.",
+   "directed": "It’s an extraordinarily compressed progression."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sūtras 1–4: The diagnosis.",
+   "directed": "Sūtras 1–4: The diagnosis."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Your true nature is consciousness.",
+   "directed": "Your true nature is consciousness."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Limited knowing produces bondage.",
+   "directed": "Limited knowing produces bondage."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The three malas explain the forms of contraction.",
+   "directed": "The three malas explain the forms of contraction."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Mātṛkā helps explain how differentiated cognition is structured.",
+   "directed": "Mātṛkā helps explain how differentiated cognition is structured."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In other words:",
+   "directed": "[short pause] In other words:"
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’re Śiva, but you’re experiencing yourself as a limited individual in a divided world.",
+   "directed": "You’re Śiva, but you’re experiencing yourself as a limited individual in a divided world."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sūtras 5–7: The breakthrough.",
+   "directed": "Sūtras 5–7: The breakthrough."
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The immediate upsurge of awareness is Bhairava.",
+   "directed": "The immediate upsurge of awareness is Bhairava."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The universe is withdrawn into its conscious source.",
+   "directed": "The universe is withdrawn into its conscious source."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Turya becomes recognisable throughout the three ordinary states.",
+   "directed": "Turya becomes recognisable throughout the three ordinary states."
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In other words:",
+   "directed": "[short pause] In other words:"
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Recognition isn’t the creation of a new Self.",
+   "directed": "Recognition isn’t the creation of a new Self."
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s the disclosure of the reality that was never absent.",
+   "directed": "It’s the disclosure of the reality that was never absent."
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sūtras 8–12: What consciousness is doing.",
+   "directed": "Sūtras 8–12: What consciousness is doing."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Waking.",
+   "directed": "Waking."
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Dreaming.",
+   "directed": "Dreaming."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Deep sleep.",
+   "directed": "Deep sleep."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The sovereignty of the realised experiencer.",
+   "directed": "The sovereignty of the realised experiencer."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The ever-renewed wonder of recognition.",
+   "directed": "The ever-renewed wonder of recognition."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In other words:",
+   "directed": "[short pause] In other words:"
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Everything changes, but the fundamental nature of consciousness isn’t exhausted by those changes.",
+   "directed": "Everything changes, but the fundamental nature of consciousness isn’t exhausted by those changes."
+  },
+  {
+   "id": "b77",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sūtras 13–18: The transformation of experience.",
+   "directed": "Sūtras 13–18: The transformation of experience."
+  },
+  {
+   "id": "b78",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Will is recognised as divine Śakti.",
+   "directed": "Will is recognised as divine Śakti."
+  },
+  {
+   "id": "b79",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The entire seen universe becomes the yogi’s body.",
+   "directed": "The entire seen universe becomes the yogi’s body."
+  },
+  {
+   "id": "b80",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Mind unites with the Heart.",
+   "directed": "Mind unites with the Heart."
+  },
+  {
+   "id": "b81",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Bondage loses its governing power.",
+   "directed": "Bondage loses its governing power."
+  },
+  {
+   "id": "b82",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The yogi recognises their identity with Śiva.",
+   "directed": "The yogi recognises their identity with Śiva."
+  },
+  {
+   "id": "b83",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The world’s manifestation becomes inseparable from the bliss of samādhi.",
+   "directed": "The world’s manifestation becomes inseparable from the bliss of samādhi."
+  },
+  {
+   "id": "b84",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In other words:",
+   "directed": "[short pause] In other words:"
+  },
+  {
+   "id": "b85",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Liberation is not fundamentally the rejection of manifestation.",
+   "directed": "Liberation is not fundamentally the rejection of manifestation."
+  },
+  {
+   "id": "b86",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is its recognition.",
+   "directed": "It is its recognition."
+  },
+  {
+   "id": "b87",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sūtras 19–22: The powers of consciousness.",
+   "directed": "Sūtras 19–22: The powers of consciousness."
+  },
+  {
+   "id": "b88",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The tradition describes extraordinary accomplishments arising through union with Śakti.",
+   "directed": "The tradition describes extraordinary accomplishments arising through union with Śakti."
+  },
+  {
+   "id": "b89",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Pure knowledge confers mastery over the wheel of powers.",
+   "directed": "Pure knowledge confers mastery over the wheel of powers."
+  },
+  {
+   "id": "b90",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And union with the Great Lake reveals the potency of mantra.",
+   "directed": "And union with the Great Lake reveals the potency of mantra."
+  },
+  {
+   "id": "b91",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In other words:",
+   "directed": "[short pause] In other words:"
+  },
+  {
+   "id": "b92",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The very Śakti that made limitation possible is also the power through which liberation is recognised.",
+   "directed": "The very Śakti that made limitation possible is also the power through which liberation is recognised."
+  },
+  {
+   "id": "b93",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that brings us right back to the original statement.",
+   "directed": "And that brings us right back to the original statement."
+  },
+  {
+   "id": "b94",
+   "section": "Śiva Sūtras 1.22",
+   "type": "verse",
+   "voice": "verse",
+   "text": "चैतन्यमात्मा।",
+   "directed": "[slowly] चैतन्यमात्मा।"
+  },
+  {
+   "id": "b95",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Caitanyam ātmā.",
+   "directed": "Caitanyam ātmā."
+  },
+  {
+   "id": "b96",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Consciousness is the Self.",
+   "directed": "Consciousness is the Self."
+  },
+  {
+   "id": "b97",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The entire first section has been an exploration of those two words.",
+   "directed": "The entire first section has been an exploration of those two words."
+  },
+  {
+   "id": "b98",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not bad, Vasugupta.",
+   "directed": "Not bad, Vasugupta."
+  },
+  {
+   "id": "b99",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not bad at all.",
+   "directed": "Not bad at all."
+  },
+  {
+   "id": "b100",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "End of the First Awakening — Śāmbhavopāya.",
+   "directed": "End of the First Awakening — Śāmbhavopāya."
+  },
+  {
+   "id": "b101",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Next comes Book II: Śāktopāya — The Way of Śakti, beginning with:",
+   "directed": "[short pause] Next comes Book II: Śāktopāya — The Way of Śakti, beginning with:"
+  },
+  {
+   "id": "b102",
+   "section": "Śiva Sūtras 1.22",
+   "type": "verse",
+   "voice": "verse",
+   "text": "चित्तं मन्त्रः।.",
+   "directed": "[slowly] चित्तं मन्त्रः।."
+  },
+  {
+   "id": "b103",
+   "section": "Śiva Sūtras 1.22",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Cittaṃ mantraḥ.",
+   "directed": "[slowly] Cittaṃ mantraḥ."
+  },
+  {
+   "id": "b104",
+   "section": "Śiva Sūtras 1.22",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“The mind is mantra.”",
+   "directed": "[short pause] “The mind is mantra.”"
+  },
+  {
+   "id": "b105",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which is a spectacular statement, considering Vasugupta has just spent twenty-two sūtras explaining why ordinary mental limitation is the problem.",
+   "directed": "Which is a spectacular statement, considering Vasugupta has just spent twenty-two sūtras explaining why ordinary mental limitation is the problem."
+  },
+  {
+   "id": "b106",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Apparently we’re about to find out how the very mind that binds you can become an instrument of liberation.",
+   "directed": "Apparently we’re about to find out how the very mind that binds you can become an instrument of liberation."
+  },
+  {
+   "id": "b107",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And we’re getting into mantra, effort, the guru, Mātṛkā, sacrificial offering, and the rather wonderful declaration that knowledge is food.",
+   "directed": "And we’re getting into mantra, effort, the guru, Mātṛkā, sacrificial offering, and the rather wonderful declaration that knowledge is food."
+  },
+  {
+   "id": "b108",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ten sūtras. An entire theory of the transformative power of awareness.",
+   "directed": "Ten sūtras. An entire theory of the transformative power of awareness."
+  },
+  {
+   "id": "b109",
+   "section": "Śiva Sūtras 1.22",
+   "type": "meta",
+   "voice": "none",
+   "text": "Textual basis: Vasugupta’s 22 Śāmbhavopāya sūtras, read in sequence with Kṣemarāja’s Śivasūtravimarśinī. Sanskrit is attested; the English narration and jokes are original explanatory paraphrase, not quotations from the commentary. Minor textual variants occur across editions.",
+   "directed": "Textual basis: Vasugupta’s 22 Śāmbhavopāya sūtras, read in sequence with Kṣemarāja’s Śivasūtravimarśinī. Sanskrit is attested; the English narration and jokes are original explanatory paraphrase, not quotations from the commentary. Minor textual variants occur across editions."
+  },
+  {
+   "id": "b110",
+   "section": "Śiva Sūtras 1.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Continue to Book II — Śāktopāya.",
+   "directed": "Continue to Book II — Śāktopāya."
+  }
+ ],
+ "totals": {
+  "blocks": 111,
+  "words_per_voice": {
+   "none": 36,
+   "granny": 808,
+   "verse": 8
+  },
+  "est_min": {
+   "none": 0.2,
+   "granny": 5.4,
+   "verse": 0.1
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

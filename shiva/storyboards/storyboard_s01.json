@@ -1,0 +1,287 @@
+{
+ "title": "Śiva Sūtras 1.1",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 1.1",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 1.1",
+   "directed": "[long pause] Śiva Sūtras 1.1"
+  },
+  {
+   "id": "b2",
+   "section": "BOOK I — ŚĀMBHAVOPĀYA",
+   "type": "title",
+   "voice": "granny",
+   "text": "BOOK I — ŚĀMBHAVOPĀYA",
+   "directed": "[long pause] BOOK I — ŚĀMBHAVOPĀYA"
+  },
+  {
+   "id": "b3",
+   "section": "BOOK I — ŚĀMBHAVOPĀYA",
+   "type": "verse",
+   "voice": "verse",
+   "text": "चैतन्यमात्मा",
+   "directed": "[slowly] चैतन्यमात्मा"
+  },
+  {
+   "id": "b4",
+   "section": "BOOK I — ŚĀMBHAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Caitanyam ātmā.",
+   "directed": "Caitanyam ātmā."
+  },
+  {
+   "id": "b5",
+   "section": "BOOK I — ŚĀMBHAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Consciousness is the Self.",
+   "directed": "Consciousness is the Self."
+  },
+  {
+   "id": "b6",
+   "section": "BOOK I — ŚĀMBHAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Biggest Plot Twist in Human History.",
+   "directed": "The Biggest Plot Twist in Human History."
+  },
+  {
+   "id": "b7",
+   "section": "BOOK I — ŚĀMBHAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ladies and gentlemen.",
+   "directed": "Ladies and gentlemen."
+  },
+  {
+   "id": "b8",
+   "section": "BOOK I — ŚĀMBHAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vasugupta has entered the building.",
+   "directed": "Vasugupta has entered the building."
+  },
+  {
+   "id": "b9",
+   "section": "BOOK I — ŚĀMBHAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And he has decided to open with a statement so outrageous that the rest of Indian philosophy is going to need a cigarette.",
+   "directed": "And he has decided to open with a statement so outrageous that the rest of Indian philosophy is going to need a cigarette."
+  },
+  {
+   "id": "b10",
+   "section": "BOOK I — ŚĀMBHAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You are consciousness.",
+   "directed": "You are consciousness."
+  },
+  {
+   "id": "b11",
+   "section": "BOOK I — ŚĀMBHAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not you possess consciousness.",
+   "directed": "Not you possess consciousness."
+  },
+  {
+   "id": "b12",
+   "section": "BOOK I — ŚĀMBHAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not your brain produces a lovely little subjective experience and that’s what you fundamentally are.",
+   "directed": "Not your brain produces a lovely little subjective experience and that’s what you fundamentally are."
+  },
+  {
+   "id": "b13",
+   "section": "BOOK I — ŚĀMBHAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "No.",
+   "directed": "No."
+  },
+  {
+   "id": "b14",
+   "section": "BOOK I — ŚĀMBHAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The thing that you actually are — ātman — is caitanya.",
+   "directed": "The thing that you actually are — ātman — is caitanya."
+  },
+  {
+   "id": "b15",
+   "section": "BOOK I — ŚĀMBHAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s unpack this carefully.",
+   "directed": "Let’s unpack this carefully."
+  },
+  {
+   "id": "b16",
+   "section": "BOOK I — ŚĀMBHAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Caitanya comes from the Sanskrit family of cit, awareness or consciousness. But Kṣemarāja is not talking about ordinary, fluctuating mental awareness.",
+   "directed": "Caitanya comes from the Sanskrit family of cit, awareness or consciousness. But Kṣemarāja is not talking about ordinary, fluctuating mental awareness."
+  },
+  {
+   "id": "b17",
+   "section": "BOOK I — ŚĀMBHAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He’s talking about consciousness as fundamentally free, self-revealing, and endowed with unlimited powers of knowing and acting.",
+   "directed": "He’s talking about consciousness as fundamentally free, self-revealing, and endowed with unlimited powers of knowing and acting."
+  },
+  {
+   "id": "b18",
+   "section": "BOOK I — ŚĀMBHAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That last part is crucial.",
+   "directed": "That last part is crucial."
+  },
+  {
+   "id": "b19",
+   "section": "BOOK I — ŚĀMBHAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In Trika, Śiva is not merely a cosmic spectator.",
+   "directed": "In Trika, Śiva is not merely a cosmic spectator."
+  },
+  {
+   "id": "b20",
+   "section": "BOOK I — ŚĀMBHAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He’s not sitting in some metaphysical armchair thinking, “Lovely universe, shame I can’t do anything about it.”",
+   "directed": "He’s not sitting in some metaphysical armchair thinking, “Lovely universe, shame I can’t do anything about it.”"
+  },
+  {
+   "id": "b21",
+   "section": "BOOK I — ŚĀMBHAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He’s prakāśa, the luminous manifestation of reality, inseparable from vimarśa, its reflexive awareness of itself.",
+   "directed": "He’s prakāśa, the luminous manifestation of reality, inseparable from vimarśa, its reflexive awareness of itself."
+  },
+  {
+   "id": "b22",
+   "section": "BOOK I — ŚĀMBHAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that self-awareness is inseparable from svātantrya — absolute freedom.",
+   "directed": "And that self-awareness is inseparable from svātantrya — absolute freedom."
+  },
+  {
+   "id": "b23",
+   "section": "BOOK I — ŚĀMBHAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So what does Vasugupta actually mean?",
+   "directed": "So what does Vasugupta actually mean?"
+  },
+  {
+   "id": "b24",
+   "section": "BOOK I — ŚĀMBHAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Your deepest nature is not a little individual observer trapped inside a body looking out at a separate universe.",
+   "directed": "Your deepest nature is not a little individual observer trapped inside a body looking out at a separate universe."
+  },
+  {
+   "id": "b25",
+   "section": "BOOK I — ŚĀMBHAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Your deepest nature is the very conscious reality through which that entire distinction between observer and observed becomes manifest.",
+   "directed": "Your deepest nature is the very conscious reality through which that entire distinction between observer and observed becomes manifest."
+  },
+  {
+   "id": "b26",
+   "section": "BOOK I — ŚĀMBHAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The universe isn’t an alien object standing opposite Śiva.",
+   "directed": "The universe isn’t an alien object standing opposite Śiva."
+  },
+  {
+   "id": "b27",
+   "section": "BOOK I — ŚĀMBHAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s Śiva expressing his own nature.",
+   "directed": "It’s Śiva expressing his own nature."
+  },
+  {
+   "id": "b28",
+   "section": "BOOK I — ŚĀMBHAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And you, apparently, have spent your entire life under the impression that you’re just some bloke with a calendar and a digestive system.",
+   "directed": "And you, apparently, have spent your entire life under the impression that you’re just some bloke with a calendar and a digestive system."
+  },
+  {
+   "id": "b29",
+   "section": "BOOK I — ŚĀMBHAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "An extraordinary administrative error.",
+   "directed": "An extraordinary administrative error."
+  },
+  {
+   "id": "b30",
+   "section": "BOOK I — ŚĀMBHAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The philosophical point: In Trika metaphysics, individual consciousness is not ultimately separate from universal consciousness. Recognition, pratyabhijñā, means realising an identity that was never actually absent.",
+   "directed": "The philosophical point: In Trika metaphysics, individual consciousness is not ultimately separate from universal consciousness. Recognition, pratyabhijñā, means realising an identity that was never actually absent."
+  },
+  {
+   "id": "b31",
+   "section": "BOOK I — ŚĀMBHAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that’s sūtra one.",
+   "directed": "And that’s sūtra one."
+  },
+  {
+   "id": "b32",
+   "section": "BOOK I — ŚĀMBHAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He’s barely started.",
+   "directed": "He’s barely started."
+  }
+ ],
+ "totals": {
+  "blocks": 33,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 302,
+   "verse": 1
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 2.0,
+   "verse": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

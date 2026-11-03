@@ -1,0 +1,38 @@
+{
+ "jagrat": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b8"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "jagratsvapnasusuptabhede": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "susupti": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b10"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "turyabhogasambhavah": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ }
+}

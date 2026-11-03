@@ -1,0 +1,503 @@
+{
+ "title": "Śiva Sūtras 2.6",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 2.6",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 2.6",
+   "directed": "[long pause] Śiva Sūtras 2.6"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 2.6",
+   "type": "verse",
+   "voice": "verse",
+   "text": "गुरुरुपायः",
+   "directed": "[slowly] गुरुरुपायः"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Gurur upāyaḥ.",
+   "directed": "Gurur upāyaḥ."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The guru is the means.",
+   "directed": "The guru is the means."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Unfortunately, You’re Going to Need a Guru.",
+   "directed": "Unfortunately, You’re Going to Need a Guru."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Oh, for God’s sake.",
+   "directed": "Oh, for God’s sake."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’ve been doing so well.",
+   "directed": "We’ve been doing so well."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We discovered that consciousness is the Self.",
+   "directed": "We discovered that consciousness is the Self."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That Śakti is our own fundamental power.",
+   "directed": "That Śakti is our own fundamental power."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That mantra is rooted in awareness.",
+   "directed": "That mantra is rooted in awareness."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That supreme knowledge arises naturally.",
+   "directed": "That supreme knowledge arises naturally."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now Vasugupta has decided we need another person involved.",
+   "directed": "And now Vasugupta has decided we need another person involved."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Gurur upāyaḥ.",
+   "directed": "Gurur upāyaḥ."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The guru is the means.",
+   "directed": "The guru is the means."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Well, who’s the guru?",
+   "directed": "Well, who’s the guru?"
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And why do we need one if we’re already Śiva?",
+   "directed": "And why do we need one if we’re already Śiva?"
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja gives a beautifully nuanced answer.",
+   "directed": "Kṣemarāja gives a beautifully nuanced answer."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The guru is not merely somebody who has memorised a large quantity of Sanskrit.",
+   "directed": "The guru is not merely somebody who has memorised a large quantity of Sanskrit."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nor simply someone who knows how to perform a complicated ceremony.",
+   "directed": "Nor simply someone who knows how to perform a complicated ceremony."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The genuine guru communicates the meaning of reality and reveals the potency of mantra.",
+   "directed": "The genuine guru communicates the meaning of reality and reveals the potency of mantra."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The guru makes recognition possible through instruction and, in the tantric understanding, the operation of divine grace.",
+   "directed": "The guru makes recognition possible through instruction and, in the tantric understanding, the operation of divine grace."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here’s the key.",
+   "directed": "And here’s the key."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja gives two related interpretations.",
+   "directed": "Kṣemarāja gives two related interpretations."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "First, the guru is the teacher who reveals the true meaning of the principles and practices.",
+   "directed": "First, the guru is the teacher who reveals the true meaning of the principles and practices."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Second, the guru can be understood as the grace-bestowing power of the Supreme Lord.",
+   "directed": "Second, the guru can be understood as the grace-bestowing power of the Supreme Lord."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is crucial.",
+   "directed": "This is crucial."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because it means the ultimate efficacy of the guru isn’t reducible to their ordinary personality.",
+   "directed": "Because it means the ultimate efficacy of the guru isn’t reducible to their ordinary personality."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The guru’s liberating function is rooted in Śakti.",
+   "directed": "The guru’s liberating function is rooted in Śakti."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja invokes the Mālinīvijayatantra and other tantric authorities in explaining the relation between the guru, divine grace, and mantra’s efficacy. Sanskrit & Trika Shaivism.",
+   "directed": "Kṣemarāja invokes the Mālinīvijayatantra and other tantric authorities in explaining the relation between the guru, divine grace, and mantra’s efficacy. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So imagine the situation.",
+   "directed": "So imagine the situation."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve spent several years reading philosophy.",
+   "directed": "You’ve spent several years reading philosophy."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You understand prakāśa.",
+   "directed": "You understand prakāśa."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You understand vimarśa.",
+   "directed": "You understand vimarśa."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve learned the thirty-six tattvas.",
+   "directed": "You’ve learned the thirty-six tattvas."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You know the difference between āṇavamala and māyīyamala.",
+   "directed": "You know the difference between āṇavamala and māyīyamala."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You can explain the five kañcukas without accidentally confusing them with the five kośas.",
+   "directed": "You can explain the five kañcukas without accidentally confusing them with the five kośas."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Wonderful.",
+   "directed": "Wonderful."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’re now an exceptionally knowledgeable individual.",
+   "directed": "You’re now an exceptionally knowledgeable individual."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But perhaps you’ve become exceptionally knowledgeable about your own fundamental freedom without actually recognising it.",
+   "directed": "But perhaps you’ve become exceptionally knowledgeable about your own fundamental freedom without actually recognising it."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’re studying the map.",
+   "directed": "You’re studying the map."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Beautiful map.",
+   "directed": "Beautiful map."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Gorgeous contour lines.",
+   "directed": "Gorgeous contour lines."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Very impressive bibliography.",
+   "directed": "Very impressive bibliography."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But you haven’t arrived.",
+   "directed": "But you haven’t arrived."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then a genuine teacher helps you understand what the teachings are pointing towards.",
+   "directed": "Then a genuine teacher helps you understand what the teachings are pointing towards."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not merely by adding another concept.",
+   "directed": "Not merely by adding another concept."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But by directing your awareness towards the very reality in which all concepts appear.",
+   "directed": "But by directing your awareness towards the very reality in which all concepts appear."
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And suddenly the knowledge changes character.",
+   "directed": "And suddenly the knowledge changes character."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s no longer merely information about consciousness.",
+   "directed": "It’s no longer merely information about consciousness."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s recognition.",
+   "directed": "It’s recognition."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That is the transformative possibility of upadeśa — instruction.",
+   "directed": "That is the transformative possibility of upadeśa — instruction."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And in the tantric framework, śaktipāta, the descent of grace, is deeply relevant.",
+   "directed": "And in the tantric framework, śaktipāta, the descent of grace, is deeply relevant."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But we should be careful.",
+   "directed": "But we should be careful."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This doesn’t mean that every person calling themselves a guru automatically possesses divine authority.",
+   "directed": "This doesn’t mean that every person calling themselves a guru automatically possesses divine authority."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It certainly doesn’t mean suspending ethical judgement or surrendering autonomy to a charismatic personality.",
+   "directed": "It certainly doesn’t mean suspending ethical judgement or surrendering autonomy to a charismatic personality."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The classical ideal is the guru who genuinely discloses reality, not somebody demanding obedience because they’ve acquired a sufficiently elaborate beard.",
+   "directed": "The classical ideal is the guru who genuinely discloses reality, not somebody demanding obedience because they’ve acquired a sufficiently elaborate beard."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The deepest point is that Śiva’s own grace can operate through instruction.",
+   "directed": "The deepest point is that Śiva’s own grace can operate through instruction."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Consciousness, apparently, has developed a teaching department.",
+   "directed": "Consciousness, apparently, has developed a teaching department."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 2.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And sometimes that department takes human form.",
+   "directed": "And sometimes that department takes human form."
+  }
+ ],
+ "totals": {
+  "blocks": 60,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 464,
+   "verse": 1
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 3.1,
+   "verse": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

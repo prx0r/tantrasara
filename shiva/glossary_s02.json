@@ -1,0 +1,38 @@
+{
+ "anavamala": {
+  "deva": "",
+  "gloss": "the primordial contraction in which universal consciousness expe",
+  "status": "proposed",
+  "cue_blocks": [
+   "b18"
+  ],
+  "note": "appositive-mined, confirm"
+ },
+ "bandhah": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "jnana": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b10"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "jnanam": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ }
+}

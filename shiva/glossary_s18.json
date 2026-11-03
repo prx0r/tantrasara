@@ -1,0 +1,38 @@
+{
+ "ananda": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b18"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "lokanandah": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "samadhi": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b4"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "samadhisukham": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ }
+}

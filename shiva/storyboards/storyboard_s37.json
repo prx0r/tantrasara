@@ -1,0 +1,639 @@
+{
+ "title": "Śiva Sūtras 3.5",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 3.5",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 3.5",
+   "directed": "[long pause] Śiva Sūtras 3.5"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 3.5",
+   "type": "verse",
+   "voice": "verse",
+   "text": "नाडीसंहारभूतजयभूतकैवल्यभूतपृथक्त्वानि",
+   "directed": "[slowly] नाडीसंहारभूतजयभूतकैवल्यभूतपृथक्त्वानि"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nāḍīsaṃhāra-bhūtajaya-bhūtakaivalya-bhūtapṛthaktvāni.",
+   "directed": "Nāḍīsaṃhāra-bhūtajaya-bhūtakaivalya-bhūtapṛthaktvāni."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Withdrawal of the subtle channels; mastery of the elements; isolation from the elements; separation from the elements.",
+   "directed": "Withdrawal of the subtle channels; mastery of the elements; isolation from the elements; separation from the elements."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śiva Explains the Cosmic Plumbing System.",
+   "directed": "Śiva Explains the Cosmic Plumbing System."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Look at the length of this thing.",
+   "directed": "Look at the length of this thing."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vasugupta has suddenly remembered Sanskrit allows compounds.",
+   "directed": "Vasugupta has suddenly remembered Sanskrit allows compounds."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He’s gone from two-word philosophical explosions to what appears to be the password for a particularly secure monastery.",
+   "directed": "He’s gone from two-word philosophical explosions to what appears to be the password for a particularly secure monastery."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the sūtra is important because it introduces a series of yogic operations.",
+   "directed": "But the sūtra is important because it introduces a series of yogic operations."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja understands these through the interconnected disciplines of breath regulation, concentration, withdrawal and absorption.",
+   "directed": "Kṣemarāja understands these through the interconnected disciplines of breath regulation, concentration, withdrawal and absorption."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s work through them.",
+   "directed": "Let’s work through them."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nāḍīsaṃhāra — Withdrawal of vital movement\nNāḍī refers to a subtle channel through which prāṇa, vital energy, is understood to operate in traditional yogic physiology.",
+   "directed": "Nāḍīsaṃhāra — Withdrawal of vital movement\nNāḍī refers to a subtle channel through which prāṇa, vital energy, is understood to operate in traditional yogic physiology."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Saṃhāra means withdrawal or reabsorption.",
+   "directed": "Saṃhāra means withdrawal or reabsorption."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, according to the relevant tantric model, ordinary vital activity operates through differentiated channels and functions.",
+   "directed": "Now, according to the relevant tantric model, ordinary vital activity operates through differentiated channels and functions."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Among the familiar terms are:",
+   "directed": "[short pause] Among the familiar terms are:"
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Prāṇa — one principal form of vital movement.",
+   "directed": "Prāṇa — one principal form of vital movement."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Apāna — another, associated with downward-moving or eliminative functions.",
+   "directed": "Apāna — another, associated with downward-moving or eliminative functions."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Udāna — an upward-associated vital function, especially important in these subtle-body accounts.",
+   "directed": "Udāna — an upward-associated vital function, especially important in these subtle-body accounts."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the central channel:",
+   "directed": "[short pause] And the central channel:"
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 3.5",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Suṣumṇā.",
+   "directed": "[slowly] Suṣumṇā."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja describes the reabsorption of vital movement into the middle channel, involving the relation between prāṇa and apāna and the central function of udāna.",
+   "directed": "Kṣemarāja describes the reabsorption of vital movement into the middle channel, involving the relation between prāṇa and apāna and the central function of udāna."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He cites detailed breath-regulation methods from the Svacchandatantra.",
+   "directed": "He cites detailed breath-regulation methods from the Svacchandatantra."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "These include inhalation, exhalation, retention and the meditative unification of vital movement.",
+   "directed": "These include inhalation, exhalation, retention and the meditative unification of vital movement."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The historical text really does prescribe breath practices. It’s not merely using the vocabulary metaphorically.",
+   "directed": "The historical text really does prescribe breath practices. It’s not merely using the vocabulary metaphorically."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the subtle-channel system is a traditional yogic framework, not an established anatomical network, and forceful breath retention is not something to improvise from an audiobook.",
+   "directed": "But the subtle-channel system is a traditional yogic framework, not an established anatomical network, and forceful breath retention is not something to improvise from an audiobook."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "For our purposes, the philosophical point is sufficient.",
+   "directed": "For our purposes, the philosophical point is sufficient."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ordinary vital activity is experienced through multiple differentiated functions.",
+   "directed": "Ordinary vital activity is experienced through multiple differentiated functions."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The contemplative aim is their unification and withdrawal towards a subtler centre.",
+   "directed": "The contemplative aim is their unification and withdrawal towards a subtler centre."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Bhūtajaya — Mastery of the elements\nBhūta means an existent or element; here the gross elements.",
+   "directed": "Bhūtajaya — Mastery of the elements\nBhūta means an existent or element; here the gross elements."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Jaya means conquest or mastery.",
+   "directed": "Jaya means conquest or mastery."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The five familiar elements are:",
+   "directed": "[short pause] The five familiar elements are:"
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Earth.",
+   "directed": "Earth."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Water.",
+   "directed": "Water."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Fire.",
+   "directed": "Fire."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Air.",
+   "directed": "Air."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Space.",
+   "directed": "Space."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In the tantric account, the practitioner employs specific dhāraṇās, concentrations, associated with these elements.",
+   "directed": "In the tantric account, the practitioner employs specific dhāraṇās, concentrations, associated with these elements."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja cites the Svacchandatantra on their bodily locations and the extraordinary powers traditionally attributed to such practices.",
+   "directed": "Kṣemarāja cites the Svacchandatantra on their bodily locations and the extraordinary powers traditionally attributed to such practices."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "These include concentrating on air at the foot, fire near the navel, earth at the throat, water around the uvula and space at the crown of the head.",
+   "directed": "These include concentrating on air at the foot, fire near the navel, earth at the throat, water around the uvula and space at the crown of the head."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s an unusual arrangement if you’re expecting a modern anatomy textbook.",
+   "directed": "It’s an unusual arrangement if you’re expecting a modern anatomy textbook."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But this is ritual-yogic physiology, not ordinary physiology.",
+   "directed": "But this is ritual-yogic physiology, not ordinary physiology."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the text’s claims about mastery and supernatural accomplishments should be understood as traditional claims rather than demonstrated physical abilities.",
+   "directed": "And the text’s claims about mastery and supernatural accomplishments should be understood as traditional claims rather than demonstrated physical abilities."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Bhūtakaivalya — Withdrawal from the elements\nKaivalya conveys isolation or separateness.",
+   "directed": "Bhūtakaivalya — Withdrawal from the elements\nKaivalya conveys isolation or separateness."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Here Kṣemarāja associates the process with pratyāhāra.",
+   "directed": "Here Kṣemarāja associates the process with pratyāhāra."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Withdrawal of attention from sensory objects.",
+   "directed": "Withdrawal of attention from sensory objects."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ordinarily, the mind rushes towards its objects.",
+   "directed": "Ordinarily, the mind rushes towards its objects."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A sound arises.",
+   "directed": "A sound arises."
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Attention follows.",
+   "directed": "Attention follows."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A smell arises.",
+   "directed": "A smell arises."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Attention follows.",
+   "directed": "Attention follows."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Your phone vibrates.",
+   "directed": "Your phone vibrates."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The entire nervous system declares a state of emergency.",
+   "directed": "The entire nervous system declares a state of emergency."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The practitioner deliberately withdraws from this outward dispersion.",
+   "directed": "The practitioner deliberately withdraws from this outward dispersion."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not because sensory experience is inherently evil.",
+   "directed": "Not because sensory experience is inherently evil."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But because the mind is ordinarily dominated by its constant engagement with differentiated objects.",
+   "directed": "But because the mind is ordinarily dominated by its constant engagement with differentiated objects."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The withdrawal creates a condition in which the source of awareness can become the focus.",
+   "directed": "The withdrawal creates a condition in which the source of awareness can become the focus."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Bhūtapṛthaktva — Separation from the elements\nAnd here we arrive at the deepest point.",
+   "directed": "Bhūtapṛthaktva — Separation from the elements\nAnd here we arrive at the deepest point."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Pṛthaktva means separation or distinctness.",
+   "directed": "Pṛthaktva means separation or distinctness."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But this isn’t a denial of embodiment.",
+   "directed": "But this isn’t a denial of embodiment."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is the recognition that consciousness is not exhausted by the elements constituting embodied experience.",
+   "directed": "It is the recognition that consciousness is not exhausted by the elements constituting embodied experience."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Earth, water, fire, air and space belong to the field of manifestation.",
+   "directed": "Earth, water, fire, air and space belong to the field of manifestation."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The conscious reality in which they appear is not reducible, within this metaphysical system, to any one of them.",
+   "directed": "The conscious reality in which they appear is not reducible, within this metaphysical system, to any one of them."
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja associates this culmination with samādhi and recognition of the independent nature of consciousness.",
+   "directed": "Kṣemarāja associates this culmination with samādhi and recognition of the independent nature of consciousness."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "His discussion draws extensively on the Svacchandatantra, moving through prāṇāyāma, dhāraṇā, pratyāhāra and the transcendence of elemental identification. Sanskrit & Trika Shaivism.",
+   "directed": "His discussion draws extensively on the Svacchandatantra, moving through prāṇāyāma, dhāraṇā, pratyāhāra and the transcendence of elemental identification. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And notice what we’ve done.",
+   "directed": "And notice what we’ve done."
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We began with ordinary embodied existence.",
+   "directed": "We began with ordinary embodied existence."
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then moved through its vital functions.",
+   "directed": "Then moved through its vital functions."
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then its elemental constitution.",
+   "directed": "Then its elemental constitution."
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then withdrawal from identification with those elements.",
+   "directed": "Then withdrawal from identification with those elements."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And finally towards the conscious reality underlying the entire process.",
+   "directed": "And finally towards the conscious reality underlying the entire process."
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is Āṇavopāya in action.",
+   "directed": "This is Āṇavopāya in action."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Starting from the limited individual.",
+   "directed": "Starting from the limited individual."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Employing definite techniques.",
+   "directed": "Employing definite techniques."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And moving towards recognition.",
+   "directed": "And moving towards recognition."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But Vasugupta immediately issues another warning.",
+   "directed": "But Vasugupta immediately issues another warning."
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 3.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because apparently the practitioner can get extremely good at these exercises and still completely miss the point.",
+   "directed": "Because apparently the practitioner can get extremely good at these exercises and still completely miss the point."
+  }
+ ],
+ "totals": {
+  "blocks": 77,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 700,
+   "verse": 2
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 4.7,
+   "verse": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

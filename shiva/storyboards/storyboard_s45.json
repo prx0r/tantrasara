@@ -1,0 +1,695 @@
+{
+ "title": "Śiva Sūtras 3.13",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 3.13",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 3.13",
+   "directed": "[long pause] Śiva Sūtras 3.13"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 3.13",
+   "type": "verse",
+   "voice": "verse",
+   "text": "सिद्धः स्वतन्त्रभावः",
+   "directed": "[slowly] सिद्धः स्वतन्त्रभावः"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Siddhaḥ svatantrabhāvaḥ.",
+   "directed": "Siddhaḥ svatantrabhāvaḥ."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The state of being free and independent is attained.",
+   "directed": "The state of being free and independent is attained."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Svātantrya: The Entire Point of the Bloody Operation.",
+   "directed": "Svātantrya: The Entire Point of the Bloody Operation."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now we’re talking.",
+   "directed": "Now we’re talking."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because this is where everything comes together.",
+   "directed": "Because this is where everything comes together."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Siddhaḥ — accomplished, attained, realised.",
+   "directed": "Siddhaḥ — accomplished, attained, realised."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Svatantra — independent, self-governing, free.",
+   "directed": "Svatantra — independent, self-governing, free."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Bhāvaḥ — state, condition, manner of being.",
+   "directed": "Bhāvaḥ — state, condition, manner of being."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the key word is svatantra.",
+   "directed": "And the key word is svatantra."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s look at its construction.",
+   "directed": "Let’s look at its construction."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sva — one’s own, belonging to oneself.",
+   "directed": "Sva — one’s own, belonging to oneself."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Tantra — here conveying the principle of control, dependence or governance.",
+   "directed": "Tantra — here conveying the principle of control, dependence or governance."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Svatantra therefore means self-dependent, independent, governed by oneself rather than by another.",
+   "directed": "Svatantra therefore means self-dependent, independent, governed by oneself rather than by another."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the abstract noun:",
+   "directed": "[short pause] And the abstract noun:"
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 3.13",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Svātantrya.",
+   "directed": "[slowly] Svātantrya."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Freedom.",
+   "directed": "Freedom."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Independence.",
+   "directed": "Independence."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Autonomy.",
+   "directed": "Autonomy."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But in Trika, it becomes something much more radical than ordinary personal autonomy.",
+   "directed": "But in Trika, it becomes something much more radical than ordinary personal autonomy."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is the intrinsic freedom of supreme consciousness.",
+   "directed": "It is the intrinsic freedom of supreme consciousness."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The power through which Śiva knows, acts and manifests.",
+   "directed": "The power through which Śiva knows, acts and manifests."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja explains that this freedom involves sahajajñatva and kartṛtva.",
+   "directed": "And Kṣemarāja explains that this freedom involves sahajajñatva and kartṛtva."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Innate knowledge and agency.",
+   "directed": "Innate knowledge and agency."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The natural powers of knowing and acting.",
+   "directed": "The natural powers of knowing and acting."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now think about the limited individual.",
+   "directed": "Now think about the limited individual."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The aṇu.",
+   "directed": "The aṇu."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Its knowledge is restricted.",
+   "directed": "Its knowledge is restricted."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Its agency is restricted.",
+   "directed": "Its agency is restricted."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Its experience is structured by time, necessity, desire and differentiated cognition.",
+   "directed": "Its experience is structured by time, necessity, desire and differentiated cognition."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the entire third book began by describing precisely this condition.",
+   "directed": "And the entire third book began by describing precisely this condition."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But now the yogi, through the recognition of the subtle reality of consciousness, attains the condition of freedom.",
+   "directed": "But now the yogi, through the recognition of the subtle reality of consciousness, attains the condition of freedom."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "What’s being reversed?",
+   "directed": "What’s being reversed?"
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The fundamental limitations through which Śiva experienced himself as a finite subject.",
+   "directed": "The fundamental limitations through which Śiva experienced himself as a finite subject."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The point isn’t simply:",
+   "directed": "[short pause] The point isn’t simply:"
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 3.13",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“I can now do whatever I want.”",
+   "directed": "[short pause] “I can now do whatever I want.”"
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That’s ordinary individual desire enlarged into a fantasy.",
+   "directed": "That’s ordinary individual desire enlarged into a fantasy."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nor is it:",
+   "directed": "[short pause] Nor is it:"
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 3.13",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“I am an exceptionally powerful personality who deserves to control everybody else.”",
+   "directed": "[short pause] “I am an exceptionally powerful personality who deserves to control everybody else.”"
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That would be ahaṃkāra wearing a very expensive Śaiva costume.",
+   "directed": "That would be ahaṃkāra wearing a very expensive Śaiva costume."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The claim is that the yogi recognises the nature of consciousness as intrinsically free.",
+   "directed": "The claim is that the yogi recognises the nature of consciousness as intrinsically free."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this freedom isn’t merely freedom from particular external obstacles.",
+   "directed": "And this freedom isn’t merely freedom from particular external obstacles."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s the freedom through which manifestation itself is understood.",
+   "directed": "It’s the freedom through which manifestation itself is understood."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Consider the difference.",
+   "directed": "Consider the difference."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ordinary freedom means:",
+   "directed": "[short pause] Ordinary freedom means:"
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 3.13",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“I have a choice between several possibilities.”",
+   "directed": "[short pause] “I have a choice between several possibilities.”"
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Divine svātantrya means something more fundamental.",
+   "directed": "Divine svātantrya means something more fundamental."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The very existence of manifested possibilities belongs to the freedom of consciousness.",
+   "directed": "The very existence of manifested possibilities belongs to the freedom of consciousness."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śiva doesn’t merely select among pre-existing options arranged by some independent cosmic administrator.",
+   "directed": "Śiva doesn’t merely select among pre-existing options arranged by some independent cosmic administrator."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Within the Trika system, the appearance of those options is itself an expression of Śakti.",
+   "directed": "Within the Trika system, the appearance of those options is itself an expression of Śakti."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That’s why svātantrya is so central.",
+   "directed": "That’s why svātantrya is so central."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It distinguishes Śiva from an inert absolute.",
+   "directed": "It distinguishes Śiva from an inert absolute."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Consciousness is not merely luminous.",
+   "directed": "Consciousness is not merely luminous."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is self-aware, active, and endowed with the freedom of manifestation.",
+   "directed": "It is self-aware, active, and endowed with the freedom of manifestation."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja explicitly describes the attained freedom as sovereignty involving natural knowledge and agency.",
+   "directed": "Kṣemarāja explicitly describes the attained freedom as sovereignty involving natural knowledge and agency."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He cites a teaching attributed to Nāthapāda identifying the power of freedom with Kālī, the supreme power.",
+   "directed": "He cites a teaching attributed to Nāthapāda identifying the power of freedom with Kālī, the supreme power."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And he cites the Svacchandatantra on the yogi’s sovereignty over the tattvas, beings, letters and mantras through contemplation of Śiva. Sanskrit & Trika Shaivism.",
+   "directed": "And he cites the Svacchandatantra on the yogi’s sovereignty over the tattvas, beings, letters and mantras through contemplation of Śiva. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, the latter includes a traditional claim of extraordinary yogic sovereignty.",
+   "directed": "Now, the latter includes a traditional claim of extraordinary yogic sovereignty."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That should not be mistaken for a scientifically established power to control the physical universe.",
+   "directed": "That should not be mistaken for a scientifically established power to control the physical universe."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But its philosophical significance is profound.",
+   "directed": "But its philosophical significance is profound."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The yogi’s highest freedom is not another limited object of attainment.",
+   "directed": "The yogi’s highest freedom is not another limited object of attainment."
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is the recognition of the divine power that makes manifestation possible.",
+   "directed": "It is the recognition of the divine power that makes manifestation possible."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this brings us back to the beginning.",
+   "directed": "And this brings us back to the beginning."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 3.13",
+   "type": "verse",
+   "voice": "verse",
+   "text": "चैतन्यमात्मा।",
+   "directed": "[slowly] चैतन्यमात्मा।"
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Consciousness is the Self.",
+   "directed": "Consciousness is the Self."
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But now that statement has acquired a far richer meaning.",
+   "directed": "But now that statement has acquired a far richer meaning."
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Consciousness is not merely a container of appearances.",
+   "directed": "Consciousness is not merely a container of appearances."
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is not merely an observer.",
+   "directed": "It is not merely an observer."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is the free, self-revealing reality through which appearances become manifest.",
+   "directed": "It is the free, self-revealing reality through which appearances become manifest."
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Svātantrya is inseparable from what Śiva is.",
+   "directed": "Svātantrya is inseparable from what Śiva is."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And liberation is recognition of that nature.",
+   "directed": "And liberation is recognition of that nature."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not the construction of an entirely new Self.",
+   "directed": "Not the construction of an entirely new Self."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not the acquisition of something fundamentally external.",
+   "directed": "Not the acquisition of something fundamentally external."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The recognition of one’s own deepest reality.",
+   "directed": "The recognition of one’s own deepest reality."
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And there’s something rather beautiful about the fact that the aṇu — the limited individual — is not abandoned.",
+   "directed": "And there’s something rather beautiful about the fact that the aṇu — the limited individual — is not abandoned."
+  },
+  {
+   "id": "b77",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The journey begins from limitation.",
+   "directed": "The journey begins from limitation."
+  },
+  {
+   "id": "b78",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the destination is the recognition of freedom.",
+   "directed": "But the destination is the recognition of freedom."
+  },
+  {
+   "id": "b79",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s not the replacement of the individual with a completely different metaphysical substance.",
+   "directed": "It’s not the replacement of the individual with a completely different metaphysical substance."
+  },
+  {
+   "id": "b80",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s the disclosure of the universal nature underlying individuality.",
+   "directed": "It’s the disclosure of the universal nature underlying individuality."
+  },
+  {
+   "id": "b81",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now Vasugupta adds another sentence.",
+   "directed": "And now Vasugupta adds another sentence."
+  },
+  {
+   "id": "b82",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A very short one.",
+   "directed": "A very short one."
+  },
+  {
+   "id": "b83",
+   "section": "Śiva Sūtras 3.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But an absolutely enormous claim.",
+   "directed": "But an absolutely enormous claim."
+  }
+ ],
+ "totals": {
+  "blocks": 84,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 645,
+   "verse": 4
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 4.3,
+   "verse": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

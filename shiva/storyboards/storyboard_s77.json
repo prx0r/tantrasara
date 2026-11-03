@@ -1,0 +1,1279 @@
+{
+ "title": "Śiva Sūtras 3.45",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 3.45",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 3.45",
+   "directed": "[long pause] Śiva Sūtras 3.45"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 3.45",
+   "type": "verse",
+   "voice": "verse",
+   "text": "भूयः स्यात्प्रतिमीलनम्",
+   "directed": "[slowly] भूयः स्यात्प्रतिमीलनम्"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Bhūyaḥ syāt pratimīlanam.",
+   "directed": "Bhūyaḥ syāt pratimīlanam."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Again and again, there is the complete reunion of inward and outward awareness in the supreme Self.",
+   "directed": "Again and again, there is the complete reunion of inward and outward awareness in the supreme Self."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Greatest Plot Twist: You Were Śiva the Entire Bloody Time.",
+   "directed": "The Greatest Plot Twist: You Were Śiva the Entire Bloody Time."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that’s it.",
+   "directed": "And that’s it."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The final sūtra.",
+   "directed": "The final sūtra."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The seventy-seventh statement.",
+   "directed": "The seventy-seventh statement."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vasugupta has spent the entire text explaining the nature of consciousness, the structure of bondage, the powers of Śakti, and the means of liberation.",
+   "directed": "Vasugupta has spent the entire text explaining the nature of consciousness, the structure of bondage, the powers of Śakti, and the means of liberation."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And he ends with:",
+   "directed": "[short pause] And he ends with:"
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 3.45",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Bhūyaḥ syāt pratimīlanam.",
+   "directed": "[slowly] Bhūyaḥ syāt pratimīlanam."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now we need to be exceptionally careful with this one.",
+   "directed": "Now we need to be exceptionally careful with this one."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because the word pratimīlana is doing enormous philosophical work.",
+   "directed": "Because the word pratimīlana is doing enormous philosophical work."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s unpack the Sanskrit.",
+   "directed": "Let’s unpack the Sanskrit."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Bhūyaḥ — again, repeatedly, abundantly.",
+   "directed": "Bhūyaḥ — again, repeatedly, abundantly."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Syāt — may be, should be, comes to be.",
+   "directed": "Syāt — may be, should be, comes to be."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Pratimīlanam — closing together, folding together, reunion or complete integration.",
+   "directed": "Pratimīlanam — closing together, folding together, reunion or complete integration."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja gives it a very particular interpretation.",
+   "directed": "And Kṣemarāja gives it a very particular interpretation."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He connects pratimīlana with two complementary movements.",
+   "directed": "He connects pratimīlana with two complementary movements."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 3.45",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Nimīlana.",
+   "directed": "[slowly] Nimīlana."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Closing inward.",
+   "directed": "Closing inward."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The withdrawal of consciousness from differentiated manifestation into its own nature.",
+   "directed": "The withdrawal of consciousness from differentiated manifestation into its own nature."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And:",
+   "directed": "[short pause] And:"
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 3.45",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Unmīlana.",
+   "directed": "[slowly] Unmīlana."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Opening outward.",
+   "directed": "Opening outward."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The manifestation of the universe through that same consciousness.",
+   "directed": "The manifestation of the universe through that same consciousness."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now think about what that means.",
+   "directed": "Now think about what that means."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ordinarily, spiritual practice can appear to involve a movement away from the world.",
+   "directed": "Ordinarily, spiritual practice can appear to involve a movement away from the world."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You withdraw.",
+   "directed": "You withdraw."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You close your eyes.",
+   "directed": "You close your eyes."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You turn attention inward.",
+   "directed": "You turn attention inward."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You seek the source.",
+   "directed": "You seek the source."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And in some traditions, that inward withdrawal becomes the principal image of liberation.",
+   "directed": "And in some traditions, that inward withdrawal becomes the principal image of liberation."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But Trika gives us something more comprehensive.",
+   "directed": "But Trika gives us something more comprehensive."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because the supreme reality isn’t merely a state of withdrawal.",
+   "directed": "Because the supreme reality isn’t merely a state of withdrawal."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śiva possesses the freedom of manifestation.",
+   "directed": "Śiva possesses the freedom of manifestation."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And therefore the outward opening is not ultimately separate from the inward source.",
+   "directed": "And therefore the outward opening is not ultimately separate from the inward source."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nimīlana and unmīlana are not two different absolute realities.",
+   "directed": "Nimīlana and unmīlana are not two different absolute realities."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They’re complementary movements of one consciousness.",
+   "directed": "They’re complementary movements of one consciousness."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And pratimīlana is the integration of both.",
+   "directed": "And pratimīlana is the integration of both."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, Kṣemarāja’s explanation is extraordinary.",
+   "directed": "Now, Kṣemarāja’s explanation is extraordinary."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He says the universe arises from the essential nature of consciousness.",
+   "directed": "He says the universe arises from the essential nature of consciousness."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then, for the yogi established in supreme yoga, the universe is folded back into that conscious reality.",
+   "directed": "Then, for the yogi established in supreme yoga, the universe is folded back into that conscious reality."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But this doesn’t necessarily mean the physical world disappears.",
+   "directed": "But this doesn’t necessarily mean the physical world disappears."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The crucial movement is the disappearance of the residual impression of duality.",
+   "directed": "The crucial movement is the disappearance of the residual impression of duality."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 3.45",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Bhedasaṃskāra.",
+   "directed": "[slowly] Bhedasaṃskāra."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The latent impression of difference.",
+   "directed": "The latent impression of difference."
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That impression falls away.",
+   "directed": "That impression falls away."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the yogi recognises the universe as not fundamentally separate from consciousness.",
+   "directed": "And the yogi recognises the universe as not fundamentally separate from consciousness."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now here’s the beautiful thing.",
+   "directed": "Now here’s the beautiful thing."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja explains that the inward closing and outward opening become aspects of the same supreme recognition.",
+   "directed": "Kṣemarāja explains that the inward closing and outward opening become aspects of the same supreme recognition."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "When awareness is directed inward, the yogi recognises consciousness.",
+   "directed": "When awareness is directed inward, the yogi recognises consciousness."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "When the universe appears outwardly, the yogi recognises that appearance as the manifestation of consciousness.",
+   "directed": "When the universe appears outwardly, the yogi recognises that appearance as the manifestation of consciousness."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The distinction between inward and outward no longer conceals their fundamental unity.",
+   "directed": "The distinction between inward and outward no longer conceals their fundamental unity."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is precisely why pratimīlana is such a perfect ending.",
+   "directed": "And this is precisely why pratimīlana is such a perfect ending."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because the entire text has been concerned with the relation between the Self and manifestation.",
+   "directed": "Because the entire text has been concerned with the relation between the Self and manifestation."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "At the beginning:",
+   "directed": "[short pause] At the beginning:"
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 3.45",
+   "type": "verse",
+   "voice": "verse",
+   "text": "चैतन्यमात्मा।",
+   "directed": "[slowly] चैतन्यमात्मा।"
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Caitanyam ātmā.",
+   "directed": "Caitanyam ātmā."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Consciousness is the Self.",
+   "directed": "Consciousness is the Self."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then:",
+   "directed": "[short pause] Then:"
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 3.45",
+   "type": "verse",
+   "voice": "verse",
+   "text": "ज्ञानं बन्धः।",
+   "directed": "[slowly] ज्ञानं बन्धः।"
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 3.45",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Jñānaṃ bandhaḥ.",
+   "directed": "[slowly] Jñānaṃ bandhaḥ."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Limited knowledge is bondage.",
+   "directed": "Limited knowledge is bondage."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now, at the end:",
+   "directed": "[short pause] And now, at the end:"
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 3.45",
+   "type": "verse",
+   "voice": "verse",
+   "text": "भूयः स्यात्प्रतिमीलनम्।",
+   "directed": "[slowly] भूयः स्यात्प्रतिमीलनम्।"
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 3.45",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Bhūyaḥ syāt pratimīlanam.",
+   "directed": "[slowly] Bhūyaḥ syāt pratimīlanam."
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Repeated integration into the supreme conscious reality.",
+   "directed": "Repeated integration into the supreme conscious reality."
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The apparent separation between subject and object has been overcome.",
+   "directed": "The apparent separation between subject and object has been overcome."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But not through the permanent annihilation of the world.",
+   "directed": "But not through the permanent annihilation of the world."
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Rather, through recognition of the world as the manifestation of the Self.",
+   "directed": "Rather, through recognition of the world as the manifestation of the Self."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja makes the central point absolutely explicit.",
+   "directed": "And Kṣemarāja makes the central point absolutely explicit."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He says the yogi’s Śiva-nature is not something new.",
+   "directed": "He says the yogi’s Śiva-nature is not something new."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 3.45",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Nāpūrvam.",
+   "directed": "[slowly] Nāpūrvam."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not newly produced.",
+   "directed": "Not newly produced."
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Rather:",
+   "directed": "[short pause] Rather:"
+  },
+  {
+   "id": "b77",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Svabhāva eva.",
+   "directed": "Svabhāva eva."
+  },
+  {
+   "id": "b78",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is their own essential nature.",
+   "directed": "It is their own essential nature."
+  },
+  {
+   "id": "b79",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is the ultimate revelation.",
+   "directed": "And this is the ultimate revelation."
+  },
+  {
+   "id": "b80",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The yogi doesn’t become Śiva by creating an entirely new metaphysical identity.",
+   "directed": "The yogi doesn’t become Śiva by creating an entirely new metaphysical identity."
+  },
+  {
+   "id": "b81",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The yogi recognises the Śiva-nature that was always fundamental.",
+   "directed": "The yogi recognises the Śiva-nature that was always fundamental."
+  },
+  {
+   "id": "b82",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Māyā had obscured it through the power of differentiated mental construction.",
+   "directed": "Māyā had obscured it through the power of differentiated mental construction."
+  },
+  {
+   "id": "b83",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The practitioner had experienced themselves as limited.",
+   "directed": "The practitioner had experienced themselves as limited."
+  },
+  {
+   "id": "b84",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The body appeared to define the Self.",
+   "directed": "The body appeared to define the Self."
+  },
+  {
+   "id": "b85",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The senses appeared to encounter a separate world.",
+   "directed": "The senses appeared to encounter a separate world."
+  },
+  {
+   "id": "b86",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The mind became absorbed in differentiated cognition.",
+   "directed": "The mind became absorbed in differentiated cognition."
+  },
+  {
+   "id": "b87",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Desire produced the movement outward.",
+   "directed": "Desire produced the movement outward."
+  },
+  {
+   "id": "b88",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the individual wandered through conditioned existence.",
+   "directed": "And the individual wandered through conditioned existence."
+  },
+  {
+   "id": "b89",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the supreme nature of consciousness had never ceased to be the reality underlying the entire process.",
+   "directed": "But the supreme nature of consciousness had never ceased to be the reality underlying the entire process."
+  },
+  {
+   "id": "b90",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja explicitly says that the methods described throughout the work serve to reveal this already-existing Śiva-nature.",
+   "directed": "And Kṣemarāja explicitly says that the methods described throughout the work serve to reveal this already-existing Śiva-nature."
+  },
+  {
+   "id": "b91",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not manufacture it.",
+   "directed": "Not manufacture it."
+  },
+  {
+   "id": "b92",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Reveal it.",
+   "directed": "Reveal it."
+  },
+  {
+   "id": "b93",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now comes a magnificent metaphor from the Svacchandatantra, quoted by Kṣemarāja.",
+   "directed": "And now comes a magnificent metaphor from the Svacchandatantra, quoted by Kṣemarāja."
+  },
+  {
+   "id": "b94",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The image is of fire.",
+   "directed": "The image is of fire."
+  },
+  {
+   "id": "b95",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Fire emerging from wood.",
+   "directed": "Fire emerging from wood."
+  },
+  {
+   "id": "b96",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Once kindled, the fire becomes brilliantly luminous.",
+   "directed": "Once kindled, the fire becomes brilliantly luminous."
+  },
+  {
+   "id": "b97",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the liberated Self is compared to this emergence.",
+   "directed": "And the liberated Self is compared to this emergence."
+  },
+  {
+   "id": "b98",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The fire isn’t created as an entirely alien substance imposed from outside.",
+   "directed": "The fire isn’t created as an entirely alien substance imposed from outside."
+  },
+  {
+   "id": "b99",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The analogy is used to explain the disclosure of a nature previously concealed by limiting conditions.",
+   "directed": "The analogy is used to explain the disclosure of a nature previously concealed by limiting conditions."
+  },
+  {
+   "id": "b100",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja cites the Svacchandatantra on the yogi who has become free from the impurities and limiting powers.",
+   "directed": "And Kṣemarāja cites the Svacchandatantra on the yogi who has become free from the impurities and limiting powers."
+  },
+  {
+   "id": "b101",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Even while remaining within manifestation, the liberated person is no longer bound by it in the former manner.",
+   "directed": "Even while remaining within manifestation, the liberated person is no longer bound by it in the former manner."
+  },
+  {
+   "id": "b102",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then he concludes the entire commentary by explaining the final sūtra’s deepest point.",
+   "directed": "Then he concludes the entire commentary by explaining the final sūtra’s deepest point."
+  },
+  {
+   "id": "b103",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Śiva-nature of the yogi was not previously absent.",
+   "directed": "The Śiva-nature of the yogi was not previously absent."
+  },
+  {
+   "id": "b104",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It was obscured through the self-concealing power of Māyā.",
+   "directed": "It was obscured through the self-concealing power of Māyā."
+  },
+  {
+   "id": "b105",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the practices have brought it to manifestation in recognition. Sanskrit & Trika Shaivism.",
+   "directed": "And the practices have brought it to manifestation in recognition. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b106",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now stop and think about the structure of the whole journey.",
+   "directed": "Now stop and think about the structure of the whole journey."
+  },
+  {
+   "id": "b107",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The first sūtra:",
+   "directed": "[short pause] The first sūtra:"
+  },
+  {
+   "id": "b108",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Consciousness is the Self.",
+   "directed": "Consciousness is the Self."
+  },
+  {
+   "id": "b109",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The final sūtra:",
+   "directed": "[short pause] The final sūtra:"
+  },
+  {
+   "id": "b110",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The inward and outward movements of manifestation are reunited in consciousness.",
+   "directed": "The inward and outward movements of manifestation are reunited in consciousness."
+  },
+  {
+   "id": "b111",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’ve gone from the declaration of the supreme reality to its recognition throughout the entire universe.",
+   "directed": "We’ve gone from the declaration of the supreme reality to its recognition throughout the entire universe."
+  },
+  {
+   "id": "b112",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that is the full movement of the Śiva Sūtras.",
+   "directed": "And that is the full movement of the Śiva Sūtras."
+  },
+  {
+   "id": "b113",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not away from existence.",
+   "directed": "Not away from existence."
+  },
+  {
+   "id": "b114",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not towards an entirely new substance.",
+   "directed": "Not towards an entirely new substance."
+  },
+  {
+   "id": "b115",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not from an independent human being into a separate divine being.",
+   "directed": "Not from an independent human being into a separate divine being."
+  },
+  {
+   "id": "b116",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But from misrecognition to recognition.",
+   "directed": "But from misrecognition to recognition."
+  },
+  {
+   "id": "b117",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "From contraction to the disclosure of freedom.",
+   "directed": "From contraction to the disclosure of freedom."
+  },
+  {
+   "id": "b118",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "From the limited aṇu to the recognition of the universal Self.",
+   "directed": "From the limited aṇu to the recognition of the universal Self."
+  },
+  {
+   "id": "b119",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the final instruction isn’t:",
+   "directed": "[short pause] And the final instruction isn’t:"
+  },
+  {
+   "id": "b120",
+   "section": "Śiva Sūtras 3.45",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Destroy the world.”",
+   "directed": "[short pause] “Destroy the world.”"
+  },
+  {
+   "id": "b121",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s not:",
+   "directed": "[short pause] It’s not:"
+  },
+  {
+   "id": "b122",
+   "section": "Śiva Sūtras 3.45",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Suppress every thought.”",
+   "directed": "[short pause] “Suppress every thought.”"
+  },
+  {
+   "id": "b123",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s not:",
+   "directed": "[short pause] It’s not:"
+  },
+  {
+   "id": "b124",
+   "section": "Śiva Sūtras 3.45",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Abandon every relationship.”",
+   "directed": "[short pause] “Abandon every relationship.”"
+  },
+  {
+   "id": "b125",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s not:",
+   "directed": "[short pause] It’s not:"
+  },
+  {
+   "id": "b126",
+   "section": "Śiva Sūtras 3.45",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Become an exceptionally impressive individual.”",
+   "directed": "[short pause] “Become an exceptionally impressive individual.”"
+  },
+  {
+   "id": "b127",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s something far more radical.",
+   "directed": "It’s something far more radical."
+  },
+  {
+   "id": "b128",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Recognise the conscious reality through both the inward withdrawal and outward manifestation of the universe.",
+   "directed": "Recognise the conscious reality through both the inward withdrawal and outward manifestation of the universe."
+  },
+  {
+   "id": "b129",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And there’s an exquisite irony here.",
+   "directed": "And there’s an exquisite irony here."
+  },
+  {
+   "id": "b130",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because the whole text has been explaining how to become what, according to the tradition, you never actually ceased to be.",
+   "directed": "Because the whole text has been explaining how to become what, according to the tradition, you never actually ceased to be."
+  },
+  {
+   "id": "b131",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You were Śiva.",
+   "directed": "You were Śiva."
+  },
+  {
+   "id": "b132",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You experienced limitation.",
+   "directed": "You experienced limitation."
+  },
+  {
+   "id": "b133",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You searched for Śiva.",
+   "directed": "You searched for Śiva."
+  },
+  {
+   "id": "b134",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You studied Śiva.",
+   "directed": "You studied Śiva."
+  },
+  {
+   "id": "b135",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You meditated upon Śiva.",
+   "directed": "You meditated upon Śiva."
+  },
+  {
+   "id": "b136",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You worshipped Śiva.",
+   "directed": "You worshipped Śiva."
+  },
+  {
+   "id": "b137",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You asked teachers about Śiva.",
+   "directed": "You asked teachers about Śiva."
+  },
+  {
+   "id": "b138",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And eventually, the distinction between the seeker and the sought was overcome.",
+   "directed": "And eventually, the distinction between the seeker and the sought was overcome."
+  },
+  {
+   "id": "b139",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The ultimate metaphysical hide-and-seek.",
+   "directed": "The ultimate metaphysical hide-and-seek."
+  },
+  {
+   "id": "b140",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "With one player.",
+   "directed": "With one player."
+  },
+  {
+   "id": "b141",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And an infinite number of disguises.",
+   "directed": "And an infinite number of disguises."
+  },
+  {
+   "id": "b142",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "THE GRAND FINALE — ALL SEVENTY-SEVEN ŚIVA SŪTRAS\nWhat Vasugupta Actually Just Told Us\nRight.",
+   "directed": "THE GRAND FINALE — ALL SEVENTY-SEVEN ŚIVA SŪTRAS\nWhat Vasugupta Actually Just Told Us\nRight."
+  },
+  {
+   "id": "b143",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The book is finished.",
+   "directed": "The book is finished."
+  },
+  {
+   "id": "b144",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Seventy-seven sūtras.",
+   "directed": "Seventy-seven sūtras."
+  },
+  {
+   "id": "b145",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Three sections.",
+   "directed": "Three sections."
+  },
+  {
+   "id": "b146",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And an astonishingly unified philosophical argument.",
+   "directed": "And an astonishingly unified philosophical argument."
+  },
+  {
+   "id": "b147",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But now that we’ve followed everything, we can finally stand back and see the whole structure.",
+   "directed": "But now that we’ve followed everything, we can finally stand back and see the whole structure."
+  },
+  {
+   "id": "b148",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because there’s something extraordinarily elegant about it.",
+   "directed": "Because there’s something extraordinarily elegant about it."
+  },
+  {
+   "id": "b149",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Śiva Sūtras don’t simply begin with a human being and tell them how to become divine.",
+   "directed": "The Śiva Sūtras don’t simply begin with a human being and tell them how to become divine."
+  },
+  {
+   "id": "b150",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They begin by declaring the nature of the divine Self.",
+   "directed": "They begin by declaring the nature of the divine Self."
+  },
+  {
+   "id": "b151",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then they explain why that nature appears concealed.",
+   "directed": "Then they explain why that nature appears concealed."
+  },
+  {
+   "id": "b152",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And finally they show how recognition can occur through several distinct modes of practice.",
+   "directed": "And finally they show how recognition can occur through several distinct modes of practice."
+  },
+  {
+   "id": "b153",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The movement is not from one independent substance to another.",
+   "directed": "The movement is not from one independent substance to another."
+  },
+  {
+   "id": "b154",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s from contracted awareness to recognition of its universal nature.",
+   "directed": "It’s from contracted awareness to recognition of its universal nature."
+  },
+  {
+   "id": "b155",
+   "section": "Śiva Sūtras 3.45",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the three upāyas approach this from different standpoints.",
+   "directed": "And the three upāyas approach this from different standpoints."
+  },
+  {
+   "id": "b156",
+   "section": "Śiva Sūtras 3.45",
+   "type": "verse",
+   "voice": "verse",
+   "text": "॥ शिवम् ॥\nIti śivam.\nThus, Śiva. Thus, the auspicious conclusion.\nEnd of the Śiva Sūtras — all 77 sūtras completed.",
+   "directed": "[slowly] ॥ शिवम् ॥\nIti śivam.\nThus, Śiva. Thus, the auspicious conclusion.\nEnd of the Śiva Sūtras — all 77 sūtras completed."
+  }
+ ],
+ "totals": {
+  "blocks": 157,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 1124,
+   "verse": 40
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 7.5,
+   "verse": 0.3
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

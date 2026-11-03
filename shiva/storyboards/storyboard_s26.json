@@ -1,0 +1,529 @@
+{
+ "title": "Śiva Sūtras 2.4",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 2.4",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 2.4",
+   "directed": "[long pause] Śiva Sūtras 2.4"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 2.4",
+   "type": "verse",
+   "voice": "verse",
+   "text": "गर्भे चित्तविकासोऽविशिष्टविद्यास्वप्नः",
+   "directed": "[slowly] गर्भे चित्तविकासोऽविशिष्टविद्यास्वप्नः"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Garbhe cittavikāso ’viśiṣṭavidyāsvapnaḥ.",
+   "directed": "Garbhe cittavikāso ’viśiṣṭavidyāsvapnaḥ."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The mind’s expansion within the womb of Māyā, even through extraordinary powers, is merely a dream of inferior knowledge.",
+   "directed": "The mind’s expansion within the womb of Māyā, even through extraordinary powers, is merely a dream of inferior knowledge."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You Got One Spiritual Experience and Now You Think You’re Gandalf.",
+   "directed": "You Got One Spiritual Experience and Now You Think You’re Gandalf."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Oh dear.",
+   "directed": "Oh dear."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’ve arrived at the warning.",
+   "directed": "We’ve arrived at the warning."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Vasugupta is about to deliver an absolutely devastating assessment of the spiritually ambitious.",
+   "directed": "And Vasugupta is about to deliver an absolutely devastating assessment of the spiritually ambitious."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s unpack the Sanskrit.",
+   "directed": "Let’s unpack the Sanskrit."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Garbhe — in the womb, in the matrix.",
+   "directed": "Garbhe — in the womb, in the matrix."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Citta — mind.",
+   "directed": "Citta — mind."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vikāsaḥ — expansion, blossoming, development.",
+   "directed": "Vikāsaḥ — expansion, blossoming, development."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Aviśiṣṭa — ordinary, undistinguished, lacking the special excellence of supreme knowledge.",
+   "directed": "Aviśiṣṭa — ordinary, undistinguished, lacking the special excellence of supreme knowledge."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vidyā — knowledge.",
+   "directed": "Vidyā — knowledge."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Svapnaḥ — dream.",
+   "directed": "Svapnaḥ — dream."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, on a superficial reading, this sounds almost positive.",
+   "directed": "Now, on a superficial reading, this sounds almost positive."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The mind expands!",
+   "directed": "The mind expands!"
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Knowledge develops!",
+   "directed": "Knowledge develops!"
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There are extraordinary experiences!",
+   "directed": "There are extraordinary experiences!"
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Wonderful!",
+   "directed": "Wonderful!"
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Perhaps you’re meditating one afternoon and begin seeing lights.",
+   "directed": "Perhaps you’re meditating one afternoon and begin seeing lights."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Beautiful colours.",
+   "directed": "Beautiful colours."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A luminous sphere.",
+   "directed": "A luminous sphere."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Mysterious sounds.",
+   "directed": "Mysterious sounds."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Perhaps an extraordinary sense of energy moving through the body.",
+   "directed": "Perhaps an extraordinary sense of energy moving through the body."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You leap to the obvious conclusion.",
+   "directed": "You leap to the obvious conclusion."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "I HAVE BECOME A SUPERNATURAL BEING.",
+   "directed": "I HAVE BECOME A SUPERNATURAL BEING."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Naturally, you immediately consider starting a YouTube channel.",
+   "directed": "Naturally, you immediately consider starting a YouTube channel."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Perhaps a retreat centre.",
+   "directed": "Perhaps a retreat centre."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A very tasteful website.",
+   "directed": "A very tasteful website."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And a line of branded meditation cushions.",
+   "directed": "And a line of branded meditation cushions."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But Vasugupta has some disappointing news.",
+   "directed": "But Vasugupta has some disappointing news."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’re still dreaming.",
+   "directed": "You’re still dreaming."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja interprets garbha here as the domain of Māyā, associated with primordial ignorance of one’s own true nature.",
+   "directed": "Kṣemarāja interprets garbha here as the domain of Māyā, associated with primordial ignorance of one’s own true nature."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the cittavikāsa, the expansion of mind within that domain, can include fascination with limited supernatural attainments.",
+   "directed": "And the cittavikāsa, the expansion of mind within that domain, can include fascination with limited supernatural attainments."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He specifically mentions experiences associated with bindu and nāda — luminous points and subtle sounds — when they occur as secondary yogic phenomena.",
+   "directed": "He specifically mentions experiences associated with bindu and nāda — luminous points and subtle sounds — when they occur as secondary yogic phenomena."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "These must not be confused with the supreme metaphysical principles denoted by the same terms in other contexts.",
+   "directed": "These must not be confused with the supreme metaphysical principles denoted by the same terms in other contexts."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Here’s the extraordinary thing.",
+   "directed": "Here’s the extraordinary thing."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja explicitly draws upon the Spandakārikā and Patañjali’s Yoga Sūtras to warn that extraordinary experiences can become obstacles to samādhi. Sanskrit & Trika Shaivism.",
+   "directed": "Kṣemarāja explicitly draws upon the Spandakārikā and Patañjali’s Yoga Sūtras to warn that extraordinary experiences can become obstacles to samādhi. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that’s a rather important correction to the assumption that Tantra simply encourages collecting increasingly spectacular experiences.",
+   "directed": "And that’s a rather important correction to the assumption that Tantra simply encourages collecting increasingly spectacular experiences."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because from the nondual standpoint, extraordinary experiences aren’t necessarily extraordinary recognition.",
+   "directed": "Because from the nondual standpoint, extraordinary experiences aren’t necessarily extraordinary recognition."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You might experience a thousand luminous visions.",
+   "directed": "You might experience a thousand luminous visions."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But if you’re still fundamentally identifying as a limited subject acquiring impressive objects of experience, the basic structure of bondage remains.",
+   "directed": "But if you’re still fundamentally identifying as a limited subject acquiring impressive objects of experience, the basic structure of bondage remains."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 2.4",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“I have seen a divine light.”",
+   "directed": "[short pause] “I have seen a divine light.”"
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 2.4",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“I have heard an extraordinary sound.”",
+   "directed": "[short pause] “I have heard an extraordinary sound.”"
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 2.4",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“I have acquired a supernatural power.”",
+   "directed": "[short pause] “I have acquired a supernatural power.”"
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Notice the grammar.",
+   "directed": "Notice the grammar."
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "I have acquired something.",
+   "directed": "I have acquired something."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The subject is still opposed to the object.",
+   "directed": "The subject is still opposed to the object."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And unless the true nature of that subject is recognised, the fundamental metaphysical misunderstanding persists.",
+   "directed": "And unless the true nature of that subject is recognised, the fundamental metaphysical misunderstanding persists."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You could theoretically become capable of astonishing feats and remain thoroughly bound.",
+   "directed": "You could theoretically become capable of astonishing feats and remain thoroughly bound."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A very powerful paśu.",
+   "directed": "A very powerful paśu."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "An extremely talented prisoner.",
+   "directed": "An extremely talented prisoner."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A man with the ability to perceive distant objects who still cannot recognise the conscious reality in which his perceptions arise.",
+   "directed": "A man with the ability to perceive distant objects who still cannot recognise the conscious reality in which his perceptions arise."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Wonderful.",
+   "directed": "Wonderful."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve developed cosmic binoculars.",
+   "directed": "You’ve developed cosmic binoculars."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And forgotten your own eyes.",
+   "directed": "And forgotten your own eyes."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The sūtra’s deeper warning isn’t that visionary experiences are necessarily false or meaningless.",
+   "directed": "The sūtra’s deeper warning isn’t that visionary experiences are necessarily false or meaningless."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s that none of them, by themselves, establishes the recognition of Śiva.",
+   "directed": "It’s that none of them, by themselves, establishes the recognition of Śiva."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja calls absorption in their limited enjoyments dreamlike.",
+   "directed": "Kṣemarāja calls absorption in their limited enjoyments dreamlike."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because the yogi has mistaken a phenomenon appearing within consciousness for the recognition of consciousness itself.",
+   "directed": "Because the yogi has mistaken a phenomenon appearing within consciousness for the recognition of consciousness itself."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 2.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Vasugupta now tells us what happens when this fascination is transcended.",
+   "directed": "And Vasugupta now tells us what happens when this fascination is transcended."
+  }
+ ],
+ "totals": {
+  "blocks": 63,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 491,
+   "verse": 2,
+   "man": 12
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 3.3,
+   "verse": 0.0,
+   "man": 0.1
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

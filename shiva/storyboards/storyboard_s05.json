@@ -1,0 +1,287 @@
+{
+ "title": "Śiva Sūtras 1.5",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 1.5",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 1.5",
+   "directed": "[long pause] Śiva Sūtras 1.5"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 1.5",
+   "type": "verse",
+   "voice": "verse",
+   "text": "उद्यमो भैरवः",
+   "directed": "[slowly] उद्यमो भैरवः"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 1.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Udyamo bhairavaḥ.",
+   "directed": "Udyamo bhairavaḥ."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 1.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The arising, or upsurge, is Bhairava.",
+   "directed": "The arising, or upsurge, is Bhairava."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 1.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Sudden Cosmic “OH, FOR GOD’S SAKE”",
+   "directed": "The Sudden Cosmic “OH, FOR GOD’S SAKE”"
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 1.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is one of the most beautiful sūtras in the entire work.",
+   "directed": "This is one of the most beautiful sūtras in the entire work."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 1.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Udyama comes from the sense of rising up, emerging, surging forth.",
+   "directed": "Udyama comes from the sense of rising up, emerging, surging forth."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 1.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But Kṣemarāja interprets this as the sudden upsurge of supreme awareness.",
+   "directed": "But Kṣemarāja interprets this as the sudden upsurge of supreme awareness."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 1.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not laboriously manufacturing a spiritual experience.",
+   "directed": "Not laboriously manufacturing a spiritual experience."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 1.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not sitting there aggressively trying to become God.",
+   "directed": "Not sitting there aggressively trying to become God."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 1.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not spending sixteen hours thinking, “Am I enlightened yet? How about now? Now?”",
+   "directed": "Not spending sixteen hours thinking, “Am I enlightened yet? How about now? Now?”"
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 1.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s the immediate arising of recognition.",
+   "directed": "It’s the immediate arising of recognition."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 1.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "An opening in which universal consciousness becomes apparent.",
+   "directed": "An opening in which universal consciousness becomes apparent."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 1.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that, says Vasugupta, is Bhairava.",
+   "directed": "And that, says Vasugupta, is Bhairava."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 1.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Notice how radically different this is from a purely progressive model of spiritual accomplishment.",
+   "directed": "Notice how radically different this is from a purely progressive model of spiritual accomplishment."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 1.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There may be preparation. There may be discipline. There may be years of practice.",
+   "directed": "There may be preparation. There may be discipline. There may be years of practice."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 1.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the recognition itself isn’t produced by assembling Śiva out of spare parts.",
+   "directed": "But the recognition itself isn’t produced by assembling Śiva out of spare parts."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 1.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śiva was never missing.",
+   "directed": "Śiva was never missing."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 1.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The limitation was in the mode of recognition.",
+   "directed": "The limitation was in the mode of recognition."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 1.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Imagine somebody desperately searching their house for their spectacles.",
+   "directed": "Imagine somebody desperately searching their house for their spectacles."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 1.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They search every room.",
+   "directed": "They search every room."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 1.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Check every drawer.",
+   "directed": "Check every drawer."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 1.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Accuse the neighbours.",
+   "directed": "Accuse the neighbours."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 1.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Begin questioning whether spectacles exist.",
+   "directed": "Begin questioning whether spectacles exist."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 1.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then suddenly realise they’re wearing them.",
+   "directed": "Then suddenly realise they’re wearing them."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 1.5",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“OH, YOU ABSOLUTE IDIOT.”",
+   "directed": "[short pause] “OH, YOU ABSOLUTE IDIOT.”"
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 1.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That’s not enlightenment, obviously.",
+   "directed": "That’s not enlightenment, obviously."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 1.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But it illustrates the structure of recognition.",
+   "directed": "But it illustrates the structure of recognition."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 1.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nothing new had to be created.",
+   "directed": "Nothing new had to be created."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 1.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The truth of the situation simply became apparent.",
+   "directed": "The truth of the situation simply became apparent."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 1.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And in Trika, that flash is not merely a clever intellectual conclusion.",
+   "directed": "And in Trika, that flash is not merely a clever intellectual conclusion."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 1.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s the living manifestation of Bhairava.",
+   "directed": "It’s the living manifestation of Bhairava."
+  }
+ ],
+ "totals": {
+  "blocks": 33,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 229,
+   "verse": 2
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 1.5,
+   "verse": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

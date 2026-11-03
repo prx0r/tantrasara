@@ -1,0 +1,273 @@
+{
+ "title": "Śiva Sūtras 1.4",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 1.4",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 1.4",
+   "directed": "[long pause] Śiva Sūtras 1.4"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 1.4",
+   "type": "verse",
+   "voice": "verse",
+   "text": "ज्ञानाधिष्ठानं मातृका",
+   "directed": "[slowly] ज्ञानाधिष्ठानं मातृका"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 1.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Jñānādhiṣṭhānaṃ mātṛkā.",
+   "directed": "Jñānādhiṣṭhānaṃ mātṛkā."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 1.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Mātṛkā is the foundation of knowledge.",
+   "directed": "Mātṛkā is the foundation of knowledge."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 1.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Your Alphabet Is Secretly Running the Show.",
+   "directed": "Your Alphabet Is Secretly Running the Show."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 1.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now things get properly tantric.",
+   "directed": "Now things get properly tantric."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 1.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Mātṛkā means the little mother, or mother principle.",
+   "directed": "Mātṛkā means the little mother, or mother principle."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 1.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Here she is the power associated with the Sanskrit phonemes — the letters from a through kṣa — as the basis of differentiated cognition.",
+   "directed": "Here she is the power associated with the Sanskrit phonemes — the letters from a through kṣa — as the basis of differentiated cognition."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 1.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This isn’t just a bizarre claim that the alphabet invented your suffering.",
+   "directed": "This isn’t just a bizarre claim that the alphabet invented your suffering."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 1.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The idea is much more sophisticated.",
+   "directed": "The idea is much more sophisticated."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 1.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Language articulates experience.",
+   "directed": "Language articulates experience."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 1.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Experience becomes conceptualised.",
+   "directed": "Experience becomes conceptualised."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 1.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Conceptualisation helps establish distinctions.",
+   "directed": "Conceptualisation helps establish distinctions."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 1.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Those distinctions become entangled with identity, memory, desire, aversion and the sense of being an individual subject surrounded by other things.",
+   "directed": "Those distinctions become entangled with identity, memory, desire, aversion and the sense of being an individual subject surrounded by other things."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 1.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You perceive an event.",
+   "directed": "You perceive an event."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 1.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then language arrives.",
+   "directed": "Then language arrives."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 1.4",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“This is terrible.”",
+   "directed": "[short pause] “This is terrible.”"
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 1.4",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“That person disrespected me.”",
+   "directed": "[short pause] “That person disrespected me.”"
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 1.4",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“I always fail.”",
+   "directed": "[short pause] “I always fail.”"
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 1.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And an entire little world forms around the verbal construction.",
+   "directed": "And an entire little world forms around the verbal construction."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 1.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve transformed a passing occurrence into a personal cosmological crisis.",
+   "directed": "You’ve transformed a passing occurrence into a personal cosmological crisis."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 1.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "All before breakfast.",
+   "directed": "All before breakfast."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 1.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "For Kṣemarāja, however, Mātṛkā is not intrinsically evil.",
+   "directed": "For Kṣemarāja, however, Mātṛkā is not intrinsically evil."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 1.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "She is Śakti.",
+   "directed": "She is Śakti."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 1.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The very same power that generates limitation can, when recognised, become a means of liberation.",
+   "directed": "The very same power that generates limitation can, when recognised, become a means of liberation."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 1.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is enormously important for understanding Trika’s fascination with Sanskrit phonemes, mantra, and the metaphysics of speech.",
+   "directed": "This is enormously important for understanding Trika’s fascination with Sanskrit phonemes, mantra, and the metaphysics of speech."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 1.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Speech isn’t just a tool for describing an independently established universe.",
+   "directed": "Speech isn’t just a tool for describing an independently established universe."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 1.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Within this tradition, it belongs to the very process by which consciousness manifests differentiated reality.",
+   "directed": "Within this tradition, it belongs to the very process by which consciousness manifests differentiated reality."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 1.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The mother who makes the prison is also the mother who holds the key.",
+   "directed": "The mother who makes the prison is also the mother who holds the key."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 1.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Rather inconvenient for the prison authorities, who are also Śiva.",
+   "directed": "Rather inconvenient for the prison authorities, who are also Śiva."
+  }
+ ],
+ "totals": {
+  "blocks": 31,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 231,
+   "verse": 2,
+   "man": 6
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 1.5,
+   "verse": 0.0,
+   "man": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

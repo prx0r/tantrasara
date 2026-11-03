@@ -1,0 +1,801 @@
+{
+ "title": "Śiva Sūtras 3.23",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 3.23",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 3.23",
+   "directed": "[long pause] Śiva Sūtras 3.23"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 3.23",
+   "type": "verse",
+   "voice": "verse",
+   "text": "मध्येऽवरप्रसवः",
+   "directed": "[slowly] मध्येऽवरप्रसवः"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Madhye ’varaprasavaḥ.",
+   "directed": "Madhye ’varaprasavaḥ."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In the middle, inferior manifestation arises.",
+   "directed": "In the middle, inferior manifestation arises."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You Were Enlightened for Five Minutes, Then Your Brain Started Being a Dick Again.",
+   "directed": "You Were Enlightened for Five Minutes, Then Your Brain Started Being a Dick Again."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Oh, this one hurts.",
+   "directed": "Oh, this one hurts."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because it’s absolutely devastatingly relatable.",
+   "directed": "Because it’s absolutely devastatingly relatable."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’ve just been through an extraordinary sequence.",
+   "directed": "We’ve just been through an extraordinary sequence."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The yogi enters the Great Lake.",
+   "directed": "The yogi enters the Great Lake."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The world is recognised as the expression of Śakti.",
+   "directed": "The world is recognised as the expression of Śakti."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Innate knowledge becomes established.",
+   "directed": "Innate knowledge becomes established."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Turya permeates waking, dreaming and deep sleep.",
+   "directed": "Turya permeates waking, dreaming and deep sleep."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The outward movement of vital activity no longer obscures the conscious source.",
+   "directed": "The outward movement of vital activity no longer obscures the conscious source."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Absolutely beautiful.",
+   "directed": "[short pause] Absolutely beautiful."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And then Vasugupta says:",
+   "directed": "[short pause] And then Vasugupta says:"
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In the middle, inferior manifestation arises.",
+   "directed": "In the middle, inferior manifestation arises."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "For God’s sake.",
+   "directed": "For God’s sake."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "WE WERE DOING SO WELL.",
+   "directed": "WE WERE DOING SO WELL."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "What happened?",
+   "directed": "What happened?"
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s unpack it.",
+   "directed": "Let’s unpack it."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Madhye — in the middle, in the intervening condition.",
+   "directed": "Madhye — in the middle, in the intervening condition."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Avara — lower, inferior, lesser.",
+   "directed": "Avara — lower, inferior, lesser."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Prasavaḥ — production, generation, arising.",
+   "directed": "Prasavaḥ — production, generation, arising."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here’s where Kṣemarāja becomes wonderfully precise.",
+   "directed": "And here’s where Kṣemarāja becomes wonderfully precise."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He explains that the practitioner may experience the bliss of turya at the initial and final boundaries of the ordinary states.",
+   "directed": "He explains that the practitioner may experience the bliss of turya at the initial and final boundaries of the ordinary states."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But may fail to maintain recognition throughout their middle portions.",
+   "directed": "But may fail to maintain recognition throughout their middle portions."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And in that intervening condition, ordinary mental activity reasserts itself.",
+   "directed": "And in that intervening condition, ordinary mental activity reasserts itself."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 3.23",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Vyutthāna.",
+   "directed": "[slowly] Vyutthāna."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The state of ordinary mental emergence or activity, contrasted with spiritual absorption.",
+   "directed": "The state of ordinary mental emergence or activity, contrasted with spiritual absorption."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is not necessarily evil or immoral thought.",
+   "directed": "This is not necessarily evil or immoral thought."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s the return of limited cognition, particularly when its differentiated contents are no longer recognised through their supreme source.",
+   "directed": "It’s the return of limited cognition, particularly when its differentiated contents are no longer recognised through their supreme source."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now think about how extraordinary this is.",
+   "directed": "Now think about how extraordinary this is."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "At the transition between states, the practitioner may recognise an opening.",
+   "directed": "At the transition between states, the practitioner may recognise an opening."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Perhaps as a thought subsides.",
+   "directed": "Perhaps as a thought subsides."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Perhaps at the emergence of waking.",
+   "directed": "Perhaps at the emergence of waking."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Perhaps in a contemplative pause.",
+   "directed": "Perhaps in a contemplative pause."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But then ordinary mental activity resumes.",
+   "directed": "But then ordinary mental activity resumes."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the mind becomes absorbed in its contents.",
+   "directed": "And the mind becomes absorbed in its contents."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There’s the perception.",
+   "directed": "There’s the perception."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then the interpretation.",
+   "directed": "Then the interpretation."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then the appropriation.",
+   "directed": "Then the appropriation."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then the personal story.",
+   "directed": "Then the personal story."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then the emotional reaction.",
+   "directed": "Then the emotional reaction."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And suddenly the universe has become a matter of what somebody said to you yesterday.",
+   "directed": "And suddenly the universe has become a matter of what somebody said to you yesterday."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śiva has been reduced from universal consciousness to a participant in a completely imaginary argument.",
+   "directed": "Śiva has been reduced from universal consciousness to a participant in a completely imaginary argument."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Again.",
+   "directed": "Again."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now Kṣemarāja’s actual point is not simply that people become annoyed.",
+   "directed": "Now Kṣemarāja’s actual point is not simply that people become annoyed."
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That’s our modern illustration.",
+   "directed": "That’s our modern illustration."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "His concern is the interruption of the yogi’s continuous recognition of turya.",
+   "directed": "His concern is the interruption of the yogi’s continuous recognition of turya."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The practitioner can apprehend the fourth state at privileged moments yet fail to sustain it throughout the entirety of experience.",
+   "directed": "The practitioner can apprehend the fourth state at privileged moments yet fail to sustain it throughout the entirety of experience."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is why the word madhya is so important.",
+   "directed": "And this is why the word madhya is so important."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The middle.",
+   "directed": "The middle."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The interval.",
+   "directed": "The interval."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The ordinary continuity of experience.",
+   "directed": "The ordinary continuity of experience."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not merely its beginnings and endings.",
+   "directed": "Not merely its beginnings and endings."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Imagine listening to a symphony.",
+   "directed": "Imagine listening to a symphony."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "At the beginning, you become profoundly attentive.",
+   "directed": "At the beginning, you become profoundly attentive."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The opening notes are extraordinary.",
+   "directed": "The opening notes are extraordinary."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then you start thinking about dinner.",
+   "directed": "Then you start thinking about dinner."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Twenty minutes pass.",
+   "directed": "Twenty minutes pass."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You become mentally involved in some unrelated matter.",
+   "directed": "You become mentally involved in some unrelated matter."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then the final movement begins.",
+   "directed": "Then the final movement begins."
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You suddenly return.",
+   "directed": "You suddenly return."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the ending is magnificent.",
+   "directed": "And the ending is magnificent."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, you did indeed experience the opening and closing of the symphony.",
+   "directed": "Now, you did indeed experience the opening and closing of the symphony."
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But you missed much of the performance.",
+   "directed": "But you missed much of the performance."
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Something analogous is being described here.",
+   "directed": "Something analogous is being described here."
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Recognition at the boundaries does not necessarily imply uninterrupted recognition throughout the intervening states.",
+   "directed": "Recognition at the boundaries does not necessarily imply uninterrupted recognition throughout the intervening states."
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now comes an important distinction.",
+   "directed": "And now comes an important distinction."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja does not say that the practitioner is permanently lost.",
+   "directed": "Kṣemarāja does not say that the practitioner is permanently lost."
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The condition of limitation has reappeared, but the recognition already cultivated has not necessarily become entirely ineffective.",
+   "directed": "The condition of limitation has reappeared, but the recognition already cultivated has not necessarily become entirely ineffective."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The possibility of returning remains.",
+   "directed": "The possibility of returning remains."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He explicitly relates the phenomenon to Book II’s final sūtra, where the subsidence of pure knowledge produces dreamlike differentiated experience.",
+   "directed": "He explicitly relates the phenomenon to Book II’s final sūtra, where the subsidence of pure knowledge produces dreamlike differentiated experience."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He also invokes the Mālinīvijayatantra to warn that the yogi can become diverted towards transient enjoyments and extraordinary attainments. Sanskrit & Trika Shaivism.",
+   "directed": "He also invokes the Mālinīvijayatantra to warn that the yogi can become diverted towards transient enjoyments and extraordinary attainments. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is where the text becomes unusually psychologically acute.",
+   "directed": "And this is where the text becomes unusually psychologically acute."
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because the mere memory of a profound experience is not identical to living within its recognition.",
+   "directed": "Because the mere memory of a profound experience is not identical to living within its recognition."
+  },
+  {
+   "id": "b77",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You can remember what clarity felt like.",
+   "directed": "You can remember what clarity felt like."
+  },
+  {
+   "id": "b78",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You can remember an extraordinary philosophical insight.",
+   "directed": "You can remember an extraordinary philosophical insight."
+  },
+  {
+   "id": "b79",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You can even describe it with complete precision.",
+   "directed": "You can even describe it with complete precision."
+  },
+  {
+   "id": "b80",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But at the present moment, you may be operating through precisely the limitations that the insight had disclosed.",
+   "directed": "But at the present moment, you may be operating through precisely the limitations that the insight had disclosed."
+  },
+  {
+   "id": "b81",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And then the mind performs another trick.",
+   "directed": "And then the mind performs another trick."
+  },
+  {
+   "id": "b82",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It begins chasing the previous recognition.",
+   "directed": "It begins chasing the previous recognition."
+  },
+  {
+   "id": "b83",
+   "section": "Śiva Sūtras 3.23",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“I need to get back.”",
+   "directed": "[short pause] “I need to get back.”"
+  },
+  {
+   "id": "b84",
+   "section": "Śiva Sūtras 3.23",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“I’ve lost it.”",
+   "directed": "[short pause] “I’ve lost it.”"
+  },
+  {
+   "id": "b85",
+   "section": "Śiva Sūtras 3.23",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“How do I recover the state?”",
+   "directed": "[short pause] “How do I recover the state?”"
+  },
+  {
+   "id": "b86",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the very structure of trying to obtain an experience can reinforce the sense of being a limited subject separated from something desirable.",
+   "directed": "But the very structure of trying to obtain an experience can reinforce the sense of being a limited subject separated from something desirable."
+  },
+  {
+   "id": "b87",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s an exceptionally awkward situation.",
+   "directed": "It’s an exceptionally awkward situation."
+  },
+  {
+   "id": "b88",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve recognised the source.",
+   "directed": "You’ve recognised the source."
+  },
+  {
+   "id": "b89",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then forgotten.",
+   "directed": "Then forgotten."
+  },
+  {
+   "id": "b90",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then turned the memory of recognition into another object of attachment.",
+   "directed": "Then turned the memory of recognition into another object of attachment."
+  },
+  {
+   "id": "b91",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Congratulations.",
+   "directed": "Congratulations."
+  },
+  {
+   "id": "b92",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve managed to become attached to freedom.",
+   "directed": "You’ve managed to become attached to freedom."
+  },
+  {
+   "id": "b93",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A spectacular achievement.",
+   "directed": "A spectacular achievement."
+  },
+  {
+   "id": "b94",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But Vasugupta doesn’t leave us here.",
+   "directed": "But Vasugupta doesn’t leave us here."
+  },
+  {
+   "id": "b95",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because the very next sūtra explains how recognition returns.",
+   "directed": "Because the very next sūtra explains how recognition returns."
+  },
+  {
+   "id": "b96",
+   "section": "Śiva Sūtras 3.23",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this one is absolutely beautiful.",
+   "directed": "And this one is absolutely beautiful."
+  }
+ ],
+ "totals": {
+  "blocks": 97,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 704,
+   "verse": 2,
+   "man": 11
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 4.7,
+   "verse": 0.0,
+   "man": 0.1
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

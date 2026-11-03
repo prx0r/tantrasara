@@ -1,0 +1,825 @@
+{
+ "title": "Śiva Sūtras 3.39",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 3.39",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 3.39",
+   "directed": "[long pause] Śiva Sūtras 3.39"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 3.39",
+   "type": "verse",
+   "voice": "verse",
+   "text": "चित्तस्थितिवच्छरीरकरणबाह्येषु",
+   "directed": "[slowly] चित्तस्थितिवच्छरीरकरणबाह्येषु"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Cittasthitivac charīrakaraṇabāhyeṣu.",
+   "directed": "Cittasthitivac charīrakaraṇabāhyeṣu."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Just as in the states of mind, so too in the body, the senses and external objects.",
+   "directed": "Just as in the states of mind, so too in the body, the senses and external objects."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Don’t Leave Your Enlightenment on the Meditation Cushion, You Absolute Muppet.",
+   "directed": "Don’t Leave Your Enlightenment on the Meditation Cushion, You Absolute Muppet."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now this is a beautiful continuation.",
+   "directed": "Now this is a beautiful continuation."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the Sanskrit is intentionally dependent upon the previous sūtra.",
+   "directed": "And the Sanskrit is intentionally dependent upon the previous sūtra."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In other words, the phrase:",
+   "directed": "[short pause] In other words, the phrase:"
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 3.39",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Tripadādyanuprāṇanam",
+   "directed": "[slowly] Tripadādyanuprāṇanam"
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "continues to govern the meaning.",
+   "directed": "continues to govern the meaning."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The fourth should enliven the three states.",
+   "directed": "The fourth should enliven the three states."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that enlivening should extend beyond the mind into the body, senses and external manifestations.",
+   "directed": "And that enlivening should extend beyond the mind into the body, senses and external manifestations."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s unpack the compound.",
+   "directed": "Let’s unpack the compound."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Citta — mind.",
+   "directed": "Citta — mind."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sthiti — condition, state.",
+   "directed": "Sthiti — condition, state."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vat — like, as in.",
+   "directed": "Vat — like, as in."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śarīra — body.",
+   "directed": "Śarīra — body."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Karaṇa — instrument; here, the sense faculties.",
+   "directed": "Karaṇa — instrument; here, the sense faculties."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Bāhya — external objects.",
+   "directed": "Bāhya — external objects."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So:",
+   "directed": "[short pause] So:"
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "As with mental states, so with the body, senses and the external world.",
+   "directed": "As with mental states, so with the body, senses and the external world."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here’s Kṣemarāja’s point.",
+   "directed": "And here’s Kṣemarāja’s point."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is not enough for the yogi to become established in recognition only during inward contemplation.",
+   "directed": "It is not enough for the yogi to become established in recognition only during inward contemplation."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The same recognition must gradually extend throughout outward experience.",
+   "directed": "The same recognition must gradually extend throughout outward experience."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kramāt kramam.",
+   "directed": "Kramāt kramam."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Step by step.",
+   "directed": "Step by step."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now that phrase is important.",
+   "directed": "Now that phrase is important."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because it tells us we’re dealing with a progressive integration.",
+   "directed": "Because it tells us we’re dealing with a progressive integration."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The practitioner doesn’t simply announce:",
+   "directed": "[short pause] The practitioner doesn’t simply announce:"
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 3.39",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“I have understood nonduality, therefore my entire life is now permanently liberated.”",
+   "directed": "[short pause] “I have understood nonduality, therefore my entire life is now permanently liberated.”"
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That would be a rather bold claim.",
+   "directed": "That would be a rather bold claim."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Especially if they immediately become furious about a delayed cup of tea.",
+   "directed": "Especially if they immediately become furious about a delayed cup of tea."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Instead, the recognition cultivated inwardly is extended into ordinary embodied activity.",
+   "directed": "Instead, the recognition cultivated inwardly is extended into ordinary embodied activity."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The body.",
+   "directed": "The body."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The senses.",
+   "directed": "The senses."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The appearances of the world.",
+   "directed": "The appearances of the world."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja explicitly says this occurs through the power of sustained inward vimarśa.",
+   "directed": "And Kṣemarāja explicitly says this occurs through the power of sustained inward vimarśa."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The reflexive awareness of consciousness.",
+   "directed": "The reflexive awareness of consciousness."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, think about the philosophical significance.",
+   "directed": "Now, think about the philosophical significance."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "At the beginning of Book III, the individual was bound through identification with the mind.",
+   "directed": "At the beginning of Book III, the individual was bound through identification with the mind."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then the tattvas were contemplated.",
+   "directed": "Then the tattvas were contemplated."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The body became a field of practice.",
+   "directed": "The body became a field of practice."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The senses became spectators of the cosmic drama.",
+   "directed": "The senses became spectators of the cosmic drama."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And gradually the practitioner recognised the supreme conscious source.",
+   "directed": "And gradually the practitioner recognised the supreme conscious source."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But now that recognition must become pervasive.",
+   "directed": "But now that recognition must become pervasive."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The body isn’t to be regarded as a fundamentally alien obstacle.",
+   "directed": "The body isn’t to be regarded as a fundamentally alien obstacle."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The senses aren’t fundamentally outside Śakti.",
+   "directed": "The senses aren’t fundamentally outside Śakti."
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the external world isn’t an independent reality standing beyond the power of consciousness.",
+   "directed": "And the external world isn’t an independent reality standing beyond the power of consciousness."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "All become objects of contemplation within the same nondual understanding.",
+   "directed": "All become objects of contemplation within the same nondual understanding."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja cites a verse from the Vijñānabhairava in which the practitioner is instructed to contemplate the entire universe, or their own body, as filled with the delight of the Self.",
+   "directed": "Kṣemarāja cites a verse from the Vijñānabhairava in which the practitioner is instructed to contemplate the entire universe, or their own body, as filled with the delight of the Self."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And from that contemplative fullness, supreme bliss is said to arise. Sanskrit & Trika Shaivism.",
+   "directed": "And from that contemplative fullness, supreme bliss is said to arise. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now imagine this in ordinary life.",
+   "directed": "Now imagine this in ordinary life."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’re walking down a road.",
+   "directed": "You’re walking down a road."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Your legs are moving.",
+   "directed": "Your legs are moving."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Your body is balancing.",
+   "directed": "Your body is balancing."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Your senses are registering the environment.",
+   "directed": "Your senses are registering the environment."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You hear footsteps.",
+   "directed": "You hear footsteps."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Feel the ground.",
+   "directed": "Feel the ground."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "See the changing light.",
+   "directed": "See the changing light."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ordinarily, you might be entirely absorbed in these activities or in the thoughts accompanying them.",
+   "directed": "Ordinarily, you might be entirely absorbed in these activities or in the thoughts accompanying them."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the practitioner is invited to recognise the conscious reality through which the entire field of experience appears.",
+   "directed": "But the practitioner is invited to recognise the conscious reality through which the entire field of experience appears."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not merely the thoughts.",
+   "directed": "Not merely the thoughts."
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not merely the inner state.",
+   "directed": "Not merely the inner state."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The whole embodied manifestation.",
+   "directed": "The whole embodied manifestation."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here’s the important distinction.",
+   "directed": "And here’s the important distinction."
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This doesn’t require pretending that the body and world are physically identical.",
+   "directed": "This doesn’t require pretending that the body and world are physically identical."
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nor does it mean a practitioner loses the ability to distinguish between themselves and other people.",
+   "directed": "Nor does it mean a practitioner loses the ability to distinguish between themselves and other people."
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The nondual claim concerns the ultimate conscious source of experience, not the elimination of every conventional distinction.",
+   "directed": "The nondual claim concerns the ultimate conscious source of experience, not the elimination of every conventional distinction."
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the process is gradual.",
+   "directed": "And the process is gradual."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The recognition first becomes clear inwardly.",
+   "directed": "The recognition first becomes clear inwardly."
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then extends outward.",
+   "directed": "Then extends outward."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And eventually, within the traditional ideal, the difference between inward absorption and outward engagement no longer obscures the supreme reality.",
+   "directed": "And eventually, within the traditional ideal, the difference between inward absorption and outward engagement no longer obscures the supreme reality."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is what makes the entire progression so extraordinary.",
+   "directed": "This is what makes the entire progression so extraordinary."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The yogi begins by withdrawing attention from objects.",
+   "directed": "The yogi begins by withdrawing attention from objects."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then recognises the conscious source.",
+   "directed": "Then recognises the conscious source."
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then returns to objects.",
+   "directed": "Then returns to objects."
+  },
+  {
+   "id": "b77",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But now the objects are understood differently.",
+   "directed": "But now the objects are understood differently."
+  },
+  {
+   "id": "b78",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The world hasn’t necessarily changed its outward appearance.",
+   "directed": "The world hasn’t necessarily changed its outward appearance."
+  },
+  {
+   "id": "b79",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The standpoint has changed.",
+   "directed": "The standpoint has changed."
+  },
+  {
+   "id": "b80",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the experience of manifestation becomes inseparable from awareness of its source.",
+   "directed": "And the experience of manifestation becomes inseparable from awareness of its source."
+  },
+  {
+   "id": "b81",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, after all this, you’d imagine the final six sūtras would simply conclude with congratulations.",
+   "directed": "Now, after all this, you’d imagine the final six sūtras would simply conclude with congratulations."
+  },
+  {
+   "id": "b82",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Perhaps:",
+   "directed": "[short pause] Perhaps:"
+  },
+  {
+   "id": "b83",
+   "section": "Śiva Sūtras 3.39",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“You’ve done it.”",
+   "directed": "[short pause] “You’ve done it.”"
+  },
+  {
+   "id": "b84",
+   "section": "Śiva Sūtras 3.39",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Well done.”",
+   "directed": "[short pause] “Well done.”"
+  },
+  {
+   "id": "b85",
+   "section": "Śiva Sūtras 3.39",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Please collect your liberation certificate at reception.”",
+   "directed": "[short pause] “Please collect your liberation certificate at reception.”"
+  },
+  {
+   "id": "b86",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But no.",
+   "directed": "But no."
+  },
+  {
+   "id": "b87",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vasugupta is about to return to the bound individual.",
+   "directed": "Vasugupta is about to return to the bound individual."
+  },
+  {
+   "id": "b88",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Again.",
+   "directed": "Again."
+  },
+  {
+   "id": "b89",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because one final problem remains.",
+   "directed": "Because one final problem remains."
+  },
+  {
+   "id": "b90",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Desire.",
+   "directed": "Desire."
+  },
+  {
+   "id": "b91",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The sense of incompleteness.",
+   "directed": "The sense of incompleteness."
+  },
+  {
+   "id": "b92",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The movement of attention outward towards something imagined to provide fulfilment.",
+   "directed": "The movement of attention outward towards something imagined to provide fulfilment."
+  },
+  {
+   "id": "b93",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is where the text becomes absolutely devastating.",
+   "directed": "And this is where the text becomes absolutely devastating."
+  },
+  {
+   "id": "b94",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because after discussing the highest states of recognition, it identifies a wonderfully ordinary mechanism through which consciousness becomes contracted again.",
+   "directed": "Because after discussing the highest states of recognition, it identifies a wonderfully ordinary mechanism through which consciousness becomes contracted again."
+  },
+  {
+   "id": "b95",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Wanting.",
+   "directed": "Wanting."
+  },
+  {
+   "id": "b96",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The little voice that says:",
+   "directed": "[short pause] The little voice that says:"
+  },
+  {
+   "id": "b97",
+   "section": "Śiva Sūtras 3.39",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“I’ll be complete when I get that.”",
+   "directed": "[short pause] “I’ll be complete when I get that.”"
+  },
+  {
+   "id": "b98",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Oh dear.",
+   "directed": "Oh dear."
+  },
+  {
+   "id": "b99",
+   "section": "Śiva Sūtras 3.39",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śiva has opened a shopping account.",
+   "directed": "Śiva has opened a shopping account."
+  }
+ ],
+ "totals": {
+  "blocks": 100,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 714,
+   "verse": 2,
+   "man": 10
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 4.8,
+   "verse": 0.0,
+   "man": 0.1
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

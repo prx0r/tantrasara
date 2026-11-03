@@ -1,0 +1,663 @@
+{
+ "title": "Śiva Sūtras 3.10",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 3.10",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 3.10",
+   "directed": "[long pause] Śiva Sūtras 3.10"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 3.10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "रङ्गोऽन्तरात्मा",
+   "directed": "[slowly] रङ्गोऽन्तरात्मा"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Raṅgo ’ntarātmā.",
+   "directed": "Raṅgo ’ntarātmā."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The inner Self is the stage.",
+   "directed": "The inner Self is the stage."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Stage Is Your Inner Self. The Universe Has Gone Full Broadway.",
+   "directed": "The Stage Is Your Inner Self. The Universe Has Gone Full Broadway."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Right.",
+   "directed": "[short pause] Right."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So we’ve got our actor.",
+   "directed": "So we’ve got our actor."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śiva.",
+   "directed": "Śiva."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Very talented.",
+   "directed": "Very talented."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Infinite range.",
+   "directed": "Infinite range."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Can play literally anybody.",
+   "directed": "Can play literally anybody."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But where does the performance occur?",
+   "directed": "But where does the performance occur?"
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vasugupta says:",
+   "directed": "[short pause] Vasugupta says:"
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 3.10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Raṅgaḥ.",
+   "directed": "[slowly] Raṅgaḥ."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The stage.",
+   "directed": "The stage."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And:",
+   "directed": "[short pause] And:"
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 3.10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Antarātmā.",
+   "directed": "[slowly] Antarātmā."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The inner self.",
+   "directed": "The inner self."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now this needs careful interpretation, because it would be tempting to say:",
+   "directed": "[short pause] Now this needs careful interpretation, because it would be tempting to say:"
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 3.10",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“The stage is pure consciousness.”",
+   "directed": "[short pause] “The stage is pure consciousness.”"
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which sounds beautiful.",
+   "directed": "Which sounds beautiful."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But Kṣemarāja’s explanation is more specific.",
+   "directed": "But Kṣemarāja’s explanation is more specific."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Here antarātman refers to the inner individual constitution — particularly the subtle and causal dimensions of embodied experience.",
+   "directed": "Here antarātman refers to the inner individual constitution — particularly the subtle and causal dimensions of embodied experience."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This isn’t simply another name for supreme consciousness.",
+   "directed": "This isn’t simply another name for supreme consciousness."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The distinction matters.",
+   "directed": "The distinction matters."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Remember puryaṣṭaka?",
+   "directed": "Remember puryaṣṭaka?"
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The eightfold subtle constitution comprising the mental faculties and subtle sensory principles.",
+   "directed": "The eightfold subtle constitution comprising the mental faculties and subtle sensory principles."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja connects the stage with this subtle embodiment.",
+   "directed": "Kṣemarāja connects the stage with this subtle embodiment."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He also mentions the causal condition associated with voidness and vital energy.",
+   "directed": "He also mentions the causal condition associated with voidness and vital energy."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In other words, the stage is the inner structure through which the individual performance becomes possible.",
+   "directed": "In other words, the stage is the inner structure through which the individual performance becomes possible."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Think about how you experience the world.",
+   "directed": "Think about how you experience the world."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’re not merely receiving a sequence of completely uninterpreted objects.",
+   "directed": "You’re not merely receiving a sequence of completely uninterpreted objects."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Your mental faculties organise experience.",
+   "directed": "Your mental faculties organise experience."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Memory contributes continuity.",
+   "directed": "Memory contributes continuity."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Desire contributes motivation.",
+   "directed": "Desire contributes motivation."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The senses contribute differentiated contents.",
+   "directed": "The senses contribute differentiated contents."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The intellect establishes judgements.",
+   "directed": "The intellect establishes judgements."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The ego appropriates experiences.",
+   "directed": "The ego appropriates experiences."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the entire inner apparatus participates in the construction of your lived world.",
+   "directed": "And the entire inner apparatus participates in the construction of your lived world."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now Kṣemarāja isn’t proposing a modern neuroscientific theory.",
+   "directed": "Now Kṣemarāja isn’t proposing a modern neuroscientific theory."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He’s describing a tantric metaphysical structure.",
+   "directed": "He’s describing a tantric metaphysical structure."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the theatrical metaphor becomes extraordinarily illuminating.",
+   "directed": "But the theatrical metaphor becomes extraordinarily illuminating."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The actor manifests different roles through the stage of the inner being.",
+   "directed": "The actor manifests different roles through the stage of the inner being."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the subtle body provides the conditions through which those roles are enacted.",
+   "directed": "And the subtle body provides the conditions through which those roles are enacted."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Take a waking experience.",
+   "directed": "Take a waking experience."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You see somebody you recognise.",
+   "directed": "You see somebody you recognise."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Immediately, memory comes into play.",
+   "directed": "Immediately, memory comes into play."
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You remember past interactions.",
+   "directed": "You remember past interactions."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You anticipate future possibilities.",
+   "directed": "You anticipate future possibilities."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You feel attraction or aversion.",
+   "directed": "You feel attraction or aversion."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You construct a particular identity in relation to them.",
+   "directed": "You construct a particular identity in relation to them."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "All of this belongs to the inner apparatus through which experience unfolds.",
+   "directed": "All of this belongs to the inner apparatus through which experience unfolds."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And then you dream.",
+   "directed": "And then you dream."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The same individual may appear in a completely different setting.",
+   "directed": "The same individual may appear in a completely different setting."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Their behaviour changes.",
+   "directed": "Their behaviour changes."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Your own role changes.",
+   "directed": "Your own role changes."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The entire situation is transformed.",
+   "directed": "The entire situation is transformed."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Yet the experience arises through the powers of consciousness operating in a different condition.",
+   "directed": "Yet the experience arises through the powers of consciousness operating in a different condition."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The stage has changed its scenery.",
+   "directed": "The stage has changed its scenery."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the deeper actor remains.",
+   "directed": "But the deeper actor remains."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now here’s the point.",
+   "directed": "Now here’s the point."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The ordinary person becomes absorbed in the stage and the roles.",
+   "directed": "The ordinary person becomes absorbed in the stage and the roles."
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The realised yogi recognises their underlying nature.",
+   "directed": "The realised yogi recognises their underlying nature."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja explains that the actor manifests the world’s drama through the successive activities of the inner senses, while the subtle body constitutes the stage upon which the performance unfolds. Sanskrit & Trika Shaivism.",
+   "directed": "Kṣemarāja explains that the actor manifests the world’s drama through the successive activities of the inner senses, while the subtle body constitutes the stage upon which the performance unfolds. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This also explains why the inner faculties aren’t simply enemies to be destroyed.",
+   "directed": "This also explains why the inner faculties aren’t simply enemies to be destroyed."
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They’re the instruments of manifestation.",
+   "directed": "They’re the instruments of manifestation."
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And within Āṇavopāya, they can become instruments of recognition.",
+   "directed": "And within Āṇavopāya, they can become instruments of recognition."
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The individual starts from the stage.",
+   "directed": "The individual starts from the stage."
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The bodily and mental structures.",
+   "directed": "The bodily and mental structures."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And through their contemplation, moves towards recognition of the actor.",
+   "directed": "And through their contemplation, moves towards recognition of the actor."
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, think of the relationship between these last two sūtras.",
+   "directed": "Now, think of the relationship between these last two sūtras."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nartaka ātmā.",
+   "directed": "Nartaka ātmā."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Self is the dancer.",
+   "directed": "The Self is the dancer."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 3.10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Raṅgo ’ntarātmā.",
+   "directed": "[slowly] Raṅgo ’ntarātmā."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The inner self is the stage.",
+   "directed": "The inner self is the stage."
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The dancer acts.",
+   "directed": "The dancer acts."
+  },
+  {
+   "id": "b77",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The stage provides the locus of the drama.",
+   "directed": "The stage provides the locus of the drama."
+  },
+  {
+   "id": "b78",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now all we need is an audience.",
+   "directed": "And now all we need is an audience."
+  },
+  {
+   "id": "b79",
+   "section": "Śiva Sūtras 3.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But because this is Kashmir Śaivism, the audience is going to be something completely unexpected.",
+   "directed": "But because this is Kashmir Śaivism, the audience is going to be something completely unexpected."
+  }
+ ],
+ "totals": {
+  "blocks": 80,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 516,
+   "verse": 5
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 3.4,
+   "verse": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

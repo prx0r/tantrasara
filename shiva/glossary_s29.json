@@ -1,0 +1,101 @@
+{
+ "ananda": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b46"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "iccha": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b53"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "isana": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b53"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "mahamantra": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b91"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "matrka": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b4"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "matrkacakrasambodhah": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "paratrimsika": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b124"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "purnahanta": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b108"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "sakti": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b16"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "unata": {
+  "deva": "",
+  "gloss": "a further differentiation associated with the developing appea",
+  "status": "proposed",
+  "cue_blocks": [
+   "b61"
+  ],
+  "note": "appositive-mined, confirm"
+ },
+ "unmesa": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b61"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ }
+}

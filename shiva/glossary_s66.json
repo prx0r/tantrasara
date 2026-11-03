@@ -1,0 +1,74 @@
+{
+ "cinmatra": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b51"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "kalikakrama": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b56"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "kevali": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "prakrti": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b27"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "purusa": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b27"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "sakti": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b18"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "samkhya-yoga": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b27"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "vimuktah": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b22"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ }
+}

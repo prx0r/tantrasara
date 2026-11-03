@@ -1,0 +1,1081 @@
+{
+ "title": "Śiva Sūtras 3.9",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 3.9",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 3.9",
+   "directed": "[long pause] Śiva Sūtras 3.9"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 3.9",
+   "type": "verse",
+   "voice": "verse",
+   "text": "नर्तक आत्मा",
+   "directed": "[slowly] नर्तक आत्मा"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nartaka ātmā.",
+   "directed": "Nartaka ātmā."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Self is the dancer.",
+   "directed": "The Self is the dancer."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śiva Is Literally Doing a One-Man Show, and You’re Every Character.",
+   "directed": "Śiva Is Literally Doing a One-Man Show, and You’re Every Character."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "OH, THIS IS BEAUTIFUL.",
+   "directed": "OH, THIS IS BEAUTIFUL."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Absolutely beautiful.",
+   "directed": "[short pause] Absolutely beautiful."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Two words.",
+   "directed": "Two words."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nartaka.",
+   "directed": "Nartaka."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Dancer.",
+   "directed": "Dancer."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 3.9",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Ātmā.",
+   "directed": "[slowly] Ātmā."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Self.",
+   "directed": "Self."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Self is the dancer.",
+   "directed": "The Self is the dancer."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, given everything we’ve just learned, consider what this means.",
+   "directed": "Now, given everything we’ve just learned, consider what this means."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The universe is the manifestation of consciousness.",
+   "directed": "The universe is the manifestation of consciousness."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The apparent objects are its radiance.",
+   "directed": "The apparent objects are its radiance."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The individual is consciousness experienced under conditions of contraction.",
+   "directed": "The individual is consciousness experienced under conditions of contraction."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And so what is the relationship between Śiva and the manifest universe?",
+   "directed": "And so what is the relationship between Śiva and the manifest universe?"
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A performance.",
+   "directed": "A performance."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A dance.",
+   "directed": "A dance."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A cosmic drama.",
+   "directed": "A cosmic drama."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Self is the dancer.",
+   "directed": "The Self is the dancer."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here’s the really extraordinary part.",
+   "directed": "And here’s the really extraordinary part."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The dancer doesn’t simply stand outside the performance controlling it from a distance.",
+   "directed": "The dancer doesn’t simply stand outside the performance controlling it from a distance."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The dance is the dancer’s own activity.",
+   "directed": "The dance is the dancer’s own activity."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The movement is not an independently existing substance.",
+   "directed": "The movement is not an independently existing substance."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s the dancer expressing their power.",
+   "directed": "It’s the dancer expressing their power."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is precisely the kind of relationship Trika describes between Śiva and Śakti.",
+   "directed": "And this is precisely the kind of relationship Trika describes between Śiva and Śakti."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śiva is not an inert observer watching Śakti do all the work.",
+   "directed": "Śiva is not an inert observer watching Śakti do all the work."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śiva’s very nature is inseparable from the freedom of his power.",
+   "directed": "Śiva’s very nature is inseparable from the freedom of his power."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Prakāśa and vimarśa.",
+   "directed": "Prakāśa and vimarśa."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The luminosity of consciousness and its reflexive self-awareness.",
+   "directed": "The luminosity of consciousness and its reflexive self-awareness."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The manifestation of reality is not foreign to this unity.",
+   "directed": "The manifestation of reality is not foreign to this unity."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s its expression.",
+   "directed": "It’s its expression."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now imagine an actor on a stage.",
+   "directed": "Now imagine an actor on a stage."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He plays a king.",
+   "directed": "He plays a king."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The king has a kingdom.",
+   "directed": "The king has a kingdom."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A family.",
+   "directed": "A family."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "An enormous palace.",
+   "directed": "An enormous palace."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A terrible enemy.",
+   "directed": "A terrible enemy."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And an extraordinarily complicated political situation.",
+   "directed": "And an extraordinarily complicated political situation."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The actor performs every emotion.",
+   "directed": "The actor performs every emotion."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Anger.",
+   "directed": "Anger."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Love.",
+   "directed": "Love."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Fear.",
+   "directed": "Fear."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Triumph.",
+   "directed": "Triumph."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Loss.",
+   "directed": "Loss."
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And for the duration of the drama, an entire world becomes manifest through the performance.",
+   "directed": "And for the duration of the drama, an entire world becomes manifest through the performance."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the actor is not ultimately identical with the limited role.",
+   "directed": "But the actor is not ultimately identical with the limited role."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The king can die.",
+   "directed": "The king can die."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The actor remains.",
+   "directed": "The actor remains."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The kingdom can collapse.",
+   "directed": "The kingdom can collapse."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The actor remains.",
+   "directed": "The actor remains."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The play can end.",
+   "directed": "The play can end."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The actor remains.",
+   "directed": "The actor remains."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now Vasugupta takes this analogy and applies it to consciousness.",
+   "directed": "And now Vasugupta takes this analogy and applies it to consciousness."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The waking world.",
+   "directed": "The waking world."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The dream world.",
+   "directed": "The dream world."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The apparent absence of differentiated experience in deep sleep.",
+   "directed": "The apparent absence of differentiated experience in deep sleep."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "These are different modes of the cosmic performance.",
+   "directed": "These are different modes of the cosmic performance."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the Self is the dancer moving through them.",
+   "directed": "And the Self is the dancer moving through them."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja explicitly explains the sūtra through the manifestation of different roles across the states of consciousness.",
+   "directed": "Kṣemarāja explicitly explains the sūtra through the manifestation of different roles across the states of consciousness."
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The yogi recognises the underlying Self as the actor displaying these changing conditions through its own powers.",
+   "directed": "The yogi recognises the underlying Self as the actor displaying these changing conditions through its own powers."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He supports the interpretation with references to the Naiśvāsatantra, Bhaṭṭa Nārāyaṇa’s Stavacintāmaṇi and the Īśvarapratyabhijñā. Sanskrit & Trika Shaivism.",
+   "directed": "He supports the interpretation with references to the Naiśvāsatantra, Bhaṭṭa Nārāyaṇa’s Stavacintāmaṇi and the Īśvarapratyabhijñā. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here’s the profound complication.",
+   "directed": "And here’s the profound complication."
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ordinarily, the actor becomes identified with the role.",
+   "directed": "Ordinarily, the actor becomes identified with the role."
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The individual says:",
+   "directed": "[short pause] The individual says:"
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 3.9",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“I am this person.”",
+   "directed": "[short pause] “I am this person.”"
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 3.9",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“This is my story.”",
+   "directed": "[short pause] “This is my story.”"
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 3.9",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“These are my successes.”",
+   "directed": "[short pause] “These are my successes.”"
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 3.9",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“These are my failures.”",
+   "directed": "[short pause] “These are my failures.”"
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 3.9",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“These are the terrible things that happened to me.”",
+   "directed": "[short pause] “These are the terrible things that happened to me.”"
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the role becomes the apparent totality of existence.",
+   "directed": "And the role becomes the apparent totality of existence."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Imagine an actor who becomes so absorbed in playing Hamlet that he forgets he’s an actor.",
+   "directed": "Imagine an actor who becomes so absorbed in playing Hamlet that he forgets he’s an actor."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He wanders around after the performance convinced that Denmark is in crisis.",
+   "directed": "He wanders around after the performance convinced that Denmark is in crisis."
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He’s still fighting with Claudius.",
+   "directed": "He’s still fighting with Claudius."
+  },
+  {
+   "id": "b77",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Still mourning his father.",
+   "directed": "Still mourning his father."
+  },
+  {
+   "id": "b78",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Still contemplating the skull.",
+   "directed": "Still contemplating the skull."
+  },
+  {
+   "id": "b79",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Somebody tries to offer him a sandwich.",
+   "directed": "Somebody tries to offer him a sandwich."
+  },
+  {
+   "id": "b80",
+   "section": "Śiva Sūtras 3.9",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“BEGONE, WRETCH, THE KINGDOM IS LOST.”",
+   "directed": "[short pause] “BEGONE, WRETCH, THE KINGDOM IS LOST.”"
+  },
+  {
+   "id": "b81",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Mate.",
+   "directed": "[short pause] Mate."
+  },
+  {
+   "id": "b82",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’re in a theatre.",
+   "directed": "You’re in a theatre."
+  },
+  {
+   "id": "b83",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The performance finished twenty minutes ago.",
+   "directed": "The performance finished twenty minutes ago."
+  },
+  {
+   "id": "b84",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That’s an imperfect but helpful analogy for the structure of contraction.",
+   "directed": "That’s an imperfect but helpful analogy for the structure of contraction."
+  },
+  {
+   "id": "b85",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The actor becomes absorbed in a particular form of its own manifestation.",
+   "directed": "The actor becomes absorbed in a particular form of its own manifestation."
+  },
+  {
+   "id": "b86",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Recognition is the disclosure of the actor’s deeper nature.",
+   "directed": "Recognition is the disclosure of the actor’s deeper nature."
+  },
+  {
+   "id": "b87",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But there is something even more subtle here.",
+   "directed": "But there is something even more subtle here."
+  },
+  {
+   "id": "b88",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because in an ordinary theatre, the actor and the audience are separate people.",
+   "directed": "Because in an ordinary theatre, the actor and the audience are separate people."
+  },
+  {
+   "id": "b89",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The stage is an independent physical structure.",
+   "directed": "The stage is an independent physical structure."
+  },
+  {
+   "id": "b90",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The script has been written by somebody else.",
+   "directed": "The script has been written by somebody else."
+  },
+  {
+   "id": "b91",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the actor is constrained by circumstances that exist independently of him.",
+   "directed": "And the actor is constrained by circumstances that exist independently of him."
+  },
+  {
+   "id": "b92",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But in the Trika metaphysical vision, the supreme reality is the source of the entire performance.",
+   "directed": "But in the Trika metaphysical vision, the supreme reality is the source of the entire performance."
+  },
+  {
+   "id": "b93",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The actor.",
+   "directed": "The actor."
+  },
+  {
+   "id": "b94",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The activity.",
+   "directed": "The activity."
+  },
+  {
+   "id": "b95",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The manifested world.",
+   "directed": "The manifested world."
+  },
+  {
+   "id": "b96",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The powers through which it is experienced.",
+   "directed": "The powers through which it is experienced."
+  },
+  {
+   "id": "b97",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "All belong to the same consciousness.",
+   "directed": "All belong to the same consciousness."
+  },
+  {
+   "id": "b98",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that means the cosmic theatre is not merely an analogy for pretending.",
+   "directed": "And that means the cosmic theatre is not merely an analogy for pretending."
+  },
+  {
+   "id": "b99",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s an analogy for manifestation through freedom.",
+   "directed": "It’s an analogy for manifestation through freedom."
+  },
+  {
+   "id": "b100",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The performance is real as manifestation.",
+   "directed": "The performance is real as manifestation."
+  },
+  {
+   "id": "b101",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But its deepest reality is not separate from its source.",
+   "directed": "But its deepest reality is not separate from its source."
+  },
+  {
+   "id": "b102",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the actor is none other than Śiva.",
+   "directed": "And the actor is none other than Śiva."
+  },
+  {
+   "id": "b103",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now here’s something worth appreciating.",
+   "directed": "Now here’s something worth appreciating."
+  },
+  {
+   "id": "b104",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The sūtra doesn’t say:",
+   "directed": "[short pause] The sūtra doesn’t say:"
+  },
+  {
+   "id": "b105",
+   "section": "Śiva Sūtras 3.9",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“The Self is a spectator sitting motionless while the universe dances.”",
+   "directed": "[short pause] “The Self is a spectator sitting motionless while the universe dances.”"
+  },
+  {
+   "id": "b106",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It says:",
+   "directed": "[short pause] It says:"
+  },
+  {
+   "id": "b107",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Self is the dancer.",
+   "directed": "The Self is the dancer."
+  },
+  {
+   "id": "b108",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "An active principle.",
+   "directed": "An active principle."
+  },
+  {
+   "id": "b109",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A manifesting power.",
+   "directed": "A manifesting power."
+  },
+  {
+   "id": "b110",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is what makes the Trika understanding of consciousness so distinctive.",
+   "directed": "And this is what makes the Trika understanding of consciousness so distinctive."
+  },
+  {
+   "id": "b111",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The divine is not merely pure existence stripped of all activity.",
+   "directed": "The divine is not merely pure existence stripped of all activity."
+  },
+  {
+   "id": "b112",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It possesses svātantrya.",
+   "directed": "It possesses svātantrya."
+  },
+  {
+   "id": "b113",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Freedom.",
+   "directed": "Freedom."
+  },
+  {
+   "id": "b114",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Its manifestation is līlā — play.",
+   "directed": "Its manifestation is līlā — play."
+  },
+  {
+   "id": "b115",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not necessarily frivolous amusement, but spontaneous divine expression.",
+   "directed": "Not necessarily frivolous amusement, but spontaneous divine expression."
+  },
+  {
+   "id": "b116",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the realised yogi recognises the relationship between the changing performance and the conscious actor.",
+   "directed": "And the realised yogi recognises the relationship between the changing performance and the conscious actor."
+  },
+  {
+   "id": "b117",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which means that ordinary life doesn’t have to be rejected as spiritually meaningless.",
+   "directed": "Which means that ordinary life doesn’t have to be rejected as spiritually meaningless."
+  },
+  {
+   "id": "b118",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The performance can continue.",
+   "directed": "The performance can continue."
+  },
+  {
+   "id": "b119",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The actor can still play the role.",
+   "directed": "The actor can still play the role."
+  },
+  {
+   "id": "b120",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But now the role is understood through its source.",
+   "directed": "But now the role is understood through its source."
+  },
+  {
+   "id": "b121",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Imagine doing something ordinary.",
+   "directed": "Imagine doing something ordinary."
+  },
+  {
+   "id": "b122",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Walking.",
+   "directed": "Walking."
+  },
+  {
+   "id": "b123",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Eating.",
+   "directed": "Eating."
+  },
+  {
+   "id": "b124",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Talking.",
+   "directed": "Talking."
+  },
+  {
+   "id": "b125",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Listening.",
+   "directed": "Listening."
+  },
+  {
+   "id": "b126",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Instead of identifying entirely as the individual agent moving through a separate world, the yogi recognises the activity as a manifestation of conscious power.",
+   "directed": "Instead of identifying entirely as the individual agent moving through a separate world, the yogi recognises the activity as a manifestation of conscious power."
+  },
+  {
+   "id": "b127",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The dance continues.",
+   "directed": "The dance continues."
+  },
+  {
+   "id": "b128",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the dancer is recognised.",
+   "directed": "But the dancer is recognised."
+  },
+  {
+   "id": "b129",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now, naturally, we need a stage.",
+   "directed": "And now, naturally, we need a stage."
+  },
+  {
+   "id": "b130",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because even Śiva can’t put on a production without somewhere to stand.",
+   "directed": "Because even Śiva can’t put on a production without somewhere to stand."
+  },
+  {
+   "id": "b131",
+   "section": "Śiva Sūtras 3.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Apparently the cosmic theatre has a technical rider.",
+   "directed": "Apparently the cosmic theatre has a technical rider."
+  }
+ ],
+ "totals": {
+  "blocks": 132,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 823,
+   "verse": 3,
+   "man": 17
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 5.5,
+   "verse": 0.0,
+   "man": 0.1
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

@@ -1,0 +1,391 @@
+{
+ "title": "Śiva Sūtras 1.18",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 1.18",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 1.18",
+   "directed": "[long pause] Śiva Sūtras 1.18"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 1.18",
+   "type": "verse",
+   "voice": "verse",
+   "text": "लोकानन्दः समाधिसुखम्",
+   "directed": "[slowly] लोकानन्दः समाधिसुखम्"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Lokānandaḥ samādhisukham.",
+   "directed": "Lokānandaḥ samādhisukham."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The bliss of the world is the happiness of samādhi.",
+   "directed": "The bliss of the world is the happiness of samādhi."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Entire World Has Become Your Meditation.",
+   "directed": "The Entire World Has Become Your Meditation."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Oh, this is beautiful.",
+   "directed": "Oh, this is beautiful."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Consider what many people imagine meditation to be.",
+   "directed": "Consider what many people imagine meditation to be."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You sit down.",
+   "directed": "You sit down."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Close your eyes.",
+   "directed": "Close your eyes."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Withdraw from the horrible noisy world.",
+   "directed": "Withdraw from the horrible noisy world."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Eventually, if you’re lucky, you get a special experience of peacefulness.",
+   "directed": "Eventually, if you’re lucky, you get a special experience of peacefulness."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then somebody starts drilling next door.",
+   "directed": "Then somebody starts drilling next door."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And your enlightenment has been cancelled.",
+   "directed": "And your enlightenment has been cancelled."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The neighbour’s power tools have defeated the Absolute.",
+   "directed": "The neighbour’s power tools have defeated the Absolute."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A tragic outcome.",
+   "directed": "A tragic outcome."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But Vasugupta is describing something more radical.",
+   "directed": "But Vasugupta is describing something more radical."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Loka — the world, understood through the field of knowable objects and their experiencers.",
+   "directed": "Loka — the world, understood through the field of knowable objects and their experiencers."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ānanda — bliss.",
+   "directed": "Ānanda — bliss."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Samādhi — absorption, integration, collectedness.",
+   "directed": "Samādhi — absorption, integration, collectedness."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sukha — happiness or delight.",
+   "directed": "Sukha — happiness or delight."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "For the yogi established in recognition, the very appearance of the world is inseparable from the delight of conscious reality.",
+   "directed": "For the yogi established in recognition, the very appearance of the world is inseparable from the delight of conscious reality."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This doesn’t mean every worldly event becomes conventionally pleasant.",
+   "directed": "This doesn’t mean every worldly event becomes conventionally pleasant."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Pain can still be pain.",
+   "directed": "Pain can still be pain."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Loss can still be loss.",
+   "directed": "Loss can still be loss."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The claim is that the underlying conscious reality is not separated from its manifestations by the ordinary division between meditation and daily life.",
+   "directed": "The claim is that the underlying conscious reality is not separated from its manifestations by the ordinary division between meditation and daily life."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The yogi doesn’t necessarily have to escape the world to recover their fundamental nature.",
+   "directed": "The yogi doesn’t necessarily have to escape the world to recover their fundamental nature."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The world itself becomes an occasion for recognition.",
+   "directed": "The world itself becomes an occasion for recognition."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja connects this to resting in the position of the perceiver while the relation between experiencer and experienced remains manifest. Sanskrit & Trika Shaivism.",
+   "directed": "Kṣemarāja connects this to resting in the position of the perceiver while the relation between experiencer and experienced remains manifest. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Imagine sitting beside a river.",
+   "directed": "Imagine sitting beside a river."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A bird calls.",
+   "directed": "A bird calls."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The water moves.",
+   "directed": "The water moves."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The air touches your skin.",
+   "directed": "The air touches your skin."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A thought appears.",
+   "directed": "A thought appears."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Normally, you might interpret these as separate things happening to a particular individual.",
+   "directed": "Normally, you might interpret these as separate things happening to a particular individual."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But in the nondual recognition described here, their entire manifestation is apprehended within the indivisible reality of consciousness.",
+   "directed": "But in the nondual recognition described here, their entire manifestation is apprehended within the indivisible reality of consciousness."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The river is not merely an obstruction to meditation.",
+   "directed": "The river is not merely an obstruction to meditation."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The bird is not interrupting your spiritual attainment.",
+   "directed": "The bird is not interrupting your spiritual attainment."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The world is not an unfortunate distraction from Śiva.",
+   "directed": "The world is not an unfortunate distraction from Śiva."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is Śiva’s own manifestation.",
+   "directed": "It is Śiva’s own manifestation."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is why Trika is so radically affirmative.",
+   "directed": "This is why Trika is so radically affirmative."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is not primarily trying to get rid of existence.",
+   "directed": "It is not primarily trying to get rid of existence."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is trying to recognise its deepest nature.",
+   "directed": "It is trying to recognise its deepest nature."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now we arrive at a rather unexpected turn.",
+   "directed": "And now we arrive at a rather unexpected turn."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because Vasugupta is about to start talking about supernatural powers.",
+   "directed": "Because Vasugupta is about to start talking about supernatural powers."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 1.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Naturally.",
+   "directed": "Naturally."
+  }
+ ],
+ "totals": {
+  "blocks": 46,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 349,
+   "verse": 2
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 2.3,
+   "verse": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

@@ -1,0 +1,687 @@
+{
+ "title": "Śiva Sūtras 3.29",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 3.29",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 3.29",
+   "directed": "[long pause] Śiva Sūtras 3.29"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 3.29",
+   "type": "verse",
+   "voice": "verse",
+   "text": "योऽविपस्थो ज्ञाहेतुश्च",
+   "directed": "[slowly] योऽविपस्थो ज्ञाहेतुश्च"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Yo ’vipastho jñāhetuś ca.",
+   "directed": "Yo ’vipastho jñāhetuś ca."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The one established in sovereignty over the powers is a source of liberating knowledge.",
+   "directed": "The one established in sovereignty over the powers is a source of liberating knowledge."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not Everyone Who Knows Sanskrit Is Qualified to Be Your Guru.",
+   "directed": "Not Everyone Who Knows Sanskrit Is Qualified to Be Your Guru."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now this is a particularly interesting sūtra.",
+   "directed": "Now this is a particularly interesting sūtra."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And it requires careful explanation.",
+   "directed": "And it requires careful explanation."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because the Sanskrit is unusual.",
+   "directed": "Because the Sanskrit is unusual."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s begin.",
+   "directed": "Let’s begin."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Yaḥ — he who.",
+   "directed": "Yaḥ — he who."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Avipasthaḥ — interpreted by Kṣemarāja through a special tantric derivation.",
+   "directed": "Avipasthaḥ — interpreted by Kṣemarāja through a special tantric derivation."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Jñā — knowledge, or the knowing power.",
+   "directed": "Jñā — knowledge, or the knowing power."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Hetuḥ — cause, source, means.",
+   "directed": "Hetuḥ — cause, source, means."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ca — and, also; Kṣemarāja understands it here in an emphatic sense.",
+   "directed": "Ca — and, also; Kṣemarāja understands it here in an emphatic sense."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, the central difficulty is avipasthaḥ.",
+   "directed": "Now, the central difficulty is avipasthaḥ."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja explicitly gives an interpretive analysis involving avi, a term associated with the bound beings.",
+   "directed": "Kṣemarāja explicitly gives an interpretive analysis involving avi, a term associated with the bound beings."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And pa, the protector.",
+   "directed": "And pa, the protector."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The powers presiding over the bound beings are therefore brought into the interpretation.",
+   "directed": "The powers presiding over the bound beings are therefore brought into the interpretation."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Remember the goddesses from 3.19?",
+   "directed": "Remember the goddesses from 3.19?"
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Mothers.",
+   "directed": "The Mothers."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The powers of Mātṛkā.",
+   "directed": "The powers of Mātṛkā."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The divine forces associated with differentiated cognition.",
+   "directed": "The divine forces associated with differentiated cognition."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Well, now the realised yogi is said to be established in sovereignty over those powers.",
+   "directed": "Well, now the realised yogi is said to be established in sovereignty over those powers."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He is no longer merely governed by them through unconscious limitation.",
+   "directed": "He is no longer merely governed by them through unconscious limitation."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Rather, he knows their true source.",
+   "directed": "Rather, he knows their true source."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And therefore possesses the capacity to communicate liberating knowledge.",
+   "directed": "And therefore possesses the capacity to communicate liberating knowledge."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, this is a crucial distinction.",
+   "directed": "Now, this is a crucial distinction."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The ordinary individual is subject to the powers of differentiated cognition.",
+   "directed": "The ordinary individual is subject to the powers of differentiated cognition."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The realised yogi recognises those powers as manifestations of Śakti.",
+   "directed": "The realised yogi recognises those powers as manifestations of Śakti."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this recognition changes their relationship to the entire śakticakra.",
+   "directed": "And this recognition changes their relationship to the entire śakticakra."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The wheel of powers.",
+   "directed": "The wheel of powers."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The yogi is no longer simply a dependent subject carried along by the processes of cognition.",
+   "directed": "The yogi is no longer simply a dependent subject carried along by the processes of cognition."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The powers are understood through their supreme source.",
+   "directed": "The powers are understood through their supreme source."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now the extraordinary implication.",
+   "directed": "And now the extraordinary implication."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Only someone established in genuine recognition can fully perform the liberating function of the teacher described in the preceding sūtra.",
+   "directed": "Only someone established in genuine recognition can fully perform the liberating function of the teacher described in the preceding sūtra."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "At 3.28, we learned:",
+   "directed": "[short pause] At 3.28, we learned:"
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 3.29",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Dānam ātmajñānam.",
+   "directed": "[slowly] Dānam ātmajñānam."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The gift is knowledge of the Self.",
+   "directed": "The gift is knowledge of the Self."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But how can someone communicate that recognition if they remain fundamentally confused about their own nature?",
+   "directed": "But how can someone communicate that recognition if they remain fundamentally confused about their own nature?"
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that’s Kṣemarāja’s question.",
+   "directed": "And that’s Kṣemarāja’s question."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A person who remains entirely subordinate to the powers of differentiated cognition cannot, simply by possessing information, exercise the same transformative authority attributed to the realised teacher.",
+   "directed": "A person who remains entirely subordinate to the powers of differentiated cognition cannot, simply by possessing information, exercise the same transformative authority attributed to the realised teacher."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, this shouldn’t be exaggerated into the claim that anyone who lacks enlightenment is incapable of explaining anything useful.",
+   "directed": "Now, this shouldn’t be exaggerated into the claim that anyone who lacks enlightenment is incapable of explaining anything useful."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Obviously people can teach grammar.",
+   "directed": "Obviously people can teach grammar."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "History.",
+   "directed": "History."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Philosophy.",
+   "directed": "Philosophy."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Meditation techniques.",
+   "directed": "Meditation techniques."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Even if they haven’t attained the supreme condition described here.",
+   "directed": "Even if they haven’t attained the supreme condition described here."
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The distinction concerns the traditional ideal of the guru as an effective source of liberating recognition.",
+   "directed": "The distinction concerns the traditional ideal of the guru as an effective source of liberating recognition."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here’s where the commentary gets unexpectedly funny.",
+   "directed": "And here’s where the commentary gets unexpectedly funny."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja discusses alternative interpretations of the sūtra that derive elaborate meanings from individual syllables.",
+   "directed": "Kṣemarāja discusses alternative interpretations of the sūtra that derive elaborate meanings from individual syllables."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "For example, extracting yogīndra from yo, vijñāna from vi, and further meanings from the remaining parts.",
+   "directed": "For example, extracting yogīndra from yo, vijñāna from vi, and further meanings from the remaining parts."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The result becomes an intricate symbolic reading.",
+   "directed": "The result becomes an intricate symbolic reading."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Very impressive.",
+   "directed": "Very impressive."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Lots of Sanskrit.",
+   "directed": "Lots of Sanskrit."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Extremely esoteric.",
+   "directed": "Extremely esoteric."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Possibly the sort of thing somebody could turn into a three-hour lecture with a beautiful slideshow.",
+   "directed": "Possibly the sort of thing somebody could turn into a three-hour lecture with a beautiful slideshow."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But Kṣemarāja doesn’t accept the method in this instance.",
+   "directed": "But Kṣemarāja doesn’t accept the method in this instance."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He objects that the proposed interpretation doesn’t fit the intended connection between the words sufficiently well.",
+   "directed": "He objects that the proposed interpretation doesn’t fit the intended connection between the words sufficiently well."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And he makes a wonderful methodological point.",
+   "directed": "And he makes a wonderful methodological point."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "If you’re permitted to extract virtually any meaning from syllabic resemblance, you can generate countless interpretations of every sūtra.",
+   "directed": "If you’re permitted to extract virtually any meaning from syllabic resemblance, you can generate countless interpretations of every sūtra."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which is a rather devastating observation.",
+   "directed": "Which is a rather devastating observation."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because he’s essentially warning against unconstrained Sanskrit mysticism.",
+   "directed": "Because he’s essentially warning against unconstrained Sanskrit mysticism."
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not every attractive phonetic coincidence is a valid interpretation.",
+   "directed": "Not every attractive phonetic coincidence is a valid interpretation."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not every elaborate symbolic explanation is faithful to the text.",
+   "directed": "Not every elaborate symbolic explanation is faithful to the text."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the fact that an interpretation sounds extraordinarily profound does not automatically mean it’s philologically justified.",
+   "directed": "And the fact that an interpretation sounds extraordinarily profound does not automatically mean it’s philologically justified."
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which is excellent advice for anybody studying Tantra.",
+   "directed": "Which is excellent advice for anybody studying Tantra."
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You can construct an entire philosophical system out of a word.",
+   "directed": "You can construct an entire philosophical system out of a word."
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But unless the derivation, context and doctrinal argument support it, you may simply be producing very sophisticated nonsense.",
+   "directed": "But unless the derivation, context and doctrinal argument support it, you may simply be producing very sophisticated nonsense."
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja explicitly rejects the alternative syllable-by-syllable interpretation in favour of his explanation through the powers of knowledge and the realised yogi’s sovereignty over them. Sanskrit & Trika Shaivism.",
+   "directed": "Kṣemarāja explicitly rejects the alternative syllable-by-syllable interpretation in favour of his explanation through the powers of knowledge and the realised yogi’s sovereignty over them. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that makes this sūtra particularly significant.",
+   "directed": "And that makes this sūtra particularly significant."
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because it’s not merely describing the ideal spiritual teacher.",
+   "directed": "Because it’s not merely describing the ideal spiritual teacher."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s also demonstrating something about how the tradition interprets its own scripture.",
+   "directed": "It’s also demonstrating something about how the tradition interprets its own scripture."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The words are extraordinarily compressed.",
+   "directed": "The words are extraordinarily compressed."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The meanings are often esoteric.",
+   "directed": "The meanings are often esoteric."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But interpretation still requires discipline.",
+   "directed": "But interpretation still requires discipline."
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A profound metaphysical doctrine does not excuse careless reading.",
+   "directed": "A profound metaphysical doctrine does not excuse careless reading."
+  },
+  {
+   "id": "b77",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that brings us to the final sūtra of this instalment.",
+   "directed": "And that brings us to the final sūtra of this instalment."
+  },
+  {
+   "id": "b78",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "One of the most extraordinary statements in the entire text.",
+   "directed": "One of the most extraordinary statements in the entire text."
+  },
+  {
+   "id": "b79",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because after all the discussion of recognition, liberation, embodiment, mantra, and the teacher’s gift, Vasugupta returns to the fundamental nature of the universe.",
+   "directed": "Because after all the discussion of recognition, liberation, embodiment, mantra, and the teacher’s gift, Vasugupta returns to the fundamental nature of the universe."
+  },
+  {
+   "id": "b80",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And announces something absolutely enormous.",
+   "directed": "And announces something absolutely enormous."
+  },
+  {
+   "id": "b81",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The entire world is the expansion of the yogi’s own Śakti.",
+   "directed": "The entire world is the expansion of the yogi’s own Śakti."
+  },
+  {
+   "id": "b82",
+   "section": "Śiva Sūtras 3.29",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now that’s a conclusion.",
+   "directed": "Now that’s a conclusion."
+  }
+ ],
+ "totals": {
+  "blocks": 83,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 737,
+   "verse": 4
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 4.9,
+   "verse": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

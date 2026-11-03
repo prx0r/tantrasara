@@ -1,0 +1,665 @@
+{
+ "title": "Śiva Sūtras 3.2",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 3.2",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 3.2",
+   "directed": "[long pause] Śiva Sūtras 3.2"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 3.2",
+   "type": "verse",
+   "voice": "verse",
+   "text": "ज्ञानं बन्धः",
+   "directed": "[slowly] ज्ञानं बन्धः"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Jñānaṃ bandhaḥ.",
+   "directed": "Jñānaṃ bandhaḥ."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Knowledge is bondage.",
+   "directed": "Knowledge is bondage."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Knowledge Is Bondage. Yes, Again. Apparently You Didn’t Get It the First Time.",
+   "directed": "Knowledge Is Bondage. Yes, Again. Apparently You Didn’t Get It the First Time."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 3.2",
+   "type": "figure",
+   "voice": "none",
+   "text": "RIGHT.",
+   "directed": "RIGHT."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "WE’VE SEEN THIS ONE.",
+   "directed": "WE’VE SEEN THIS ONE."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s literally the second sūtra of the first book.",
+   "directed": "It’s literally the second sūtra of the first book."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vasugupta has copied and pasted himself.",
+   "directed": "Vasugupta has copied and pasted himself."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The man’s producing sacred scripture and apparently can’t be bothered writing a new sentence.",
+   "directed": "The man’s producing sacred scripture and apparently can’t be bothered writing a new sentence."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the repetition is entirely deliberate.",
+   "directed": "But the repetition is entirely deliberate."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because the same statement is now being explained from the standpoint of the limited individual.",
+   "directed": "Because the same statement is now being explained from the standpoint of the limited individual."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In Book I, knowledge as bondage was connected with the fundamental contraction of universal consciousness.",
+   "directed": "In Book I, knowledge as bondage was connected with the fundamental contraction of universal consciousness."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Here, Kṣemarāja gets much more specific.",
+   "directed": "Here, Kṣemarāja gets much more specific."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He’s talking about the ordinary mental cognitions associated with:",
+   "directed": "[short pause] He’s talking about the ordinary mental cognitions associated with:"
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Pleasure.",
+   "directed": "Pleasure."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Pain.",
+   "directed": "Pain."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Delusion.",
+   "directed": "Delusion."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Judgement.",
+   "directed": "Judgement."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Appropriation.",
+   "directed": "Appropriation."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The perception of difference.",
+   "directed": "The perception of difference."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the experience of being an individual subject moving through a world of external objects.",
+   "directed": "And the experience of being an individual subject moving through a world of external objects."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now imagine you’re having a perfectly pleasant afternoon.",
+   "directed": "Now imagine you’re having a perfectly pleasant afternoon."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You see something beautiful.",
+   "directed": "You see something beautiful."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The mind responds:",
+   "directed": "[short pause] The mind responds:"
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 3.2",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“I like this.”",
+   "directed": "[short pause] “I like this.”"
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then:",
+   "directed": "[short pause] Then:"
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 3.2",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“I want this.”",
+   "directed": "[short pause] “I want this.”"
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then:",
+   "directed": "[short pause] Then:"
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 3.2",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“I need to keep this.”",
+   "directed": "[short pause] “I need to keep this.”"
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then:",
+   "directed": "[short pause] Then:"
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 3.2",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“What happens if I lose this?”",
+   "directed": "[short pause] “What happens if I lose this?”"
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then:",
+   "directed": "[short pause] Then:"
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 3.2",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Why does that bastard have a better one?”",
+   "directed": "[short pause] “Why does that bastard have a better one?”"
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And within approximately seventeen seconds, an innocent pleasant perception has developed into a complete metaphysical hostage situation.",
+   "directed": "And within approximately seventeen seconds, an innocent pleasant perception has developed into a complete metaphysical hostage situation."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, Kṣemarāja isn’t suggesting that pleasure is intrinsically sinful.",
+   "directed": "Now, Kṣemarāja isn’t suggesting that pleasure is intrinsically sinful."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nor that distinguishing objects is itself an ethical failure.",
+   "directed": "Nor that distinguishing objects is itself an ethical failure."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The issue is that differentiated knowledge becomes entangled with limited identity.",
+   "directed": "The issue is that differentiated knowledge becomes entangled with limited identity."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The individual knows through an apparatus already structured by the conditions of limitation.",
+   "directed": "The individual knows through an apparatus already structured by the conditions of limitation."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And so every act of knowing can reinforce the apparent division between the finite knower and the independent known.",
+   "directed": "And so every act of knowing can reinforce the apparent division between the finite knower and the independent known."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The limited person begins from:",
+   "directed": "[short pause] The limited person begins from:"
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 3.2",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“I am here.”",
+   "directed": "[short pause] “I am here.”"
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 3.2",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“The world is over there.”",
+   "directed": "[short pause] “The world is over there.”"
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 3.2",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“I must obtain what completes me.”",
+   "directed": "[short pause] “I must obtain what completes me.”"
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 3.2",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“I must resist what threatens me.”",
+   "directed": "[short pause] “I must resist what threatens me.”"
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And all these experiences produce further involvement in saṃsāra.",
+   "directed": "And all these experiences produce further involvement in saṃsāra."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja connects this process with puryaṣṭaka.",
+   "directed": "Kṣemarāja connects this process with puryaṣṭaka."
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The eightfold subtle constitution.",
+   "directed": "The eightfold subtle constitution."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Traditionally comprising the intellect, ego, ordinary mind and five subtle sensory elements.",
+   "directed": "Traditionally comprising the intellect, ego, ordinary mind and five subtle sensory elements."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This subtle constitution, together with karmic tendencies, is implicated in transmigration.",
+   "directed": "This subtle constitution, together with karmic tendencies, is implicated in transmigration."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He draws on the Spandakārikā to describe the bound individual experiencing pleasure, pain and successive forms of existence through the activities of the subtle body. Sanskrit & Trika Shaivism.",
+   "directed": "He draws on the Spandakārikā to describe the bound individual experiencing pleasure, pain and successive forms of existence through the activities of the subtle body. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now here’s what makes this so philosophically interesting.",
+   "directed": "Now here’s what makes this so philosophically interesting."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The actual problem isn’t that the mind knows something.",
+   "directed": "The actual problem isn’t that the mind knows something."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because from the standpoint of Trika, even the act of limited knowing is a manifestation of consciousness.",
+   "directed": "Because from the standpoint of Trika, even the act of limited knowing is a manifestation of consciousness."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The problem is the failure to recognise the conscious reality of the knower and the known.",
+   "directed": "The problem is the failure to recognise the conscious reality of the knower and the known."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Suppose I look at a flower.",
+   "directed": "Suppose I look at a flower."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There’s a cognition.",
+   "directed": "There’s a cognition."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 3.2",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Flower.”",
+   "directed": "[short pause] “Flower.”"
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There’s a perceiver.",
+   "directed": "There’s a perceiver."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 3.2",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Me.”",
+   "directed": "[short pause] “Me.”"
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There’s a perceived object.",
+   "directed": "There’s a perceived object."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 3.2",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“That flower.”",
+   "directed": "[short pause] “That flower.”"
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ordinary experience organises those into a relation of difference.",
+   "directed": "Ordinary experience organises those into a relation of difference."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, at the conventional level, that’s perfectly functional.",
+   "directed": "Now, at the conventional level, that’s perfectly functional."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You shouldn’t try to water yourself because you’ve decided the distinction between you and the flower is ultimately nondual.",
+   "directed": "You shouldn’t try to water yourself because you’ve decided the distinction between you and the flower is ultimately nondual."
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The flower still needs water.",
+   "directed": "The flower still needs water."
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You probably need breakfast.",
+   "directed": "You probably need breakfast."
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But at the metaphysical level, the Trika claim is that the perceiver, perception and perceived object are not ultimately independent of the one self-revealing consciousness.",
+   "directed": "But at the metaphysical level, the Trika claim is that the perceiver, perception and perceived object are not ultimately independent of the one self-revealing consciousness."
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And without that recognition, the subject mistakes their finite cognitive standpoint for their complete nature.",
+   "directed": "And without that recognition, the subject mistakes their finite cognitive standpoint for their complete nature."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So the same world can be experienced through two fundamentally different orientations.",
+   "directed": "So the same world can be experienced through two fundamentally different orientations."
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "One: limited knowledge reinforcing separation.",
+   "directed": "One: limited knowledge reinforcing separation."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The other: differentiated cognition recognised as the manifestation of consciousness.",
+   "directed": "The other: differentiated cognition recognised as the manifestation of consciousness."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Vasugupta’s point is that the former constitutes bondage.",
+   "directed": "And Vasugupta’s point is that the former constitutes bondage."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which brings us to a very uncomfortable question.",
+   "directed": "Which brings us to a very uncomfortable question."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Why does consciousness fail to recognise its own nature?",
+   "directed": "Why does consciousness fail to recognise its own nature?"
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Enter Māyā.",
+   "directed": "Enter Māyā."
+  },
+  {
+   "id": "b77",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Again.",
+   "directed": "Again."
+  },
+  {
+   "id": "b78",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "She’s back.",
+   "directed": "She’s back."
+  },
+  {
+   "id": "b79",
+   "section": "Śiva Sūtras 3.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And she’s brought paperwork.",
+   "directed": "And she’s brought paperwork."
+  }
+ ],
+ "totals": {
+  "blocks": 80,
+  "words_per_voice": {
+   "none": 2,
+   "granny": 547,
+   "verse": 2,
+   "man": 17
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 3.6,
+   "verse": 0.0,
+   "man": 0.1
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

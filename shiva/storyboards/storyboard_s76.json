@@ -1,0 +1,855 @@
+{
+ "title": "Śiva Sūtras 3.44",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 3.44",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 3.44",
+   "directed": "[long pause] Śiva Sūtras 3.44"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 3.44",
+   "type": "verse",
+   "voice": "verse",
+   "text": "नासिकान्तर्मध्यसंयमात्किमत्र सव्यापसव्यसौषुम्नेषु",
+   "directed": "[slowly] नासिकान्तर्मध्यसंयमात्किमत्र सव्यापसव्यसौषुम्नेषु"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nāsikāntarmadhyasaṃyamāt kim atra savyāpasavyasauṣumneṣu.",
+   "directed": "Nāsikāntarmadhyasaṃyamāt kim atra savyāpasavyasauṣumneṣu."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Through intense contemplation of the innermost centre of the vital power, what more need be said of the right, left and central channels?",
+   "directed": "Through intense contemplation of the innermost centre of the vital power, what more need be said of the right, left and central channels?"
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Stop Obsessing Over Your Nostril Channels. The Real Centre Is Consciousness.",
+   "directed": "Stop Obsessing Over Your Nostril Channels. The Real Centre Is Consciousness."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now.",
+   "directed": "[short pause] Now."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Look at that Sanskrit.",
+   "directed": "Look at that Sanskrit."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vasugupta has clearly decided that if we’re finishing the text, we’re going to make the reader work for it.",
+   "directed": "Vasugupta has clearly decided that if we’re finishing the text, we’re going to make the reader work for it."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He’s gone from:",
+   "directed": "[short pause] He’s gone from:"
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Caitanyam ātmā.",
+   "directed": "Caitanyam ātmā."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Two words.",
+   "directed": "Two words."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "To this magnificent phonemic railway accident.",
+   "directed": "To this magnificent phonemic railway accident."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the meaning is beautiful.",
+   "directed": "But the meaning is beautiful."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s break it down.",
+   "directed": "Let’s break it down."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nāsikā — ordinarily, the nose or nostril; but Kṣemarāja gives it a specialised interpretation here.",
+   "directed": "Nāsikā — ordinarily, the nose or nostril; but Kṣemarāja gives it a specialised interpretation here."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Antar — inner.",
+   "directed": "Antar — inner."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Madhya — middle, centre.",
+   "directed": "Madhya — middle, centre."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Saṃyama — disciplined concentration or restraint; here, intense inner contemplative awareness.",
+   "directed": "Saṃyama — disciplined concentration or restraint; here, intense inner contemplative awareness."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kim atra — what here? What more is to be said?",
+   "directed": "Kim atra — what here? What more is to be said?"
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Savya — right-side, as Kṣemarāja interprets it in this context.",
+   "directed": "Savya — right-side, as Kṣemarāja interprets it in this context."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Apasavya — left-side.",
+   "directed": "Apasavya — left-side."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sauṣumṇa — relating to Suṣumṇā, the central subtle channel.",
+   "directed": "Sauṣumṇa — relating to Suṣumṇā, the central subtle channel."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, the first thing to understand is that Kṣemarāja doesn’t simply treat nāsikā as the physical nose.",
+   "directed": "Now, the first thing to understand is that Kṣemarāja doesn’t simply treat nāsikā as the physical nose."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is absolutely crucial.",
+   "directed": "This is absolutely crucial."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He interprets it as the vital power moving in a winding or curved manner through the subtle channels.",
+   "directed": "He interprets it as the vital power moving in a winding or curved manner through the subtle channels."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 3.44",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Prāṇaśakti.",
+   "directed": "[slowly] Prāṇaśakti."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the antar of that vital power refers to its inner conscious reality.",
+   "directed": "And the antar of that vital power refers to its inner conscious reality."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then the madhya is the innermost centre.",
+   "directed": "Then the madhya is the innermost centre."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The supreme vimarśa.",
+   "directed": "The supreme vimarśa."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The reflexive I-consciousness of Śiva.",
+   "directed": "The reflexive I-consciousness of Śiva."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now we’re getting somewhere.",
+   "directed": "Now we’re getting somewhere."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because the entire system of subtle channels has been associated with the differentiation of vitality.",
+   "directed": "Because the entire system of subtle channels has been associated with the differentiation of vitality."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Right.",
+   "directed": "[short pause] Right."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Left.",
+   "directed": "Left."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Centre.",
+   "directed": "Centre."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The movements of prāṇa.",
+   "directed": "The movements of prāṇa."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The rhythms of embodied experience.",
+   "directed": "The rhythms of embodied experience."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But Kṣemarāja is directing attention towards something more fundamental.",
+   "directed": "But Kṣemarāja is directing attention towards something more fundamental."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The conscious power underlying that entire system.",
+   "directed": "The conscious power underlying that entire system."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And he quotes the Kālikākrama on vimarśa as the supreme Śakti of the highest conscious Lord.",
+   "directed": "And he quotes the Kālikākrama on vimarśa as the supreme Śakti of the highest conscious Lord."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The crucial distinction is between working with the differentiated movements of vital energy and recognising the conscious source underlying them.",
+   "directed": "The crucial distinction is between working with the differentiated movements of vital energy and recognising the conscious source underlying them."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, to be clear, this is a traditional contemplative interpretation, not a reason to force your breathing, hold your breath for dangerous lengths of time, or manipulate the nostrils in some elaborate improvised practice.",
+   "directed": "Now, to be clear, this is a traditional contemplative interpretation, not a reason to force your breathing, hold your breath for dangerous lengths of time, or manipulate the nostrils in some elaborate improvised practice."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja’s point here is not that physiological strain produces liberation.",
+   "directed": "Kṣemarāja’s point here is not that physiological strain produces liberation."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s the intensity of inner awareness.",
+   "directed": "It’s the intensity of inner awareness."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And he glosses saṃyama through:",
+   "directed": "[short pause] And he glosses saṃyama through:"
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 3.44",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Antarnibhālanaprakarṣa.",
+   "directed": "[slowly] Antarnibhālanaprakarṣa."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The intensification of inward contemplation or awareness.",
+   "directed": "The intensification of inward contemplation or awareness."
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "What a magnificent expression.",
+   "directed": "What a magnificent expression."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The practitioner turns towards the innermost conscious reality.",
+   "directed": "The practitioner turns towards the innermost conscious reality."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not merely the movement of breath.",
+   "directed": "Not merely the movement of breath."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not merely the sensation of energy.",
+   "directed": "Not merely the sensation of energy."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not merely the subtle channels.",
+   "directed": "Not merely the subtle channels."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the self-revealing awareness through which those phenomena become manifest.",
+   "directed": "But the self-revealing awareness through which those phenomena become manifest."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here’s where the entire metaphysics comes together.",
+   "directed": "And here’s where the entire metaphysics comes together."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The conscious reality is not merely another thing located inside the body.",
+   "directed": "The conscious reality is not merely another thing located inside the body."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s not a tiny glowing object hidden somewhere between your eyebrows.",
+   "directed": "It’s not a tiny glowing object hidden somewhere between your eyebrows."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nor is it a mysterious anatomical organ discovered through sufficiently advanced breathing exercises.",
+   "directed": "Nor is it a mysterious anatomical organ discovered through sufficiently advanced breathing exercises."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s the underlying self-aware power of consciousness.",
+   "directed": "It’s the underlying self-aware power of consciousness."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja says that through continuous awareness of that reality, the yogi attains the supreme samādhi that shines throughout all states.",
+   "directed": "And Kṣemarāja says that through continuous awareness of that reality, the yogi attains the supreme samādhi that shines throughout all states."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 3.44",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Nirvyutthāna.",
+   "directed": "[slowly] Nirvyutthāna."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Without return to the ordinary distracted standpoint.",
+   "directed": "Without return to the ordinary distracted standpoint."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now we arrive at a particularly beautiful citation.",
+   "directed": "And now we arrive at a particularly beautiful citation."
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja invokes the Vijñānabhairava on the relationship between knower and known.",
+   "directed": "Kṣemarāja invokes the Vijñānabhairava on the relationship between knower and known."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "All embodied beings participate in cognition.",
+   "directed": "All embodied beings participate in cognition."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the yogi’s distinction lies in their attentiveness to the relationship between the conscious subject and its objects.",
+   "directed": "But the yogi’s distinction lies in their attentiveness to the relationship between the conscious subject and its objects."
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not merely the objects.",
+   "directed": "Not merely the objects."
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not merely an abstract theory of a subject.",
+   "directed": "Not merely an abstract theory of a subject."
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the fundamental relation through which manifestation occurs. Sanskrit & Trika Shaivism.",
+   "directed": "But the fundamental relation through which manifestation occurs. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now consider the philosophical significance.",
+   "directed": "Now consider the philosophical significance."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "At the beginning of Book III, the individual experienced:",
+   "directed": "[short pause] At the beginning of Book III, the individual experienced:"
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 3.44",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“I am this mind.”",
+   "directed": "[short pause] “I am this mind.”"
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And therefore the world appeared as a separate domain of objects.",
+   "directed": "And therefore the world appeared as a separate domain of objects."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But now the yogi has traced the entire structure of embodiment back towards the innermost conscious reality.",
+   "directed": "But now the yogi has traced the entire structure of embodiment back towards the innermost conscious reality."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The body.",
+   "directed": "The body."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The senses.",
+   "directed": "The senses."
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The breath.",
+   "directed": "The breath."
+  },
+  {
+   "id": "b77",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The subtle channels.",
+   "directed": "The subtle channels."
+  },
+  {
+   "id": "b78",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The mental apparatus.",
+   "directed": "The mental apparatus."
+  },
+  {
+   "id": "b79",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "All have been examined as manifestations of Śakti.",
+   "directed": "All have been examined as manifestations of Śakti."
+  },
+  {
+   "id": "b80",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now the supreme source becomes the object — or, more accurately, the reality — of recognition.",
+   "directed": "And now the supreme source becomes the object — or, more accurately, the reality — of recognition."
+  },
+  {
+   "id": "b81",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The movement is from the most differentiated structures of individuality to the conscious power that makes their manifestation possible.",
+   "directed": "The movement is from the most differentiated structures of individuality to the conscious power that makes their manifestation possible."
+  },
+  {
+   "id": "b82",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here’s the most beautiful part.",
+   "directed": "And here’s the most beautiful part."
+  },
+  {
+   "id": "b83",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The yogi doesn’t necessarily have to abolish all the differentiated processes.",
+   "directed": "The yogi doesn’t necessarily have to abolish all the differentiated processes."
+  },
+  {
+   "id": "b84",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Breathing can continue.",
+   "directed": "Breathing can continue."
+  },
+  {
+   "id": "b85",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The body can remain.",
+   "directed": "The body can remain."
+  },
+  {
+   "id": "b86",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The senses can operate.",
+   "directed": "The senses can operate."
+  },
+  {
+   "id": "b87",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the ultimate reality is no longer concealed by them.",
+   "directed": "But the ultimate reality is no longer concealed by them."
+  },
+  {
+   "id": "b88",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is why Kṣemarāja concludes that the yogi’s supreme samādhi can shine throughout every state.",
+   "directed": "And this is why Kṣemarāja concludes that the yogi’s supreme samādhi can shine throughout every state."
+  },
+  {
+   "id": "b89",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not merely in the absence of ordinary experience.",
+   "directed": "Not merely in the absence of ordinary experience."
+  },
+  {
+   "id": "b90",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But through its manifestation.",
+   "directed": "But through its manifestation."
+  },
+  {
+   "id": "b91",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now.",
+   "directed": "And now."
+  },
+  {
+   "id": "b92",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ladies and gentlemen.",
+   "directed": "Ladies and gentlemen."
+  },
+  {
+   "id": "b93",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’ve arrived.",
+   "directed": "We’ve arrived."
+  },
+  {
+   "id": "b94",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The final sūtra.",
+   "directed": "The final sūtra."
+  },
+  {
+   "id": "b95",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Number seventy-seven.",
+   "directed": "Number seventy-seven."
+  },
+  {
+   "id": "b96",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Vasugupta has chosen an ending so beautiful, so compressed, and so perfectly aligned with the entire work that it almost makes you want to start reading the whole bloody thing again.",
+   "directed": "And Vasugupta has chosen an ending so beautiful, so compressed, and so perfectly aligned with the entire work that it almost makes you want to start reading the whole bloody thing again."
+  },
+  {
+   "id": "b97",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which, as it turns out, is rather appropriate.",
+   "directed": "Which, as it turns out, is rather appropriate."
+  },
+  {
+   "id": "b98",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because the final word is about returning.",
+   "directed": "Because the final word is about returning."
+  },
+  {
+   "id": "b99",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Folding back.",
+   "directed": "Folding back."
+  },
+  {
+   "id": "b100",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The coming together of inward and outward awareness.",
+   "directed": "The coming together of inward and outward awareness."
+  },
+  {
+   "id": "b101",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The universe returning to its conscious source.",
+   "directed": "The universe returning to its conscious source."
+  },
+  {
+   "id": "b102",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Except that source never ceased to be its reality.",
+   "directed": "Except that source never ceased to be its reality."
+  },
+  {
+   "id": "b103",
+   "section": "Śiva Sūtras 3.44",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Here we go.",
+   "directed": "Here we go."
+  }
+ ],
+ "totals": {
+  "blocks": 104,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 807,
+   "verse": 5
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 5.4,
+   "verse": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

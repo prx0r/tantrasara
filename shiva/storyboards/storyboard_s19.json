@@ -1,0 +1,279 @@
+{
+ "title": "Śiva Sūtras 1.19",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 1.19",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 1.19",
+   "directed": "[long pause] Śiva Sūtras 1.19"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 1.19",
+   "type": "verse",
+   "voice": "verse",
+   "text": "शक्तिसन्धाने शरीरोत्पत्तिः",
+   "directed": "[slowly] शक्तिसन्धाने शरीरोत्पत्तिः"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 1.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śaktisandhāne śarīrotpattiḥ.",
+   "directed": "Śaktisandhāne śarīrotpattiḥ."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 1.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Through union with Śakti, there is the production of bodies.",
+   "directed": "Through union with Śakti, there is the production of bodies."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 1.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Oh Brilliant, Apparently You Can Create Bodies Now.",
+   "directed": "Oh Brilliant, Apparently You Can Create Bodies Now."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 1.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Right.",
+   "directed": "[short pause] Right."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 1.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Well.",
+   "directed": "Well."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 1.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’ve had a lovely philosophical discussion about consciousness.",
+   "directed": "We’ve had a lovely philosophical discussion about consciousness."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 1.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’ve examined bondage, recognition, meditation, the three states, the divine powers, and the unity of the universe.",
+   "directed": "We’ve examined bondage, recognition, meditation, the three states, the divine powers, and the unity of the universe."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 1.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Vasugupta has now decided that we’re going to start creating bodies.",
+   "directed": "And Vasugupta has now decided that we’re going to start creating bodies."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 1.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Of course we are.",
+   "directed": "Of course we are."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 1.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is Tantra.",
+   "directed": "This is Tantra."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 1.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "At some point, the metaphysics was always going to become absolutely outrageous.",
+   "directed": "At some point, the metaphysics was always going to become absolutely outrageous."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 1.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "First, the traditional explanation.",
+   "directed": "First, the traditional explanation."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 1.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja links this directly to the icchāśakti described in 1.13.",
+   "directed": "Kṣemarāja links this directly to the icchāśakti described in 1.13."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 1.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Through profound union with divine will, the realised yogi is said to gain the capacity to manifest a body according to desire.",
+   "directed": "Through profound union with divine will, the realised yogi is said to gain the capacity to manifest a body according to desire."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 1.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is part of what traditional texts call vibhūti or siddhi — extraordinary spiritual powers.",
+   "directed": "This is part of what traditional texts call vibhūti or siddhi — extraordinary spiritual powers."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 1.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja really does interpret the statement as a supernatural accomplishment. He is not merely describing ordinary creativity, imagination, or a poetic change in self-image. Sanskrit & Trika Shaivism.",
+   "directed": "And Kṣemarāja really does interpret the statement as a supernatural accomplishment. He is not merely describing ordinary creativity, imagination, or a poetic change in self-image. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 1.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So we shouldn’t pretend the text says something modest just because the literal claim makes modern readers uncomfortable.",
+   "directed": "So we shouldn’t pretend the text says something modest just because the literal claim makes modern readers uncomfortable."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 1.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "At the same time, this is a traditional metaphysical and yogic claim, not an experimentally demonstrated human capacity.",
+   "directed": "At the same time, this is a traditional metaphysical and yogic claim, not an experimentally demonstrated human capacity."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 1.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now why would such a claim appear here?",
+   "directed": "Now why would such a claim appear here?"
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 1.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because the entire first section has been describing a transformation from contracted agency to identification with universal consciousness.",
+   "directed": "Because the entire first section has been describing a transformation from contracted agency to identification with universal consciousness."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 1.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In ordinary life, our capacity to act is restricted.",
+   "directed": "In ordinary life, our capacity to act is restricted."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 1.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We can imagine countless things that we cannot actually produce.",
+   "directed": "We can imagine countless things that we cannot actually produce."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 1.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But divine svātantrya, in the Trika system, is not restricted by those ordinary limitations.",
+   "directed": "But divine svātantrya, in the Trika system, is not restricted by those ordinary limitations."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 1.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The siddhi claims are expressions of that metaphysical distinction.",
+   "directed": "The siddhi claims are expressions of that metaphysical distinction."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 1.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You can follow the philosophical logic without assuming that a contemporary practitioner can literally conjure an additional human organism into existence.",
+   "directed": "You can follow the philosophical logic without assuming that a contemporary practitioner can literally conjure an additional human organism into existence."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 1.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And perhaps the funniest thing is that this apparently astonishing power receives only one sūtra.",
+   "directed": "And perhaps the funniest thing is that this apparently astonishing power receives only one sūtra."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 1.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vasugupta mentions the creation of bodies.",
+   "directed": "Vasugupta mentions the creation of bodies."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 1.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then immediately moves on.",
+   "directed": "Then immediately moves on."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 1.19",
+   "type": "narration",
+   "voice": "granny",
+   "text": "As though he’s just told you to remember to buy milk.",
+   "directed": "As though he’s just told you to remember to buy milk."
+  }
+ ],
+ "totals": {
+  "blocks": 32,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 322,
+   "verse": 2
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 2.1,
+   "verse": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

@@ -1,0 +1,703 @@
+{
+ "title": "Śiva Sūtras 3.25",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 3.25",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 3.25",
+   "directed": "[long pause] Śiva Sūtras 3.25"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 3.25",
+   "type": "verse",
+   "voice": "verse",
+   "text": "शिवतुल्यो जायते",
+   "directed": "[slowly] शिवतुल्यो जायते"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śivatulyo jāyate.",
+   "directed": "Śivatulyo jāyate."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "One becomes equal or comparable to Śiva.",
+   "directed": "One becomes equal or comparable to Śiva."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Congratulations, You’ve Become Like Śiva. Please Don’t Put It on Your LinkedIn.",
+   "directed": "Congratulations, You’ve Become Like Śiva. Please Don’t Put It on Your LinkedIn."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 3.25",
+   "type": "figure",
+   "voice": "none",
+   "text": "RIGHT.",
+   "directed": "RIGHT."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "THERE IT IS.",
+   "directed": "THERE IT IS."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The big one.",
+   "directed": "The big one."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’ve been waiting for this.",
+   "directed": "We’ve been waiting for this."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Thirty-two sūtras in the first two books.",
+   "directed": "Thirty-two sūtras in the first two books."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Twenty-five into the third.",
+   "directed": "Twenty-five into the third."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And finally Vasugupta announces:",
+   "directed": "[short pause] And finally Vasugupta announces:"
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śivatulyo jāyate.",
+   "directed": "Śivatulyo jāyate."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You become like Śiva.",
+   "directed": "You become like Śiva."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, before anybody purchases a trident and starts demanding worship, we need to understand this properly.",
+   "directed": "Now, before anybody purchases a trident and starts demanding worship, we need to understand this properly."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s break down the Sanskrit.",
+   "directed": "Let’s break down the Sanskrit."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śiva — Śiva, the auspicious Lord.",
+   "directed": "Śiva — Śiva, the auspicious Lord."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Tulya — equal, comparable, similar in nature.",
+   "directed": "Tulya — equal, comparable, similar in nature."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Jāyate — becomes, arises, comes to be.",
+   "directed": "Jāyate — becomes, arises, comes to be."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja’s explanation is absolutely crucial.",
+   "directed": "And Kṣemarāja’s explanation is absolutely crucial."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The yogi becomes like Śiva through the intensification and stabilisation of recognition.",
+   "directed": "The yogi becomes like Śiva through the intensification and stabilisation of recognition."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But this does not mean the ordinary individual ego becomes an independent rival deity.",
+   "directed": "But this does not mean the ordinary individual ego becomes an independent rival deity."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There’s no cosmic job vacancy.",
+   "directed": "There’s no cosmic job vacancy."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śiva isn’t retiring.",
+   "directed": "Śiva isn’t retiring."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He’s not looking for a replacement.",
+   "directed": "He’s not looking for a replacement."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The yogi’s recognition of their supreme conscious nature is what makes this equality intelligible.",
+   "directed": "The yogi’s recognition of their supreme conscious nature is what makes this equality intelligible."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja introduces another important term.",
+   "directed": "And Kṣemarāja introduces another important term."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 3.25",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Turyātīta.",
+   "directed": "[slowly] Turyātīta."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Beyond the fourth.",
+   "directed": "Beyond the fourth."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, we’ve already encountered turya.",
+   "directed": "Now, we’ve already encountered turya."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The fourth state underlying waking, dreaming and deep sleep.",
+   "directed": "The fourth state underlying waking, dreaming and deep sleep."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But turyātīta points towards a condition in which the recognition of supreme consciousness is no longer apprehended merely as another distinguishable state among states.",
+   "directed": "But turyātīta points towards a condition in which the recognition of supreme consciousness is no longer apprehended merely as another distinguishable state among states."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The ordinary divisions of experience no longer obscure the underlying nondual reality.",
+   "directed": "The ordinary divisions of experience no longer obscure the underlying nondual reality."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the yogi is said to attain equality with Śiva through this full identification.",
+   "directed": "And the yogi is said to attain equality with Śiva through this full identification."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now here’s a particularly fascinating detail.",
+   "directed": "Now here’s a particularly fascinating detail."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja distinguishes the yogi’s condition while still embodied from the condition following the body’s disappearance.",
+   "directed": "Kṣemarāja distinguishes the yogi’s condition while still embodied from the condition following the body’s disappearance."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "While the body remains, the liberated yogi is described as like Śiva.",
+   "directed": "While the body remains, the liberated yogi is described as like Śiva."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "After the body’s dissolution, Kṣemarāja expresses the traditional position as complete identity with Śiva.",
+   "directed": "After the body’s dissolution, Kṣemarāja expresses the traditional position as complete identity with Śiva."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That’s a genuine distinction in the commentary, not something we should erase for the sake of a catchy slogan. Sanskrit & Trika Shaivism.",
+   "directed": "That’s a genuine distinction in the commentary, not something we should erase for the sake of a catchy slogan. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this brings us to the concept of jīvanmukti.",
+   "directed": "And this brings us to the concept of jīvanmukti."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Liberation while living.",
+   "directed": "Liberation while living."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The individual body continues.",
+   "directed": "The individual body continues."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The senses function.",
+   "directed": "The senses function."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The mind may still engage in ordinary activity.",
+   "directed": "The mind may still engage in ordinary activity."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the yogi is no longer fundamentally identified with the limitations of that embodied condition.",
+   "directed": "But the yogi is no longer fundamentally identified with the limitations of that embodied condition."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now consider how radical this is.",
+   "directed": "Now consider how radical this is."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The yogi doesn’t need to wait until physical death for the recognition of the supreme nature of consciousness.",
+   "directed": "The yogi doesn’t need to wait until physical death for the recognition of the supreme nature of consciousness."
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The recognition can occur within life.",
+   "directed": "The recognition can occur within life."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The manifest body is not, in itself, an absolute barrier to liberation.",
+   "directed": "The manifest body is not, in itself, an absolute barrier to liberation."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that is particularly important for Trika.",
+   "directed": "And that is particularly important for Trika."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because the tradition is not simply concerned with abandoning the world.",
+   "directed": "Because the tradition is not simply concerned with abandoning the world."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It describes the possibility of recognising Śiva in the midst of manifestation.",
+   "directed": "It describes the possibility of recognising Śiva in the midst of manifestation."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The body remains.",
+   "directed": "The body remains."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The world remains.",
+   "directed": "The world remains."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the relationship to both is transformed.",
+   "directed": "But the relationship to both is transformed."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here’s the wonderful thing.",
+   "directed": "And here’s the wonderful thing."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The equality is not established through a competition.",
+   "directed": "The equality is not established through a competition."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The yogi doesn’t outperform Śiva.",
+   "directed": "The yogi doesn’t outperform Śiva."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Doesn’t become more powerful than Śiva.",
+   "directed": "Doesn’t become more powerful than Śiva."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Doesn’t acquire a better divine résumé.",
+   "directed": "Doesn’t acquire a better divine résumé."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s a recognition of identity at the level of fundamental conscious nature.",
+   "directed": "It’s a recognition of identity at the level of fundamental conscious nature."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Imagine a wave spending its entire existence trying to become water.",
+   "directed": "Imagine a wave spending its entire existence trying to become water."
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It practises diligently.",
+   "directed": "It practises diligently."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Studies hydrodynamics.",
+   "directed": "Studies hydrodynamics."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Attends retreats.",
+   "directed": "Attends retreats."
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Memorises the ocean’s sacred teachings.",
+   "directed": "Memorises the ocean’s sacred teachings."
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And eventually realises that water was never something it lacked.",
+   "directed": "And eventually realises that water was never something it lacked."
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The wave doesn’t become a second ocean.",
+   "directed": "The wave doesn’t become a second ocean."
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nor does it need to destroy its wave-form to recognise its watery nature.",
+   "directed": "Nor does it need to destroy its wave-form to recognise its watery nature."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The analogy isn’t perfect, because Śiva’s freedom is not the passive physical substance of water.",
+   "directed": "The analogy isn’t perfect, because Śiva’s freedom is not the passive physical substance of water."
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But it captures the key point.",
+   "directed": "But it captures the key point."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The deepest reality was never absent.",
+   "directed": "The deepest reality was never absent."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The limitation belonged to the failure of recognition.",
+   "directed": "The limitation belonged to the failure of recognition."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now the yogi is established in that recognition.",
+   "directed": "And now the yogi is established in that recognition."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which raises a practical problem.",
+   "directed": "Which raises a practical problem."
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "If you’ve become like Śiva, what do you actually do with the rest of your life?",
+   "directed": "If you’ve become like Śiva, what do you actually do with the rest of your life?"
+  },
+  {
+   "id": "b77",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Do you continue meditating?",
+   "directed": "Do you continue meditating?"
+  },
+  {
+   "id": "b78",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Do you perform rituals?",
+   "directed": "Do you perform rituals?"
+  },
+  {
+   "id": "b79",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Do you undertake vows?",
+   "directed": "Do you undertake vows?"
+  },
+  {
+   "id": "b80",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Do you abandon society?",
+   "directed": "Do you abandon society?"
+  },
+  {
+   "id": "b81",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Do you start an extraordinarily expensive spiritual academy?",
+   "directed": "Do you start an extraordinarily expensive spiritual academy?"
+  },
+  {
+   "id": "b82",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Well.",
+   "directed": "Well."
+  },
+  {
+   "id": "b83",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vasugupta’s answer is rather wonderful.",
+   "directed": "Vasugupta’s answer is rather wonderful."
+  },
+  {
+   "id": "b84",
+   "section": "Śiva Sūtras 3.25",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The body itself becomes your vow.",
+   "directed": "The body itself becomes your vow."
+  }
+ ],
+ "totals": {
+  "blocks": 85,
+  "words_per_voice": {
+   "none": 2,
+   "granny": 623,
+   "verse": 3
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 4.2,
+   "verse": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

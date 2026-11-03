@@ -1,0 +1,101 @@
+{
+ "anavamala": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b35"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "kancukas": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b36"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "kosas": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b36"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "malinivijayatantra": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b29"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "mayiyamala": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b35"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "prakasa": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b32"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "sakti": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b9"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "saktipata": {
+  "deva": "",
+  "gloss": "the descent of grace",
+  "status": "proposed",
+  "cue_blocks": [
+   "b52"
+  ],
+  "note": "appositive-mined, confirm"
+ },
+ "upadesa": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b51"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "upayah": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "vimarsa": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b33"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ }
+}

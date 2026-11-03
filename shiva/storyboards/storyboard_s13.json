@@ -1,0 +1,313 @@
+{
+ "title": "Śiva Sūtras 1.13",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 1.13",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 1.13",
+   "directed": "[long pause] Śiva Sūtras 1.13"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 1.13",
+   "type": "verse",
+   "voice": "verse",
+   "text": "इच्छाशक्तिरुमा कुमारी",
+   "directed": "[slowly] इच्छाशक्तिरुमा कुमारी"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 1.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Icchāśaktir umā kumārī.",
+   "directed": "Icchāśaktir umā kumārī."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 1.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The power of will is Umā, the Maiden.",
+   "directed": "The power of will is Umā, the Maiden."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 1.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śiva’s Girlfriend Turns Out to Be Your Own Will.",
+   "directed": "Śiva’s Girlfriend Turns Out to Be Your Own Will."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 1.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Here comes Umā.",
+   "directed": "Here comes Umā."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 1.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śiva’s consort. The goddess.",
+   "directed": "Śiva’s consort. The goddess."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 1.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Vasugupta identifies her with icchāśakti — the power of will.",
+   "directed": "And Vasugupta identifies her with icchāśakti — the power of will."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 1.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But don’t imagine ordinary personal wanting.",
+   "directed": "But don’t imagine ordinary personal wanting."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 1.13",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“I fancy some tea.”",
+   "directed": "[short pause] “I fancy some tea.”"
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 1.13",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“I want a nicer house.”",
+   "directed": "[short pause] “I want a nicer house.”"
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 1.13",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“I would quite like that person to reply to my message.”",
+   "directed": "[short pause] “I would quite like that person to reply to my message.”"
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 1.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Those are limited expressions of desire within differentiated existence.",
+   "directed": "Those are limited expressions of desire within differentiated existence."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 1.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The icchāśakti being described here belongs to the realised yogi whose will is united with the supreme freedom of consciousness.",
+   "directed": "The icchāśakti being described here belongs to the realised yogi whose will is united with the supreme freedom of consciousness."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 1.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja associates this power with the divine sovereignty of Parabhairava.",
+   "directed": "Kṣemarāja associates this power with the divine sovereignty of Parabhairava."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 1.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the word kumārī, maiden, matters.",
+   "directed": "And the word kumārī, maiden, matters."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 1.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It points towards the freshness, independence, and unsullied character of this divine power.",
+   "directed": "It points towards the freshness, independence, and unsullied character of this divine power."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 1.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja offers several interpretive possibilities, including her freedom from limiting associations and her identification with the cosmic play of manifestation and withdrawal. Sanskrit & Trika Shaivism.",
+   "directed": "Kṣemarāja offers several interpretive possibilities, including her freedom from limiting associations and her identification with the cosmic play of manifestation and withdrawal. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 1.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Consider the three fundamental powers of Śakti:",
+   "directed": "[short pause] Consider the three fundamental powers of Śakti:"
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 1.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Icchā — will.",
+   "directed": "Icchā — will."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 1.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Jñāna — knowledge.",
+   "directed": "Jñāna — knowledge."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 1.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kriyā — action.",
+   "directed": "Kriyā — action."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 1.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In ordinary life, they appear fragmented.",
+   "directed": "In ordinary life, they appear fragmented."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 1.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You want something.",
+   "directed": "You want something."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 1.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You don’t know how to obtain it.",
+   "directed": "You don’t know how to obtain it."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 1.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You try to act.",
+   "directed": "You try to act."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 1.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You fail.",
+   "directed": "You fail."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 1.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You become frustrated.",
+   "directed": "You become frustrated."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 1.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You make tea.",
+   "directed": "You make tea."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 1.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In the metaphysical description of Śiva, however, will, knowledge and action are powers of the one free consciousness.",
+   "directed": "In the metaphysical description of Śiva, however, will, knowledge and action are powers of the one free consciousness."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 1.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They are not independent faculties fighting over resources.",
+   "directed": "They are not independent faculties fighting over resources."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 1.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the underlying freedom in which these powers belong is precisely what was introduced in the first sūtra.",
+   "directed": "And the underlying freedom in which these powers belong is precisely what was introduced in the first sūtra."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 1.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Caitanyam ātmā.",
+   "directed": "Caitanyam ātmā."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 1.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Consciousness is the Self.",
+   "directed": "Consciousness is the Self."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 1.13",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Thirteen statements later, we’re discovering what that means for divine agency.",
+   "directed": "Thirteen statements later, we’re discovering what that means for divine agency."
+  }
+ ],
+ "totals": {
+  "blocks": 36,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 241,
+   "verse": 2,
+   "man": 15
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 1.6,
+   "verse": 0.0,
+   "man": 0.1
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

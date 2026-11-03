@@ -1,0 +1,671 @@
+{
+ "title": "Śiva Sūtras 3.8",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 3.8",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 3.8",
+   "directed": "[long pause] Śiva Sūtras 3.8"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 3.8",
+   "type": "verse",
+   "voice": "verse",
+   "text": "जाग्रद्द्वितीयकरः",
+   "directed": "[slowly] जाग्रद्द्वितीयकरः"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Jāgrad dvitīyakaraḥ.",
+   "directed": "Jāgrad dvitīyakaraḥ."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The awakened yogi sees the apparently second reality — the world — as a ray of their own consciousness.",
+   "directed": "The awakened yogi sees the apparently second reality — the world — as a ray of their own consciousness."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Entire Universe Is Apparently Your Own Bloody Sunshine.",
+   "directed": "The Entire Universe Is Apparently Your Own Bloody Sunshine."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now this is a fascinating sūtra.",
+   "directed": "Now this is a fascinating sūtra."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because taken without commentary, it’s fairly cryptic.",
+   "directed": "Because taken without commentary, it’s fairly cryptic."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s unpack it.",
+   "directed": "Let’s unpack it."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Jāgrat — awake, waking, watchful.",
+   "directed": "Jāgrat — awake, waking, watchful."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Dvitīya — second, another.",
+   "directed": "Dvitīya — second, another."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kara — ray, beam, radiance.",
+   "directed": "Kara — ray, beam, radiance."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja provides the crucial interpretation.",
+   "directed": "And Kṣemarāja provides the crucial interpretation."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The yogi established in innate knowledge remains awake in the deeper sense of being established in recognition.",
+   "directed": "The yogi established in innate knowledge remains awake in the deeper sense of being established in recognition."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the apparently second reality — the world of objects — appears as the radiance of consciousness.",
+   "directed": "And the apparently second reality — the world of objects — appears as the radiance of consciousness."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is the relationship between:",
+   "directed": "[short pause] This is the relationship between:"
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Aham — I.",
+   "directed": "Aham — I."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And:",
+   "directed": "[short pause] And:"
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Idam — this.",
+   "directed": "Idam — this."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now we’ve encountered these before, but this is where their significance becomes particularly beautiful.",
+   "directed": "Now we’ve encountered these before, but this is where their significance becomes particularly beautiful."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ordinarily, experience seems to involve two fundamentally separate realities.",
+   "directed": "Ordinarily, experience seems to involve two fundamentally separate realities."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There’s me.",
+   "directed": "There’s me."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And there’s everything else.",
+   "directed": "And there’s everything else."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "I look at a tree.",
+   "directed": "I look at a tree."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The tree is over there.",
+   "directed": "The tree is over there."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "I am over here.",
+   "directed": "I am over here."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Subject and object.",
+   "directed": "Subject and object."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But within the Trika metaphysical system, the relationship is more subtle.",
+   "directed": "But within the Trika metaphysical system, the relationship is more subtle."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The supreme Aham, universal I-consciousness, possesses the freedom to manifest the entire domain of Idam, this-ness or objectivity.",
+   "directed": "The supreme Aham, universal I-consciousness, possesses the freedom to manifest the entire domain of Idam, this-ness or objectivity."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The world is not some entirely independent substance standing opposite Śiva.",
+   "directed": "The world is not some entirely independent substance standing opposite Śiva."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is the manifestation of Śiva’s own Śakti.",
+   "directed": "It is the manifestation of Śiva’s own Śakti."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So what happens when the yogi recognises this?",
+   "directed": "So what happens when the yogi recognises this?"
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The objects don’t necessarily disappear.",
+   "directed": "The objects don’t necessarily disappear."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The tree is still there.",
+   "directed": "The tree is still there."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The river still flows.",
+   "directed": "The river still flows."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The mountains remain.",
+   "directed": "The mountains remain."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The mosquitoes still apparently regard your ankles as a charitable buffet.",
+   "directed": "The mosquitoes still apparently regard your ankles as a charitable buffet."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the ontological understanding of these appearances is transformed.",
+   "directed": "But the ontological understanding of these appearances is transformed."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They’re recognised as expressions of the same consciousness whose nature has become apparent.",
+   "directed": "They’re recognised as expressions of the same consciousness whose nature has become apparent."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now think of the sun.",
+   "directed": "Now think of the sun."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The sun gives off light.",
+   "directed": "The sun gives off light."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Its rays illuminate the world.",
+   "directed": "Its rays illuminate the world."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And although the rays are distinguishable in their manifestations, they are not some fundamentally foreign power independent of their source.",
+   "directed": "And although the rays are distinguishable in their manifestations, they are not some fundamentally foreign power independent of their source."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is the metaphor Vasugupta uses.",
+   "directed": "This is the metaphor Vasugupta uses."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kara.",
+   "directed": "Kara."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A ray.",
+   "directed": "A ray."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The world is the radiance of consciousness.",
+   "directed": "The world is the radiance of consciousness."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is enormously significant because it means liberation isn’t simply a withdrawal from objectivity.",
+   "directed": "And this is enormously significant because it means liberation isn’t simply a withdrawal from objectivity."
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s a transformation in the recognition of objectivity.",
+   "directed": "It’s a transformation in the recognition of objectivity."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’re not supposed to sit there with your eyes closed forever, desperately trying to avoid the existence of tables.",
+   "directed": "You’re not supposed to sit there with your eyes closed forever, desperately trying to avoid the existence of tables."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’re supposed to recognise the fundamental nature of the reality in which the tables appear.",
+   "directed": "You’re supposed to recognise the fundamental nature of the reality in which the tables appear."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The world is no longer encountered as an ultimately alien second reality.",
+   "directed": "The world is no longer encountered as an ultimately alien second reality."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja cites the Vijñānabhairava to support this.",
+   "directed": "And Kṣemarāja cites the Vijñānabhairava to support this."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He describes the recognition of consciousness in whatever is perceived — including colour and pleasure — and the attainment of fullness through absorption into omnipresent consciousness.",
+   "directed": "He describes the recognition of consciousness in whatever is perceived — including colour and pleasure — and the attainment of fullness through absorption into omnipresent consciousness."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He also cites a tantric statement describing the entire world as the powers of Śiva, the possessor of Śakti. Sanskrit & Trika Shaivism.",
+   "directed": "He also cites a tantric statement describing the entire world as the powers of Śiva, the possessor of Śakti. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now let’s consider the philosophical implication.",
+   "directed": "Now let’s consider the philosophical implication."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "If the world is the radiance of consciousness, then recognition doesn’t have to depend on a privileged sensory object.",
+   "directed": "If the world is the radiance of consciousness, then recognition doesn’t have to depend on a privileged sensory object."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You don’t need the perfect sunset.",
+   "directed": "You don’t need the perfect sunset."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You don’t need an extraordinary vision.",
+   "directed": "You don’t need an extraordinary vision."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You don’t need the Himalayas to appear through the mist while somebody plays a rather moving piece of devotional music.",
+   "directed": "You don’t need the Himalayas to appear through the mist while somebody plays a rather moving piece of devotional music."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Lovely though that would be.",
+   "directed": "Lovely though that would be."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Any manifestation can become an occasion for recognition.",
+   "directed": "Any manifestation can become an occasion for recognition."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A colour.",
+   "directed": "A colour."
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A sound.",
+   "directed": "A sound."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The feeling of movement.",
+   "directed": "The feeling of movement."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The appearance of another person.",
+   "directed": "The appearance of another person."
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The emergence of a thought.",
+   "directed": "The emergence of a thought."
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because the essential point is not the particular content.",
+   "directed": "Because the essential point is not the particular content."
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s the conscious reality through which the content becomes manifest.",
+   "directed": "It’s the conscious reality through which the content becomes manifest."
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here we arrive at something particularly elegant.",
+   "directed": "And here we arrive at something particularly elegant."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In the first book, Vasugupta said:",
+   "directed": "[short pause] In the first book, Vasugupta said:"
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 3.8",
+   "type": "verse",
+   "voice": "verse",
+   "text": "दृश्यं शरीरम्।.",
+   "directed": "[slowly] दृश्यं शरीरम्।."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Dṛśyaṃ śarīram.",
+   "directed": "Dṛśyaṃ śarīram."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The seen is the body.",
+   "directed": "The seen is the body."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now he’s explaining the same expanded recognition through the imagery of light.",
+   "directed": "Now he’s explaining the same expanded recognition through the imagery of light."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The world is the yogi’s radiance.",
+   "directed": "The world is the yogi’s radiance."
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The apparent second is not ultimately separate from the first.",
+   "directed": "The apparent second is not ultimately separate from the first."
+  },
+  {
+   "id": "b77",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And therefore the liberated yogi can remain awake in the midst of ordinary experience.",
+   "directed": "And therefore the liberated yogi can remain awake in the midst of ordinary experience."
+  },
+  {
+   "id": "b78",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not because they’ve stopped perceiving differences.",
+   "directed": "Not because they’ve stopped perceiving differences."
+  },
+  {
+   "id": "b79",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But because the differences no longer conceal their conscious source.",
+   "directed": "But because the differences no longer conceal their conscious source."
+  },
+  {
+   "id": "b80",
+   "section": "Śiva Sūtras 3.8",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that brings us to a revelation so magnificent that Vasugupta apparently decides to abandon metaphysical exposition and become a theatre critic.",
+   "directed": "And that brings us to a revelation so magnificent that Vasugupta apparently decides to abandon metaphysical exposition and become a theatre critic."
+  }
+ ],
+ "totals": {
+  "blocks": 81,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 652,
+   "verse": 3
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 4.3,
+   "verse": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

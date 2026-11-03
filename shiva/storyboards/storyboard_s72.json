@@ -1,0 +1,865 @@
+{
+ "title": "Śiva Sūtras 3.40",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 3.40",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 3.40",
+   "directed": "[long pause] Śiva Sūtras 3.40"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 3.40",
+   "type": "verse",
+   "voice": "verse",
+   "text": "अभिलाषाद्बहिर्गतिः संवाह्यस्य",
+   "directed": "[slowly] अभिलाषाद्बहिर्गतिः संवाह्यस्य"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Abhilāṣād bahirgatiḥ saṃvāhyasya.",
+   "directed": "Abhilāṣād bahirgatiḥ saṃvāhyasya."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Through desire, the one carried along moves outward.",
+   "directed": "Through desire, the one carried along moves outward."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Congratulations, You’ve Reinstalled Wanting. Welcome Back to Saṃsāra.",
+   "directed": "Congratulations, You’ve Reinstalled Wanting. Welcome Back to Saṃsāra."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Oh, this is absolutely devastating.",
+   "directed": "Oh, this is absolutely devastating."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because after everything we’ve learned about the extraordinary nature of consciousness, Vasugupta brings us back to a very simple human predicament.",
+   "directed": "Because after everything we’ve learned about the extraordinary nature of consciousness, Vasugupta brings us back to a very simple human predicament."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "I want something.",
+   "directed": "I want something."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That’s it.",
+   "directed": "That’s it."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The entire cosmic drama begins again.",
+   "directed": "The entire cosmic drama begins again."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s unpack the Sanskrit.",
+   "directed": "Let’s unpack the Sanskrit."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Abhilāṣa — desire, longing, wanting.",
+   "directed": "Abhilāṣa — desire, longing, wanting."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "-āt — because of, arising from.",
+   "directed": "-āt — because of, arising from."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Bahis — outward.",
+   "directed": "Bahis — outward."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Gatiḥ — movement, going.",
+   "directed": "Gatiḥ — movement, going."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Saṃvāhya — one who is carried along, conveyed or driven onward.",
+   "directed": "Saṃvāhya — one who is carried along, conveyed or driven onward."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now that last word is particularly important.",
+   "directed": "Now that last word is particularly important."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 3.40",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Saṃvāhya.",
+   "directed": "[slowly] Saṃvāhya."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The one who is carried.",
+   "directed": "The one who is carried."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja interprets this as the bound individual who is carried from one womb or embodied condition to another through the powers constituting conditioned existence.",
+   "directed": "Kṣemarāja interprets this as the bound individual who is carried from one womb or embodied condition to another through the powers constituting conditioned existence."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The paśu.",
+   "directed": "The paśu."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The bound being.",
+   "directed": "The bound being."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The karmātmā we encountered in 3.35.",
+   "directed": "The karmātmā we encountered in 3.35."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the powers carrying this individual include the kañcukas, mental faculties, senses, subtle elements and gross elements.",
+   "directed": "And the powers carrying this individual include the kañcukas, mental faculties, senses, subtle elements and gross elements."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "An entire metaphysical conveyor belt.",
+   "directed": "An entire metaphysical conveyor belt."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Absolutely extraordinary.",
+   "directed": "Absolutely extraordinary."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve got the limited individual standing on the conveyor belt, looking around, asking:",
+   "directed": "[short pause] You’ve got the limited individual standing on the conveyor belt, looking around, asking:"
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 3.40",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Where are we going?”",
+   "directed": "[short pause] “Where are we going?”"
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the machinery replies:",
+   "directed": "[short pause] And the machinery replies:"
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 3.40",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Another embodied existence.”",
+   "directed": "[short pause] “Another embodied existence.”"
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 3.40",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Why?”",
+   "directed": "[short pause] “Why?”"
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 3.40",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Desire.”",
+   "directed": "[short pause] “Desire.”"
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 3.40",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Can I get off?”",
+   "directed": "[short pause] “Can I get off?”"
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 3.40",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Have you recognised your true nature?”",
+   "directed": "[short pause] “Have you recognised your true nature?”"
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 3.40",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Not really.”",
+   "directed": "[short pause] “Not really.”"
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 3.40",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“NEXT WOMB, PLEASE.”",
+   "directed": "[short pause] “NEXT WOMB, PLEASE.”"
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now that’s the traditional saṃsāric framework, not an empirically demonstrated mechanism of rebirth.",
+   "directed": "Now that’s the traditional saṃsāric framework, not an empirically demonstrated mechanism of rebirth."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But Kṣemarāja’s philosophical explanation is very precise.",
+   "directed": "But Kṣemarāja’s philosophical explanation is very precise."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He connects abhilāṣa with āṇavamala.",
+   "directed": "He connects abhilāṣa with āṇavamala."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The primordial limitation of the individual.",
+   "directed": "The primordial limitation of the individual."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And specifically with the feeling:",
+   "directed": "[short pause] And specifically with the feeling:"
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 3.40",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Apūrṇammanyatā.",
+   "directed": "[slowly] Apūrṇammanyatā."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The conviction of incompleteness.",
+   "directed": "The conviction of incompleteness."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s unpack that.",
+   "directed": "Let’s unpack that."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A-pūrṇa — not full, incomplete.",
+   "directed": "A-pūrṇa — not full, incomplete."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Manyatā — considering, regarding, thinking oneself to be.",
+   "directed": "Manyatā — considering, regarding, thinking oneself to be."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The individual experiences:",
+   "directed": "[short pause] The individual experiences:"
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 3.40",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“I am incomplete.”",
+   "directed": "[short pause] “I am incomplete.”"
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And from that fundamental orientation arises desire.",
+   "directed": "And from that fundamental orientation arises desire."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 3.40",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“I need this.”",
+   "directed": "[short pause] “I need this.”"
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 3.40",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“I must obtain that.”",
+   "directed": "[short pause] “I must obtain that.”"
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 3.40",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“I cannot be fulfilled until something changes.”",
+   "directed": "[short pause] “I cannot be fulfilled until something changes.”"
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And therefore consciousness becomes outwardly directed.",
+   "directed": "And therefore consciousness becomes outwardly directed."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Bahirgati.",
+   "directed": "Bahirgati."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The movement towards objects.",
+   "directed": "The movement towards objects."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now here’s the extraordinary subtlety.",
+   "directed": "Now here’s the extraordinary subtlety."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Trika doesn’t simply say that every ordinary preference is morally evil.",
+   "directed": "Trika doesn’t simply say that every ordinary preference is morally evil."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Wanting a meal when you’re hungry is part of embodied life.",
+   "directed": "Wanting a meal when you’re hungry is part of embodied life."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The deeper issue is the metaphysical identification through which the subject experiences itself as fundamentally deficient.",
+   "directed": "The deeper issue is the metaphysical identification through which the subject experiences itself as fundamentally deficient."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The limited individual mistakes the acquisition of objects for the ultimate recovery of completeness.",
+   "directed": "The limited individual mistakes the acquisition of objects for the ultimate recovery of completeness."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is where the whole system becomes remarkably coherent.",
+   "directed": "And this is where the whole system becomes remarkably coherent."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Remember rāga among the five kañcukas?",
+   "directed": "Remember rāga among the five kañcukas?"
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The limitation associated with desire.",
+   "directed": "The limitation associated with desire."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The supreme fullness of consciousness is experienced through the condition of lack.",
+   "directed": "The supreme fullness of consciousness is experienced through the condition of lack."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that apparent lack drives the individual outward.",
+   "directed": "And that apparent lack drives the individual outward."
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The person searches among objects for a completeness that, according to the doctrine, belongs to their own supreme conscious nature.",
+   "directed": "The person searches among objects for a completeness that, according to the doctrine, belongs to their own supreme conscious nature."
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now imagine somebody convinced that happiness lies in obtaining one particular thing.",
+   "directed": "Now imagine somebody convinced that happiness lies in obtaining one particular thing."
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A relationship.",
+   "directed": "A relationship."
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A possession.",
+   "directed": "A possession."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A professional achievement.",
+   "directed": "A professional achievement."
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A certain status.",
+   "directed": "A certain status."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And perhaps they obtain it.",
+   "directed": "And perhaps they obtain it."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Wonderful.",
+   "directed": "Wonderful."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "For a moment, satisfaction arises.",
+   "directed": "For a moment, satisfaction arises."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But then another desire appears.",
+   "directed": "But then another desire appears."
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Or anxiety about losing what they’ve acquired.",
+   "directed": "Or anxiety about losing what they’ve acquired."
+  },
+  {
+   "id": "b77",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Or comparison with somebody who has something better.",
+   "directed": "Or comparison with somebody who has something better."
+  },
+  {
+   "id": "b78",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the cycle begins again.",
+   "directed": "And the cycle begins again."
+  },
+  {
+   "id": "b79",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The problem isn’t necessarily the object.",
+   "directed": "The problem isn’t necessarily the object."
+  },
+  {
+   "id": "b80",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s the structure of seeking completeness from something conceived as ultimately external.",
+   "directed": "It’s the structure of seeking completeness from something conceived as ultimately external."
+  },
+  {
+   "id": "b81",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja is talking about this structure at a much deeper metaphysical level.",
+   "directed": "Kṣemarāja is talking about this structure at a much deeper metaphysical level."
+  },
+  {
+   "id": "b82",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He describes the limited individual as becoming outwardly oriented precisely because they fail to recognise the inward reality of turya as their own Self.",
+   "directed": "He describes the limited individual as becoming outwardly oriented precisely because they fail to recognise the inward reality of turya as their own Self."
+  },
+  {
+   "id": "b83",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He cites the Svacchandatantra and Kālikākrama on ignorance, desire, differentiated mental construction and the continuation of suffering. Sanskrit & Trika Shaivism.",
+   "directed": "He cites the Svacchandatantra and Kālikākrama on ignorance, desire, differentiated mental construction and the continuation of suffering. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b84",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here’s the beautiful philosophical reversal.",
+   "directed": "And here’s the beautiful philosophical reversal."
+  },
+  {
+   "id": "b85",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The object may be perfectly ordinary.",
+   "directed": "The object may be perfectly ordinary."
+  },
+  {
+   "id": "b86",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A cup of tea.",
+   "directed": "A cup of tea."
+  },
+  {
+   "id": "b87",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A beautiful place.",
+   "directed": "A beautiful place."
+  },
+  {
+   "id": "b88",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A person you love.",
+   "directed": "A person you love."
+  },
+  {
+   "id": "b89",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the underlying mode of experience can differ radically.",
+   "directed": "But the underlying mode of experience can differ radically."
+  },
+  {
+   "id": "b90",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "One person encounters the object through the conviction:",
+   "directed": "[short pause] One person encounters the object through the conviction:"
+  },
+  {
+   "id": "b91",
+   "section": "Śiva Sūtras 3.40",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“I am incomplete, and this thing must complete me.”",
+   "directed": "[short pause] “I am incomplete, and this thing must complete me.”"
+  },
+  {
+   "id": "b92",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Another encounters it without mistaking the object for the ultimate source of fulfilment.",
+   "directed": "Another encounters it without mistaking the object for the ultimate source of fulfilment."
+  },
+  {
+   "id": "b93",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The difference is not necessarily in the outward action.",
+   "directed": "The difference is not necessarily in the outward action."
+  },
+  {
+   "id": "b94",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s in the fundamental identification of the subject.",
+   "directed": "It’s in the fundamental identification of the subject."
+  },
+  {
+   "id": "b95",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now Vasugupta gives us the solution.",
+   "directed": "And now Vasugupta gives us the solution."
+  },
+  {
+   "id": "b96",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not simply suppressing all desire by force.",
+   "directed": "Not simply suppressing all desire by force."
+  },
+  {
+   "id": "b97",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not constructing a new ego whose proudest achievement is having no desires.",
+   "directed": "Not constructing a new ego whose proudest achievement is having no desires."
+  },
+  {
+   "id": "b98",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the disclosure of fullness through stable recognition of consciousness.",
+   "directed": "But the disclosure of fullness through stable recognition of consciousness."
+  },
+  {
+   "id": "b99",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And when that recognition becomes established, the condition of being the limited individual is said to dissolve.",
+   "directed": "And when that recognition becomes established, the condition of being the limited individual is said to dissolve."
+  },
+  {
+   "id": "b100",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which sounds alarming.",
+   "directed": "Which sounds alarming."
+  },
+  {
+   "id": "b101",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because we’re about to have a sūtra involving the destruction of the jīva.",
+   "directed": "Because we’re about to have a sūtra involving the destruction of the jīva."
+  },
+  {
+   "id": "b102",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But don’t worry.",
+   "directed": "But don’t worry."
+  },
+  {
+   "id": "b103",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nobody needs to die.",
+   "directed": "Nobody needs to die."
+  },
+  {
+   "id": "b104",
+   "section": "Śiva Sūtras 3.40",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is about the end of a particular mode of self-identification.",
+   "directed": "This is about the end of a particular mode of self-identification."
+  }
+ ],
+ "totals": {
+  "blocks": 105,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 695,
+   "verse": 4,
+   "man": 20
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 4.6,
+   "verse": 0.0,
+   "man": 0.1
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

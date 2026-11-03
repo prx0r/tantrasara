@@ -1,0 +1,20 @@
+{
+ "maya": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b4"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "mayasausuptam": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ }
+}

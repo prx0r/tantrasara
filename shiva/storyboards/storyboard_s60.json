@@ -1,0 +1,983 @@
+{
+ "title": "Śiva Sūtras 3.28",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 3.28",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 3.28",
+   "directed": "[long pause] Śiva Sūtras 3.28"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 3.28",
+   "type": "verse",
+   "voice": "verse",
+   "text": "दानमात्मज्ञानम्",
+   "directed": "[slowly] दानमात्मज्ञानम्"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Dānam ātmajñānam.",
+   "directed": "Dānam ātmajñānam."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The gift is knowledge of the Self.",
+   "directed": "The gift is knowledge of the Self."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Greatest Gift Isn’t Money. It’s Helping Somebody Realise What They Actually Are.",
+   "directed": "The Greatest Gift Isn’t Money. It’s Helping Somebody Realise What They Actually Are."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is absolutely beautiful.",
+   "directed": "This is absolutely beautiful."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because after all the metaphysics, after the entire cosmic theatre, after the extraordinary powers and the subtle bodies and the phonemic goddesses, Vasugupta arrives at something profoundly human.",
+   "directed": "Because after all the metaphysics, after the entire cosmic theatre, after the extraordinary powers and the subtle bodies and the phonemic goddesses, Vasugupta arrives at something profoundly human."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 3.28",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Dāna.",
+   "directed": "[slowly] Dāna."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Giving.",
+   "directed": "Giving."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And what does the realised yogi give?",
+   "directed": "And what does the realised yogi give?"
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 3.28",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Ātmajñāna.",
+   "directed": "[slowly] Ātmajñāna."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Knowledge of the Self.",
+   "directed": "Knowledge of the Self."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s unpack it.",
+   "directed": "Let’s unpack it."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Dānam — gift, giving, donation.",
+   "directed": "Dānam — gift, giving, donation."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ātman — Self.",
+   "directed": "Ātman — Self."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Jñānam — knowledge.",
+   "directed": "Jñānam — knowledge."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Together:",
+   "directed": "[short pause] Together:"
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The gift is knowledge of the Self.",
+   "directed": "The gift is knowledge of the Self."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now think about the ordinary understanding of generosity.",
+   "directed": "Now think about the ordinary understanding of generosity."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You give somebody food.",
+   "directed": "You give somebody food."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Money.",
+   "directed": "Money."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Clothing.",
+   "directed": "Clothing."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Shelter.",
+   "directed": "Shelter."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Help.",
+   "directed": "Help."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "All of these can be valuable.",
+   "directed": "All of these can be valuable."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But within the liberation-centred framework of Trika, there is something more fundamental that can be communicated.",
+   "directed": "But within the liberation-centred framework of Trika, there is something more fundamental that can be communicated."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Recognition of one’s true nature.",
+   "directed": "Recognition of one’s true nature."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja explicitly interprets this sūtra through the relationship between teacher and disciple.",
+   "directed": "And Kṣemarāja explicitly interprets this sūtra through the relationship between teacher and disciple."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The realised yogi imparts knowledge of the Self to students.",
+   "directed": "The realised yogi imparts knowledge of the Self to students."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not simply information about a philosophical doctrine.",
+   "directed": "Not simply information about a philosophical doctrine."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the liberating recognition of consciousness.",
+   "directed": "But the liberating recognition of consciousness."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here’s where Kṣemarāja gives us a fascinating little Sanskrit discussion.",
+   "directed": "And here’s where Kṣemarāja gives us a fascinating little Sanskrit discussion."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He explores the word dāna through several traditional verbal associations.",
+   "directed": "He explores the word dāna through several traditional verbal associations."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Giving.",
+   "directed": "Giving."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Cutting.",
+   "directed": "Cutting."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Purifying.",
+   "directed": "Purifying."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Preserving.",
+   "directed": "Preserving."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, these shouldn’t all be treated as the ordinary historical derivation of dāna.",
+   "directed": "Now, these shouldn’t all be treated as the ordinary historical derivation of dāna."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Rather, Kṣemarāja is using a traditional style of exegetical wordplay to disclose different dimensions of the teaching.",
+   "directed": "Rather, Kṣemarāja is using a traditional style of exegetical wordplay to disclose different dimensions of the teaching."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The gift communicates knowledge.",
+   "directed": "The gift communicates knowledge."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That knowledge cuts through the apparent separation between Śiva and the universe.",
+   "directed": "That knowledge cuts through the apparent separation between Śiva and the universe."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It purifies the limitations associated with Māyā.",
+   "directed": "It purifies the limitations associated with Māyā."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And it helps preserve the recognition of the supreme reality.",
+   "directed": "And it helps preserve the recognition of the supreme reality."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "An extraordinarily efficient gift.",
+   "directed": "An extraordinarily efficient gift."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It gives.",
+   "directed": "It gives."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Cuts.",
+   "directed": "Cuts."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Cleans.",
+   "directed": "Cleans."
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And preserves.",
+   "directed": "And preserves."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A complete metaphysical household appliance.",
+   "directed": "A complete metaphysical household appliance."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But then Kṣemarāja returns to the central meaning.",
+   "directed": "But then Kṣemarāja returns to the central meaning."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The realised yogi gives Self-knowledge to disciples.",
+   "directed": "The realised yogi gives Self-knowledge to disciples."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And he explicitly uses a word associated with students dwelling near the teacher.",
+   "directed": "And he explicitly uses a word associated with students dwelling near the teacher."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 3.28",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Antevāsin.",
+   "directed": "[slowly] Antevāsin."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Somebody living in proximity to the teacher.",
+   "directed": "Somebody living in proximity to the teacher."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is a reminder that we’re dealing with a historical tradition of instruction and transmission, not simply an abstract theory of consciousness.",
+   "directed": "This is a reminder that we’re dealing with a historical tradition of instruction and transmission, not simply an abstract theory of consciousness."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja goes further.",
+   "directed": "And Kṣemarāja goes further."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He cites a traditional claim that accomplished yogis established in the unity of Śiva, Śakti and the individual can liberate others through their presence or touch.",
+   "directed": "He cites a traditional claim that accomplished yogis established in the unity of Śiva, Śakti and the individual can liberate others through their presence or touch."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is a claim about divine grace and the extraordinary efficacy of realised teachers within the tantric tradition.",
+   "directed": "This is a claim about divine grace and the extraordinary efficacy of realised teachers within the tantric tradition."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It should not be presented as an experimentally established capacity to confer liberation by physical contact. Sanskrit & Trika Shaivism.",
+   "directed": "It should not be presented as an experimentally established capacity to confer liberation by physical contact. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But philosophically, it tells us something profound about the ideal teacher.",
+   "directed": "But philosophically, it tells us something profound about the ideal teacher."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The teacher isn’t merely someone who knows more facts than the pupil.",
+   "directed": "The teacher isn’t merely someone who knows more facts than the pupil."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They’re someone whose recognition of the supreme reality can become an occasion for awakening in another.",
+   "directed": "They’re someone whose recognition of the supreme reality can become an occasion for awakening in another."
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now think about the relationship between this sūtra and the previous one.",
+   "directed": "And now think about the relationship between this sūtra and the previous one."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "At 3.27:",
+   "directed": "[short pause] At 3.27:"
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 3.28",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Kathā japaḥ.",
+   "directed": "[slowly] Kathā japaḥ."
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Speech is mantra-recitation.",
+   "directed": "Speech is mantra-recitation."
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "At 3.28:",
+   "directed": "[short pause] At 3.28:"
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 3.28",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Dānam ātmajñānam.",
+   "directed": "[slowly] Dānam ātmajñānam."
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The gift is Self-knowledge.",
+   "directed": "The gift is Self-knowledge."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Speech has become rooted in recognition.",
+   "directed": "Speech has become rooted in recognition."
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now speech can become an instrument through which recognition is communicated.",
+   "directed": "And now speech can become an instrument through which recognition is communicated."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That’s an extraordinary progression.",
+   "directed": "That’s an extraordinary progression."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The very language that once contributed to bondage can become a vehicle of liberation.",
+   "directed": "The very language that once contributed to bondage can become a vehicle of liberation."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Remember Mātṛkā?",
+   "directed": "Remember Mātṛkā?"
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The mother of the phonemes?",
+   "directed": "The mother of the phonemes?"
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The same power whose differentiated activity could conceal consciousness can now communicate knowledge of its source.",
+   "directed": "The same power whose differentiated activity could conceal consciousness can now communicate knowledge of its source."
+  },
+  {
+   "id": "b77",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And therefore the teacher’s speech participates in the liberating function of Śakti.",
+   "directed": "And therefore the teacher’s speech participates in the liberating function of Śakti."
+  },
+  {
+   "id": "b78",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, this is where Trika’s understanding of anugraha becomes important.",
+   "directed": "Now, this is where Trika’s understanding of anugraha becomes important."
+  },
+  {
+   "id": "b79",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Grace.",
+   "directed": "Grace."
+  },
+  {
+   "id": "b80",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The power through which the supreme reality becomes recognised.",
+   "directed": "The power through which the supreme reality becomes recognised."
+  },
+  {
+   "id": "b81",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In the broader Śaiva system, anugraha is one of the divine functions associated with Śiva.",
+   "directed": "In the broader Śaiva system, anugraha is one of the divine functions associated with Śiva."
+  },
+  {
+   "id": "b82",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Manifestation.",
+   "directed": "Manifestation."
+  },
+  {
+   "id": "b83",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Maintenance.",
+   "directed": "Maintenance."
+  },
+  {
+   "id": "b84",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Withdrawal.",
+   "directed": "Withdrawal."
+  },
+  {
+   "id": "b85",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Concealment.",
+   "directed": "Concealment."
+  },
+  {
+   "id": "b86",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Grace.",
+   "directed": "Grace."
+  },
+  {
+   "id": "b87",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the last is especially significant.",
+   "directed": "And the last is especially significant."
+  },
+  {
+   "id": "b88",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because the same supreme reality that freely permits contraction also possesses the power through which that contraction can be overcome.",
+   "directed": "Because the same supreme reality that freely permits contraction also possesses the power through which that contraction can be overcome."
+  },
+  {
+   "id": "b89",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Within the tradition, the genuine teacher can function as a vehicle of that grace.",
+   "directed": "Within the tradition, the genuine teacher can function as a vehicle of that grace."
+  },
+  {
+   "id": "b90",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And there’s a wonderful implication.",
+   "directed": "And there’s a wonderful implication."
+  },
+  {
+   "id": "b91",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The highest gift is not necessarily a new object added to the recipient’s possessions.",
+   "directed": "The highest gift is not necessarily a new object added to the recipient’s possessions."
+  },
+  {
+   "id": "b92",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is the disclosure of what was already fundamental.",
+   "directed": "It is the disclosure of what was already fundamental."
+  },
+  {
+   "id": "b93",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Imagine somebody convinced they’ve lost their home.",
+   "directed": "Imagine somebody convinced they’ve lost their home."
+  },
+  {
+   "id": "b94",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They spend years wandering.",
+   "directed": "They spend years wandering."
+  },
+  {
+   "id": "b95",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Searching.",
+   "directed": "Searching."
+  },
+  {
+   "id": "b96",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Asking for directions.",
+   "directed": "Asking for directions."
+  },
+  {
+   "id": "b97",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Building temporary shelters.",
+   "directed": "Building temporary shelters."
+  },
+  {
+   "id": "b98",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And eventually somebody tells them:",
+   "directed": "[short pause] And eventually somebody tells them:"
+  },
+  {
+   "id": "b99",
+   "section": "Śiva Sūtras 3.28",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“You’re standing in it.”",
+   "directed": "[short pause] “You’re standing in it.”"
+  },
+  {
+   "id": "b100",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The gift wasn’t a newly constructed house.",
+   "directed": "The gift wasn’t a newly constructed house."
+  },
+  {
+   "id": "b101",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It was the recognition of their actual situation.",
+   "directed": "It was the recognition of their actual situation."
+  },
+  {
+   "id": "b102",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Again, that’s only an analogy.",
+   "directed": "Again, that’s only an analogy."
+  },
+  {
+   "id": "b103",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But it captures the structure of pratyabhijñā.",
+   "directed": "But it captures the structure of pratyabhijñā."
+  },
+  {
+   "id": "b104",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Recognition.",
+   "directed": "Recognition."
+  },
+  {
+   "id": "b105",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The teacher does not manufacture the student’s Self.",
+   "directed": "The teacher does not manufacture the student’s Self."
+  },
+  {
+   "id": "b106",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They help disclose its nature.",
+   "directed": "They help disclose its nature."
+  },
+  {
+   "id": "b107",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And perhaps that is why this sūtra is so beautiful.",
+   "directed": "And perhaps that is why this sūtra is so beautiful."
+  },
+  {
+   "id": "b108",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It takes the most extraordinary metaphysical doctrine imaginable and expresses its highest communicative function through a very ordinary human act.",
+   "directed": "It takes the most extraordinary metaphysical doctrine imaginable and expresses its highest communicative function through a very ordinary human act."
+  },
+  {
+   "id": "b109",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Giving.",
+   "directed": "Giving."
+  },
+  {
+   "id": "b110",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The gift is knowledge.",
+   "directed": "The gift is knowledge."
+  },
+  {
+   "id": "b111",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the knowledge is of the Self.",
+   "directed": "And the knowledge is of the Self."
+  },
+  {
+   "id": "b112",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But now Vasugupta makes an important distinction.",
+   "directed": "But now Vasugupta makes an important distinction."
+  },
+  {
+   "id": "b113",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because not everybody who speaks about Śiva is necessarily capable of awakening others.",
+   "directed": "Because not everybody who speaks about Śiva is necessarily capable of awakening others."
+  },
+  {
+   "id": "b114",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the next sūtra is perhaps the most linguistically peculiar in the entire section.",
+   "directed": "And the next sūtra is perhaps the most linguistically peculiar in the entire section."
+  },
+  {
+   "id": "b115",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Even Kṣemarāja has to deal with some rather adventurous etymological interpretations.",
+   "directed": "Even Kṣemarāja has to deal with some rather adventurous etymological interpretations."
+  },
+  {
+   "id": "b116",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which is fantastic.",
+   "directed": "Which is fantastic."
+  },
+  {
+   "id": "b117",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The man is apparently about to explain why people can get so carried away with Sanskrit wordplay that they start inventing entire philosophies out of syllables.",
+   "directed": "The man is apparently about to explain why people can get so carried away with Sanskrit wordplay that they start inventing entire philosophies out of syllables."
+  },
+  {
+   "id": "b118",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Finally.",
+   "directed": "Finally."
+  },
+  {
+   "id": "b119",
+   "section": "Śiva Sūtras 3.28",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Somebody said it.",
+   "directed": "Somebody said it."
+  }
+ ],
+ "totals": {
+  "blocks": 120,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 828,
+   "verse": 8
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 5.5,
+   "verse": 0.1
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

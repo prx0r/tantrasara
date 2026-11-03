@@ -1,0 +1,65 @@
+{
+ "iccha": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b24"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "jnana": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b24"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "kriya": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b24"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "prayatnah": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "sadhaka": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b20"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "sadhakah": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "tantrasadbhava": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b36"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ }
+}

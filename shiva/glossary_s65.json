@@ -1,0 +1,74 @@
+{
+ "bahih": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b12"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "duhkha": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b10"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "idanta": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b34"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "isvarapratyabhijnavimarsini": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b61"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "puryastaka": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b51"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "sakti": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b91"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "spandakarika": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b61"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "sukhaduhkhayor": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ }
+}

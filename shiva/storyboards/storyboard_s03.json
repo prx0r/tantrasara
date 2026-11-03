@@ -1,0 +1,313 @@
+{
+ "title": "Śiva Sūtras 1.3",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 1.3",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 1.3",
+   "directed": "[long pause] Śiva Sūtras 1.3"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 1.3",
+   "type": "verse",
+   "voice": "verse",
+   "text": "योनिवर्गः कलाशरीरम्",
+   "directed": "[slowly] योनिवर्गः कलाशरीरम्"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 1.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Yonivargaḥ kalāśarīram.",
+   "directed": "Yonivargaḥ kalāśarīram."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 1.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The source and its multiplicity; that whose nature is limited activity.",
+   "directed": "The source and its multiplicity; that whose nature is limited activity."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 1.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Universe Has Three Different Ways to Ruin Your Day.",
+   "directed": "The Universe Has Three Different Ways to Ruin Your Day."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 1.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vasugupta now expands the explanation of bondage.",
+   "directed": "Vasugupta now expands the explanation of bondage."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 1.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The sūtra is extremely compact. Kṣemarāja reads it in connection with the previous statement, “Knowledge is bondage,” and elaborates the remaining forms of impurity.",
+   "directed": "The sūtra is extremely compact. Kṣemarāja reads it in connection with the previous statement, “Knowledge is bondage,” and elaborates the remaining forms of impurity."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 1.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Welcome to the three malas.",
+   "directed": "Welcome to the three malas."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 1.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Āṇavamala — The impurity of smallness.",
+   "directed": "Āṇavamala — The impurity of smallness."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 1.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The fundamental feeling of incompleteness.",
+   "directed": "The fundamental feeling of incompleteness."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 1.3",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“I am only this.”",
+   "directed": "[short pause] “I am only this.”"
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 1.3",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“I am not enough.”",
+   "directed": "[short pause] “I am not enough.”"
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 1.3",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“I am this little subject rather than the limitless whole.”",
+   "directed": "[short pause] “I am this little subject rather than the limitless whole.”"
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 1.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The infinite has apparently decided to identify as a fraction of itself.",
+   "directed": "The infinite has apparently decided to identify as a fraction of itself."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 1.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Māyīyamala — The impurity of differentiation.",
+   "directed": "Māyīyamala — The impurity of differentiation."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 1.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now consciousness doesn’t merely experience itself as limited.",
+   "directed": "Now consciousness doesn’t merely experience itself as limited."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 1.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It experiences reality as divided into separate objects.",
+   "directed": "It experiences reality as divided into separate objects."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 1.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is mine.",
+   "directed": "This is mine."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 1.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That’s yours.",
+   "directed": "That’s yours."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 1.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That’s pleasant.",
+   "directed": "That’s pleasant."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 1.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That’s disgusting.",
+   "directed": "That’s disgusting."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 1.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That person disagrees with me and must therefore be metaphysically defective.",
+   "directed": "That person disagrees with me and must therefore be metaphysically defective."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 1.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The world appears as a multiplicity of independently existing things.",
+   "directed": "The world appears as a multiplicity of independently existing things."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 1.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kārmamala — The impurity of limited agency and action.",
+   "directed": "Kārmamala — The impurity of limited agency and action."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 1.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now the individual acts within the limitations it experiences, generating further karmic involvement.",
+   "directed": "Now the individual acts within the limitations it experiences, generating further karmic involvement."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 1.3",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“I did this.”",
+   "directed": "[short pause] “I did this.”"
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 1.3",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“I must obtain that.”",
+   "directed": "[short pause] “I must obtain that.”"
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 1.3",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“I have to correct what happened yesterday.”",
+   "directed": "[short pause] “I have to correct what happened yesterday.”"
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 1.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the entire machinery of conditioned experience keeps operating.",
+   "directed": "And the entire machinery of conditioned experience keeps operating."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 1.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Notice the elegance.",
+   "directed": "Notice the elegance."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 1.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "First, I am limited.",
+   "directed": "First, I am limited."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 1.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then, the world is separate from me.",
+   "directed": "Then, the world is separate from me."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 1.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then, I am a limited agent who must act within this separate world.",
+   "directed": "Then, I am a limited agent who must act within this separate world."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 1.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And suddenly you’ve got the entire human predicament.",
+   "directed": "And suddenly you’ve got the entire human predicament."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 1.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The technical details of yoni, varga, and kalāśarīra belong to Trika’s theory of manifestation and its limited powers of agency, not merely a psychological metaphor. Kṣemarāja explicitly connects the sūtra with māyīyamala and kārmamala. Sanskrit & Trika Shaivism.",
+   "directed": "The technical details of yoni, varga, and kalāśarīra belong to Trika’s theory of manifestation and its limited powers of agency, not merely a psychological metaphor. Kṣemarāja explicitly connects the sūtra with māyīyamala and kārmamala. Sanskrit & Trika Shaivism."
+  }
+ ],
+ "totals": {
+  "blocks": 36,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 249,
+   "verse": 2,
+   "man": 24
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 1.7,
+   "verse": 0.0,
+   "man": 0.2
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

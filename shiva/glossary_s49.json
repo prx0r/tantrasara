@@ -1,0 +1,83 @@
+{
+ "apadayati": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "jivanmukti": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b57"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "matra": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b15"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "nirmana": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b16"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "pratyabhijna": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b43"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "sakti": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b40"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "spandakarika": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b56"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "svamatra": {
+  "deva": "",
+  "gloss": "the measure belonging to their own consciousness",
+  "status": "proposed",
+  "cue_blocks": [
+   "b18"
+  ],
+  "note": "appositive-mined, confirm"
+ },
+ "svamatranirmanam": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ }
+}

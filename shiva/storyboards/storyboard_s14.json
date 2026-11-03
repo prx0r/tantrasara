@@ -1,0 +1,319 @@
+{
+ "title": "Śiva Sūtras 1.14",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 1.14",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 1.14",
+   "directed": "[long pause] Śiva Sūtras 1.14"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 1.14",
+   "type": "verse",
+   "voice": "verse",
+   "text": "दृश्यं शरीरम्",
+   "directed": "[slowly] दृश्यं शरीरम्"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 1.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Dṛśyaṃ śarīram.",
+   "directed": "Dṛśyaṃ śarīram."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 1.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The seen is the body.",
+   "directed": "The seen is the body."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 1.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Your Body Is the Entire Bloody Universe.",
+   "directed": "Your Body Is the Entire Bloody Universe."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 1.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Oh, this one’s magnificent.",
+   "directed": "Oh, this one’s magnificent."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 1.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Dṛśya — that which is seen or perceived.",
+   "directed": "Dṛśya — that which is seen or perceived."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 1.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śarīra — body.",
+   "directed": "Śarīra — body."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 1.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vasugupta is saying that for the realised yogi, the entire field of perceptible manifestation is experienced as their body.",
+   "directed": "Vasugupta is saying that for the realised yogi, the entire field of perceptible manifestation is experienced as their body."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 1.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not merely the collection of flesh and bones they happen to be inhabiting.",
+   "directed": "Not merely the collection of flesh and bones they happen to be inhabiting."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 1.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Everything.",
+   "directed": "Everything."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 1.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The trees.",
+   "directed": "The trees."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 1.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The rivers.",
+   "directed": "The rivers."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 1.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The mountains.",
+   "directed": "The mountains."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 1.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The sky.",
+   "directed": "The sky."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 1.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Other people.",
+   "directed": "Other people."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 1.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The entire manifest universe.",
+   "directed": "The entire manifest universe."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 1.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, before you go outside shouting, “THAT BUS IS MY LEFT ARM,” we need to understand the metaphysical claim.",
+   "directed": "Now, before you go outside shouting, “THAT BUS IS MY LEFT ARM,” we need to understand the metaphysical claim."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 1.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Your ordinary body is experienced as intimately belonging to you.",
+   "directed": "Your ordinary body is experienced as intimately belonging to you."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 1.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Your hand does not ordinarily appear as a completely foreign object with which you have no relationship.",
+   "directed": "Your hand does not ordinarily appear as a completely foreign object with which you have no relationship."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 1.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You experience it as part of your embodied existence.",
+   "directed": "You experience it as part of your embodied existence."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 1.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "For the liberated yogi, Kṣemarāja describes an analogous but vastly expanded identification.",
+   "directed": "For the liberated yogi, Kṣemarāja describes an analogous but vastly expanded identification."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 1.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The whole field of manifestation is recognised as inseparable from the universal consciousness that is one’s true nature.",
+   "directed": "The whole field of manifestation is recognised as inseparable from the universal consciousness that is one’s true nature."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 1.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This isn’t a claim that your individual organism physically extends to every planet.",
+   "directed": "This isn’t a claim that your individual organism physically extends to every planet."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 1.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nor does it mean other persons cease to have their own lived perspectives.",
+   "directed": "Nor does it mean other persons cease to have their own lived perspectives."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 1.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is a radical transformation of the fundamental distinction between self and world.",
+   "directed": "It is a radical transformation of the fundamental distinction between self and world."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 1.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "What was previously experienced as alien and external is recognised as manifestation within the one conscious reality.",
+   "directed": "What was previously experienced as alien and external is recognised as manifestation within the one conscious reality."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 1.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja explicitly includes both internal and external appearances.",
+   "directed": "And Kṣemarāja explicitly includes both internal and external appearances."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 1.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The physical body, too, is something perceived.",
+   "directed": "The physical body, too, is something perceived."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 1.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is not the ultimate perceiver.",
+   "directed": "It is not the ultimate perceiver."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 1.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which means that your ordinary body is itself part of the manifested field.",
+   "directed": "Which means that your ordinary body is itself part of the manifested field."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 1.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not a prison containing consciousness.",
+   "directed": "Not a prison containing consciousness."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 1.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "An expression of consciousness.",
+   "directed": "An expression of consciousness."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 1.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The universe has become the body of Śiva.",
+   "directed": "The universe has become the body of Śiva."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 1.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the realised yogi recognises it as such.",
+   "directed": "And the realised yogi recognises it as such."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 1.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sanskrit & Trika Shaivism.",
+   "directed": "Sanskrit & Trika Shaivism."
+  }
+ ],
+ "totals": {
+  "blocks": 37,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 284,
+   "verse": 2
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 1.9,
+   "verse": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

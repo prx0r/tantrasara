@@ -1,0 +1,921 @@
+{
+ "title": "Śiva Sūtras 3.37",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 3.37",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 3.37",
+   "directed": "[long pause] Śiva Sūtras 3.37"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 3.37",
+   "type": "verse",
+   "voice": "verse",
+   "text": "करणशक्तिः स्वतोऽनुभवात्",
+   "directed": "[slowly] करणशक्तिः स्वतोऽनुभवात्"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Karaṇaśaktiḥ svato ’nubhavāt.",
+   "directed": "Karaṇaśaktiḥ svato ’nubhavāt."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The power of creation is known from one’s own experience.",
+   "directed": "The power of creation is known from one’s own experience."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You Literally Generate Entire Worlds in Dreams. Śiva Would Like a Word.",
+   "directed": "You Literally Generate Entire Worlds in Dreams. Śiva Would Like a Word."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Oh, this is a beauty.",
+   "directed": "Oh, this is a beauty."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because Kṣemarāja is about to support his metaphysical argument by appealing to something everyone can investigate.",
+   "directed": "Because Kṣemarāja is about to support his metaphysical argument by appealing to something everyone can investigate."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Their own experience.",
+   "directed": "Their own experience."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s unpack the Sanskrit.",
+   "directed": "Let’s unpack the Sanskrit."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Karaṇa — making, producing, creating.",
+   "directed": "Karaṇa — making, producing, creating."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śakti — power.",
+   "directed": "Śakti — power."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Svataḥ — from oneself, from one’s own standpoint.",
+   "directed": "Svataḥ — from oneself, from one’s own standpoint."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Anubhavāt — from direct experience.",
+   "directed": "Anubhavāt — from direct experience."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the interpretation is:",
+   "directed": "[short pause] And the interpretation is:"
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The creative power of consciousness is already evident through experience.",
+   "directed": "The creative power of consciousness is already evident through experience."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, Kṣemarāja gives two examples.",
+   "directed": "Now, Kṣemarāja gives two examples."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 3.37",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Saṅkalpa.",
+   "directed": "[slowly] Saṅkalpa."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Mental construction, imaginative determination.",
+   "directed": "Mental construction, imaginative determination."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And:",
+   "directed": "[short pause] And:"
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Svapna.",
+   "directed": "Svapna."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Dreaming.",
+   "directed": "Dreaming."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is where the whole thing becomes extraordinary.",
+   "directed": "And this is where the whole thing becomes extraordinary."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Consider a dream.",
+   "directed": "Consider a dream."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’re asleep.",
+   "directed": "You’re asleep."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And suddenly there’s a world.",
+   "directed": "And suddenly there’s a world."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Buildings.",
+   "directed": "Buildings."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "People.",
+   "directed": "People."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Mountains.",
+   "directed": "Mountains."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "An entire environment.",
+   "directed": "An entire environment."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Perhaps you’re standing in a city you’ve never visited.",
+   "directed": "Perhaps you’re standing in a city you’ve never visited."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Perhaps you’re speaking to somebody who died years ago.",
+   "directed": "Perhaps you’re speaking to somebody who died years ago."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Perhaps you’re being chased by a six-foot goose wearing a police uniform.",
+   "directed": "Perhaps you’re being chased by a six-foot goose wearing a police uniform."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Absolutely terrifying.",
+   "directed": "Absolutely terrifying."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But for the duration of the dream, the world appears.",
+   "directed": "But for the duration of the dream, the world appears."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You experience it.",
+   "directed": "You experience it."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You respond to it.",
+   "directed": "You respond to it."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You may even believe it’s entirely independent of you.",
+   "directed": "You may even believe it’s entirely independent of you."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And then you wake up.",
+   "directed": "And then you wake up."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And discover that the dream world was not an independently existing physical environment of the same kind as your waking surroundings.",
+   "directed": "And discover that the dream world was not an independently existing physical environment of the same kind as your waking surroundings."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It arose through mental activity.",
+   "directed": "It arose through mental activity."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, modern neuroscience and Trika metaphysics would explain this in very different ways.",
+   "directed": "Now, modern neuroscience and Trika metaphysics would explain this in very different ways."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But Kṣemarāja’s immediate point is about the experience of manifestation.",
+   "directed": "But Kṣemarāja’s immediate point is about the experience of manifestation."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The mind can present forms, objects and situations that are experienced as a world.",
+   "directed": "The mind can present forms, objects and situations that are experienced as a world."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this shows, within his argument, that consciousness possesses a power of presentation or manifestation.",
+   "directed": "And this shows, within his argument, that consciousness possesses a power of presentation or manifestation."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He connects this with the Īśvarapratyabhijñā, whose account of knowledge and agency appeals to the capacity of living beings to manifest desired forms through cognition.",
+   "directed": "He connects this with the Īśvarapratyabhijñā, whose account of knowledge and agency appeals to the capacity of living beings to manifest desired forms through cognition."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is one of the most fascinating connections in the entire work.",
+   "directed": "And this is one of the most fascinating connections in the entire work."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because the argument isn’t merely:",
+   "directed": "[short pause] Because the argument isn’t merely:"
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 3.37",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Imagine something, therefore you can physically create anything.”",
+   "directed": "[short pause] “Imagine something, therefore you can physically create anything.”"
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That would be a logical leap.",
+   "directed": "That would be a logical leap."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And a rather dangerous one if you were planning to manifest a helicopter.",
+   "directed": "And a rather dangerous one if you were planning to manifest a helicopter."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The first step is more subtle.",
+   "directed": "The first step is more subtle."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Experience already displays a power of conscious manifestation.",
+   "directed": "Experience already displays a power of conscious manifestation."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In dreaming, the conscious field presents an elaborate world.",
+   "directed": "In dreaming, the conscious field presents an elaborate world."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In imagination, objects can be mentally represented without their corresponding external presence.",
+   "directed": "In imagination, objects can be mentally represented without their corresponding external presence."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And these examples become important for the Pratyabhijñā theory of agency.",
+   "directed": "And these examples become important for the Pratyabhijñā theory of agency."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now Kṣemarāja takes the argument further.",
+   "directed": "Now Kṣemarāja takes the argument further."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He says that when this creative power is recognised with intense determination, it can, according to the tantric account, become capable of manifesting things beyond the private domain of imagination.",
+   "directed": "He says that when this creative power is recognised with intense determination, it can, according to the tantric account, become capable of manifesting things beyond the private domain of imagination."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He even cites the Tattvagarbha on the yogi whose will becomes like a kalpavṛkṣa.",
+   "directed": "He even cites the Tattvagarbha on the yogi whose will becomes like a kalpavṛkṣa."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The wish-fulfilling tree.",
+   "directed": "The wish-fulfilling tree."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A tree that grants whatever you desire.",
+   "directed": "A tree that grants whatever you desire."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Quite an improvement over ordinary gardening.",
+   "directed": "Quite an improvement over ordinary gardening."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But again, distinguish the levels.",
+   "directed": "But again, distinguish the levels."
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The fact that dreams contain generated experiences is observable.",
+   "directed": "The fact that dreams contain generated experiences is observable."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The conclusion that a yogi can therefore manifest public physical objects at will is an additional traditional claim, not something established by the dream example alone.",
+   "directed": "The conclusion that a yogi can therefore manifest public physical objects at will is an additional traditional claim, not something established by the dream example alone."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja makes both moves, and we should preserve both without conflating them. Sanskrit & Trika Shaivism.",
+   "directed": "Kṣemarāja makes both moves, and we should preserve both without conflating them. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now let’s explore the philosophical point more deeply.",
+   "directed": "Now let’s explore the philosophical point more deeply."
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Why does the dream matter so much to nondual Śaivism?",
+   "directed": "Why does the dream matter so much to nondual Śaivism?"
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because it destabilises an assumption we make constantly.",
+   "directed": "Because it destabilises an assumption we make constantly."
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That whatever appears to consciousness must be entirely independent of the conscious process through which it is experienced.",
+   "directed": "That whatever appears to consciousness must be entirely independent of the conscious process through which it is experienced."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In a dream, that assumption becomes questionable.",
+   "directed": "In a dream, that assumption becomes questionable."
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A whole environment can appear as though it exists independently of the dreamer.",
+   "directed": "A whole environment can appear as though it exists independently of the dreamer."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And yet its manifestation is tied to the dreaming condition.",
+   "directed": "And yet its manifestation is tied to the dreaming condition."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, Kṣemarāja uses this to illustrate the larger doctrine of manifestation.",
+   "directed": "Now, Kṣemarāja uses this to illustrate the larger doctrine of manifestation."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The waking universe, from the supreme standpoint of Trika, is also understood as an expression of consciousness.",
+   "directed": "The waking universe, from the supreme standpoint of Trika, is also understood as an expression of consciousness."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But not simply a private dream produced by your personal human mind.",
+   "directed": "But not simply a private dream produced by your personal human mind."
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That distinction is absolutely essential.",
+   "directed": "That distinction is absolutely essential."
+  },
+  {
+   "id": "b77",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Universal consciousness is not identical to the ordinary individual imagination.",
+   "directed": "Universal consciousness is not identical to the ordinary individual imagination."
+  },
+  {
+   "id": "b78",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The supreme Aham is not the contracted ego.",
+   "directed": "The supreme Aham is not the contracted ego."
+  },
+  {
+   "id": "b79",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And therefore Trika’s account of cosmic manifestation is not the claim that the world exists merely because your private personality imagines it.",
+   "directed": "And therefore Trika’s account of cosmic manifestation is not the claim that the world exists merely because your private personality imagines it."
+  },
+  {
+   "id": "b80",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That would be a very crude form of solipsism.",
+   "directed": "That would be a very crude form of solipsism."
+  },
+  {
+   "id": "b81",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The doctrine is more radical.",
+   "directed": "The doctrine is more radical."
+  },
+  {
+   "id": "b82",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The individual mind itself is a manifestation within universal consciousness.",
+   "directed": "The individual mind itself is a manifestation within universal consciousness."
+  },
+  {
+   "id": "b83",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the world of waking experience is also understood through that universal conscious reality.",
+   "directed": "And the world of waking experience is also understood through that universal conscious reality."
+  },
+  {
+   "id": "b84",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The individual doesn’t create Śiva.",
+   "directed": "The individual doesn’t create Śiva."
+  },
+  {
+   "id": "b85",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śiva manifests the individual.",
+   "directed": "Śiva manifests the individual."
+  },
+  {
+   "id": "b86",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the world.",
+   "directed": "And the world."
+  },
+  {
+   "id": "b87",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And their relationship.",
+   "directed": "And their relationship."
+  },
+  {
+   "id": "b88",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now consider the beauty of that.",
+   "directed": "Now consider the beauty of that."
+  },
+  {
+   "id": "b89",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ordinarily you ask:",
+   "directed": "[short pause] Ordinarily you ask:"
+  },
+  {
+   "id": "b90",
+   "section": "Śiva Sūtras 3.37",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“How does my consciousness relate to the world?”",
+   "directed": "[short pause] “How does my consciousness relate to the world?”"
+  },
+  {
+   "id": "b91",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But Trika changes the question.",
+   "directed": "But Trika changes the question."
+  },
+  {
+   "id": "b92",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It asks:",
+   "directed": "[short pause] It asks:"
+  },
+  {
+   "id": "b93",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "How does universal consciousness manifest the distinction between a limited subject and its world?",
+   "directed": "How does universal consciousness manifest the distinction between a limited subject and its world?"
+  },
+  {
+   "id": "b94",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The first question assumes two fundamental realities and tries to connect them.",
+   "directed": "The first question assumes two fundamental realities and tries to connect them."
+  },
+  {
+   "id": "b95",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The second begins from one reality and explains the appearance of differentiation.",
+   "directed": "The second begins from one reality and explains the appearance of differentiation."
+  },
+  {
+   "id": "b96",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that is precisely what Kṣemarāja’s interpretation of karaṇaśakti is doing.",
+   "directed": "And that is precisely what Kṣemarāja’s interpretation of karaṇaśakti is doing."
+  },
+  {
+   "id": "b97",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The creative power of consciousness is understood as intrinsic to the Self.",
+   "directed": "The creative power of consciousness is understood as intrinsic to the Self."
+  },
+  {
+   "id": "b98",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And dreaming becomes one accessible illustration of manifestation.",
+   "directed": "And dreaming becomes one accessible illustration of manifestation."
+  },
+  {
+   "id": "b99",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, this brings us to an enormous philosophical development.",
+   "directed": "Now, this brings us to an enormous philosophical development."
+  },
+  {
+   "id": "b100",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because the final sūtras are about to move away from the special question of extraordinary creative powers.",
+   "directed": "Because the final sūtras are about to move away from the special question of extraordinary creative powers."
+  },
+  {
+   "id": "b101",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And return to something much more immediate.",
+   "directed": "And return to something much more immediate."
+  },
+  {
+   "id": "b102",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The three fundamental movements of manifestation.",
+   "directed": "The three fundamental movements of manifestation."
+  },
+  {
+   "id": "b103",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Arising.",
+   "directed": "Arising."
+  },
+  {
+   "id": "b104",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Remaining.",
+   "directed": "Remaining."
+  },
+  {
+   "id": "b105",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Subsiding.",
+   "directed": "Subsiding."
+  },
+  {
+   "id": "b106",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the fourth state of consciousness that underlies them.",
+   "directed": "And the fourth state of consciousness that underlies them."
+  },
+  {
+   "id": "b107",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But this time, Kṣemarāja is going to connect them to everyday experiences of joy, delight, wonder, and even sensual pleasure.",
+   "directed": "But this time, Kṣemarāja is going to connect them to everyday experiences of joy, delight, wonder, and even sensual pleasure."
+  },
+  {
+   "id": "b108",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which is very tantric indeed.",
+   "directed": "Which is very tantric indeed."
+  },
+  {
+   "id": "b109",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Apparently the highest metaphysical reality can become apparent while listening to beautiful music.",
+   "directed": "Apparently the highest metaphysical reality can become apparent while listening to beautiful music."
+  },
+  {
+   "id": "b110",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Excellent.",
+   "directed": "[short pause] Excellent."
+  },
+  {
+   "id": "b111",
+   "section": "Śiva Sūtras 3.37",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Finally, a spiritual path with decent acoustics.",
+   "directed": "Finally, a spiritual path with decent acoustics."
+  }
+ ],
+ "totals": {
+  "blocks": 112,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 901,
+   "verse": 3,
+   "man": 8
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 6.0,
+   "verse": 0.0,
+   "man": 0.1
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

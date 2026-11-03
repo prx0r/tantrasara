@@ -1,0 +1,165 @@
+{
+ "title": "The Śiva Sūtras",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "The Śiva Sūtras",
+   "type": "title",
+   "voice": "granny",
+   "text": "The Śiva Sūtras",
+   "directed": "[long pause] The Śiva Sūtras"
+  },
+  {
+   "id": "b2",
+   "section": "The Śiva Sūtras",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vasugupta’s Guide to Realising You’re Literally Śiva, You Absolute Donut.",
+   "directed": "Vasugupta’s Guide to Realising You’re Literally Śiva, You Absolute Donut."
+  },
+  {
+   "id": "b3",
+   "section": "The Śiva Sūtras",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Way of Śiva: Your Consciousness Has Been Running the Entire Universe and Somehow You Didn’t Notice.",
+   "directed": "The Way of Śiva: Your Consciousness Has Been Running the Entire Universe and Somehow You Didn’t Notice."
+  },
+  {
+   "id": "b4",
+   "section": "The Śiva Sūtras",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Right. We’re back in Kashmir.",
+   "directed": "Right. We’re back in Kashmir."
+  },
+  {
+   "id": "b5",
+   "section": "The Śiva Sūtras",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ninth century, give or take. The Himalayas. Snow-covered mountains. Ancient temples. A man named Vasugupta is about to receive what tradition describes as a revelation from Śiva himself.",
+   "directed": "Ninth century, give or take. The Himalayas. Snow-covered mountains. Ancient temples. A man named Vasugupta is about to receive what tradition describes as a revelation from Śiva himself."
+  },
+  {
+   "id": "b6",
+   "section": "The Śiva Sūtras",
+   "type": "narration",
+   "voice": "granny",
+   "text": "According to one famous account, Śiva appears to Vasugupta in a dream and directs him towards a rock bearing a secret teaching.",
+   "directed": "According to one famous account, Śiva appears to Vasugupta in a dream and directs him towards a rock bearing a secret teaching."
+  },
+  {
+   "id": "b7",
+   "section": "The Śiva Sūtras",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And what’s this incredible revelation?",
+   "directed": "And what’s this incredible revelation?"
+  },
+  {
+   "id": "b8",
+   "section": "The Śiva Sūtras",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Seventy-seven tiny statements.",
+   "directed": "Seventy-seven tiny statements."
+  },
+  {
+   "id": "b9",
+   "section": "The Śiva Sūtras",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That’s it.",
+   "directed": "That’s it."
+  },
+  {
+   "id": "b10",
+   "section": "The Śiva Sūtras",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Twenty-two in the first section. Ten in the second. Forty-five in the third.",
+   "directed": "Twenty-two in the first section. Ten in the second. Forty-five in the third."
+  },
+  {
+   "id": "b11",
+   "section": "The Śiva Sūtras",
+   "type": "narration",
+   "voice": "granny",
+   "text": "No elaborate mythology. No 600-page introduction. Just the metaphysical equivalent of a bloke walking into your house, informing you that you’ve misunderstood the entire nature of reality, and disappearing.",
+   "directed": "No elaborate mythology. No 600-page introduction. Just the metaphysical equivalent of a bloke walking into your house, informing you that you’ve misunderstood the entire nature of reality, and disappearing."
+  },
+  {
+   "id": "b12",
+   "section": "The Śiva Sūtras",
+   "type": "narration",
+   "voice": "granny",
+   "text": "These are the Śiva Sūtras.",
+   "directed": "These are the Śiva Sūtras."
+  },
+  {
+   "id": "b13",
+   "section": "The Śiva Sūtras",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And unlike the Tantrasāra, which was written by Abhinavagupta as an extensive systematic exposition, this thing is absolutely compressed.",
+   "directed": "And unlike the Tantrasāra, which was written by Abhinavagupta as an extensive systematic exposition, this thing is absolutely compressed."
+  },
+  {
+   "id": "b14",
+   "section": "The Śiva Sūtras",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A single word can contain an entire metaphysics.",
+   "directed": "A single word can contain an entire metaphysics."
+  },
+  {
+   "id": "b15",
+   "section": "The Śiva Sūtras",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Fortunately, Abhinavagupta’s disciple Kṣemarāja wrote the Śivasūtravimarśinī, which helps unpack what on earth Vasugupta is on about.",
+   "directed": "Fortunately, Abhinavagupta’s disciple Kṣemarāja wrote the Śivasūtravimarśinī, which helps unpack what on earth Vasugupta is on about."
+  },
+  {
+   "id": "b16",
+   "section": "The Śiva Sūtras",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re going through all 77 in their traditional order, with the authentic Sanskrit, accessible glosses, and an original, mildly unhinged narration grounded primarily in Kṣemarāja’s interpretation. The jokes are ours; the sūtras are real.",
+   "directed": "We’re going through all 77 in their traditional order, with the authentic Sanskrit, accessible glosses, and an original, mildly unhinged narration grounded primarily in Kṣemarāja’s interpretation. The jokes are ours; the sūtras are real."
+  },
+  {
+   "id": "b17",
+   "section": "The Śiva Sūtras",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Lets get into it.",
+   "directed": "Lets get into it."
+  }
+ ],
+ "totals": {
+  "blocks": 18,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 224
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 1.5
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

@@ -1,0 +1,937 @@
+{
+ "title": "Śiva Sūtras 3.21",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 3.21",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 3.21",
+   "directed": "[long pause] Śiva Sūtras 3.21"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 3.21",
+   "type": "verse",
+   "voice": "verse",
+   "text": "मग्नः स्वचित्तेन प्रविशेत्",
+   "directed": "[slowly] मग्नः स्वचित्तेन प्रविशेत्"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Magnaḥ svacittena praviśet.",
+   "directed": "Magnaḥ svacittena praviśet."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Being immersed, one should enter with one’s own mind.",
+   "directed": "Being immersed, one should enter with one’s own mind."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Use Your Mind to Enter the State Beyond Your Mind. Brilliant. Thanks.",
+   "directed": "Use Your Mind to Enter the State Beyond Your Mind. Brilliant. Thanks."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Right.",
+   "directed": "[short pause] Right."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s clarify the problem.",
+   "directed": "Let’s clarify the problem."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We want to enter turya.",
+   "directed": "We want to enter turya."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The fourth state.",
+   "directed": "The fourth state."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’ve been instructed to infuse it into waking, dreaming and deep sleep.",
+   "directed": "We’ve been instructed to infuse it into waking, dreaming and deep sleep."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now Vasugupta tells us to enter with our own mind.",
+   "directed": "And now Vasugupta tells us to enter with our own mind."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But hang on.",
+   "directed": "But hang on."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Wasn’t the mind the instrument of limitation?",
+   "directed": "Wasn’t the mind the instrument of limitation?"
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Didn’t Book III literally begin:",
+   "directed": "[short pause] Didn’t Book III literally begin:"
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 3.21",
+   "type": "verse",
+   "voice": "verse",
+   "text": "आत्मा चित्तम्।",
+   "directed": "[slowly] आत्मा चित्तम्।"
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ātmā cittam.",
+   "directed": "Ātmā cittam."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Self is mind.",
+   "directed": "The Self is mind."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Wasn’t that the problem?",
+   "directed": "Wasn’t that the problem?"
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now we’re supposed to use the mind to transcend the limitations of mind?",
+   "directed": "And now we’re supposed to use the mind to transcend the limitations of mind?"
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Yes.",
+   "directed": "[short pause] Yes."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Exactly.",
+   "directed": "[short pause] Exactly."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Welcome to Āṇavopāya.",
+   "directed": "Welcome to Āṇavopāya."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s unpack the Sanskrit.",
+   "directed": "Let’s unpack the Sanskrit."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Magnaḥ — immersed, submerged.",
+   "directed": "Magnaḥ — immersed, submerged."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sva — one’s own.",
+   "directed": "Sva — one’s own."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Cittena — with the mind or consciousness, instrumental singular.",
+   "directed": "Cittena — with the mind or consciousness, instrumental singular."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Praviśet — one should enter, from pra-viś, to enter into.",
+   "directed": "Praviśet — one should enter, from pra-viś, to enter into."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, Kṣemarāja explains that the practitioner must enter through an inwardly directed, nonconceptual awareness.",
+   "directed": "Now, Kṣemarāja explains that the practitioner must enter through an inwardly directed, nonconceptual awareness."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here’s the important bit.",
+   "directed": "And here’s the important bit."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He specifically discusses relinquishing reliance on the grosser procedures of practice.",
+   "directed": "He specifically discusses relinquishing reliance on the grosser procedures of practice."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Breath regulation.",
+   "directed": "Breath regulation."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Meditation.",
+   "directed": "Meditation."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Concentration.",
+   "directed": "Concentration."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The deliberate operations employed in earlier stages.",
+   "directed": "The deliberate operations employed in earlier stages."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Why?",
+   "directed": "Why?"
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because once the practitioner has approached the conscious source through these methods, the final entry isn’t accomplished simply by multiplying techniques.",
+   "directed": "Because once the practitioner has approached the conscious source through these methods, the final entry isn’t accomplished simply by multiplying techniques."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Imagine using a ladder to climb onto a roof.",
+   "directed": "Imagine using a ladder to climb onto a roof."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The ladder is extremely useful.",
+   "directed": "The ladder is extremely useful."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You need it.",
+   "directed": "You need it."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You climb.",
+   "directed": "You climb."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Step by step.",
+   "directed": "Step by step."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But when you’ve reached the roof, you don’t continue climbing the ladder indefinitely.",
+   "directed": "But when you’ve reached the roof, you don’t continue climbing the ladder indefinitely."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "At some point you have to step off.",
+   "directed": "At some point you have to step off."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Otherwise you’re going to end up standing on the top rung, clutching the ladder, asking whether there’s a more advanced ladder available.",
+   "directed": "Otherwise you’re going to end up standing on the top rung, clutching the ladder, asking whether there’s a more advanced ladder available."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is the situation Kṣemarāja is describing.",
+   "directed": "This is the situation Kṣemarāja is describing."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The methods prepare and orient the practitioner.",
+   "directed": "The methods prepare and orient the practitioner."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the recognition of consciousness itself cannot be reduced to another mechanical operation.",
+   "directed": "But the recognition of consciousness itself cannot be reduced to another mechanical operation."
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, he quotes the Netratantra concerning the movement beyond gross and subtle forms of prāṇāyāma towards the supreme spanda.",
+   "directed": "Now, he quotes the Netratantra concerning the movement beyond gross and subtle forms of prāṇāyāma towards the supreme spanda."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is enormously important.",
+   "directed": "And this is enormously important."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because spanda doesn’t simply mean ordinary physical vibration.",
+   "directed": "Because spanda doesn’t simply mean ordinary physical vibration."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nor is it merely the sensation of energy moving around the body.",
+   "directed": "Nor is it merely the sensation of energy moving around the body."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s a technical term associated with the dynamic, self-revealing nature of consciousness.",
+   "directed": "It’s a technical term associated with the dynamic, self-revealing nature of consciousness."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The living pulse of awareness.",
+   "directed": "The living pulse of awareness."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja places this supreme reality beyond the gross and subtle movements of vital energy.",
+   "directed": "And Kṣemarāja places this supreme reality beyond the gross and subtle movements of vital energy."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So even the highly refined experiences associated with breath are not the ultimate goal.",
+   "directed": "So even the highly refined experiences associated with breath are not the ultimate goal."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The practitioner moves beyond identification with them.",
+   "directed": "The practitioner moves beyond identification with them."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then, through inward awareness, enters the supreme condition.",
+   "directed": "Then, through inward awareness, enters the supreme condition."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here he uses the term avikalpaka.",
+   "directed": "And here he uses the term avikalpaka."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Without conceptual differentiation.",
+   "directed": "Without conceptual differentiation."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not unconscious.",
+   "directed": "Not unconscious."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not stupid.",
+   "directed": "Not stupid."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not a blank stone.",
+   "directed": "Not a blank stone."
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But awareness no longer structured around the ordinary conceptual divisions of subject and object.",
+   "directed": "But awareness no longer structured around the ordinary conceptual divisions of subject and object."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now comes the really beautiful phrase.",
+   "directed": "And now comes the really beautiful phrase."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 3.21",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Antarvimarśa-camatkāra.",
+   "directed": "[slowly] Antarvimarśa-camatkāra."
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The astonishing delight of inward reflexive awareness.",
+   "directed": "The astonishing delight of inward reflexive awareness."
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re back to vimarśa.",
+   "directed": "We’re back to vimarśa."
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Consciousness knowing itself.",
+   "directed": "Consciousness knowing itself."
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And camatkāra.",
+   "directed": "And camatkāra."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Wonder.",
+   "directed": "Wonder."
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The extraordinary delight in that recognition.",
+   "directed": "The extraordinary delight in that recognition."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Remember the theatre?",
+   "directed": "Remember the theatre?"
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The actor.",
+   "directed": "The actor."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The stage.",
+   "directed": "The stage."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The spectators.",
+   "directed": "The spectators."
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now the practitioner is entering the conscious reality underlying the entire performance.",
+   "directed": "Now the practitioner is entering the conscious reality underlying the entire performance."
+  },
+  {
+   "id": "b77",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not by finding one more object to observe.",
+   "directed": "Not by finding one more object to observe."
+  },
+  {
+   "id": "b78",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But by releasing the identification that made the body, breath and mental faculties seem to constitute the ultimate experiencer.",
+   "directed": "But by releasing the identification that made the body, breath and mental faculties seem to constitute the ultimate experiencer."
+  },
+  {
+   "id": "b79",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja explicitly describes the dissolution of the notion that the body and vital energy are the true knowing subject.",
+   "directed": "And Kṣemarāja explicitly describes the dissolution of the notion that the body and vital energy are the true knowing subject."
+  },
+  {
+   "id": "b80",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He cites the Svacchandatantra and Vijñānabhairava, as well as a hymn attributed to Pradyumnabhaṭṭa, in support of this inward transformation. Sanskrit & Trika Shaivism.",
+   "directed": "He cites the Svacchandatantra and Vijñānabhairava, as well as a hymn attributed to Pradyumnabhaṭṭa, in support of this inward transformation. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b81",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now think about the apparent paradox.",
+   "directed": "Now think about the apparent paradox."
+  },
+  {
+   "id": "b82",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The mind is used to direct attention.",
+   "directed": "The mind is used to direct attention."
+  },
+  {
+   "id": "b83",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But what is ultimately recognised is not merely another mental object.",
+   "directed": "But what is ultimately recognised is not merely another mental object."
+  },
+  {
+   "id": "b84",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s the consciousness through which the mind itself appears.",
+   "directed": "It’s the consciousness through which the mind itself appears."
+  },
+  {
+   "id": "b85",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You can investigate a thought.",
+   "directed": "You can investigate a thought."
+  },
+  {
+   "id": "b86",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You can analyse a sensation.",
+   "directed": "You can analyse a sensation."
+  },
+  {
+   "id": "b87",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You can contemplate a mantra.",
+   "directed": "You can contemplate a mantra."
+  },
+  {
+   "id": "b88",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You can examine the structure of an experience.",
+   "directed": "You can examine the structure of an experience."
+  },
+  {
+   "id": "b89",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But eventually the investigation points towards the very reality making the investigation possible.",
+   "directed": "But eventually the investigation points towards the very reality making the investigation possible."
+  },
+  {
+   "id": "b90",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the relation between observer and observed changes.",
+   "directed": "And the relation between observer and observed changes."
+  },
+  {
+   "id": "b91",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The mind has become a vehicle of recognition.",
+   "directed": "The mind has become a vehicle of recognition."
+  },
+  {
+   "id": "b92",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not by producing Śiva.",
+   "directed": "Not by producing Śiva."
+  },
+  {
+   "id": "b93",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But by becoming transparent to its own conscious source.",
+   "directed": "But by becoming transparent to its own conscious source."
+  },
+  {
+   "id": "b94",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And there’s something rather funny about this.",
+   "directed": "And there’s something rather funny about this."
+  },
+  {
+   "id": "b95",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve spent thirty or forty sūtras trying to discover the Self.",
+   "directed": "You’ve spent thirty or forty sūtras trying to discover the Self."
+  },
+  {
+   "id": "b96",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You have investigated the tattvas.",
+   "directed": "You have investigated the tattvas."
+  },
+  {
+   "id": "b97",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Mastered terminology.",
+   "directed": "Mastered terminology."
+  },
+  {
+   "id": "b98",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Examined phonemes.",
+   "directed": "Examined phonemes."
+  },
+  {
+   "id": "b99",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Practised concentration.",
+   "directed": "Practised concentration."
+  },
+  {
+   "id": "b100",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Contemplated the divine powers.",
+   "directed": "Contemplated the divine powers."
+  },
+  {
+   "id": "b101",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now Vasugupta is essentially telling you:",
+   "directed": "[short pause] And now Vasugupta is essentially telling you:"
+  },
+  {
+   "id": "b102",
+   "section": "Śiva Sūtras 3.21",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Right. Now stop clinging to all the machinery.”",
+   "directed": "[short pause] “Right. Now stop clinging to all the machinery.”"
+  },
+  {
+   "id": "b103",
+   "section": "Śiva Sūtras 3.21",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“But I spent YEARS learning the machinery.”",
+   "directed": "[short pause] “But I spent YEARS learning the machinery.”"
+  },
+  {
+   "id": "b104",
+   "section": "Śiva Sūtras 3.21",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Yes.”",
+   "directed": "[short pause] “Yes.”"
+  },
+  {
+   "id": "b105",
+   "section": "Śiva Sūtras 3.21",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“I’ve made diagrams.”",
+   "directed": "[short pause] “I’ve made diagrams.”"
+  },
+  {
+   "id": "b106",
+   "section": "Śiva Sūtras 3.21",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Lovely.”",
+   "directed": "[short pause] “Lovely.”"
+  },
+  {
+   "id": "b107",
+   "section": "Śiva Sūtras 3.21",
+   "type": "figure",
+   "voice": "none",
+   "text": "“I’VE GOT A THIRTY-SIX-TATTVA SPREADSHEET.”",
+   "directed": "“I’VE GOT A THIRTY-SIX-TATTVA SPREADSHEET.”"
+  },
+  {
+   "id": "b108",
+   "section": "Śiva Sūtras 3.21",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Very impressive. Now enter.”",
+   "directed": "[short pause] “Very impressive. Now enter.”"
+  },
+  {
+   "id": "b109",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that’s the teaching.",
+   "directed": "And that’s the teaching."
+  },
+  {
+   "id": "b110",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The intellect can help orient recognition.",
+   "directed": "The intellect can help orient recognition."
+  },
+  {
+   "id": "b111",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But it cannot substitute for recognition itself.",
+   "directed": "But it cannot substitute for recognition itself."
+  },
+  {
+   "id": "b112",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The map has been useful.",
+   "directed": "The map has been useful."
+  },
+  {
+   "id": "b113",
+   "section": "Śiva Sūtras 3.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, apparently, we’re going swimming again.",
+   "directed": "Now, apparently, we’re going swimming again."
+  }
+ ],
+ "totals": {
+  "blocks": 114,
+  "words_per_voice": {
+   "none": 6,
+   "granny": 732,
+   "verse": 6,
+   "man": 10
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 4.9,
+   "verse": 0.0,
+   "man": 0.1
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

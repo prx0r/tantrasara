@@ -1,0 +1,47 @@
+{
+ "bhutaprthaktva": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b10"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "bhutasandhana": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b8"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "bhutasandhana-bhutaprthaktva-visvasanghattah": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "sakti": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b18"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "visvasanghatta": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b12"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ }
+}

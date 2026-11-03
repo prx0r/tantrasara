@@ -1,0 +1,849 @@
+{
+ "title": "Śiva Sūtras 3.11",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 3.11",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 3.11",
+   "directed": "[long pause] Śiva Sūtras 3.11"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 3.11",
+   "type": "verse",
+   "voice": "verse",
+   "text": "प्रेक्षकाणीन्द्रियाणि",
+   "directed": "[slowly] प्रेक्षकाणीन्द्रियाणि"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Prekṣakāṇīndriyāṇi.",
+   "directed": "Prekṣakāṇīndriyāṇi."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The senses are the spectators.",
+   "directed": "The senses are the spectators."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Your Eyes Are Sitting in the Front Row Watching Śiva Perform.",
+   "directed": "Your Eyes Are Sitting in the Front Row Watching Śiva Perform."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "LADIES AND GENTLEMEN.",
+   "directed": "LADIES AND GENTLEMEN."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "WE HAVE A FULL THEATRE.",
+   "directed": "WE HAVE A FULL THEATRE."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Self is the dancer.",
+   "directed": "The Self is the dancer."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The inner self is the stage.",
+   "directed": "The inner self is the stage."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the senses?",
+   "directed": "And the senses?"
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The bloody audience.",
+   "directed": "The bloody audience."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now this is the sort of metaphor you could spend years contemplating.",
+   "directed": "Now this is the sort of metaphor you could spend years contemplating."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s unpack it.",
+   "directed": "Let’s unpack it."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Prekṣaka — spectator, observer, someone who watches a performance.",
+   "directed": "Prekṣaka — spectator, observer, someone who watches a performance."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Indriya — sense faculty.",
+   "directed": "Indriya — sense faculty."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The plural forms give us:",
+   "directed": "[short pause] The plural forms give us:"
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 3.11",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Prekṣakāṇi indriyāṇi.",
+   "directed": "[slowly] Prekṣakāṇi indriyāṇi."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The senses are the spectators.",
+   "directed": "The senses are the spectators."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, in ordinary life, we think of our senses primarily as channels for acquiring information about an external world.",
+   "directed": "Now, in ordinary life, we think of our senses primarily as channels for acquiring information about an external world."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Eyes receive visual information.",
+   "directed": "Eyes receive visual information."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ears receive sound.",
+   "directed": "Ears receive sound."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The skin responds to touch.",
+   "directed": "The skin responds to touch."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And so on.",
+   "directed": "And so on."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But in the Trika metaphysical system, the senses are powers of consciousness.",
+   "directed": "But in the Trika metaphysical system, the senses are powers of consciousness."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They’re not ultimately independent entities capable of knowing without the conscious reality through which experience occurs.",
+   "directed": "They’re not ultimately independent entities capable of knowing without the conscious reality through which experience occurs."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here’s where Kṣemarāja makes an absolutely beautiful move.",
+   "directed": "And here’s where Kṣemarāja makes an absolutely beautiful move."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The senses, ordinarily directed outward towards their objects, are described as becoming inwardly aware of their own essential nature.",
+   "directed": "The senses, ordinarily directed outward towards their objects, are described as becoming inwardly aware of their own essential nature."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this inward recognition is associated with camatkāra.",
+   "directed": "And this inward recognition is associated with camatkāra."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Astonishment.",
+   "directed": "Astonishment."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Wonder.",
+   "directed": "Wonder."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Aesthetic delight.",
+   "directed": "Aesthetic delight."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The extraordinary savour of consciousness recognising itself.",
+   "directed": "The extraordinary savour of consciousness recognising itself."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, you might remember this from the first book.",
+   "directed": "Now, you might remember this from the first book."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 3.11",
+   "type": "verse",
+   "voice": "verse",
+   "text": "विस्मयो योगभूमिकाः।",
+   "directed": "[slowly] विस्मयो योगभूमिकाः।"
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vismayo yogabhūmikāḥ.",
+   "directed": "Vismayo yogabhūmikāḥ."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The stages of yoga are wonder.",
+   "directed": "The stages of yoga are wonder."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now the same aesthetic dimension returns through the theatre metaphor.",
+   "directed": "And now the same aesthetic dimension returns through the theatre metaphor."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The universe is a performance.",
+   "directed": "The universe is a performance."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Self is the actor.",
+   "directed": "The Self is the actor."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The senses are the spectators.",
+   "directed": "The senses are the spectators."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the experience of recognition becomes a kind of supreme aesthetic delight.",
+   "directed": "And the experience of recognition becomes a kind of supreme aesthetic delight."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is where Trika’s philosophy connects beautifully with the wider Kashmiri tradition of aesthetics.",
+   "directed": "This is where Trika’s philosophy connects beautifully with the wider Kashmiri tradition of aesthetics."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Think about watching a magnificent play.",
+   "directed": "Think about watching a magnificent play."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "For a moment, you’re completely absorbed.",
+   "directed": "For a moment, you’re completely absorbed."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The performance draws you in.",
+   "directed": "The performance draws you in."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The characters, emotions, movement, music and atmosphere form an extraordinary unity.",
+   "directed": "The characters, emotions, movement, music and atmosphere form an extraordinary unity."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You experience something beyond simply processing individual bits of sensory information.",
+   "directed": "You experience something beyond simply processing individual bits of sensory information."
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There’s a distinctive delight in the manifestation itself.",
+   "directed": "There’s a distinctive delight in the manifestation itself."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja uses the concept of camatkāra to describe the heightened experience of the yogi whose senses become established in recognition.",
+   "directed": "And Kṣemarāja uses the concept of camatkāra to describe the heightened experience of the yogi whose senses become established in recognition."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the metaphysical claim goes further than ordinary aesthetic appreciation.",
+   "directed": "But the metaphysical claim goes further than ordinary aesthetic appreciation."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In an ordinary performance, the spectator remains distinct from the actor.",
+   "directed": "In an ordinary performance, the spectator remains distinct from the actor."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Here, the senses themselves are powers of the same Self that performs the drama.",
+   "directed": "Here, the senses themselves are powers of the same Self that performs the drama."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So the separation between actor and spectators is not ultimate.",
+   "directed": "So the separation between actor and spectators is not ultimate."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The conscious reality is the source of both.",
+   "directed": "The conscious reality is the source of both."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now comes a rather extraordinary consequence.",
+   "directed": "And now comes a rather extraordinary consequence."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The senses no longer have to function exclusively as sources of distraction.",
+   "directed": "The senses no longer have to function exclusively as sources of distraction."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Seeing can become an occasion for recognition.",
+   "directed": "Seeing can become an occasion for recognition."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Hearing can become an occasion for recognition.",
+   "directed": "Hearing can become an occasion for recognition."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The appearance of a sensation can become an occasion for recognition.",
+   "directed": "The appearance of a sensation can become an occasion for recognition."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because the senses themselves are not outside Śiva.",
+   "directed": "Because the senses themselves are not outside Śiva."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Their capacity to disclose manifestation belongs to Śakti.",
+   "directed": "Their capacity to disclose manifestation belongs to Śakti."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is a major difference between simply suppressing sensory experience and recognising its conscious source.",
+   "directed": "And this is a major difference between simply suppressing sensory experience and recognising its conscious source."
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The point isn’t:",
+   "directed": "[short pause] The point isn’t:"
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 3.11",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Never look at anything.”",
+   "directed": "[short pause] “Never look at anything.”"
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 3.11",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Never listen to anything.”",
+   "directed": "[short pause] “Never listen to anything.”"
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 3.11",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Never enjoy anything.”",
+   "directed": "[short pause] “Never enjoy anything.”"
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s more subtle.",
+   "directed": "It’s more subtle."
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Don’t mistake the objects disclosed by the senses for realities ultimately independent of consciousness.",
+   "directed": "Don’t mistake the objects disclosed by the senses for realities ultimately independent of consciousness."
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And don’t mistake the sensory faculties themselves for autonomous sources of awareness.",
+   "directed": "And don’t mistake the sensory faculties themselves for autonomous sources of awareness."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Recognise the conscious reality through which the entire sensory drama becomes manifest.",
+   "directed": "Recognise the conscious reality through which the entire sensory drama becomes manifest."
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja explicitly invokes the Kaṭha Upaniṣad in explaining the inward turn of the senses.",
+   "directed": "Kṣemarāja explicitly invokes the Kaṭha Upaniṣad in explaining the inward turn of the senses."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The ordinary direction of attention is outward.",
+   "directed": "The ordinary direction of attention is outward."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the wise seeker turns inward towards the Self.",
+   "directed": "But the wise seeker turns inward towards the Self."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And in the context of this sūtra, the result is the delightful recognition of the conscious actor through the senses themselves. Sanskrit & Trika Shaivism.",
+   "directed": "And in the context of this sūtra, the result is the delightful recognition of the conscious actor through the senses themselves. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now imagine standing in a busy marketplace.",
+   "directed": "Now imagine standing in a busy marketplace."
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "People moving.",
+   "directed": "People moving."
+  },
+  {
+   "id": "b77",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Voices overlapping.",
+   "directed": "Voices overlapping."
+  },
+  {
+   "id": "b78",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Colours appearing.",
+   "directed": "Colours appearing."
+  },
+  {
+   "id": "b79",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Smells rising from food stalls.",
+   "directed": "Smells rising from food stalls."
+  },
+  {
+   "id": "b80",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A tremendous sensory performance.",
+   "directed": "A tremendous sensory performance."
+  },
+  {
+   "id": "b81",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ordinarily, attention is scattered among its objects.",
+   "directed": "Ordinarily, attention is scattered among its objects."
+  },
+  {
+   "id": "b82",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But in the contemplative interpretation, the practitioner begins recognising the underlying conscious reality through which all these perceptions appear.",
+   "directed": "But in the contemplative interpretation, the practitioner begins recognising the underlying conscious reality through which all these perceptions appear."
+  },
+  {
+   "id": "b83",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The sights and sounds don’t necessarily have to stop.",
+   "directed": "The sights and sounds don’t necessarily have to stop."
+  },
+  {
+   "id": "b84",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The theatre continues.",
+   "directed": "The theatre continues."
+  },
+  {
+   "id": "b85",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the spectators discover the true nature of the actor.",
+   "directed": "But the spectators discover the true nature of the actor."
+  },
+  {
+   "id": "b86",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is why the three sūtras belong together.",
+   "directed": "And this is why the three sūtras belong together."
+  },
+  {
+   "id": "b87",
+   "section": "Śiva Sūtras 3.11",
+   "type": "verse",
+   "voice": "verse",
+   "text": "नर्तक आत्मा।",
+   "directed": "[slowly] नर्तक आत्मा।"
+  },
+  {
+   "id": "b88",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Self is the dancer.",
+   "directed": "The Self is the dancer."
+  },
+  {
+   "id": "b89",
+   "section": "Śiva Sūtras 3.11",
+   "type": "verse",
+   "voice": "verse",
+   "text": "रङ्गोऽन्तरात्मा।",
+   "directed": "[slowly] रङ्गोऽन्तरात्मा।"
+  },
+  {
+   "id": "b90",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The inner self is the stage.",
+   "directed": "The inner self is the stage."
+  },
+  {
+   "id": "b91",
+   "section": "Śiva Sūtras 3.11",
+   "type": "verse",
+   "voice": "verse",
+   "text": "प्रेक्षकाणीन्द्रियाणि।",
+   "directed": "[slowly] प्रेक्षकाणीन्द्रियाणि।"
+  },
+  {
+   "id": "b92",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The senses are the spectators.",
+   "directed": "The senses are the spectators."
+  },
+  {
+   "id": "b93",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "What an extraordinary little metaphysical trilogy.",
+   "directed": "What an extraordinary little metaphysical trilogy."
+  },
+  {
+   "id": "b94",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The universe is a drama of consciousness.",
+   "directed": "The universe is a drama of consciousness."
+  },
+  {
+   "id": "b95",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the yogi, through recognition, discovers the conscious unity underlying the entire performance.",
+   "directed": "And the yogi, through recognition, discovers the conscious unity underlying the entire performance."
+  },
+  {
+   "id": "b96",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, the obvious question is:",
+   "directed": "[short pause] Now, the obvious question is:"
+  },
+  {
+   "id": "b97",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "How does this recognition become stable?",
+   "directed": "How does this recognition become stable?"
+  },
+  {
+   "id": "b98",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because it’s all very well understanding the theatre metaphor.",
+   "directed": "Because it’s all very well understanding the theatre metaphor."
+  },
+  {
+   "id": "b99",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But you can intellectually appreciate the idea that consciousness is the actor and still spend your entire life absolutely furious about the plot.",
+   "directed": "But you can intellectually appreciate the idea that consciousness is the actor and still spend your entire life absolutely furious about the plot."
+  },
+  {
+   "id": "b100",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So Vasugupta moves to the next question.",
+   "directed": "So Vasugupta moves to the next question."
+  },
+  {
+   "id": "b101",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "What enables the yogi to recognise the subtle conscious reality underlying the performance?",
+   "directed": "What enables the yogi to recognise the subtle conscious reality underlying the performance?"
+  },
+  {
+   "id": "b102",
+   "section": "Śiva Sūtras 3.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The answer involves a rather important form of intelligence.",
+   "directed": "The answer involves a rather important form of intelligence."
+  }
+ ],
+ "totals": {
+  "blocks": 103,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 754,
+   "verse": 9,
+   "man": 7
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 5.0,
+   "verse": 0.1,
+   "man": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

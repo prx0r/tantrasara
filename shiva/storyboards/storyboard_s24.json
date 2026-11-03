@@ -1,0 +1,633 @@
+{
+ "title": "Śiva Sūtras 2.2",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 2.2",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 2.2",
+   "directed": "[long pause] Śiva Sūtras 2.2"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 2.2",
+   "type": "verse",
+   "voice": "verse",
+   "text": "प्रयत्नः साधकः",
+   "directed": "[slowly] प्रयत्नः साधकः"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Prayatnaḥ sādhakaḥ.",
+   "directed": "Prayatnaḥ sādhakaḥ."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Effort is effective in accomplishment.",
+   "directed": "Effort is effective in accomplishment."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Stop Trying So Hard, but Also Don’t Stop Trying.",
+   "directed": "Stop Trying So Hard, but Also Don’t Stop Trying."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Right.",
+   "directed": "[short pause] Right."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now we’re discussing effort.",
+   "directed": "Now we’re discussing effort."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which is already slightly concerning.",
+   "directed": "Which is already slightly concerning."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because every spiritual tradition seems to alternate between two completely contradictory instructions.",
+   "directed": "Because every spiritual tradition seems to alternate between two completely contradictory instructions."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 2.2",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Make an enormous effort.”",
+   "directed": "[short pause] “Make an enormous effort.”"
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 2.2",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Stop making an effort.”",
+   "directed": "[short pause] “Stop making an effort.”"
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 2.2",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Practise constantly.”",
+   "directed": "[short pause] “Practise constantly.”"
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 2.2",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“There’s nothing to attain.”",
+   "directed": "[short pause] “There’s nothing to attain.”"
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 2.2",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Apply yourself.”",
+   "directed": "[short pause] “Apply yourself.”"
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 2.2",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Let go.”",
+   "directed": "[short pause] “Let go.”"
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the poor practitioner is sitting in the middle, thinking:",
+   "directed": "[short pause] And the poor practitioner is sitting in the middle, thinking:"
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "CAN SOMEBODY PLEASE TELL ME WHAT I’M SUPPOSED TO BE DOING WITH MY EYEBROWS?",
+   "directed": "CAN SOMEBODY PLEASE TELL ME WHAT I’M SUPPOSED TO BE DOING WITH MY EYEBROWS?"
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Fortunately, Vasugupta is talking about a rather specific kind of effort.",
+   "directed": "Fortunately, Vasugupta is talking about a rather specific kind of effort."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Prayatna — effort, exertion, endeavour.",
+   "directed": "Prayatna — effort, exertion, endeavour."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sādhaka — that which accomplishes, or the effective means of attainment. The word also commonly denotes a practitioner, but here Kṣemarāja emphasises the efficacy of the effort.",
+   "directed": "Sādhaka — that which accomplishes, or the effective means of attainment. The word also commonly denotes a practitioner, but here Kṣemarāja emphasises the efficacy of the effort."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, when Kṣemarāja explains this, he doesn’t simply recommend forcing the mind into submission through sheer muscular determination.",
+   "directed": "Now, when Kṣemarāja explains this, he doesn’t simply recommend forcing the mind into submission through sheer muscular determination."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He describes an effort rooted in the spontaneous arising of the desire to contemplate the mantra’s true nature.",
+   "directed": "He describes an effort rooted in the spontaneous arising of the desire to contemplate the mantra’s true nature."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is extraordinarily subtle.",
+   "directed": "This is extraordinarily subtle."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because we’re dealing with the relationship between icchā, jñāna and kriyā.",
+   "directed": "Because we’re dealing with the relationship between icchā, jñāna and kriyā."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Will.",
+   "directed": "Will."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Knowledge.",
+   "directed": "Knowledge."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Action.",
+   "directed": "Action."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Imagine you’re contemplating Śiva.",
+   "directed": "Imagine you’re contemplating Śiva."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Perhaps repeating a mantra.",
+   "directed": "Perhaps repeating a mantra."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Perhaps reflecting on the nature of awareness.",
+   "directed": "Perhaps reflecting on the nature of awareness."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Suddenly there’s a genuine movement towards recognition.",
+   "directed": "Suddenly there’s a genuine movement towards recognition."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not merely the thought, “I should meditate because my schedule says so.”",
+   "directed": "Not merely the thought, “I should meditate because my schedule says so.”"
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But a living impulse towards the source of awareness.",
+   "directed": "But a living impulse towards the source of awareness."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "An interest so immediate that the mind naturally turns towards it.",
+   "directed": "An interest so immediate that the mind naturally turns towards it."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja says the practitioner must firmly seize this arising.",
+   "directed": "Kṣemarāja says the practitioner must firmly seize this arising."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And he illustrates the process with imagery taken from the Tantrasadbhāva.",
+   "directed": "And he illustrates the process with imagery taken from the Tantrasadbhāva."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A bird sees food and moves towards it with spontaneous intensity.",
+   "directed": "A bird sees food and moves towards it with spontaneous intensity."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "An arrow, released from its bow, travels towards its target.",
+   "directed": "An arrow, released from its bow, travels towards its target."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The point isn’t to strain continuously.",
+   "directed": "The point isn’t to strain continuously."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s that a particular, concentrated movement of attention can arise with remarkable naturalness.",
+   "directed": "It’s that a particular, concentrated movement of attention can arise with remarkable naturalness."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the practitioner follows it.",
+   "directed": "And the practitioner follows it."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is the difference between distracted, mechanical effort and living contemplative engagement.",
+   "directed": "This is the difference between distracted, mechanical effort and living contemplative engagement."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Consider trying to remember somebody’s name.",
+   "directed": "Consider trying to remember somebody’s name."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You sit there.",
+   "directed": "You sit there."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 2.2",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“What’s his name?”",
+   "directed": "[short pause] “What’s his name?”"
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 2.2",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Starts with an M.”",
+   "directed": "[short pause] “Starts with an M.”"
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 2.2",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“No, perhaps a B.”",
+   "directed": "[short pause] “No, perhaps a B.”"
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You force it.",
+   "directed": "You force it."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nothing.",
+   "directed": "Nothing."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then something shifts.",
+   "directed": "Then something shifts."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A connection appears.",
+   "directed": "A connection appears."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Suddenly the name becomes obvious.",
+   "directed": "Suddenly the name becomes obvious."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The breakthrough isn’t merely the product of pushing harder.",
+   "directed": "The breakthrough isn’t merely the product of pushing harder."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But neither is it completely unrelated to the preceding attention.",
+   "directed": "But neither is it completely unrelated to the preceding attention."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There was a directed engagement, and then an opening.",
+   "directed": "There was a directed engagement, and then an opening."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That’s only an analogy, not an equation between memory recall and divine recognition.",
+   "directed": "That’s only an analogy, not an equation between memory recall and divine recognition."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But it captures something about the interplay between effort and spontaneous illumination.",
+   "directed": "But it captures something about the interplay between effort and spontaneous illumination."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja is particularly interested in directing the mind towards bindu, here understood as the undivided light of consciousness.",
+   "directed": "Kṣemarāja is particularly interested in directing the mind towards bindu, here understood as the undivided light of consciousness."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The effective effort does not consist in collecting more mental objects.",
+   "directed": "The effective effort does not consist in collecting more mental objects."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It moves towards the conscious source.",
+   "directed": "It moves towards the conscious source."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the ultimate result is identification with the deity of the mantra.",
+   "directed": "And the ultimate result is identification with the deity of the mantra."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The practitioner, the contemplation, and its supreme object cease to be apprehended as fundamentally separate.",
+   "directed": "The practitioner, the contemplation, and its supreme object cease to be apprehended as fundamentally separate."
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So the advice is not:",
+   "directed": "[short pause] So the advice is not:"
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 2.2",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Just relax, mate, you’re already Śiva.”",
+   "directed": "[short pause] “Just relax, mate, you’re already Śiva.”"
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nor is it:",
+   "directed": "[short pause] Nor is it:"
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 2.2",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Clench every spiritual muscle until enlightenment pops out.”",
+   "directed": "[short pause] “Clench every spiritual muscle until enlightenment pops out.”"
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s something closer to:",
+   "directed": "[short pause] It’s something closer to:"
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "When the movement towards recognition arises, enter it wholeheartedly.",
+   "directed": "When the movement towards recognition arises, enter it wholeheartedly."
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Don’t get distracted.",
+   "directed": "Don’t get distracted."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Don’t substitute a theory of recognition for recognition itself.",
+   "directed": "Don’t substitute a theory of recognition for recognition itself."
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Don’t spend the entire meditation writing an imaginary academic paper about what the meditation would mean if you were actually doing it.",
+   "directed": "Don’t spend the entire meditation writing an imaginary academic paper about what the meditation would mean if you were actually doing it."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Sanskrit is prayatna.",
+   "directed": "The Sanskrit is prayatna."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not procrastinationa.",
+   "directed": "Not procrastinationa."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which, regrettably, is not an attested tantric category.",
+   "directed": "Which, regrettably, is not an attested tantric category."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 2.2",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sanskrit & Trika Shaivism.",
+   "directed": "Sanskrit & Trika Shaivism."
+  }
+ ],
+ "totals": {
+  "blocks": 76,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 533,
+   "verse": 2,
+   "man": 15
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 3.6,
+   "verse": 0.0,
+   "man": 0.1
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

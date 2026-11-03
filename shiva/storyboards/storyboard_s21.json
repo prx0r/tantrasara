@@ -1,0 +1,255 @@
+{
+ "title": "Śiva Sūtras 1.21",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 1.21",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 1.21",
+   "directed": "[long pause] Śiva Sūtras 1.21"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 1.21",
+   "type": "verse",
+   "voice": "verse",
+   "text": "शुद्धविद्योदयाच्चक्रेशत्वसिद्धिः",
+   "directed": "[slowly] शुद्धविद्योदयाच्चक्रेशत्वसिद्धिः"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 1.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śuddhavidyodayāc cakreśatvasiddhiḥ.",
+   "directed": "Śuddhavidyodayāc cakreśatvasiddhiḥ."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 1.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Through the arising of pure knowledge, mastery over the circle of powers is attained.",
+   "directed": "Through the arising of pure knowledge, mastery over the circle of powers is attained."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 1.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve Been Promoted to Manager of the Entire Śakti Department.",
+   "directed": "You’ve Been Promoted to Manager of the Entire Śakti Department."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 1.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now Vasugupta connects spiritual sovereignty to śuddhavidyā.",
+   "directed": "Now Vasugupta connects spiritual sovereignty to śuddhavidyā."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 1.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Pure knowledge.",
+   "directed": "Pure knowledge."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 1.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Importantly, this is not simply a person becoming exceptionally well educated.",
+   "directed": "Importantly, this is not simply a person becoming exceptionally well educated."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 1.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nor is it a collection of correct philosophical opinions.",
+   "directed": "Nor is it a collection of correct philosophical opinions."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 1.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śuddhavidyā is also a technical category within the Trika system of the thirty-six tattvas.",
+   "directed": "Śuddhavidyā is also a technical category within the Trika system of the thirty-six tattvas."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 1.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The five pure tattvas are:",
+   "directed": "[short pause] The five pure tattvas are:"
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 1.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śiva\nŚakti\nSadāśiva\nĪśvara\nŚuddhavidyā\nThey describe pure modalities of consciousness and its manifestation before the limitations associated with Māyā and the contracted individual.",
+   "directed": "Śiva\nŚakti\nSadāśiva\nĪśvara\nŚuddhavidyā\nThey describe pure modalities of consciousness and its manifestation before the limitations associated with Māyā and the contracted individual."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 1.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Within this pure domain, the relation between aham — I — and idam — this — is not experienced through the same fundamental alienation that characterises ordinary differentiated existence.",
+   "directed": "Within this pure domain, the relation between aham — I — and idam — this — is not experienced through the same fundamental alienation that characterises ordinary differentiated existence."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 1.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that’s the essential point.",
+   "directed": "And that’s the essential point."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 1.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "At the beginning, the individual was bound by limited knowing.",
+   "directed": "At the beginning, the individual was bound by limited knowing."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 1.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now pure knowledge has arisen.",
+   "directed": "Now pure knowledge has arisen."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 1.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The yogi recognises the fundamental relation between the conscious subject and its powers of manifestation.",
+   "directed": "The yogi recognises the fundamental relation between the conscious subject and its powers of manifestation."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 1.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this leads to cakreśatva.",
+   "directed": "And this leads to cakreśatva."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 1.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Lordship over the circle of powers.",
+   "directed": "Lordship over the circle of powers."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 1.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Remember our previous encounter with śakticakra?",
+   "directed": "Remember our previous encounter with śakticakra?"
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 1.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The wheel or collective of powers.",
+   "directed": "The wheel or collective of powers."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 1.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "At 1.6, their union was associated with the withdrawal of the universe.",
+   "directed": "At 1.6, their union was associated with the withdrawal of the universe."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 1.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Here, the rise of pure knowledge is associated with mastery over them.",
+   "directed": "Here, the rise of pure knowledge is associated with mastery over them."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 1.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The progression is deliberate.",
+   "directed": "The progression is deliberate."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 1.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The powers that once seemed to scatter your consciousness into countless apparently separate objects are no longer experienced as fundamentally alien to their source.",
+   "directed": "The powers that once seemed to scatter your consciousness into countless apparently separate objects are no longer experienced as fundamentally alien to their source."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 1.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The master of the powers is not an independent ego controlling an external collection of cosmic instruments.",
+   "directed": "The master of the powers is not an independent ego controlling an external collection of cosmic instruments."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 1.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The sovereign reality is Śiva himself.",
+   "directed": "The sovereign reality is Śiva himself."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 1.21",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the realised yogi recognises their identity with that reality.",
+   "directed": "And the realised yogi recognises their identity with that reality."
+  }
+ ],
+ "totals": {
+  "blocks": 29,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 273,
+   "verse": 1
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 1.8,
+   "verse": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

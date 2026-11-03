@@ -1,0 +1,969 @@
+{
+ "title": "Śiva Sūtras 3.27",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 3.27",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 3.27",
+   "directed": "[long pause] Śiva Sūtras 3.27"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 3.27",
+   "type": "verse",
+   "voice": "verse",
+   "text": "कथा जपः",
+   "directed": "[slowly] कथा जपः"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kathā japaḥ.",
+   "directed": "Kathā japaḥ."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Conversation is mantra-recitation.",
+   "directed": "Conversation is mantra-recitation."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Every Conversation Is a Mantra. You’ve Been Chanting the Entire Time, You Absolute Donut.",
+   "directed": "Every Conversation Is a Mantra. You’ve Been Chanting the Entire Time, You Absolute Donut."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "OH, THIS IS GLORIOUS.",
+   "directed": "OH, THIS IS GLORIOUS."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Absolutely glorious.",
+   "directed": "Absolutely glorious."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Two words.",
+   "directed": "Two words."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Katha.",
+   "directed": "Katha."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Speech, conversation, discourse.",
+   "directed": "Speech, conversation, discourse."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Japa.",
+   "directed": "Japa."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Repetition or recitation of mantra.",
+   "directed": "Repetition or recitation of mantra."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Vasugupta announces:",
+   "directed": "[short pause] And Vasugupta announces:"
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 3.27",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Kathā japaḥ.",
+   "directed": "[slowly] Kathā japaḥ."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Conversation is japa.",
+   "directed": "Conversation is japa."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, if you take that out of context, it’s completely ridiculous.",
+   "directed": "Now, if you take that out of context, it’s completely ridiculous."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Imagine somebody spending three hours complaining about the weather.",
+   "directed": "Imagine somebody spending three hours complaining about the weather."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And announcing:",
+   "directed": "[short pause] And announcing:"
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 3.27",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Actually, I have just performed three hours of supreme tantric mantra practice.”",
+   "directed": "[short pause] “Actually, I have just performed three hours of supreme tantric mantra practice.”"
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Well.",
+   "directed": "Well."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not quite.",
+   "directed": "Not quite."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja makes a very important qualification.",
+   "directed": "Kṣemarāja makes a very important qualification."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re talking about the speech of the yogi established in recognition of supreme I-consciousness.",
+   "directed": "We’re talking about the speech of the yogi established in recognition of supreme I-consciousness."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is where the whole philosophical journey becomes extraordinarily beautiful.",
+   "directed": "And this is where the whole philosophical journey becomes extraordinarily beautiful."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Remember the beginning of Book II?",
+   "directed": "Remember the beginning of Book II?"
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 3.27",
+   "type": "verse",
+   "voice": "verse",
+   "text": "चित्तं मन्त्रः।",
+   "directed": "[slowly] चित्तं मन्त्रः।"
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 3.27",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Cittaṃ mantraḥ.",
+   "directed": "[slowly] Cittaṃ mantraḥ."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The mind is mantra.",
+   "directed": "The mind is mantra."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, in Book III:",
+   "directed": "[short pause] Now, in Book III:"
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 3.27",
+   "type": "verse",
+   "voice": "verse",
+   "text": "कथा जपः।",
+   "directed": "[slowly] कथा जपः।"
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 3.27",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Kathā japaḥ.",
+   "directed": "[slowly] Kathā japaḥ."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Speech is mantra-recitation.",
+   "directed": "Speech is mantra-recitation."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The same basic transformation is being expressed at a more complete level.",
+   "directed": "The same basic transformation is being expressed at a more complete level."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The mind no longer simply produces differentiated cognitions that reinforce bondage.",
+   "directed": "The mind no longer simply produces differentiated cognitions that reinforce bondage."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It becomes an instrument of recognition.",
+   "directed": "It becomes an instrument of recognition."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now even ordinary speech can arise from the uninterrupted awareness of the supreme Self.",
+   "directed": "And now even ordinary speech can arise from the uninterrupted awareness of the supreme Self."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But here’s the really important part.",
+   "directed": "But here’s the really important part."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja connects this with the Mahāmantra.",
+   "directed": "Kṣemarāja connects this with the Mahāmantra."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The great mantra of universal I-consciousness.",
+   "directed": "The great mantra of universal I-consciousness."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Aham.",
+   "directed": "Aham."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "I.",
+   "directed": "I."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not the little ego.",
+   "directed": "Not the little ego."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not the ordinary personality.",
+   "directed": "Not the ordinary personality."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the primordial I-consciousness of Śiva.",
+   "directed": "But the primordial I-consciousness of Śiva."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And within the Trika understanding, this I-consciousness is inseparable from the manifestation of the universe.",
+   "directed": "And within the Trika understanding, this I-consciousness is inseparable from the manifestation of the universe."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now imagine the yogi speaking.",
+   "directed": "Now imagine the yogi speaking."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The words arise.",
+   "directed": "The words arise."
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They may concern ordinary things.",
+   "directed": "They may concern ordinary things."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Food.",
+   "directed": "Food."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Travel.",
+   "directed": "Travel."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A philosophical discussion.",
+   "directed": "A philosophical discussion."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A question.",
+   "directed": "A question."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "An answer.",
+   "directed": "An answer."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But throughout the movement of speech, the yogi remains established in the universal conscious source.",
+   "directed": "But throughout the movement of speech, the yogi remains established in the universal conscious source."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So the verbal activity no longer obscures that source.",
+   "directed": "So the verbal activity no longer obscures that source."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Instead, it becomes an expression of the uninterrupted recognition of Śiva.",
+   "directed": "Instead, it becomes an expression of the uninterrupted recognition of Śiva."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja cites the Kālikākrama to explain that the yogi’s speech constitutes japa because it arises from the continual apprehension of the great mantra’s deity as one’s own Self.",
+   "directed": "And Kṣemarāja cites the Kālikākrama to explain that the yogi’s speech constitutes japa because it arises from the continual apprehension of the great mantra’s deity as one’s own Self."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is very different from mechanically repeating a formula.",
+   "directed": "This is very different from mechanically repeating a formula."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The highest japa is inseparable from recognition.",
+   "directed": "The highest japa is inseparable from recognition."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And then he cites the Vijñānabhairava.",
+   "directed": "And then he cites the Vijñānabhairava."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which is where things become particularly interesting.",
+   "directed": "Which is where things become particularly interesting."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because the text describes spontaneous mantra in relation to the movement of breath.",
+   "directed": "Because the text describes spontaneous mantra in relation to the movement of breath."
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 3.27",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Haṃsa.",
+   "directed": "[slowly] Haṃsa."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The subtle mantra associated with the natural movement of respiration.",
+   "directed": "The subtle mantra associated with the natural movement of respiration."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In a traditional account, the outgoing and incoming breaths are correlated with the syllables sa and ha, producing the continuous mantra of life.",
+   "directed": "In a traditional account, the outgoing and incoming breaths are correlated with the syllables sa and ha, producing the continuous mantra of life."
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the text gives the traditional daily count:",
+   "directed": "[short pause] And the text gives the traditional daily count:"
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "21,600 repetitions.",
+   "directed": "21,600 repetitions."
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, this is a conventional yogic calculation based on an assumed average breathing rhythm, not a universal physiological measurement applicable to every human being.",
+   "directed": "Now, this is a conventional yogic calculation based on an assumed average breathing rhythm, not a universal physiological measurement applicable to every human being."
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But its symbolic significance is extraordinary.",
+   "directed": "But its symbolic significance is extraordinary."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The living being is understood as continually participating in an unspoken mantra.",
+   "directed": "The living being is understood as continually participating in an unspoken mantra."
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Breathing itself becomes associated with the divine power of manifestation.",
+   "directed": "Breathing itself becomes associated with the divine power of manifestation."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja relates this to the higher understanding of japa as uninterrupted contemplation of the supreme reality. Sanskrit & Trika Shaivism.",
+   "directed": "And Kṣemarāja relates this to the higher understanding of japa as uninterrupted contemplation of the supreme reality. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now consider the progression.",
+   "directed": "Now consider the progression."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ordinarily, a mantra seems to be something you deliberately repeat.",
+   "directed": "Ordinarily, a mantra seems to be something you deliberately repeat."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You sit down.",
+   "directed": "You sit down."
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You count the syllables.",
+   "directed": "You count the syllables."
+  },
+  {
+   "id": "b77",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You focus your attention.",
+   "directed": "You focus your attention."
+  },
+  {
+   "id": "b78",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You try to maintain concentration.",
+   "directed": "You try to maintain concentration."
+  },
+  {
+   "id": "b79",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But in the condition described here, the yogi’s awareness of the divine is no longer restricted to deliberate recitation.",
+   "directed": "But in the condition described here, the yogi’s awareness of the divine is no longer restricted to deliberate recitation."
+  },
+  {
+   "id": "b80",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Speech itself becomes an expression of recognition.",
+   "directed": "Speech itself becomes an expression of recognition."
+  },
+  {
+   "id": "b81",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is magnificent.",
+   "directed": "And this is magnificent."
+  },
+  {
+   "id": "b82",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because it means the sacred is no longer confined to special verbal formulas.",
+   "directed": "Because it means the sacred is no longer confined to special verbal formulas."
+  },
+  {
+   "id": "b83",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not because the formulas have become meaningless.",
+   "directed": "Not because the formulas have become meaningless."
+  },
+  {
+   "id": "b84",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But because the conscious source of all speech has been recognised.",
+   "directed": "But because the conscious source of all speech has been recognised."
+  },
+  {
+   "id": "b85",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The mantra is no longer merely an activity performed at particular times.",
+   "directed": "The mantra is no longer merely an activity performed at particular times."
+  },
+  {
+   "id": "b86",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The underlying I-consciousness is apprehended as continuously present.",
+   "directed": "The underlying I-consciousness is apprehended as continuously present."
+  },
+  {
+   "id": "b87",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here’s the funniest thing.",
+   "directed": "And here’s the funniest thing."
+  },
+  {
+   "id": "b88",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You can be talking about something completely ordinary.",
+   "directed": "You can be talking about something completely ordinary."
+  },
+  {
+   "id": "b89",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the philosophical meaning is transformed by the standpoint from which the speech arises.",
+   "directed": "And the philosophical meaning is transformed by the standpoint from which the speech arises."
+  },
+  {
+   "id": "b90",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Imagine a realised yogi asking:",
+   "directed": "[short pause] Imagine a realised yogi asking:"
+  },
+  {
+   "id": "b91",
+   "section": "Śiva Sūtras 3.27",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Could you pass the salt?”",
+   "directed": "[short pause] “Could you pass the salt?”"
+  },
+  {
+   "id": "b92",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "An entirely ordinary sentence.",
+   "directed": "An entirely ordinary sentence."
+  },
+  {
+   "id": "b93",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "No Sanskrit.",
+   "directed": "No Sanskrit."
+  },
+  {
+   "id": "b94",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "No bells.",
+   "directed": "No bells."
+  },
+  {
+   "id": "b95",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "No elaborate mudrās.",
+   "directed": "No elaborate mudrās."
+  },
+  {
+   "id": "b96",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not even a particularly mystical tone of voice.",
+   "directed": "Not even a particularly mystical tone of voice."
+  },
+  {
+   "id": "b97",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But within Kṣemarāja’s understanding, the speech of such a yogi is not separate from the continuous contemplation of Śiva.",
+   "directed": "But within Kṣemarāja’s understanding, the speech of such a yogi is not separate from the continuous contemplation of Śiva."
+  },
+  {
+   "id": "b98",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The salt is still salt.",
+   "directed": "The salt is still salt."
+  },
+  {
+   "id": "b99",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The request still means what it means.",
+   "directed": "The request still means what it means."
+  },
+  {
+   "id": "b100",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The linguistic function remains perfectly ordinary.",
+   "directed": "The linguistic function remains perfectly ordinary."
+  },
+  {
+   "id": "b101",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the awareness underlying the act is not limited by the ordinary identification with separate selfhood.",
+   "directed": "But the awareness underlying the act is not limited by the ordinary identification with separate selfhood."
+  },
+  {
+   "id": "b102",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And thus ordinary discourse can be understood as japa.",
+   "directed": "And thus ordinary discourse can be understood as japa."
+  },
+  {
+   "id": "b103",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, we should not flatten the teaching into:",
+   "directed": "[short pause] Now, we should not flatten the teaching into:"
+  },
+  {
+   "id": "b104",
+   "section": "Śiva Sūtras 3.27",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Everything you say is a mantra, therefore say whatever you like.”",
+   "directed": "[short pause] “Everything you say is a mantra, therefore say whatever you like.”"
+  },
+  {
+   "id": "b105",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That would be a rather spectacular misunderstanding.",
+   "directed": "That would be a rather spectacular misunderstanding."
+  },
+  {
+   "id": "b106",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The condition of recognition comes first.",
+   "directed": "The condition of recognition comes first."
+  },
+  {
+   "id": "b107",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The transformation of speech follows from it.",
+   "directed": "The transformation of speech follows from it."
+  },
+  {
+   "id": "b108",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is why the text doesn’t simply teach a new religious ritual.",
+   "directed": "And this is why the text doesn’t simply teach a new religious ritual."
+  },
+  {
+   "id": "b109",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It teaches a transformation of the conscious standpoint from which activity occurs.",
+   "directed": "It teaches a transformation of the conscious standpoint from which activity occurs."
+  },
+  {
+   "id": "b110",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The body continues as a vow.",
+   "directed": "The body continues as a vow."
+  },
+  {
+   "id": "b111",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Speech becomes japa.",
+   "directed": "Speech becomes japa."
+  },
+  {
+   "id": "b112",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now Vasugupta announces what the realised yogi gives to others.",
+   "directed": "And now Vasugupta announces what the realised yogi gives to others."
+  },
+  {
+   "id": "b113",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And it’s not money.",
+   "directed": "And it’s not money."
+  },
+  {
+   "id": "b114",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not supernatural powers.",
+   "directed": "Not supernatural powers."
+  },
+  {
+   "id": "b115",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not a complicated initiation certificate.",
+   "directed": "Not a complicated initiation certificate."
+  },
+  {
+   "id": "b116",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Self-knowledge.",
+   "directed": "Self-knowledge."
+  },
+  {
+   "id": "b117",
+   "section": "Śiva Sūtras 3.27",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The highest gift.",
+   "directed": "The highest gift."
+  }
+ ],
+ "totals": {
+  "blocks": 118,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 792,
+   "verse": 13,
+   "man": 5
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 5.3,
+   "verse": 0.1,
+   "man": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

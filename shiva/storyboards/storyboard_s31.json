@@ -1,0 +1,703 @@
+{
+ "title": "Śiva Sūtras 2.9",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 2.9",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 2.9",
+   "directed": "[long pause] Śiva Sūtras 2.9"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 2.9",
+   "type": "verse",
+   "voice": "verse",
+   "text": "ज्ञानमन्नम्",
+   "directed": "[slowly] ज्ञानमन्नम्"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Jñānam annam.",
+   "directed": "Jñānam annam."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Knowledge is food.",
+   "directed": "Knowledge is food."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śiva Eats Your Thoughts for Breakfast.",
+   "directed": "Śiva Eats Your Thoughts for Breakfast."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now this is absolutely glorious.",
+   "directed": "Now this is absolutely glorious."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because Vasugupta has been playing a very sophisticated game with the word jñāna.",
+   "directed": "Because Vasugupta has been playing a very sophisticated game with the word jñāna."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Remember 1.2?",
+   "directed": "Remember 1.2?"
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 2.9",
+   "type": "verse",
+   "voice": "verse",
+   "text": "ज्ञानं बन्धः।.",
+   "directed": "[slowly] ज्ञानं बन्धः।."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Jñānaṃ bandhaḥ.",
+   "directed": "Jñānaṃ bandhaḥ."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Knowledge is bondage.",
+   "directed": "Knowledge is bondage."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now?",
+   "directed": "And now?"
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 2.9",
+   "type": "verse",
+   "voice": "verse",
+   "text": "ज्ञानमन्नम्।",
+   "directed": "[slowly] ज्ञानमन्नम्।"
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Jñānam annam.",
+   "directed": "Jñānam annam."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Knowledge is food.",
+   "directed": "Knowledge is food."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So we’ve gone from knowledge being the prison to knowledge being lunch.",
+   "directed": "So we’ve gone from knowledge being the prison to knowledge being lunch."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Quite an upgrade.",
+   "directed": "Quite an upgrade."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s unpack it.",
+   "directed": "Let’s unpack it."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Jñāna — knowledge.",
+   "directed": "Jñāna — knowledge."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Anna — food, that which is eaten.",
+   "directed": "Anna — food, that which is eaten."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja offers two interconnected interpretations.",
+   "directed": "And Kṣemarāja offers two interconnected interpretations."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The first is especially powerful.",
+   "directed": "The first is especially powerful."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The limited knowledge previously described as bondage is now food for the realised yogi.",
+   "directed": "The limited knowledge previously described as bondage is now food for the realised yogi."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The yogi devours it.",
+   "directed": "The yogi devours it."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not by forgetting everything.",
+   "directed": "Not by forgetting everything."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not by becoming incapable of ordinary thought.",
+   "directed": "Not by becoming incapable of ordinary thought."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And certainly not by physically eating books.",
+   "directed": "And certainly not by physically eating books."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Although that might explain some academic departments.",
+   "directed": "Although that might explain some academic departments."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The devouring is a metaphor for the absorption of limited knowledge into nondual recognition.",
+   "directed": "The devouring is a metaphor for the absorption of limited knowledge into nondual recognition."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Imagine a thought arises.",
+   "directed": "Imagine a thought arises."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 2.9",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“There is something separate from me.”",
+   "directed": "[short pause] “There is something separate from me.”"
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Under ordinary conditions, this differentiated cognition reinforces the structure of bondage.",
+   "directed": "Under ordinary conditions, this differentiated cognition reinforces the structure of bondage."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The object appears independent.",
+   "directed": "The object appears independent."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The subject appears limited.",
+   "directed": "The subject appears limited."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The relationship between them is experienced through separation.",
+   "directed": "The relationship between them is experienced through separation."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But now suppose the fundamental reality of consciousness has been recognised.",
+   "directed": "But now suppose the fundamental reality of consciousness has been recognised."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The same differentiated appearance occurs.",
+   "directed": "The same differentiated appearance occurs."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A sound.",
+   "directed": "A sound."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A colour.",
+   "directed": "A colour."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A sensation.",
+   "directed": "A sensation."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A thought.",
+   "directed": "A thought."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But its ultimate nature is no longer misunderstood.",
+   "directed": "But its ultimate nature is no longer misunderstood."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The difference appears within the undivided field of consciousness.",
+   "directed": "The difference appears within the undivided field of consciousness."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And therefore the difference no longer necessarily obscures its conscious source.",
+   "directed": "And therefore the difference no longer necessarily obscures its conscious source."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is what Kṣemarāja means by the devouring of limited knowledge.",
+   "directed": "This is what Kṣemarāja means by the devouring of limited knowledge."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The distinction is not necessarily annihilated at the level of conventional functioning.",
+   "directed": "The distinction is not necessarily annihilated at the level of conventional functioning."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Instead, its apparent independence is overcome.",
+   "directed": "Instead, its apparent independence is overcome."
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A wave appears.",
+   "directed": "A wave appears."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The ocean does not cease to be the ocean.",
+   "directed": "The ocean does not cease to be the ocean."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the wave, recognised in its true nature, is never something fundamentally foreign to the water.",
+   "directed": "And the wave, recognised in its true nature, is never something fundamentally foreign to the water."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now imagine the yogi encountering the entire universe in this manner.",
+   "directed": "Now imagine the yogi encountering the entire universe in this manner."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Each differentiated cognition becomes an occasion for recognising its source.",
+   "directed": "Each differentiated cognition becomes an occasion for recognising its source."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The world is no longer a collection of alien objects confronting a finite subject.",
+   "directed": "The world is no longer a collection of alien objects confronting a finite subject."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is the manifestation of consciousness, continually recognised.",
+   "directed": "It is the manifestation of consciousness, continually recognised."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And there’s something extraordinarily affirmative about this.",
+   "directed": "And there’s something extraordinarily affirmative about this."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because the yogi doesn’t have to become incapable of perceiving differences.",
+   "directed": "Because the yogi doesn’t have to become incapable of perceiving differences."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They don’t have to destroy the mental faculty that makes ordinary life possible.",
+   "directed": "They don’t have to destroy the mental faculty that makes ordinary life possible."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They don’t have to wander around insisting that chairs and elephants are literally identical at every empirical level.",
+   "directed": "They don’t have to wander around insisting that chairs and elephants are literally identical at every empirical level."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That would be a terrible way to organise a zoo.",
+   "directed": "That would be a terrible way to organise a zoo."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Instead, differences are apprehended without mistaking them for ultimate separations in consciousness.",
+   "directed": "Instead, differences are apprehended without mistaking them for ultimate separations in consciousness."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The second interpretation Kṣemarāja offers is equally beautiful.",
+   "directed": "The second interpretation Kṣemarāja offers is equally beautiful."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Knowledge of the Self becomes food through the satisfaction it produces.",
+   "directed": "Knowledge of the Self becomes food through the satisfaction it produces."
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The yogi is nourished by recognition.",
+   "directed": "The yogi is nourished by recognition."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the term tṛpti — satisfaction or fulfilment — becomes relevant.",
+   "directed": "And the term tṛpti — satisfaction or fulfilment — becomes relevant."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not a temporary pleasure requiring another object.",
+   "directed": "Not a temporary pleasure requiring another object."
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the fullness associated with resting in one’s own conscious nature.",
+   "directed": "But the fullness associated with resting in one’s own conscious nature."
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This recalls the Trika understanding of ānanda as intrinsic to the supreme reality.",
+   "directed": "This recalls the Trika understanding of ānanda as intrinsic to the supreme reality."
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’re not acquiring completeness from an external object.",
+   "directed": "You’re not acquiring completeness from an external object."
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’re recognising the completeness fundamental to consciousness.",
+   "directed": "You’re recognising the completeness fundamental to consciousness."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja draws on the Vijñānabhairava and Spandakārikā to make these points. Sanskrit & Trika Shaivism.",
+   "directed": "Kṣemarāja draws on the Vijñānabhairava and Spandakārikā to make these points. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now notice the beautiful progression of the preceding two sūtras.",
+   "directed": "And now notice the beautiful progression of the preceding two sūtras."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "At 2.8, the body is offered into consciousness.",
+   "directed": "At 2.8, the body is offered into consciousness."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "At 2.9, limited knowledge is consumed by consciousness.",
+   "directed": "At 2.9, limited knowledge is consumed by consciousness."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "First, the embodied identity is relinquished as the ultimate Self.",
+   "directed": "First, the embodied identity is relinquished as the ultimate Self."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then differentiated cognition is absorbed into recognition.",
+   "directed": "Then differentiated cognition is absorbed into recognition."
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The fire consumes the body.",
+   "directed": "The fire consumes the body."
+  },
+  {
+   "id": "b77",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Consciousness consumes knowledge.",
+   "directed": "Consciousness consumes knowledge."
+  },
+  {
+   "id": "b78",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And throughout this sacrificial imagery, there is no second reality outside Śiva.",
+   "directed": "And throughout this sacrificial imagery, there is no second reality outside Śiva."
+  },
+  {
+   "id": "b79",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The offerer, the offering, and the act of consumption are manifestations of his own power.",
+   "directed": "The offerer, the offering, and the act of consumption are manifestations of his own power."
+  },
+  {
+   "id": "b80",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is what makes Trika so magnificent.",
+   "directed": "This is what makes Trika so magnificent."
+  },
+  {
+   "id": "b81",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The same consciousness that manifested the universe now recognises it through the very powers by which it was manifested.",
+   "directed": "The same consciousness that manifested the universe now recognises it through the very powers by which it was manifested."
+  },
+  {
+   "id": "b82",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The world hasn’t become spiritually irrelevant.",
+   "directed": "The world hasn’t become spiritually irrelevant."
+  },
+  {
+   "id": "b83",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It has become the meal.",
+   "directed": "It has become the meal."
+  },
+  {
+   "id": "b84",
+   "section": "Śiva Sūtras 2.9",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And apparently Śiva has quite the appetite.",
+   "directed": "And apparently Śiva has quite the appetite."
+  }
+ ],
+ "totals": {
+  "blocks": 85,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 622,
+   "verse": 4
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 4.1,
+   "verse": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

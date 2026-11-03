@@ -1,0 +1,719 @@
+{
+ "title": "Śiva Sūtras 3.17",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 3.17",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 3.17",
+   "directed": "[long pause] Śiva Sūtras 3.17"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 3.17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "स्वमात्रानिर्माणमापादयति",
+   "directed": "[slowly] स्वमात्रानिर्माणमापादयति"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Svamātrānirmāṇam āpādayati.",
+   "directed": "Svamātrānirmāṇam āpādayati."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The yogi brings about manifestation according to the measure of their own consciousness.",
+   "directed": "The yogi brings about manifestation according to the measure of their own consciousness."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Congratulations, the Universe Is Now Made to Your Measurements.",
+   "directed": "Congratulations, the Universe Is Now Made to Your Measurements."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Right.",
+   "directed": "[short pause] Right."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’ve emerged from the Great Lake.",
+   "directed": "We’ve emerged from the Great Lake."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Feeling refreshed.",
+   "directed": "Feeling refreshed."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Lovely immersion.",
+   "directed": "Lovely immersion."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Very peaceful.",
+   "directed": "Very peaceful."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Vasugupta informs us that the realised yogi can now manifest forms according to the power of consciousness.",
+   "directed": "And Vasugupta informs us that the realised yogi can now manifest forms according to the power of consciousness."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Naturally.",
+   "directed": "Naturally."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s unpack the compound.",
+   "directed": "Let’s unpack the compound."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sva — one’s own.",
+   "directed": "Sva — one’s own."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Mātrā — measure, dimension, determining aspect.",
+   "directed": "Mātrā — measure, dimension, determining aspect."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nirmāṇa — production, formation, construction, manifestation.",
+   "directed": "Nirmāṇa — production, formation, construction, manifestation."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Āpādayati — brings about, accomplishes, causes to arise.",
+   "directed": "Āpādayati — brings about, accomplishes, causes to arise."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The idea is that the yogi manifests according to svamātrā, the measure belonging to their own consciousness.",
+   "directed": "The idea is that the yogi manifests according to svamātrā, the measure belonging to their own consciousness."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But Kṣemarāja doesn’t leave mātrā as a vague expression.",
+   "directed": "But Kṣemarāja doesn’t leave mātrā as a vague expression."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He gives a fascinating explanation.",
+   "directed": "He gives a fascinating explanation."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is a contracted or condensed aspect of the essence of consciousness.",
+   "directed": "It is a contracted or condensed aspect of the essence of consciousness."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 3.17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Cidrasāśyānatā.",
+   "directed": "[slowly] Cidrasāśyānatā."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A kind of solidification of the essence of consciousness.",
+   "directed": "A kind of solidification of the essence of consciousness."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not literal physical solidification, of course.",
+   "directed": "Not literal physical solidification, of course."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is a metaphysical description.",
+   "directed": "This is a metaphysical description."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the imagery is extraordinary.",
+   "directed": "But the imagery is extraordinary."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Imagine consciousness as unlimited, self-luminous reality.",
+   "directed": "Imagine consciousness as unlimited, self-luminous reality."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now imagine forms appearing through particular differentiations of that reality.",
+   "directed": "And now imagine forms appearing through particular differentiations of that reality."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Objects.",
+   "directed": "Objects."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Subjects.",
+   "directed": "Subjects."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Bodies.",
+   "directed": "Bodies."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Worlds.",
+   "directed": "Worlds."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The undivided reality manifests determinate forms.",
+   "directed": "The undivided reality manifests determinate forms."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja connects this to the appearance of both vedya and vedaka.",
+   "directed": "Kṣemarāja connects this to the appearance of both vedya and vedaka."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The knowable.",
+   "directed": "The knowable."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the knower.",
+   "directed": "And the knower."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now this is important.",
+   "directed": "Now this is important."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re not simply saying that consciousness produces an external object which a separate subject subsequently encounters.",
+   "directed": "We’re not simply saying that consciousness produces an external object which a separate subject subsequently encounters."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The entire relation between subject and object belongs to manifestation.",
+   "directed": "The entire relation between subject and object belongs to manifestation."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The knower and the known are both included in the field of Śakti’s expression.",
+   "directed": "The knower and the known are both included in the field of Śakti’s expression."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here’s where the text becomes especially beautiful.",
+   "directed": "And here’s where the text becomes especially beautiful."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja cites the Svacchandatantra to explain that one reality can appear in gross and subtle forms according to its limiting conditions.",
+   "directed": "Kṣemarāja cites the Svacchandatantra to explain that one reality can appear in gross and subtle forms according to its limiting conditions."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then he turns to the Pratyabhijñā tradition.",
+   "directed": "Then he turns to the Pratyabhijñā tradition."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And finally to the relationship between water and ice.",
+   "directed": "And finally to the relationship between water and ice."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, think about ice.",
+   "directed": "Now, think about ice."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ice has a definite structure.",
+   "directed": "Ice has a definite structure."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It can appear as a cube.",
+   "directed": "It can appear as a cube."
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A sheet.",
+   "directed": "A sheet."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A beautifully sculpted swan at an unnecessarily extravagant wedding.",
+   "directed": "A beautifully sculpted swan at an unnecessarily extravagant wedding."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And you can describe those forms as distinct objects.",
+   "directed": "And you can describe those forms as distinct objects."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But none of them is a substance fundamentally alien to water.",
+   "directed": "But none of them is a substance fundamentally alien to water."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The differentiation of form doesn’t establish an independent material reality.",
+   "directed": "The differentiation of form doesn’t establish an independent material reality."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That’s the direction of the analogy.",
+   "directed": "That’s the direction of the analogy."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Within Trika, the entire manifest universe is understood as the expression of consciousness through its own powers.",
+   "directed": "Within Trika, the entire manifest universe is understood as the expression of consciousness through its own powers."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the realised yogi is said to recognise, and in the traditional account exercise, the creative freedom underlying these manifestations.",
+   "directed": "And the realised yogi is said to recognise, and in the traditional account exercise, the creative freedom underlying these manifestations."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja even invokes the Spandakārikā on the yogi who experiences the entire universe as divine play while remaining established in recognition.",
+   "directed": "Kṣemarāja even invokes the Spandakārikā on the yogi who experiences the entire universe as divine play while remaining established in recognition."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And he connects this with jīvanmukti.",
+   "directed": "And he connects this with jīvanmukti."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Liberation while living. Sanskrit & Trika Shaivism.",
+   "directed": "Liberation while living. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, let’s be precise.",
+   "directed": "Now, let’s be precise."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja’s commentary really does speak in terms of manifestation according to will.",
+   "directed": "Kṣemarāja’s commentary really does speak in terms of manifestation according to will."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We shouldn’t quietly rewrite his claim into:",
+   "directed": "[short pause] We shouldn’t quietly rewrite his claim into:"
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 3.17",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“You can imagine things creatively.”",
+   "directed": "[short pause] “You can imagine things creatively.”"
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That would be a much weaker statement.",
+   "directed": "That would be a much weaker statement."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But neither should we mistake the traditional claim for an experimentally established ability to create physical objects by thought.",
+   "directed": "But neither should we mistake the traditional claim for an experimentally established ability to create physical objects by thought."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The commentary’s metaphysical point is that the manifesting power of consciousness is not ultimately external to the realised Self.",
+   "directed": "The commentary’s metaphysical point is that the manifesting power of consciousness is not ultimately external to the realised Self."
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here’s the wonderful reversal.",
+   "directed": "And here’s the wonderful reversal."
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In ordinary life, the individual experiences a world that seems to confront them from outside.",
+   "directed": "In ordinary life, the individual experiences a world that seems to confront them from outside."
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The world is already there.",
+   "directed": "The world is already there."
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The person is thrown into it.",
+   "directed": "The person is thrown into it."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They encounter objects.",
+   "directed": "They encounter objects."
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They react to circumstances.",
+   "directed": "They react to circumstances."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the entire situation appears governed by powers that are not their own.",
+   "directed": "And the entire situation appears governed by powers that are not their own."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But in the supreme recognition described here, the yogi apprehends the world as manifestation of their own universal conscious nature.",
+   "directed": "But in the supreme recognition described here, the yogi apprehends the world as manifestation of their own universal conscious nature."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not of their private personality.",
+   "directed": "Not of their private personality."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not of their ordinary ego.",
+   "directed": "Not of their ordinary ego."
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But of consciousness understood through the freedom of Śiva.",
+   "directed": "But of consciousness understood through the freedom of Śiva."
+  },
+  {
+   "id": "b77",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is where the water-and-ice analogy becomes especially powerful.",
+   "directed": "And this is where the water-and-ice analogy becomes especially powerful."
+  },
+  {
+   "id": "b78",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The ice doesn’t have to cease existing for its reality as water to be recognised.",
+   "directed": "The ice doesn’t have to cease existing for its reality as water to be recognised."
+  },
+  {
+   "id": "b79",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Likewise, the world doesn’t have to physically disappear for its nondual nature to become apparent.",
+   "directed": "Likewise, the world doesn’t have to physically disappear for its nondual nature to become apparent."
+  },
+  {
+   "id": "b80",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The form can remain.",
+   "directed": "The form can remain."
+  },
+  {
+   "id": "b81",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The recognition changes.",
+   "directed": "The recognition changes."
+  },
+  {
+   "id": "b82",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You were staring at the ice.",
+   "directed": "You were staring at the ice."
+  },
+  {
+   "id": "b83",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now you understand the water.",
+   "directed": "Now you understand the water."
+  },
+  {
+   "id": "b84",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And suddenly Vasugupta makes an even more extraordinary declaration.",
+   "directed": "And suddenly Vasugupta makes an even more extraordinary declaration."
+  },
+  {
+   "id": "b85",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because if the yogi is established in this knowledge, apparently the entire cycle of rebirth comes to an end.",
+   "directed": "Because if the yogi is established in this knowledge, apparently the entire cycle of rebirth comes to an end."
+  },
+  {
+   "id": "b86",
+   "section": "Śiva Sūtras 3.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now that’s quite an administrative achievement.",
+   "directed": "Now that’s quite an administrative achievement."
+  }
+ ],
+ "totals": {
+  "blocks": 87,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 675,
+   "verse": 2
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 4.5,
+   "verse": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

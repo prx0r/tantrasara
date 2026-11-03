@@ -1,0 +1,761 @@
+{
+ "title": "Śiva Sūtras 3.36",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 3.36",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 3.36",
+   "directed": "[long pause] Śiva Sūtras 3.36"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 3.36",
+   "type": "verse",
+   "voice": "verse",
+   "text": "भेदतिरस्कारे सर्गान्तरकर्मत्वम्",
+   "directed": "[slowly] भेदतिरस्कारे सर्गान्तरकर्मत्वम्"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Bhedatiraskāre sargāntarakarmatvam.",
+   "directed": "Bhedatiraskāre sargāntarakarmatvam."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "When difference is overcome, the capacity to create another manifestation arises.",
+   "directed": "When difference is overcome, the capacity to create another manifestation arises."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You Beat Duality and Unlock the Universe Editor.",
+   "directed": "You Beat Duality and Unlock the Universe Editor."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Right.",
+   "directed": "[short pause] Right."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is a BIG one.",
+   "directed": "This is a BIG one."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And we need to handle it properly, because Kṣemarāja is making a genuinely extraordinary claim.",
+   "directed": "And we need to handle it properly, because Kṣemarāja is making a genuinely extraordinary claim."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s unpack the Sanskrit.",
+   "directed": "Let’s unpack the Sanskrit."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Bheda — difference, division, differentiation.",
+   "directed": "Bheda — difference, division, differentiation."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Tiraskāra — removal, rejection, disappearance, overcoming.",
+   "directed": "Tiraskāra — removal, rejection, disappearance, overcoming."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sarga — creation, manifestation, emanation.",
+   "directed": "Sarga — creation, manifestation, emanation."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Antara — another, different.",
+   "directed": "Antara — another, different."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Karmatva — the condition or capacity of acting.",
+   "directed": "Karmatva — the condition or capacity of acting."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So:",
+   "directed": "[short pause] So:"
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "When dualistic difference is overcome, the power of bringing forth another creation is said to arise.",
+   "directed": "When dualistic difference is overcome, the power of bringing forth another creation is said to arise."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, before anybody installs cosmic Minecraft and begins designing a replacement solar system, let’s understand the philosophical progression.",
+   "directed": "Now, before anybody installs cosmic Minecraft and begins designing a replacement solar system, let’s understand the philosophical progression."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The previous sūtra described the bound individual.",
+   "directed": "The previous sūtra described the bound individual."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The karmātmā.",
+   "directed": "The karmātmā."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Limited by ignorance.",
+   "directed": "Limited by ignorance."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Involved in action.",
+   "directed": "Involved in action."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Subject to karmic consequences.",
+   "directed": "Subject to karmic consequences."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But Kṣemarāja begins his explanation of 3.36 by introducing the descent of divine grace.",
+   "directed": "But Kṣemarāja begins his explanation of 3.36 by introducing the descent of divine grace."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 3.36",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Māheśaśaktipāta.",
+   "directed": "[slowly] Māheśaśaktipāta."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The descent of the power of the Great Lord.",
+   "directed": "The descent of the power of the Great Lord."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And through this grace, the individual’s innate svātantrya becomes manifest.",
+   "directed": "And through this grace, the individual’s innate svātantrya becomes manifest."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, this is where the metaphysics of Trika becomes extraordinarily distinctive.",
+   "directed": "Now, this is where the metaphysics of Trika becomes extraordinarily distinctive."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because if liberation were simply escape from a separate material universe, the recognition of supreme consciousness would principally concern disengagement from matter.",
+   "directed": "Because if liberation were simply escape from a separate material universe, the recognition of supreme consciousness would principally concern disengagement from matter."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But in Trika, Śiva is the source of manifestation.",
+   "directed": "But in Trika, Śiva is the source of manifestation."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "His nature includes the power of creation.",
+   "directed": "His nature includes the power of creation."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And therefore the recognition of Śiva’s nature is inseparable, in the traditional account, from recognition of that creative freedom.",
+   "directed": "And therefore the recognition of Śiva’s nature is inseparable, in the traditional account, from recognition of that creative freedom."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja describes the overcoming of dualistic identification with the body, vital energy and other limited conditions.",
+   "directed": "Kṣemarāja describes the overcoming of dualistic identification with the body, vital energy and other limited conditions."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And then he introduces a hierarchy of conscious subjects.",
+   "directed": "And then he introduces a hierarchy of conscious subjects."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sakala.",
+   "directed": "Sakala."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The ordinary embodied individual.",
+   "directed": "The ordinary embodied individual."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 3.36",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Pralayākala.",
+   "directed": "[slowly] Pralayākala."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A subtler condition in which certain limitations remain.",
+   "directed": "A subtler condition in which certain limitations remain."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And then the higher levels:",
+   "directed": "[short pause] And then the higher levels:"
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Mantra.",
+   "directed": "Mantra."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 3.36",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Mantreśvara.",
+   "directed": "[slowly] Mantreśvara."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 3.36",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Mantramaheśvara.",
+   "directed": "[slowly] Mantramaheśvara."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "These are technical categories within the Trika hierarchy of experiencers, associated with progressively less contracted forms of consciousness.",
+   "directed": "These are technical categories within the Trika hierarchy of experiencers, associated with progressively less contracted forms of consciousness."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They’re not merely job titles handed out to the best meditators.",
+   "directed": "They’re not merely job titles handed out to the best meditators."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Although they sound rather impressive.",
+   "directed": "Although they sound rather impressive."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 3.36",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Good morning, what do you do?”",
+   "directed": "[short pause] “Good morning, what do you do?”"
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 3.36",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Mantramaheśvara.”",
+   "directed": "[short pause] “Mantramaheśvara.”"
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 3.36",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Ah. And what does that involve?”",
+   "directed": "[short pause] “Ah. And what does that involve?”"
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 3.36",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Cosmic sovereignty.”",
+   "directed": "[short pause] “Cosmic sovereignty.”"
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 3.36",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Right. Would you like a receipt?”",
+   "directed": "[short pause] “Right. Would you like a receipt?”"
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Anyway.",
+   "directed": "Anyway."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja describes the progressive attainment of these higher conditions as the limitations of difference are overcome.",
+   "directed": "Kṣemarāja describes the progressive attainment of these higher conditions as the limitations of difference are overcome."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the result is the creative capacity described by the sūtra.",
+   "directed": "And the result is the creative capacity described by the sūtra."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now here’s the part we mustn’t conceal.",
+   "directed": "Now here’s the part we mustn’t conceal."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja cites the Svacchandatantra in support of extraordinary powers.",
+   "directed": "Kṣemarāja cites the Svacchandatantra in support of extraordinary powers."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The cited passages claim that the adept can become like Svacchanda, exercise power over divine beings, bestow or remove fear, grant blessings or curses, overcome time’s power, and even bring down mountains.",
+   "directed": "The cited passages claim that the adept can become like Svacchanda, exercise power over divine beings, bestow or remove fear, grant blessings or curses, overcome time’s power, and even bring down mountains."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Yes.",
+   "directed": "[short pause] Yes."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Mountains.",
+   "directed": "Mountains."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The actual tantric source includes that claim.",
+   "directed": "The actual tantric source includes that claim."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not merely:",
+   "directed": "[short pause] Not merely:"
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 3.36",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“One becomes more psychologically creative.”",
+   "directed": "[short pause] “One becomes more psychologically creative.”"
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not merely:",
+   "directed": "[short pause] Not merely:"
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 3.36",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“One discovers a fresh perspective on one’s life.”",
+   "directed": "[short pause] “One discovers a fresh perspective on one’s life.”"
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The commentary really does appeal to supernatural cosmic agency. Sanskrit & Trika Shaivism.",
+   "directed": "The commentary really does appeal to supernatural cosmic agency. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, those claims aren’t established physical capabilities.",
+   "directed": "Now, those claims aren’t established physical capabilities."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We shouldn’t pretend they are.",
+   "directed": "We shouldn’t pretend they are."
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But we also shouldn’t sanitize the historical text into a comfortable modern self-help manual.",
+   "directed": "But we also shouldn’t sanitize the historical text into a comfortable modern self-help manual."
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The metaphysical reasoning is important.",
+   "directed": "The metaphysical reasoning is important."
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "If universal consciousness possesses unlimited creative freedom, then a yogi identified with that consciousness is said, within the tradition, to participate in its manifesting power.",
+   "directed": "If universal consciousness possesses unlimited creative freedom, then a yogi identified with that consciousness is said, within the tradition, to participate in its manifesting power."
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is the logic behind the extraordinary claims.",
+   "directed": "This is the logic behind the extraordinary claims."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And notice the sequence.",
+   "directed": "And notice the sequence."
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "First, bhedatiraskāra.",
+   "directed": "First, bhedatiraskāra."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The overcoming of difference.",
+   "directed": "The overcoming of difference."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then, sargāntarakarmatva.",
+   "directed": "Then, sargāntarakarmatva."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The power of another creation.",
+   "directed": "The power of another creation."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The power is not presented as simply an advanced technique available to the ordinary ego.",
+   "directed": "The power is not presented as simply an advanced technique available to the ordinary ego."
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s connected with the overcoming of the very dualistic limitation that constitutes ordinary egoic identity.",
+   "directed": "It’s connected with the overcoming of the very dualistic limitation that constitutes ordinary egoic identity."
+  },
+  {
+   "id": "b77",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which is an important distinction.",
+   "directed": "Which is an important distinction."
+  },
+  {
+   "id": "b78",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because otherwise the text would simply be saying:",
+   "directed": "[short pause] Because otherwise the text would simply be saying:"
+  },
+  {
+   "id": "b79",
+   "section": "Śiva Sūtras 3.36",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Remain an ordinary finite person, but acquire increasingly spectacular powers.”",
+   "directed": "[short pause] “Remain an ordinary finite person, but acquire increasingly spectacular powers.”"
+  },
+  {
+   "id": "b80",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja’s entire explanation of bondage would become irrelevant.",
+   "directed": "And Kṣemarāja’s entire explanation of bondage would become irrelevant."
+  },
+  {
+   "id": "b81",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The deeper teaching concerns the relationship between knowing, agency and the supreme source.",
+   "directed": "The deeper teaching concerns the relationship between knowing, agency and the supreme source."
+  },
+  {
+   "id": "b82",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The extraordinary creative powers are presented as consequences of that recognition in the tantric account.",
+   "directed": "The extraordinary creative powers are presented as consequences of that recognition in the tantric account."
+  },
+  {
+   "id": "b83",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now comes a rather fascinating question.",
+   "directed": "And now comes a rather fascinating question."
+  },
+  {
+   "id": "b84",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Why should anyone believe consciousness possesses creative power at all?",
+   "directed": "Why should anyone believe consciousness possesses creative power at all?"
+  },
+  {
+   "id": "b85",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Forget making mountains fall over.",
+   "directed": "Forget making mountains fall over."
+  },
+  {
+   "id": "b86",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Forget manifesting additional universes.",
+   "directed": "Forget manifesting additional universes."
+  },
+  {
+   "id": "b87",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "What evidence do we have that awareness can generate anything?",
+   "directed": "What evidence do we have that awareness can generate anything?"
+  },
+  {
+   "id": "b88",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Well.",
+   "directed": "Well."
+  },
+  {
+   "id": "b89",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja points towards something you’ve experienced approximately every night of your life.",
+   "directed": "Kṣemarāja points towards something you’ve experienced approximately every night of your life."
+  },
+  {
+   "id": "b90",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Dreaming.",
+   "directed": "Dreaming."
+  },
+  {
+   "id": "b91",
+   "section": "Śiva Sūtras 3.36",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And suddenly the argument becomes very interesting indeed.",
+   "directed": "And suddenly the argument becomes very interesting indeed."
+  }
+ ],
+ "totals": {
+  "blocks": 92,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 657,
+   "verse": 6,
+   "man": 18
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 4.4,
+   "verse": 0.0,
+   "man": 0.1
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

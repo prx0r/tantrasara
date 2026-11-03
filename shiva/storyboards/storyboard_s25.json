@@ -1,0 +1,703 @@
+{
+ "title": "Śiva Sūtras 2.3",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 2.3",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 2.3",
+   "directed": "[long pause] Śiva Sūtras 2.3"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 2.3",
+   "type": "verse",
+   "voice": "verse",
+   "text": "विद्याशरीरसत्ता मन्त्ररहस्यम्",
+   "directed": "[slowly] विद्याशरीरसत्ता मन्त्ररहस्यम्"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vidyāśarīrasattā mantrarahasyam.",
+   "directed": "Vidyāśarīrasattā mantrarahasyam."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The conscious being underlying the knowledge-formed body of mantra is its secret.",
+   "directed": "The conscious being underlying the knowledge-formed body of mantra is its secret."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Secret of Mantra Is That You’ve Been Worshipping the Alphabet Without Knowing Its Mother.",
+   "directed": "The Secret of Mantra Is That You’ve Been Worshipping the Alphabet Without Knowing Its Mother."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Oh, now we’re getting somewhere.",
+   "directed": "Oh, now we’re getting somewhere."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vidya.",
+   "directed": "Vidya."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 2.3",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Śarīra.",
+   "directed": "[slowly] Śarīra."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 2.3",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Sattā.",
+   "directed": "[slowly] Sattā."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Mantra.",
+   "directed": "Mantra."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Rahasya.",
+   "directed": "Rahasya."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s get the Sanskrit properly unpacked, because this is an absolutely gorgeous compound.",
+   "directed": "Let’s get the Sanskrit properly unpacked, because this is an absolutely gorgeous compound."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vidyā — knowledge, particularly liberating or pure knowledge in this context.",
+   "directed": "Vidyā — knowledge, particularly liberating or pure knowledge in this context."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śarīra — body, embodiment.",
+   "directed": "Śarīra — body, embodiment."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sattā — existence, being.",
+   "directed": "Sattā — existence, being."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Mantra — sacred formula.",
+   "directed": "Mantra — sacred formula."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Rahasya — secret, mystery, hidden essence.",
+   "directed": "Rahasya — secret, mystery, hidden essence."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja interprets vidyāśarīra as that whose essential body consists of supreme nondual knowledge.",
+   "directed": "Kṣemarāja interprets vidyāśarīra as that whose essential body consists of supreme nondual knowledge."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the sattā, the conscious being of that knowledge-body, is the luminous power of pure I-consciousness.",
+   "directed": "And the sattā, the conscious being of that knowledge-body, is the luminous power of pure I-consciousness."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is the secret of mantra.",
+   "directed": "This is the secret of mantra."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, an ordinary person sees a written mantra.",
+   "directed": "Now, an ordinary person sees a written mantra."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A series of letters.",
+   "directed": "A series of letters."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Perhaps:",
+   "directed": "[short pause] Perhaps:"
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 2.3",
+   "type": "verse",
+   "voice": "verse",
+   "text": "न मः शि वा य",
+   "directed": "[slowly] न मः शि वा य"
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Na — maḥ — śi — vā — ya.",
+   "directed": "Na — maḥ — śi — vā — ya."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Five syllables in the traditional namaḥ śivāya formulation, with namaḥ sandhi and pronunciation treated according to the chant.",
+   "directed": "Five syllables in the traditional namaḥ śivāya formulation, with namaḥ sandhi and pronunciation treated according to the chant."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There’s a sequence.",
+   "directed": "There’s a sequence."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The sounds occur one after another.",
+   "directed": "The sounds occur one after another."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Your mouth moves.",
+   "directed": "Your mouth moves."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Your tongue changes position.",
+   "directed": "Your tongue changes position."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The sound resonates.",
+   "directed": "The sound resonates."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And you might naturally conclude that the mantra consists fundamentally of those audible units.",
+   "directed": "And you might naturally conclude that the mantra consists fundamentally of those audible units."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But Kṣemarāja wants us to look deeper.",
+   "directed": "But Kṣemarāja wants us to look deeper."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The syllables belong to Mātṛkā, the divine matrix of phonemes.",
+   "directed": "The syllables belong to Mātṛkā, the divine matrix of phonemes."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the phonemes are expressions of Śakti.",
+   "directed": "And the phonemes are expressions of Śakti."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So what ultimately gives the mantra its sacred identity?",
+   "directed": "So what ultimately gives the mantra its sacred identity?"
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not merely its acoustic properties.",
+   "directed": "Not merely its acoustic properties."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not merely a collection of letters.",
+   "directed": "Not merely a collection of letters."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the conscious power manifested through them.",
+   "directed": "But the conscious power manifested through them."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is where the tantric philosophy of speech becomes absolutely outrageous.",
+   "directed": "This is where the tantric philosophy of speech becomes absolutely outrageous."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because language isn’t treated simply as a human invention for labelling pre-existing things.",
+   "directed": "Because language isn’t treated simply as a human invention for labelling pre-existing things."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is understood through a cosmological theory in which the unfolding of speech corresponds to the unfolding of manifestation.",
+   "directed": "It is understood through a cosmological theory in which the unfolding of speech corresponds to the unfolding of manifestation."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The phenomenal world appears articulated through innumerable distinctions.",
+   "directed": "The phenomenal world appears articulated through innumerable distinctions."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And speech expresses, organises, and, within this tantric metaphysics, participates in the very manifestation of those distinctions.",
+   "directed": "And speech expresses, organises, and, within this tantric metaphysics, participates in the very manifestation of those distinctions."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, before everyone starts claiming Sanskrit is physically generating hydrogen atoms, we need to be precise.",
+   "directed": "Now, before everyone starts claiming Sanskrit is physically generating hydrogen atoms, we need to be precise."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is a metaphysical doctrine of consciousness and manifestation.",
+   "directed": "This is a metaphysical doctrine of consciousness and manifestation."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It isn’t a laboratory demonstration that pronouncing a vowel creates an element of the periodic table.",
+   "directed": "It isn’t a laboratory demonstration that pronouncing a vowel creates an element of the periodic table."
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But within the Trika system, there is a deep relationship between the powers of conscious manifestation and the articulated structure of language.",
+   "directed": "But within the Trika system, there is a deep relationship between the powers of conscious manifestation and the articulated structure of language."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja supports his explanation with an astonishing passage from the Tantrasadbhāva.",
+   "directed": "And Kṣemarāja supports his explanation with an astonishing passage from the Tantrasadbhāva."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He describes Śakti in her sleeping, coiled condition.",
+   "directed": "He describes Śakti in her sleeping, coiled condition."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The potential universe lies within her.",
+   "directed": "The potential universe lies within her."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The powers associated with bindu, the divine point, and visarga, emission, participate in the manifestation of the phonemes.",
+   "directed": "The powers associated with bindu, the divine point, and visarga, emission, participate in the manifestation of the phonemes."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The letters appear through increasingly differentiated powers.",
+   "directed": "The letters appear through increasingly differentiated powers."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the many forms of speech and manifestation arise from the one Śakti.",
+   "directed": "And the many forms of speech and manifestation arise from the one Śakti."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This passage involves Kuṇḍalinī, subtle sound, the arrangement of letters, divine powers, and the emergence of multiplicity.",
+   "directed": "This passage involves Kuṇḍalinī, subtle sound, the arrangement of letters, divine powers, and the emergence of multiplicity."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s not a casual metaphor casually added by Kṣemarāja.",
+   "directed": "It’s not a casual metaphor casually added by Kṣemarāja."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s part of the actual scriptural material he deploys to explain the secret of mantra. Sanskrit & Trika Shaivism.",
+   "directed": "It’s part of the actual scriptural material he deploys to explain the secret of mantra. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Think of a piece of music.",
+   "directed": "Think of a piece of music."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You can analyse its individual notes.",
+   "directed": "You can analyse its individual notes."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Their frequencies.",
+   "directed": "Their frequencies."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Their duration.",
+   "directed": "Their duration."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Their order.",
+   "directed": "Their order."
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You can write every note onto a page.",
+   "directed": "You can write every note onto a page."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the living experience of the music is not simply a pile of isolated acoustic measurements.",
+   "directed": "But the living experience of the music is not simply a pile of isolated acoustic measurements."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now imagine a much more radical theory.",
+   "directed": "Now imagine a much more radical theory."
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The very possibility of articulation, intelligibility, experience and manifestation belongs to one conscious power.",
+   "directed": "The very possibility of articulation, intelligibility, experience and manifestation belongs to one conscious power."
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The notes are expressions of that power.",
+   "directed": "The notes are expressions of that power."
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The listener is an expression of that power.",
+   "directed": "The listener is an expression of that power."
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The experienced unity of the music is also an expression of that power.",
+   "directed": "The experienced unity of the music is also an expression of that power."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That’s the kind of nondual move Kṣemarāja is making with mantra.",
+   "directed": "That’s the kind of nondual move Kṣemarāja is making with mantra."
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the final secret?",
+   "directed": "And the final secret?"
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The living divine power is not separate from the consciousness through which the mantra is contemplated.",
+   "directed": "The living divine power is not separate from the consciousness through which the mantra is contemplated."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is why merely knowing the correct syllables is insufficient for the highest recognition.",
+   "directed": "This is why merely knowing the correct syllables is insufficient for the highest recognition."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You can possess the letters and remain ignorant of their source.",
+   "directed": "You can possess the letters and remain ignorant of their source."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You can pronounce the mantra perfectly and still approach Śiva as an entirely separate deity.",
+   "directed": "You can pronounce the mantra perfectly and still approach Śiva as an entirely separate deity."
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You can become the world’s leading expert in the phonology of Oṃ Namaḥ Śivāya and spend your entire life wondering whether you’ve finally reached the divine.",
+   "directed": "You can become the world’s leading expert in the phonology of Oṃ Namaḥ Śivāya and spend your entire life wondering whether you’ve finally reached the divine."
+  },
+  {
+   "id": "b77",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "While, according to the doctrine, the conscious power making the entire investigation possible is precisely what you’re seeking.",
+   "directed": "While, according to the doctrine, the conscious power making the entire investigation possible is precisely what you’re seeking."
+  },
+  {
+   "id": "b78",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s like studying the chemical composition of ink on a love letter while ignoring the love letter.",
+   "directed": "It’s like studying the chemical composition of ink on a love letter while ignoring the love letter."
+  },
+  {
+   "id": "b79",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Very accurate chemistry.",
+   "directed": "Very accurate chemistry."
+  },
+  {
+   "id": "b80",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Very unfortunate relationship.",
+   "directed": "Very unfortunate relationship."
+  },
+  {
+   "id": "b81",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The philosophical point: For Kṣemarāja, the inner secret of mantra is Śakti as self-aware, universal consciousness, not the mere external sequence of phonemes. The phonemes remain significant, but their highest efficacy depends upon recognition of that conscious source.",
+   "directed": "The philosophical point: For Kṣemarāja, the inner secret of mantra is Śakti as self-aware, universal consciousness, not the mere external sequence of phonemes. The phonemes remain significant, but their highest efficacy depends upon recognition of that conscious source."
+  },
+  {
+   "id": "b82",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now, having explained the extraordinary secret of mantra, Vasugupta offers a warning.",
+   "directed": "And now, having explained the extraordinary secret of mantra, Vasugupta offers a warning."
+  },
+  {
+   "id": "b83",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because apparently you can get all the way into advanced tantric practice, encounter unusual experiences, and still completely miss the point.",
+   "directed": "Because apparently you can get all the way into advanced tantric practice, encounter unusual experiences, and still completely miss the point."
+  },
+  {
+   "id": "b84",
+   "section": "Śiva Sūtras 2.3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which is deeply embarrassing.",
+   "directed": "Which is deeply embarrassing."
+  }
+ ],
+ "totals": {
+  "blocks": 85,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 786,
+   "verse": 9
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 5.2,
+   "verse": 0.1
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

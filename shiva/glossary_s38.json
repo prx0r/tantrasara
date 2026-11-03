@@ -1,0 +1,47 @@
+{
+ "anavopaya": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b58"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "avarana": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b27"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "maya": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b16"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "mohavaranat": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "siddhih": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ }
+}

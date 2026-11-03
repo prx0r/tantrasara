@@ -1,0 +1,631 @@
+{
+ "title": "Śiva Sūtras 3.14",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 3.14",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 3.14",
+   "directed": "[long pause] Śiva Sūtras 3.14"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 3.14",
+   "type": "verse",
+   "voice": "verse",
+   "text": "यथा तत्र तथान्यत्र",
+   "directed": "[slowly] यथा तत्र तथान्यत्र"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Yathā tatra tathānyatra.",
+   "directed": "Yathā tatra tathānyatra."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "As there, so elsewhere.",
+   "directed": "As there, so elsewhere."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Doesn’t Matter Where You Go, Śiva’s Already There.",
+   "directed": "Doesn’t Matter Where You Go, Śiva’s Already There."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, this is a magnificent little statement.",
+   "directed": "Now, this is a magnificent little statement."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Four words.",
+   "directed": "Four words."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja uses it to explain the universality of the freedom just described.",
+   "directed": "And Kṣemarāja uses it to explain the universality of the freedom just described."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s unpack it.",
+   "directed": "Let’s unpack it."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Yathā — just as, in whatever manner.",
+   "directed": "Yathā — just as, in whatever manner."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Tatra — there.",
+   "directed": "Tatra — there."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Tathā — so, likewise.",
+   "directed": "Tathā — so, likewise."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Anyatra — elsewhere.",
+   "directed": "Anyatra — elsewhere."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "As there, so elsewhere.",
+   "directed": "As there, so elsewhere."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now the question is:",
+   "directed": "[short pause] Now the question is:"
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "What exactly is being compared?",
+   "directed": "What exactly is being compared?"
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja answers by referring to the yogi’s manifestation of freedom.",
+   "directed": "Kṣemarāja answers by referring to the yogi’s manifestation of freedom."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Just as the yogi experiences the divine power of manifestation in their own body, so that power is understood to operate elsewhere.",
+   "directed": "Just as the yogi experiences the divine power of manifestation in their own body, so that power is understood to operate elsewhere."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The practitioner who is steadily established in recognition doesn’t confine freedom to one particular location.",
+   "directed": "The practitioner who is steadily established in recognition doesn’t confine freedom to one particular location."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the traditional interpretation includes an extraordinary claim.",
+   "directed": "And the traditional interpretation includes an extraordinary claim."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The realised yogi is said to be capable of manifesting divine freedom beyond the limits of their own bodily situation.",
+   "directed": "The realised yogi is said to be capable of manifesting divine freedom beyond the limits of their own bodily situation."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That is part of the commentary’s metaphysical and yogic claim, rather than merely a poetic statement about feeling peaceful while travelling.",
+   "directed": "That is part of the commentary’s metaphysical and yogic claim, rather than merely a poetic statement about feeling peaceful while travelling."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But it also has a deeply illuminating nondual significance.",
+   "directed": "But it also has a deeply illuminating nondual significance."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because if consciousness is the fundamental reality of the manifest universe, then its nature isn’t ultimately restricted to one particular physical location.",
+   "directed": "Because if consciousness is the fundamental reality of the manifest universe, then its nature isn’t ultimately restricted to one particular physical location."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Think about the ordinary individual.",
+   "directed": "Think about the ordinary individual."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They experience themselves as situated here.",
+   "directed": "They experience themselves as situated here."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Within this body.",
+   "directed": "Within this body."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "At this time.",
+   "directed": "At this time."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Surrounded by things located elsewhere.",
+   "directed": "Surrounded by things located elsewhere."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And these distinctions are perfectly meaningful within empirical experience.",
+   "directed": "And these distinctions are perfectly meaningful within empirical experience."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the Trika claim is that the universal conscious reality is not ultimately divided by those spatial distinctions.",
+   "directed": "But the Trika claim is that the universal conscious reality is not ultimately divided by those spatial distinctions."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The limited standpoint is localised.",
+   "directed": "The limited standpoint is localised."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The supreme reality is not.",
+   "directed": "The supreme reality is not."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the realised yogi recognises that distinction.",
+   "directed": "And the realised yogi recognises that distinction."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now consider the practical implication without exaggerating the supernatural claims.",
+   "directed": "Now consider the practical implication without exaggerating the supernatural claims."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Suppose someone has a profound meditative experience.",
+   "directed": "Suppose someone has a profound meditative experience."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They sit quietly.",
+   "directed": "They sit quietly."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Their mind becomes still.",
+   "directed": "Their mind becomes still."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There’s an extraordinary sense of openness.",
+   "directed": "There’s an extraordinary sense of openness."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The usual sense of separation temporarily relaxes.",
+   "directed": "The usual sense of separation temporarily relaxes."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And they conclude:",
+   "directed": "[short pause] And they conclude:"
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 3.14",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Wonderful. This is where I experience Śiva.”",
+   "directed": "[short pause] “Wonderful. This is where I experience Śiva.”"
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then they leave the meditation room.",
+   "directed": "Then they leave the meditation room."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Traffic.",
+   "directed": "Traffic."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Noise.",
+   "directed": "Noise."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "People.",
+   "directed": "People."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Problems.",
+   "directed": "Problems."
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And suddenly:",
+   "directed": "[short pause] And suddenly:"
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 3.14",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Ah, unfortunate. Śiva has apparently remained inside the meditation hall.”",
+   "directed": "[short pause] “Ah, unfortunate. Śiva has apparently remained inside the meditation hall.”"
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But if the fundamental nature of consciousness is not confined to that place, why would recognition be restricted to those particular conditions?",
+   "directed": "But if the fundamental nature of consciousness is not confined to that place, why would recognition be restricted to those particular conditions?"
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The same reality is present through the changing circumstances of experience.",
+   "directed": "The same reality is present through the changing circumstances of experience."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The task is the stabilisation of recognition, not the construction of an exclusively sacred geographical enclosure.",
+   "directed": "The task is the stabilisation of recognition, not the construction of an exclusively sacred geographical enclosure."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is precisely where Kṣemarāja connects the sūtra to the yogi’s sustained attention.",
+   "directed": "And this is precisely where Kṣemarāja connects the sūtra to the yogi’s sustained attention."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The manifested freedom is described as present wherever the yogi remains established in that recognition.",
+   "directed": "The manifested freedom is described as present wherever the yogi remains established in that recognition."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He cites the Svacchandatantra and the Spandakārikā, emphasising the natural, nonartificial character of this freedom. Sanskrit & Trika Shaivism.",
+   "directed": "He cites the Svacchandatantra and the Spandakārikā, emphasising the natural, nonartificial character of this freedom. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, compare this with the first book’s teaching that the entire seen world is the body of the realised Self.",
+   "directed": "Now, compare this with the first book’s teaching that the entire seen world is the body of the realised Self."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The same metaphysical movement appears again.",
+   "directed": "The same metaphysical movement appears again."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The limited individual ordinarily identifies consciousness with a particular organism.",
+   "directed": "The limited individual ordinarily identifies consciousness with a particular organism."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But recognition reveals its universal nature.",
+   "directed": "But recognition reveals its universal nature."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And therefore the yogi no longer fundamentally confines the Self to the individual body.",
+   "directed": "And therefore the yogi no longer fundamentally confines the Self to the individual body."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, this doesn’t mean ordinary physical constraints magically disappear for everyone who understands the doctrine.",
+   "directed": "Now, this doesn’t mean ordinary physical constraints magically disappear for everyone who understands the doctrine."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You still need to eat.",
+   "directed": "You still need to eat."
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You still need to sleep.",
+   "directed": "You still need to sleep."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You still need to respect other people’s boundaries.",
+   "directed": "You still need to respect other people’s boundaries."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And attempting to walk through a wall because you’ve read a Sanskrit aphorism is not an advisable method of testing nondual metaphysics.",
+   "directed": "And attempting to walk through a wall because you’ve read a Sanskrit aphorism is not an advisable method of testing nondual metaphysics."
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But within the tradition, the deepest freedom of consciousness is not limited by the ordinary spatial identity of the finite subject.",
+   "directed": "But within the tradition, the deepest freedom of consciousness is not limited by the ordinary spatial identity of the finite subject."
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "As there, so elsewhere.",
+   "directed": "As there, so elsewhere."
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The same Śiva.",
+   "directed": "The same Śiva."
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The same Śakti.",
+   "directed": "The same Śakti."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The same fundamental reality.",
+   "directed": "The same fundamental reality."
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now we’ve reached the final sūtra of this instalment.",
+   "directed": "And now we’ve reached the final sūtra of this instalment."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And after all this talk about divine freedom, cosmic dancing and the universality of consciousness, Vasugupta has one last instruction.",
+   "directed": "And after all this talk about divine freedom, cosmic dancing and the universality of consciousness, Vasugupta has one last instruction."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s astonishingly simple.",
+   "directed": "It’s astonishingly simple."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But perhaps one of the most practically important in the entire third section.",
+   "directed": "But perhaps one of the most practically important in the entire third section."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 3.14",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Pay attention to the seed.",
+   "directed": "Pay attention to the seed."
+  }
+ ],
+ "totals": {
+  "blocks": 76,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 629,
+   "verse": 3
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 4.2,
+   "verse": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

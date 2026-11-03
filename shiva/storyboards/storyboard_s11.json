@@ -1,0 +1,295 @@
+{
+ "title": "Śiva Sūtras 1.11",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 1.11",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 1.11",
+   "directed": "[long pause] Śiva Sūtras 1.11"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 1.11",
+   "type": "verse",
+   "voice": "verse",
+   "text": "त्रितयभोक्ता वीरेशः",
+   "directed": "[slowly] त्रितयभोक्ता वीरेशः"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 1.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Tritayabhoktā vīreśaḥ.",
+   "directed": "Tritayabhoktā vīreśaḥ."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 1.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The experiencer of the three is the lord of heroes.",
+   "directed": "The experiencer of the three is the lord of heroes."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 1.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Congratulations, You’re Now the Lord of the Three Worlds.",
+   "directed": "Congratulations, You’re Now the Lord of the Three Worlds."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 1.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’ve now moved through waking, dreaming and deep sleep.",
+   "directed": "We’ve now moved through waking, dreaming and deep sleep."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 1.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Vasugupta asks an obvious question.",
+   "directed": "And Vasugupta asks an obvious question."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 1.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "What is the condition of someone who has realised turya throughout these three states?",
+   "directed": "What is the condition of someone who has realised turya throughout these three states?"
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 1.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The answer:",
+   "directed": "[short pause] The answer:"
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 1.11",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Vīreśa.",
+   "directed": "[slowly] Vīreśa."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 1.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Lord of the heroes.",
+   "directed": "Lord of the heroes."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 1.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now that’s a title.",
+   "directed": "Now that’s a title."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 1.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "No certificate.",
+   "directed": "No certificate."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 1.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "No embossed membership card.",
+   "directed": "No embossed membership card."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 1.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Just Lord of the Heroes.",
+   "directed": "Just Lord of the Heroes."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 1.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The word vīra means hero, but in the tantric context it can also relate to the powers of the senses.",
+   "directed": "The word vīra means hero, but in the tantric context it can also relate to the powers of the senses."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 1.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja interprets the realised yogi as sovereign over these powers, enjoying the conscious reality underlying the three conditions.",
+   "directed": "Kṣemarāja interprets the realised yogi as sovereign over these powers, enjoying the conscious reality underlying the three conditions."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 1.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Why sovereignty?",
+   "directed": "Why sovereignty?"
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 1.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because such a yogi no longer fundamentally mistakes the passing forms of experience for separate, self-existing authorities.",
+   "directed": "Because such a yogi no longer fundamentally mistakes the passing forms of experience for separate, self-existing authorities."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 1.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Waking occurs.",
+   "directed": "Waking occurs."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 1.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Dreaming occurs.",
+   "directed": "Dreaming occurs."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 1.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Deep sleep occurs.",
+   "directed": "Deep sleep occurs."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 1.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The underlying conscious reality is not diminished by any of them.",
+   "directed": "The underlying conscious reality is not diminished by any of them."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 1.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There is an enormous philosophical difference between being absorbed into an experience and recognising the source through which it appears.",
+   "directed": "There is an enormous philosophical difference between being absorbed into an experience and recognising the source through which it appears."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 1.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "An ordinary person becomes caught up in the drama.",
+   "directed": "An ordinary person becomes caught up in the drama."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 1.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The realised person can participate without losing the recognition of their deeper nature.",
+   "directed": "The realised person can participate without losing the recognition of their deeper nature."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 1.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And notice that the text says bhoktā — experiencer or enjoyer.",
+   "directed": "And notice that the text says bhoktā — experiencer or enjoyer."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 1.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not somebody permanently fleeing experience.",
+   "directed": "Not somebody permanently fleeing experience."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 1.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not a cosmic hermit refusing all manifestation.",
+   "directed": "Not a cosmic hermit refusing all manifestation."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 1.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The world continues to appear.",
+   "directed": "The world continues to appear."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 1.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But its meaning has changed.",
+   "directed": "But its meaning has changed."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 1.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The hero doesn’t necessarily stop watching the performance.",
+   "directed": "The hero doesn’t necessarily stop watching the performance."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 1.11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The hero understands the nature of the theatre.",
+   "directed": "The hero understands the nature of the theatre."
+  }
+ ],
+ "totals": {
+  "blocks": 34,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 240,
+   "verse": 3
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 1.6,
+   "verse": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

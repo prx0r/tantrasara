@@ -1,0 +1,56 @@
+{
+ "atma": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b4"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "atman": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b14"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "prakasa": {
+  "deva": "",
+  "gloss": "the luminous manifestation of reality",
+  "status": "proposed",
+  "cue_blocks": [
+   "b21"
+  ],
+  "note": "appositive-mined, confirm"
+ },
+ "pratyabhijna": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b30"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "svatantrya": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b22"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "vimarsa": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b21"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ }
+}

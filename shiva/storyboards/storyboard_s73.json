@@ -1,0 +1,615 @@
+{
+ "title": "Śiva Sūtras 3.41",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 3.41",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 3.41",
+   "directed": "[long pause] Śiva Sūtras 3.41"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 3.41",
+   "type": "verse",
+   "voice": "verse",
+   "text": "तदारूढप्रमितेस्तत्क्षयाज्जीवसङ्क्षयः",
+   "directed": "[slowly] तदारूढप्रमितेस्तत्क्षयाज्जीवसङ्क्षयः"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Tadārūḍhapramites tatkṣayāj jīvasaṅkṣayaḥ.",
+   "directed": "Tadārūḍhapramites tatkṣayāj jīvasaṅkṣayaḥ."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "For one whose awareness is established in that supreme state, the ending of desire brings the dissolution of conditioned individuality.",
+   "directed": "For one whose awareness is established in that supreme state, the ending of desire brings the dissolution of conditioned individuality."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Your Limited Self Has Been Cancelled. Nobody Actually Died.",
+   "directed": "Your Limited Self Has Been Cancelled. Nobody Actually Died."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now this is absolutely central to the ending of the entire Śiva Sūtras.",
+   "directed": "Now this is absolutely central to the ending of the entire Śiva Sūtras."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s unpack it carefully.",
+   "directed": "Let’s unpack it carefully."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Tad — that; referring to the supreme condition of turya.",
+   "directed": "Tad — that; referring to the supreme condition of turya."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ārūḍha — ascended to, established in.",
+   "directed": "Ārūḍha — ascended to, established in."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Pramiti — knowledge, conscious apprehension.",
+   "directed": "Pramiti — knowledge, conscious apprehension."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Tat-kṣayāt — through the destruction of that; referring back to desire.",
+   "directed": "Tat-kṣayāt — through the destruction of that; referring back to desire."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Jīva — the living, conditioned individual.",
+   "directed": "Jīva — the living, conditioned individual."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Saṅkṣayaḥ — complete dissolution, cessation, exhaustion.",
+   "directed": "Saṅkṣayaḥ — complete dissolution, cessation, exhaustion."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, Kṣemarāja explicitly explains both instances of tad.",
+   "directed": "Now, Kṣemarāja explicitly explains both instances of tad."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The first refers to the supreme conscious state.",
+   "directed": "The first refers to the supreme conscious state."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The second refers to the desire described in 3.40.",
+   "directed": "The second refers to the desire described in 3.40."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So the sequence is:",
+   "directed": "[short pause] So the sequence is:"
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Awareness becomes established in the supreme reality.",
+   "directed": "Awareness becomes established in the supreme reality."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The fundamental craving arising from incompleteness subsides.",
+   "directed": "The fundamental craving arising from incompleteness subsides."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the limited condition of the jīva comes to an end.",
+   "directed": "And the limited condition of the jīva comes to an end."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But here’s the crucial question.",
+   "directed": "But here’s the crucial question."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "What exactly is being destroyed?",
+   "directed": "What exactly is being destroyed?"
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not the physical body.",
+   "directed": "Not the physical body."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not the existence of consciousness.",
+   "directed": "Not the existence of consciousness."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not the possibility of ordinary experience.",
+   "directed": "Not the possibility of ordinary experience."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "What ceases is the identification of the Self with the limited puryaṣṭaka as the ultimate knowing subject.",
+   "directed": "What ceases is the identification of the Self with the limited puryaṣṭaka as the ultimate knowing subject."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That is Kṣemarāja’s explanation.",
+   "directed": "That is Kṣemarāja’s explanation."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The jīva as the contracted, desire-driven individual ceases to define the Self.",
+   "directed": "The jīva as the contracted, desire-driven individual ceases to define the Self."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now we encounter an absolutely beautiful expression.",
+   "directed": "And now we encounter an absolutely beautiful expression."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 3.41",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Ātmārāmatā.",
+   "directed": "[slowly] Ātmārāmatā."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Delight in one’s own Self.",
+   "directed": "Delight in one’s own Self."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Resting in the fullness of the Self.",
+   "directed": "Resting in the fullness of the Self."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The person no longer requires an external object to establish their fundamental completeness.",
+   "directed": "The person no longer requires an external object to establish their fundamental completeness."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja contrasts this with the continual outward movement of the bound individual.",
+   "directed": "And Kṣemarāja contrasts this with the continual outward movement of the bound individual."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, something fascinating happens.",
+   "directed": "Now, something fascinating happens."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He cites a tantric passage comparing liberation to waking from a dream.",
+   "directed": "He cites a tantric passage comparing liberation to waking from a dream."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "When you awaken, the objects of the dream are no longer experienced as the actual environment in which you’re situated.",
+   "directed": "When you awaken, the objects of the dream are no longer experienced as the actual environment in which you’re situated."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The dream city.",
+   "directed": "The dream city."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The dream characters.",
+   "directed": "The dream characters."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The dream catastrophe.",
+   "directed": "The dream catastrophe."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Their former apparent authority is withdrawn.",
+   "directed": "Their former apparent authority is withdrawn."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And similarly, the yogi who recognises the supreme reality no longer apprehends saṃsāra through the same fundamental delusion.",
+   "directed": "And similarly, the yogi who recognises the supreme reality no longer apprehends saṃsāra through the same fundamental delusion."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But this doesn’t mean that the physical universe disappears for everyone else.",
+   "directed": "But this doesn’t mean that the physical universe disappears for everyone else."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nor that the enlightened person ceases to perceive ordinary objects.",
+   "directed": "Nor that the enlightened person ceases to perceive ordinary objects."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The analogy concerns the transformation of their conscious standpoint.",
+   "directed": "The analogy concerns the transformation of their conscious standpoint."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The world is no longer experienced as a realm fundamentally separate from Śiva.",
+   "directed": "The world is no longer experienced as a realm fundamentally separate from Śiva."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here’s a remarkable detail.",
+   "directed": "And here’s a remarkable detail."
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja’s cited material actually uses the term nirvāṇa.",
+   "directed": "Kṣemarāja’s cited material actually uses the term nirvāṇa."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Yes.",
+   "directed": "[short pause] Yes."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 3.41",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Nirvāṇapada.",
+   "directed": "[slowly] Nirvāṇapada."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The state of nirvāṇa.",
+   "directed": "The state of nirvāṇa."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, we should not automatically equate this with the Buddhist understanding of Nibbāna.",
+   "directed": "Now, we should not automatically equate this with the Buddhist understanding of Nibbāna."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The metaphysical frameworks are substantially different.",
+   "directed": "The metaphysical frameworks are substantially different."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In the Buddhist traditions, nirvāṇa is associated with the cessation of greed, hatred and delusion, without positing an eternal universal Śiva-self.",
+   "directed": "In the Buddhist traditions, nirvāṇa is associated with the cessation of greed, hatred and delusion, without positing an eternal universal Śiva-self."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In Trika, Kṣemarāja interprets liberation through recognition of the supreme conscious Self, inseparable from divine freedom and Śakti.",
+   "directed": "In Trika, Kṣemarāja interprets liberation through recognition of the supreme conscious Self, inseparable from divine freedom and Śakti."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The resemblance in vocabulary is real.",
+   "directed": "The resemblance in vocabulary is real."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But so is the philosophical difference.",
+   "directed": "But so is the philosophical difference."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is an excellent example of why we need to read the actual Sanskrit rather than assuming a word has exactly the same meaning everywhere.",
+   "directed": "And this is an excellent example of why we need to read the actual Sanskrit rather than assuming a word has exactly the same meaning everywhere."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja describes the yogi as established in kaivalya because they are no longer carried along by the senses and subtle elements.",
+   "directed": "Kṣemarāja describes the yogi as established in kaivalya because they are no longer carried along by the senses and subtle elements."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The individual no longer remains a helpless passenger within the machinery of conditioned existence. Sanskrit & Trika Shaivism.",
+   "directed": "The individual no longer remains a helpless passenger within the machinery of conditioned existence. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now here’s the extraordinary result.",
+   "directed": "Now here’s the extraordinary result."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The body may continue.",
+   "directed": "The body may continue."
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The senses may function.",
+   "directed": "The senses may function."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The world may appear.",
+   "directed": "The world may appear."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the fundamental sense of being an incomplete individual driven outward by desire has been overcome.",
+   "directed": "But the fundamental sense of being an incomplete individual driven outward by desire has been overcome."
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this takes us to one of the most beautiful metaphysical corrections in the entire work.",
+   "directed": "And this takes us to one of the most beautiful metaphysical corrections in the entire work."
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because if the jīva has been dissolved, why is the liberated person still walking around?",
+   "directed": "Because if the jīva has been dissolved, why is the liberated person still walking around?"
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Surely their body should vanish?",
+   "directed": "Surely their body should vanish?"
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Shouldn’t they immediately ascend into some luminous cosmic dimension?",
+   "directed": "Shouldn’t they immediately ascend into some luminous cosmic dimension?"
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Well.",
+   "directed": "Well."
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vasugupta has thought of that.",
+   "directed": "Vasugupta has thought of that."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the answer is wonderful.",
+   "directed": "And the answer is wonderful."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 3.41",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The body remains like a cloak.",
+   "directed": "The body remains like a cloak."
+  }
+ ],
+ "totals": {
+  "blocks": 74,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 615,
+   "verse": 3
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 4.1,
+   "verse": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

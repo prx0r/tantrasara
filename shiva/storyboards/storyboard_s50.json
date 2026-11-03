@@ -1,0 +1,703 @@
+{
+ "title": "Śiva Sūtras 3.18",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 3.18",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 3.18",
+   "directed": "[long pause] Śiva Sūtras 3.18"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 3.18",
+   "type": "verse",
+   "voice": "verse",
+   "text": "विद्याऽविनाशे जन्मविनाशः",
+   "directed": "[slowly] विद्याऽविनाशे जन्मविनाशः"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vidyā’vināśe janmavināśaḥ.",
+   "directed": "Vidyā’vināśe janmavināśaḥ."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "When knowledge does not perish, birth comes to an end.",
+   "directed": "When knowledge does not perish, birth comes to an end."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Congratulations, You’ve Cancelled Your Saṃsāra Subscription.",
+   "directed": "Congratulations, You’ve Cancelled Your Saṃsāra Subscription."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now this is one of the most important sūtras in the entire section.",
+   "directed": "Now this is one of the most important sūtras in the entire section."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And there is an absolutely crucial detail in the Sanskrit.",
+   "directed": "And there is an absolutely crucial detail in the Sanskrit."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 3.18",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Avināśe.",
+   "directed": "[slowly] Avināśe."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not vināśe.",
+   "directed": "Not vināśe."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The difference is one vowel.",
+   "directed": "The difference is one vowel."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But that vowel changes the entire meaning.",
+   "directed": "But that vowel changes the entire meaning."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s unpack it.",
+   "directed": "Let’s unpack it."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vidyā — knowledge.",
+   "directed": "Vidyā — knowledge."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Avināśa — non-destruction, imperishability.",
+   "directed": "Avināśa — non-destruction, imperishability."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Janma — birth.",
+   "directed": "Janma — birth."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vināśa — destruction, cessation.",
+   "directed": "Vināśa — destruction, cessation."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So the sense is:",
+   "directed": "[short pause] So the sense is:"
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "When liberating knowledge remains undestroyed, birth is extinguished.",
+   "directed": "When liberating knowledge remains undestroyed, birth is extinguished."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, why is this so significant?",
+   "directed": "Now, why is this so significant?"
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because we’ve already seen what happens when supreme knowledge subsides.",
+   "directed": "Because we’ve already seen what happens when supreme knowledge subsides."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Book II ended with the warning:",
+   "directed": "[short pause] Book II ended with the warning:"
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 3.18",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Vidyāsaṃhāre tadutthasvapnadarśanam.",
+   "directed": "[slowly] Vidyāsaṃhāre tadutthasvapnadarśanam."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "When pure knowledge subsides, dreamlike differentiation arises again.",
+   "directed": "When pure knowledge subsides, dreamlike differentiation arises again."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The practitioner may have attained an extraordinary recognition.",
+   "directed": "The practitioner may have attained an extraordinary recognition."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But if that recognition does not remain established, the conditions of limitation can return.",
+   "directed": "But if that recognition does not remain established, the conditions of limitation can return."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now the complementary statement appears.",
+   "directed": "And now the complementary statement appears."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "When innate liberating knowledge does not disappear, birth is ended.",
+   "directed": "When innate liberating knowledge does not disappear, birth is ended."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But what does Kṣemarāja mean by birth?",
+   "directed": "But what does Kṣemarāja mean by birth?"
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He gives a specific answer.",
+   "directed": "He gives a specific answer."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He is not merely referring to the biological event of emerging from a womb.",
+   "directed": "He is not merely referring to the biological event of emerging from a womb."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He refers to the conditioned complex of body, senses and other constituents of embodied existence, produced through karma in conjunction with ignorance.",
+   "directed": "He refers to the conditioned complex of body, senses and other constituents of embodied existence, produced through karma in conjunction with ignorance."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And he associates this with suffering.",
+   "directed": "And he associates this with suffering."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In other words, birth here belongs to the larger machinery of saṃsāra.",
+   "directed": "In other words, birth here belongs to the larger machinery of saṃsāra."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Repeated conditioned existence.",
+   "directed": "Repeated conditioned existence."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the question is:",
+   "directed": "[short pause] And the question is:"
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "What sustains it?",
+   "directed": "What sustains it?"
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Within Kṣemarāja’s account, ignorance and karma participate in the perpetuation of embodied bondage.",
+   "directed": "Within Kṣemarāja’s account, ignorance and karma participate in the perpetuation of embodied bondage."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The individual experiences itself as a finite agent.",
+   "directed": "The individual experiences itself as a finite agent."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Acts within the field of differentiation.",
+   "directed": "Acts within the field of differentiation."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Undergoes the results of action.",
+   "directed": "Undergoes the results of action."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And remains bound within the cycle.",
+   "directed": "And remains bound within the cycle."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But when sahajavidyā, innate knowledge, shines continually, the underlying ignorance is overcome.",
+   "directed": "But when sahajavidyā, innate knowledge, shines continually, the underlying ignorance is overcome."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The binding conditions of rebirth are thereby brought to an end.",
+   "directed": "The binding conditions of rebirth are thereby brought to an end."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, there’s something fascinating here.",
+   "directed": "Now, there’s something fascinating here."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because from the Trika standpoint, liberation doesn’t require universal consciousness to become something other than itself.",
+   "directed": "Because from the Trika standpoint, liberation doesn’t require universal consciousness to become something other than itself."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śiva doesn’t need to be manufactured.",
+   "directed": "Śiva doesn’t need to be manufactured."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nor does the realised yogi need to acquire an entirely foreign divine substance.",
+   "directed": "Nor does the realised yogi need to acquire an entirely foreign divine substance."
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The transformation concerns the conditions under which consciousness experiences itself as limited.",
+   "directed": "The transformation concerns the conditions under which consciousness experiences itself as limited."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is why knowledge is so central.",
+   "directed": "And this is why knowledge is so central."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not because collecting philosophical information somehow cancels karma like paying an overdue parking ticket.",
+   "directed": "Not because collecting philosophical information somehow cancels karma like paying an overdue parking ticket."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But because genuine recognition undermines the ignorance sustaining the contracted condition.",
+   "directed": "But because genuine recognition undermines the ignorance sustaining the contracted condition."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja isn’t talking merely about knowing the correct sentence.",
+   "directed": "And Kṣemarāja isn’t talking merely about knowing the correct sentence."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Imagine somebody saying:",
+   "directed": "[short pause] Imagine somebody saying:"
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 3.18",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“I have read that consciousness is the Self.”",
+   "directed": "[short pause] “I have read that consciousness is the Self.”"
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Wonderful.",
+   "directed": "Wonderful."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Congratulations.",
+   "directed": "Congratulations."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve read five Sanskrit words.",
+   "directed": "You’ve read five Sanskrit words."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But that doesn’t mean the deeply rooted structures of limited identification have necessarily ceased.",
+   "directed": "But that doesn’t mean the deeply rooted structures of limited identification have necessarily ceased."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The vidyā in question is transformative knowledge — the stable manifestation of one’s true conscious nature.",
+   "directed": "The vidyā in question is transformative knowledge — the stable manifestation of one’s true conscious nature."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja insists on its continuity.",
+   "directed": "And Kṣemarāja insists on its continuity."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not a temporary glimpse.",
+   "directed": "Not a temporary glimpse."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not a particularly impressive meditation.",
+   "directed": "Not a particularly impressive meditation."
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not a brief experience that you subsequently spend thirty years telling strangers about.",
+   "directed": "Not a brief experience that you subsequently spend thirty years telling strangers about."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Stable recognition.",
+   "directed": "Stable recognition."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He cites tantric sources that associate seeing the whole universe as pervaded by Śiva with the cessation of further birth.",
+   "directed": "He cites tantric sources that associate seeing the whole universe as pervaded by Śiva with the cessation of further birth."
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And he explicitly includes the claim that the liberated person is not reborn after bodily death.",
+   "directed": "And he explicitly includes the claim that the liberated person is not reborn after bodily death."
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That is the traditional soteriological assertion, not an empirically verified account of what happens after death. Sanskrit & Trika Shaivism.",
+   "directed": "That is the traditional soteriological assertion, not an empirically verified account of what happens after death. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now consider the elegance of the progression.",
+   "directed": "Now consider the elegance of the progression."
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "At 3.16, the yogi enters the Great Lake.",
+   "directed": "At 3.16, the yogi enters the Great Lake."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "At 3.17, manifestation is recognised through the power of consciousness.",
+   "directed": "At 3.17, manifestation is recognised through the power of consciousness."
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "At 3.18, that recognition, when uninterrupted, is said to end the necessity of rebirth.",
+   "directed": "At 3.18, that recognition, when uninterrupted, is said to end the necessity of rebirth."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The lake.",
+   "directed": "The lake."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The universe.",
+   "directed": "The universe."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Liberation.",
+   "directed": "Liberation."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not bad for three sūtras.",
+   "directed": "Not bad for three sūtras."
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But there’s a catch.",
+   "directed": "But there’s a catch."
+  },
+  {
+   "id": "b77",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And it’s a rather magnificent catch.",
+   "directed": "And it’s a rather magnificent catch."
+  },
+  {
+   "id": "b78",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because even after recognising the supreme nature of consciousness, the yogi can become inattentive.",
+   "directed": "Because even after recognising the supreme nature of consciousness, the yogi can become inattentive."
+  },
+  {
+   "id": "b79",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And when that happens, some very powerful ladies are apparently waiting to seize control of the entire operation.",
+   "directed": "And when that happens, some very powerful ladies are apparently waiting to seize control of the entire operation."
+  },
+  {
+   "id": "b80",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Mothers.",
+   "directed": "The Mothers."
+  },
+  {
+   "id": "b81",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The goddesses of the phonemes.",
+   "directed": "The goddesses of the phonemes."
+  },
+  {
+   "id": "b82",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The divine powers that can liberate consciousness…",
+   "directed": "The divine powers that can liberate consciousness…"
+  },
+  {
+   "id": "b83",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Or plunge it straight back into bondage.",
+   "directed": "Or plunge it straight back into bondage."
+  },
+  {
+   "id": "b84",
+   "section": "Śiva Sūtras 3.18",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And, oh, they’re going to be trouble.",
+   "directed": "And, oh, they’re going to be trouble."
+  }
+ ],
+ "totals": {
+  "blocks": 85,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 640,
+   "verse": 5
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 4.3,
+   "verse": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

@@ -1,0 +1,119 @@
+{
+ "atma": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b10"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "kalikakrama": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b40"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "nasika": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b15"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "nasikantarmadhyasamyamat": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "prana": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b36"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "sakti": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b40"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "samadhi": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b59"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "samyama": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b18"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "sausumna": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b22"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "savyapasavyasausumnesu": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "susumna": {
+  "deva": "",
+  "gloss": "the central subtle channel",
+  "status": "proposed",
+  "cue_blocks": [
+   "b22"
+  ],
+  "note": "appositive-mined, confirm"
+ },
+ "vijnanabhairava": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b63"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "vimarsa": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b29"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ }
+}

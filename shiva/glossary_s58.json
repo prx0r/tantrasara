@@ -1,0 +1,38 @@
+{
+ "sarira": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b20"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "sariravrttir": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "trikasara": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b49"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "vrtti": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b21"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ }
+}

@@ -1,0 +1,361 @@
+{
+ "title": "Śiva Sūtras 1.17",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 1.17",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 1.17",
+   "directed": "[long pause] Śiva Sūtras 1.17"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 1.17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "वितर्क आत्मज्ञानम्",
+   "directed": "[slowly] वितर्क आत्मज्ञानम्"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 1.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vitarka ātmajñānam.",
+   "directed": "Vitarka ātmajñānam."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 1.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Reflective ascertainment is knowledge of the Self.",
+   "directed": "Reflective ascertainment is knowledge of the Self."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 1.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Your New Thought Is “I AM ŚIVA”, but Please Don’t Become Insufferable.",
+   "directed": "Your New Thought Is “I AM ŚIVA”, but Please Don’t Become Insufferable."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 1.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now this one’s particularly interesting because we’ve just spent half the text discussing how conceptual knowledge can constitute bondage.",
+   "directed": "Now this one’s particularly interesting because we’ve just spent half the text discussing how conceptual knowledge can constitute bondage."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 1.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And suddenly Vasugupta says a form of reflective understanding is Self-knowledge.",
+   "directed": "And suddenly Vasugupta says a form of reflective understanding is Self-knowledge."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 1.17",
+   "type": "figure",
+   "voice": "none",
+   "text": "WHAT?",
+   "directed": "WHAT?"
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 1.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "I thought thinking was the problem.",
+   "directed": "I thought thinking was the problem."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 1.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Apparently we’re thinking again?",
+   "directed": "Apparently we’re thinking again?"
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 1.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The crucial distinction concerns what the thinking reveals.",
+   "directed": "The crucial distinction concerns what the thinking reveals."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 1.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja glosses vitarka here as the firm reflection:",
+   "directed": "[short pause] Kṣemarāja glosses vitarka here as the firm reflection:"
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 1.17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Viśvātmā śiva evāsmi.",
+   "directed": "[slowly] Viśvātmā śiva evāsmi."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 1.17",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“I am indeed Śiva, whose Self is the universe.”",
+   "directed": "[short pause] “I am indeed Śiva, whose Self is the universe.”"
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 1.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is Kṣemarāja’s explanatory Sanskrit, rather than an additional Śiva Sūtra. Sanskrit & Trika Shaivism.",
+   "directed": "This is Kṣemarāja’s explanatory Sanskrit, rather than an additional Śiva Sūtra. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 1.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The statement is extraordinary.",
+   "directed": "The statement is extraordinary."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 1.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The limited person ordinarily thinks:",
+   "directed": "[short pause] The limited person ordinarily thinks:"
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 1.17",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“I am this particular organism.”",
+   "directed": "[short pause] “I am this particular organism.”"
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 1.17",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“I am this mind.”",
+   "directed": "[short pause] “I am this mind.”"
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 1.17",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“I am separate from the rest of existence.”",
+   "directed": "[short pause] “I am separate from the rest of existence.”"
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 1.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But now understanding reverses the structure of identification.",
+   "directed": "But now understanding reverses the structure of identification."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 1.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The yogi recognises their deepest identity with the consciousness whose manifestation is the universe.",
+   "directed": "The yogi recognises their deepest identity with the consciousness whose manifestation is the universe."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 1.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And importantly, this does not license the individual ego to proclaim unlimited personal authority.",
+   "directed": "And importantly, this does not license the individual ego to proclaim unlimited personal authority."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 1.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It isn’t:",
+   "directed": "[short pause] It isn’t:"
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 1.17",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“My personal opinions are infallible because I’m God.”",
+   "directed": "[short pause] “My personal opinions are infallible because I’m God.”"
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 1.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That’s merely the old limited ego putting on a particularly extravagant crown.",
+   "directed": "That’s merely the old limited ego putting on a particularly extravagant crown."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 1.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Rather, the point is that the fundamental subject is no longer mistaken for the contracted personality.",
+   "directed": "Rather, the point is that the fundamental subject is no longer mistaken for the contracted personality."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 1.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The recognition is not the inflation of the little self.",
+   "directed": "The recognition is not the inflation of the little self."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 1.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is the recognition that the little self was never the complete Self.",
+   "directed": "It is the recognition that the little self was never the complete Self."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 1.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here’s the beautiful philosophical reversal.",
+   "directed": "And here’s the beautiful philosophical reversal."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 1.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Earlier:",
+   "directed": "[short pause] Earlier:"
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 1.17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Jñānaṃ bandhaḥ.",
+   "directed": "[slowly] Jñānaṃ bandhaḥ."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 1.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Knowledge is bondage.",
+   "directed": "Knowledge is bondage."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 1.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now:",
+   "directed": "[short pause] Now:"
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 1.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vitarka ātmajñānam.",
+   "directed": "Vitarka ātmajñānam."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 1.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A particular form of reflective understanding is knowledge of the Self.",
+   "directed": "A particular form of reflective understanding is knowledge of the Self."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 1.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Knowledge that reinforces limitation binds; understanding that discloses one’s universal nature liberates.",
+   "directed": "Knowledge that reinforces limitation binds; understanding that discloses one’s universal nature liberates."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 1.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Same broad territory of cognition.",
+   "directed": "Same broad territory of cognition."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 1.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Completely different orientation.",
+   "directed": "Completely different orientation."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 1.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s almost as though the problem wasn’t thinking.",
+   "directed": "It’s almost as though the problem wasn’t thinking."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 1.17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It was misunderstanding what you are.",
+   "directed": "It was misunderstanding what you are."
+  }
+ ],
+ "totals": {
+  "blocks": 42,
+  "words_per_voice": {
+   "none": 2,
+   "granny": 272,
+   "verse": 7,
+   "man": 13
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 1.8,
+   "verse": 0.0,
+   "man": 0.1
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

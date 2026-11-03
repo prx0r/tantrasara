@@ -1,0 +1,101 @@
+{
+ "kundalini": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b55"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "matrka": {
+  "deva": "",
+  "gloss": "the divine matrix of phonemes",
+  "status": "proposed",
+  "cue_blocks": [
+   "b34"
+  ],
+  "note": "appositive-mined, confirm"
+ },
+ "namah": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b26"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "sakti": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b35"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "sarira": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b14"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "satta": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b15"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "sivaya": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b26"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "tantrasadbhava": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b49"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "vidya": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b13"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "vidyasarira": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b18"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "vidyasarirasatta": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ }
+}

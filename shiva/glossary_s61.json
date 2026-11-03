@@ -1,0 +1,74 @@
+{
+ "avipasthah": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b11"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "hetuh": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b13"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "jnahetus": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "matrka": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b21"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "sakti": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b29"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "sakticakra": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b30"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "vijnana": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b51"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "yogindra": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b51"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ }
+}

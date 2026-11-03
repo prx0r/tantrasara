@@ -1,0 +1,101 @@
+{
+ "kala": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b4"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "kaladinam": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "kancukas": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b16"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "maya": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "mayatattva": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b14"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "prthivi": {
+  "deva": "",
+  "gloss": "the earth principle",
+  "status": "proposed",
+  "cue_blocks": [
+   "b84"
+  ],
+  "note": "appositive-mined, confirm"
+ },
+ "raga": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b41"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "saivism": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b6"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "tattvanam": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "vidya": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b32"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "vijnanabhairava": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b92"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ }
+}

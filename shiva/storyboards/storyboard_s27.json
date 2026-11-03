@@ -1,0 +1,503 @@
+{
+ "title": "Śiva Sūtras 2.5",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 2.5",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 2.5",
+   "directed": "[long pause] Śiva Sūtras 2.5"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 2.5",
+   "type": "verse",
+   "voice": "verse",
+   "text": "विद्यासमुत्थाने स्वाभाविके खेचरी शिवावस्था",
+   "directed": "[slowly] विद्यासमुत्थाने स्वाभाविके खेचरी शिवावस्था"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vidyāsamutthāne svābhāvike khecarī śivāvasthā.",
+   "directed": "Vidyāsamutthāne svābhāvike khecarī śivāvasthā."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "When supreme knowledge arises spontaneously, Khecarī manifests as the state of Śiva.",
+   "directed": "When supreme knowledge arises spontaneously, Khecarī manifests as the state of Śiva."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "No, Khecarī Doesn’t Mean Shoving Your Tongue Up Your Nose.",
+   "directed": "No, Khecarī Doesn’t Mean Shoving Your Tongue Up Your Nose."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Right.",
+   "directed": "[short pause] Right."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’ve reached Khecarī.",
+   "directed": "We’ve reached Khecarī."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And unfortunately, we’ve got to clear something up immediately.",
+   "directed": "And unfortunately, we’ve got to clear something up immediately."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because if you search for Khecarī Mudrā, you’re likely to encounter extremely flexible yogis doing extraordinary things with their tongues.",
+   "directed": "Because if you search for Khecarī Mudrā, you’re likely to encounter extremely flexible yogis doing extraordinary things with their tongues."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In certain haṭhayoga traditions, khecarīmudrā refers to a technique involving the tongue and the upper palate.",
+   "directed": "In certain haṭhayoga traditions, khecarīmudrā refers to a technique involving the tongue and the upper palate."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But that is not what Kṣemarāja means here.",
+   "directed": "But that is not what Kṣemarāja means here."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And he explicitly distinguishes this sūtra’s Khecarī from physical or specialised yogic procedures promising extraordinary powers, including flight.",
+   "directed": "And he explicitly distinguishes this sūtra’s Khecarī from physical or specialised yogic procedures promising extraordinary powers, including flight."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Quite.",
+   "directed": "[short pause] Quite."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s always a relief when a medieval tantric philosopher tells you that you don’t have to rearrange your mouth to attain supreme consciousness.",
+   "directed": "It’s always a relief when a medieval tantric philosopher tells you that you don’t have to rearrange your mouth to attain supreme consciousness."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s unpack the Sanskrit.",
+   "directed": "Let’s unpack the Sanskrit."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vidyā — knowledge, here supreme knowledge.",
+   "directed": "Vidyā — knowledge, here supreme knowledge."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Samutthāna — arising, emergence.",
+   "directed": "Samutthāna — arising, emergence."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Svābhāvika — natural, spontaneous, belonging to one’s own nature.",
+   "directed": "Svābhāvika — natural, spontaneous, belonging to one’s own nature."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Khecarī — she who moves through kha, space or the sky.",
+   "directed": "Khecarī — she who moves through kha, space or the sky."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śivāvasthā — the state of Śiva.",
+   "directed": "Śivāvasthā — the state of Śiva."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now the word kha is doing something extremely important.",
+   "directed": "Now the word kha is doing something extremely important."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In ordinary Sanskrit, it can mean space or sky.",
+   "directed": "In ordinary Sanskrit, it can mean space or sky."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But in this tantric context, Kṣemarāja interprets it as the boundless space of consciousness.",
+   "directed": "But in this tantric context, Kṣemarāja interprets it as the boundless space of consciousness."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So Khecarī is the power moving freely within that space.",
+   "directed": "So Khecarī is the power moving freely within that space."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And when supreme knowledge arises naturally, the yogi enters the state of Śiva.",
+   "directed": "And when supreme knowledge arises naturally, the yogi enters the state of Śiva."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not the state of an individual who has acquired another special experience.",
+   "directed": "Not the state of an individual who has acquired another special experience."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The state of recognising the nature of consciousness itself.",
+   "directed": "The state of recognising the nature of consciousness itself."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Imagine the mind as a bird.",
+   "directed": "Imagine the mind as a bird."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ordinarily, it flies towards objects.",
+   "directed": "Ordinarily, it flies towards objects."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A sound.",
+   "directed": "A sound."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A memory.",
+   "directed": "A memory."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A desire.",
+   "directed": "A desire."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A fear.",
+   "directed": "A fear."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It moves between limited things.",
+   "directed": "It moves between limited things."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And its sense of freedom is conditioned by those things.",
+   "directed": "And its sense of freedom is conditioned by those things."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But now the bird discovers something astonishing.",
+   "directed": "But now the bird discovers something astonishing."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Its real freedom does not consist merely in choosing which object to fly towards.",
+   "directed": "Its real freedom does not consist merely in choosing which object to fly towards."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The openness through which every movement is possible was never absent.",
+   "directed": "The openness through which every movement is possible was never absent."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is the metaphorical significance of Khecarī.",
+   "directed": "This is the metaphorical significance of Khecarī."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not a bird imprisoned in a box getting a slightly larger box.",
+   "directed": "Not a bird imprisoned in a box getting a slightly larger box."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not even a bird acquiring a particularly impressive pair of wings.",
+   "directed": "Not even a bird acquiring a particularly impressive pair of wings."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the recognition of the boundless conscious space in which its movements arise.",
+   "directed": "But the recognition of the boundless conscious space in which its movements arise."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja links this with the spontaneous emergence of bliss.",
+   "directed": "And Kṣemarāja links this with the spontaneous emergence of bliss."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ānanda.",
+   "directed": "Ānanda."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not simply ordinary pleasure.",
+   "directed": "Not simply ordinary pleasure."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not an exciting sensation that eventually disappears and leaves you wanting another one.",
+   "directed": "Not an exciting sensation that eventually disappears and leaves you wanting another one."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the delight associated with consciousness recognising its own freedom.",
+   "directed": "But the delight associated with consciousness recognising its own freedom."
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And notice what happened between 2.4 and 2.5.",
+   "directed": "And notice what happened between 2.4 and 2.5."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "At 2.4, the practitioner became fascinated by exceptional phenomena appearing within Māyā.",
+   "directed": "At 2.4, the practitioner became fascinated by exceptional phenomena appearing within Māyā."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "At 2.5, those limited accomplishments are subordinated to the spontaneous arising of supreme knowledge.",
+   "directed": "At 2.5, those limited accomplishments are subordinated to the spontaneous arising of supreme knowledge."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s a complete reorientation.",
+   "directed": "It’s a complete reorientation."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Instead of asking:",
+   "directed": "[short pause] Instead of asking:"
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 2.5",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“What amazing thing can I experience next?”",
+   "directed": "[short pause] “What amazing thing can I experience next?”"
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The yogi discovers the ground of experience itself.",
+   "directed": "The yogi discovers the ground of experience itself."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that, within Kṣemarāja’s interpretation, is the state of Śiva.",
+   "directed": "And that, within Kṣemarāja’s interpretation, is the state of Śiva."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not supernatural tourism.",
+   "directed": "Not supernatural tourism."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not a spiritual upgrade package.",
+   "directed": "Not a spiritual upgrade package."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Recognition of the freedom that makes every experience possible.",
+   "directed": "Recognition of the freedom that makes every experience possible."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 2.5",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sanskrit & Trika Shaivism.",
+   "directed": "Sanskrit & Trika Shaivism."
+  }
+ ],
+ "totals": {
+  "blocks": 60,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 478,
+   "verse": 4
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 3.2,
+   "verse": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "atma": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b39"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "bhagavadgita": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b74"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "cetana": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b58"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "havih": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "pramatr": {
+  "deva": "",
+  "gloss": "the knowing subject",
+  "status": "proposed",
+  "cue_blocks": [
+   "b32"
+  ],
+  "note": "appositive-mined, confirm"
+ },
+ "sakti": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b58"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "sarira": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b12"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "sariram": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "vijnanabhairava": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b56"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "yajna": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b14"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ }
+}

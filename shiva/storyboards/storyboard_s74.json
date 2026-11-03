@@ -1,0 +1,753 @@
+{
+ "title": "Śiva Sūtras 3.42",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 3.42",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 3.42",
+   "directed": "[long pause] Śiva Sūtras 3.42"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 3.42",
+   "type": "verse",
+   "voice": "verse",
+   "text": "भूतकञ्चुकी तदा विमुक्तो भूयः पतिसमः परः",
+   "directed": "[slowly] भूतकञ्चुकी तदा विमुक्तो भूयः पतिसमः परः"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Bhūtakañcukī tadā vimukto bhūyaḥ patisamaḥ paraḥ.",
+   "directed": "Bhūtakañcukī tadā vimukto bhūyaḥ patisamaḥ paraḥ."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then, though still clothed in the elements, one is liberated, supremely complete, and like the Lord.",
+   "directed": "Then, though still clothed in the elements, one is liberated, supremely complete, and like the Lord."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’re Free, but You’ve Still Got to Wear the Meat Suit.",
+   "directed": "You’re Free, but You’ve Still Got to Wear the Meat Suit."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Oh, this is absolutely magnificent.",
+   "directed": "Oh, this is absolutely magnificent."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because Kṣemarāja explicitly raises the objection.",
+   "directed": "Because Kṣemarāja explicitly raises the objection."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "If the conditioned individual has been dissolved, shouldn’t the body disappear as well?",
+   "directed": "If the conditioned individual has been dissolved, shouldn’t the body disappear as well?"
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And yet liberated yogis are described as continuing to live.",
+   "directed": "And yet liberated yogis are described as continuing to live."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "How is that possible?",
+   "directed": "How is that possible?"
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s unpack the Sanskrit.",
+   "directed": "Let’s unpack the Sanskrit."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Bhūta — element.",
+   "directed": "Bhūta — element."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kañcuka — covering, cloak, sheath.",
+   "directed": "Kañcuka — covering, cloak, sheath."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Bhūtakañcukī — one clothed in the elements.",
+   "directed": "Bhūtakañcukī — one clothed in the elements."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Tadā — then.",
+   "directed": "Tadā — then."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vimuktaḥ — liberated.",
+   "directed": "Vimuktaḥ — liberated."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Bhūyaḥ — abundantly, fully, further.",
+   "directed": "Bhūyaḥ — abundantly, fully, further."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Patisamaḥ — equal to the Lord.",
+   "directed": "Patisamaḥ — equal to the Lord."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Paraḥ — supreme, transcendent, complete.",
+   "directed": "Paraḥ — supreme, transcendent, complete."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, bhūtakañcukī is a magnificent word.",
+   "directed": "Now, bhūtakañcukī is a magnificent word."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The one wearing the elements as a cloak.",
+   "directed": "The one wearing the elements as a cloak."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that’s precisely the image Kṣemarāja uses.",
+   "directed": "And that’s precisely the image Kṣemarāja uses."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The body is constituted by the elements.",
+   "directed": "The body is constituted by the elements."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It remains present.",
+   "directed": "It remains present."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the realised yogi no longer identifies those elements as the ultimate Self.",
+   "directed": "But the realised yogi no longer identifies those elements as the ultimate Self."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The body is like clothing.",
+   "directed": "The body is like clothing."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not in the sense that it should be neglected or physically disregarded.",
+   "directed": "Not in the sense that it should be neglected or physically disregarded."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But in the sense that the Self is not fundamentally reducible to the garment it wears.",
+   "directed": "But in the sense that the Self is not fundamentally reducible to the garment it wears."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Imagine an actor wearing a costume.",
+   "directed": "Imagine an actor wearing a costume."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A king’s robe.",
+   "directed": "A king’s robe."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A crown.",
+   "directed": "A crown."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A sword.",
+   "directed": "A sword."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The costume helps manifest the role.",
+   "directed": "The costume helps manifest the role."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the actor isn’t fundamentally identical with the costume.",
+   "directed": "But the actor isn’t fundamentally identical with the costume."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They can continue wearing it while knowing perfectly well that it isn’t their ultimate identity.",
+   "directed": "They can continue wearing it while knowing perfectly well that it isn’t their ultimate identity."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here we return, once again, to the cosmic theatre.",
+   "directed": "And here we return, once again, to the cosmic theatre."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The dancer.",
+   "directed": "The dancer."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The stage.",
+   "directed": "The stage."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The spectators.",
+   "directed": "The spectators."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The costume.",
+   "directed": "The costume."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The entire performance.",
+   "directed": "The entire performance."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But now the actor has recognised the conscious reality underlying the role.",
+   "directed": "But now the actor has recognised the conscious reality underlying the role."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And therefore the costume no longer conceals their identity.",
+   "directed": "And therefore the costume no longer conceals their identity."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is Kṣemarāja’s understanding of liberated embodiment.",
+   "directed": "This is Kṣemarāja’s understanding of liberated embodiment."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 3.42",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Jīvanmukti.",
+   "directed": "[slowly] Jīvanmukti."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Liberation while living.",
+   "directed": "Liberation while living."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now here’s an important detail.",
+   "directed": "Now here’s an important detail."
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja explicitly connects 3.42 back to 3.26.",
+   "directed": "Kṣemarāja explicitly connects 3.42 back to 3.26."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Remember:",
+   "directed": "[short pause] Remember:"
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 3.42",
+   "type": "verse",
+   "voice": "verse",
+   "text": "शरीरवृत्तिर्व्रतम्।",
+   "directed": "[slowly] शरीरवृत्तिर्व्रतम्।"
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śarīravṛttir vratam.",
+   "directed": "Śarīravṛttir vratam."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The continuation of the body is the vow.",
+   "directed": "The continuation of the body is the vow."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The realised yogi’s body continues to function.",
+   "directed": "The realised yogi’s body continues to function."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that continuation is no longer understood as evidence of fundamental bondage.",
+   "directed": "And that continuation is no longer understood as evidence of fundamental bondage."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The body may remain as a residual condition of manifestation.",
+   "directed": "The body may remain as a residual condition of manifestation."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the yogi is not governed by identification with it as the supreme subject.",
+   "directed": "But the yogi is not governed by identification with it as the supreme subject."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja invokes several tantric sources, including the Kularatnamālā, Netratantra and Kulasāra, in support of this liberated condition.",
+   "directed": "Kṣemarāja invokes several tantric sources, including the Kularatnamālā, Netratantra and Kulasāra, in support of this liberated condition."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Some of those sources also claim that genuine recognition can bring liberation immediately and that the realised adept may communicate liberation to others.",
+   "directed": "Some of those sources also claim that genuine recognition can bring liberation immediately and that the realised adept may communicate liberation to others."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "These are traditional theological and yogic claims, not empirically established powers. Sanskrit & Trika Shaivism.",
+   "directed": "These are traditional theological and yogic claims, not empirically established powers. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now consider the philosophical beauty.",
+   "directed": "Now consider the philosophical beauty."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The limited individual has not been transformed into a second, independently existing god.",
+   "directed": "The limited individual has not been transformed into a second, independently existing god."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The universal conscious nature has been recognised.",
+   "directed": "The universal conscious nature has been recognised."
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And therefore the body is no longer the fundamental boundary of the Self.",
+   "directed": "And therefore the body is no longer the fundamental boundary of the Self."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the body can continue.",
+   "directed": "But the body can continue."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the universe can continue.",
+   "directed": "And the universe can continue."
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The problem wasn’t simply the presence of embodiment.",
+   "directed": "The problem wasn’t simply the presence of embodiment."
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It was the misidentification of the Self with the limited embodied subject.",
+   "directed": "It was the misidentification of the Self with the limited embodied subject."
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here’s the remarkable consequence.",
+   "directed": "And here’s the remarkable consequence."
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Liberation doesn’t necessarily require physical disappearance.",
+   "directed": "Liberation doesn’t necessarily require physical disappearance."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which is excellent news.",
+   "directed": "Which is excellent news."
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because otherwise the only proof of enlightenment would be that somebody had vanished.",
+   "directed": "Because otherwise the only proof of enlightenment would be that somebody had vanished."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And there’d be a very awkward administrative problem at every monastery.",
+   "directed": "And there’d be a very awkward administrative problem at every monastery."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 3.42",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Where’s the teacher?”",
+   "directed": "[short pause] “Where’s the teacher?”"
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 3.42",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Enlightened.”",
+   "directed": "[short pause] “Enlightened.”"
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 3.42",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Right. When will he be back?”",
+   "directed": "[short pause] “Right. When will he be back?”"
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 3.42",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Never.”",
+   "directed": "[short pause] “Never.”"
+  },
+  {
+   "id": "b77",
+   "section": "Śiva Sūtras 3.42",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Well, who’s teaching Sanskrit on Tuesday?”",
+   "directed": "[short pause] “Well, who’s teaching Sanskrit on Tuesday?”"
+  },
+  {
+   "id": "b78",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But Kṣemarāja’s liberated yogi remains capable of living.",
+   "directed": "But Kṣemarāja’s liberated yogi remains capable of living."
+  },
+  {
+   "id": "b79",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Teaching.",
+   "directed": "Teaching."
+  },
+  {
+   "id": "b80",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Speaking.",
+   "directed": "Speaking."
+  },
+  {
+   "id": "b81",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Acting.",
+   "directed": "Acting."
+  },
+  {
+   "id": "b82",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The body persists.",
+   "directed": "The body persists."
+  },
+  {
+   "id": "b83",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The consciousness is recognised.",
+   "directed": "The consciousness is recognised."
+  },
+  {
+   "id": "b84",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The play continues.",
+   "directed": "The play continues."
+  },
+  {
+   "id": "b85",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now we reach the final three sūtras.",
+   "directed": "And now we reach the final three sūtras."
+  },
+  {
+   "id": "b86",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re almost finished.",
+   "directed": "We’re almost finished."
+  },
+  {
+   "id": "b87",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But Vasugupta has one last technical problem to resolve.",
+   "directed": "But Vasugupta has one last technical problem to resolve."
+  },
+  {
+   "id": "b88",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Why does the body remain connected to life and breath after liberation?",
+   "directed": "Why does the body remain connected to life and breath after liberation?"
+  },
+  {
+   "id": "b89",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the answer brings us back to the deepest relationship between consciousness and prāṇa.",
+   "directed": "And the answer brings us back to the deepest relationship between consciousness and prāṇa."
+  },
+  {
+   "id": "b90",
+   "section": "Śiva Sūtras 3.42",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because apparently Śiva has been breathing through the entire performance.",
+   "directed": "Because apparently Śiva has been breathing through the entire performance."
+  }
+ ],
+ "totals": {
+  "blocks": 91,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 594,
+   "verse": 8,
+   "man": 15
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 4.0,
+   "verse": 0.1,
+   "man": 0.1
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

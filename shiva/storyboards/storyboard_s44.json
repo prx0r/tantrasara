@@ -1,0 +1,663 @@
+{
+ "title": "Śiva Sūtras 3.12",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 3.12",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 3.12",
+   "directed": "[long pause] Śiva Sūtras 3.12"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 3.12",
+   "type": "verse",
+   "voice": "verse",
+   "text": "धीवशात्सत्त्वसिद्धिः",
+   "directed": "[slowly] धीवशात्सत्त्वसिद्धिः"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Dhīvaśāt sattvasiddhiḥ.",
+   "directed": "Dhīvaśāt sattvasiddhiḥ."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Through refined understanding, the subtle reality of inner consciousness becomes manifest.",
+   "directed": "Through refined understanding, the subtle reality of inner consciousness becomes manifest."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Use Your Bloody Intelligence, but the Proper Kind This Time.",
+   "directed": "Use Your Bloody Intelligence, but the Proper Kind This Time."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now this is a beautiful statement.",
+   "directed": "Now this is a beautiful statement."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because we’ve spent so much time discussing how limited knowledge contributes to bondage that you might imagine Trika regards intelligence as something fundamentally suspicious.",
+   "directed": "Because we’ve spent so much time discussing how limited knowledge contributes to bondage that you might imagine Trika regards intelligence as something fundamentally suspicious."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But no.",
+   "directed": "But no."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vasugupta is not advocating stupidity.",
+   "directed": "Vasugupta is not advocating stupidity."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Thank goodness.",
+   "directed": "[short pause] Thank goodness."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sanskrit studies may continue.",
+   "directed": "Sanskrit studies may continue."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s unpack the words.",
+   "directed": "Let’s unpack the words."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Dhī — intelligence, insight, understanding.",
+   "directed": "Dhī — intelligence, insight, understanding."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vaśāt — through the power of, by virtue of.",
+   "directed": "Vaśāt — through the power of, by virtue of."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sattva — being, essential reality; here interpreted by Kṣemarāja in a particular yogic sense.",
+   "directed": "Sattva — being, essential reality; here interpreted by Kṣemarāja in a particular yogic sense."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Siddhi — accomplishment, attainment, manifestation.",
+   "directed": "Siddhi — accomplishment, attainment, manifestation."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And we need to be particularly careful with sattva.",
+   "directed": "And we need to be particularly careful with sattva."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because you may know sattva as one of the three guṇas.",
+   "directed": "Because you may know sattva as one of the three guṇas."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sattva, rajas and tamas.",
+   "directed": "Sattva, rajas and tamas."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Clarity, activity and inertia.",
+   "directed": "Clarity, activity and inertia."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But that is not Kṣemarāja’s intended sense here.",
+   "directed": "But that is not Kṣemarāja’s intended sense here."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He interprets sattva as the subtle inner reality characterised by sphurattā — the luminous flashing forth of I-consciousness — and parispanda, subtle inner pulsation.",
+   "directed": "He interprets sattva as the subtle inner reality characterised by sphurattā — the luminous flashing forth of I-consciousness — and parispanda, subtle inner pulsation."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now this is quite something.",
+   "directed": "Now this is quite something."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because it means dhī isn’t simply the ordinary intellect collecting facts.",
+   "directed": "Because it means dhī isn’t simply the ordinary intellect collecting facts."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s an understanding capable of discerning the actual nature of the Self.",
+   "directed": "It’s an understanding capable of discerning the actual nature of the Self."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja specifically defines this intelligence through skill in contemplating or recognising tāttvikasvarūpa — one’s essential reality.",
+   "directed": "Kṣemarāja specifically defines this intelligence through skill in contemplating or recognising tāttvikasvarūpa — one’s essential reality."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And through that refined understanding, the subtle inner reality becomes manifest.",
+   "directed": "And through that refined understanding, the subtle inner reality becomes manifest."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now let’s connect this to the theatre analogy.",
+   "directed": "Now let’s connect this to the theatre analogy."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "An actor may possess tremendous technical skill.",
+   "directed": "An actor may possess tremendous technical skill."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They understand timing.",
+   "directed": "They understand timing."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Movement.",
+   "directed": "Movement."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Expression.",
+   "directed": "Expression."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The emotional structure of a performance.",
+   "directed": "The emotional structure of a performance."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They know how to bring a particular inner feeling into visible expression.",
+   "directed": "They know how to bring a particular inner feeling into visible expression."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja actually invokes this kind of theatrical expertise.",
+   "directed": "And Kṣemarāja actually invokes this kind of theatrical expertise."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Just as refined intelligence enables accomplished dramatic expression, spiritual intelligence enables recognition of the subtle inner reality of consciousness.",
+   "directed": "Just as refined intelligence enables accomplished dramatic expression, spiritual intelligence enables recognition of the subtle inner reality of consciousness."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s an unusual but extraordinarily elegant comparison. Sanskrit & Trika Shaivism.",
+   "directed": "It’s an unusual but extraordinarily elegant comparison. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And it has a deep philosophical implication.",
+   "directed": "And it has a deep philosophical implication."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Understanding isn’t necessarily an obstacle.",
+   "directed": "Understanding isn’t necessarily an obstacle."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Misunderstanding is.",
+   "directed": "Misunderstanding is."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A conceptual structure that reinforces the independence of the limited individual can sustain bondage.",
+   "directed": "A conceptual structure that reinforces the independence of the limited individual can sustain bondage."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But an understanding that discloses the universal nature of consciousness can participate in liberation.",
+   "directed": "But an understanding that discloses the universal nature of consciousness can participate in liberation."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Remember our encounter with:",
+   "directed": "[short pause] Remember our encounter with:"
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 3.12",
+   "type": "verse",
+   "voice": "verse",
+   "text": "वितर्क आत्मज्ञानम्।",
+   "directed": "[slowly] वितर्क आत्मज्ञानम्।"
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vitarka ātmajñānam.",
+   "directed": "Vitarka ātmajñānam."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Reflective ascertainment is Self-knowledge.",
+   "directed": "Reflective ascertainment is Self-knowledge."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The same general principle returns.",
+   "directed": "The same general principle returns."
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s not merely the presence or absence of thought that matters.",
+   "directed": "It’s not merely the presence or absence of thought that matters."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s the relation of thought to recognition.",
+   "directed": "It’s the relation of thought to recognition."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, this is especially important for anyone studying Trika through philosophical analysis.",
+   "directed": "Now, this is especially important for anyone studying Trika through philosophical analysis."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You can investigate the structure of experience.",
+   "directed": "You can investigate the structure of experience."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Examine the distinction between perceiver and perceived.",
+   "directed": "Examine the distinction between perceiver and perceived."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Study the relation between prakāśa and vimarśa.",
+   "directed": "Study the relation between prakāśa and vimarśa."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Consider how limited identity arises through saṃkoca.",
+   "directed": "Consider how limited identity arises through saṃkoca."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And these investigations can help clarify what the tradition is pointing towards.",
+   "directed": "And these investigations can help clarify what the tradition is pointing towards."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the aim isn’t merely to accumulate an increasingly elaborate conceptual representation of consciousness.",
+   "directed": "But the aim isn’t merely to accumulate an increasingly elaborate conceptual representation of consciousness."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s to understand the conscious reality in which those representations themselves arise.",
+   "directed": "It’s to understand the conscious reality in which those representations themselves arise."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Imagine a man building an extraordinarily accurate map of the ocean.",
+   "directed": "Imagine a man building an extraordinarily accurate map of the ocean."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He’s got currents.",
+   "directed": "He’s got currents."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Depths.",
+   "directed": "Depths."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Salinity.",
+   "directed": "Salinity."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Tides.",
+   "directed": "Tides."
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Every conceivable measurement.",
+   "directed": "Every conceivable measurement."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Absolutely magnificent cartography.",
+   "directed": "Absolutely magnificent cartography."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But he’s forgotten that he’s standing in water.",
+   "directed": "But he’s forgotten that he’s standing in water."
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "At some point, a different kind of recognition is required.",
+   "directed": "At some point, a different kind of recognition is required."
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The map is useful.",
+   "directed": "The map is useful."
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the map is not the ocean.",
+   "directed": "But the map is not the ocean."
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the understanding of consciousness is not identical to the direct recognition of consciousness.",
+   "directed": "And the understanding of consciousness is not identical to the direct recognition of consciousness."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Still, the map can direct the investigation.",
+   "directed": "Still, the map can direct the investigation."
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that’s the role of refined intelligence here.",
+   "directed": "And that’s the role of refined intelligence here."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Dhī becomes an instrument of disclosure.",
+   "directed": "Dhī becomes an instrument of disclosure."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The apparent limitation of cognition is transformed into a means of recognising its source.",
+   "directed": "The apparent limitation of cognition is transformed into a means of recognising its source."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now Vasugupta gives us the result.",
+   "directed": "And now Vasugupta gives us the result."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A word we’ve been circling around since the first sūtra.",
+   "directed": "A word we’ve been circling around since the first sūtra."
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 3.12",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Svātantrya.",
+   "directed": "[slowly] Svātantrya."
+  },
+  {
+   "id": "b77",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Freedom.",
+   "directed": "Freedom."
+  },
+  {
+   "id": "b78",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Absolute freedom.",
+   "directed": "Absolute freedom."
+  },
+  {
+   "id": "b79",
+   "section": "Śiva Sūtras 3.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is one of the most beautiful statements in the text.",
+   "directed": "And this is one of the most beautiful statements in the text."
+  }
+ ],
+ "totals": {
+  "blocks": 80,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 584,
+   "verse": 4
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 3.9,
+   "verse": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

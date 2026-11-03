@@ -1,0 +1,1289 @@
+{
+ "title": "Śiva Sūtras 3.31",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 3.31",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 3.31",
+   "directed": "[long pause] Śiva Sūtras 3.31"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 3.31",
+   "type": "verse",
+   "voice": "verse",
+   "text": "स्थितिलयौ",
+   "directed": "[slowly] स्थितिलयौ"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sthitilayau.",
+   "directed": "Sthitilayau."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Maintenance and dissolution.",
+   "directed": "Maintenance and dissolution."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Congratulations, You’re Not Just Creating the Universe. You’re Also Maintaining and Deleting It.",
+   "directed": "Congratulations, You’re Not Just Creating the Universe. You’re Also Maintaining and Deleting It."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That’s it.",
+   "directed": "That’s it."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Two words.",
+   "directed": "Two words."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Vasugupta has decided that the entire cosmic process is now your responsibility.",
+   "directed": "And Vasugupta has decided that the entire cosmic process is now your responsibility."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Fantastic.",
+   "directed": "Fantastic."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s unpack the Sanskrit.",
+   "directed": "Let’s unpack the Sanskrit."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sthiti — standing, remaining, maintenance, preservation.",
+   "directed": "Sthiti — standing, remaining, maintenance, preservation."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Laya — dissolution, absorption, withdrawal.",
+   "directed": "Laya — dissolution, absorption, withdrawal."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sthitilayau is a dual compound referring to those two processes.",
+   "directed": "Sthitilayau is a dual compound referring to those two processes."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now this sūtra cannot be properly understood by itself.",
+   "directed": "Now this sūtra cannot be properly understood by itself."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja explicitly makes that clear.",
+   "directed": "And Kṣemarāja explicitly makes that clear."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It continues the previous statement:",
+   "directed": "[short pause] It continues the previous statement:"
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Svaśaktipracayo ’sya viśvam.",
+   "directed": "Svaśaktipracayo ’sya viśvam."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The universe is the unfoldment of the realised yogi’s own divine power.",
+   "directed": "The universe is the unfoldment of the realised yogi’s own divine power."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So 3.31 adds:",
+   "directed": "[short pause] So 3.31 adds:"
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Maintenance and dissolution are also expressions of that same power.",
+   "directed": "Maintenance and dissolution are also expressions of that same power."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ah.",
+   "directed": "Ah."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now we’ve got the full cosmic operation.",
+   "directed": "Now we’ve got the full cosmic operation."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sṛṣṭi — manifestation.",
+   "directed": "Sṛṣṭi — manifestation."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sthiti — maintenance.",
+   "directed": "Sthiti — maintenance."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Laya — withdrawal.",
+   "directed": "Laya — withdrawal."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Creation, preservation and reabsorption.",
+   "directed": "Creation, preservation and reabsorption."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But let’s be careful with creation.",
+   "directed": "But let’s be careful with creation."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Trika doctrine is not necessarily proposing that Śiva manufactures a universe out of something independent of himself.",
+   "directed": "The Trika doctrine is not necessarily proposing that Śiva manufactures a universe out of something independent of himself."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That would leave us with two fundamental realities.",
+   "directed": "That would leave us with two fundamental realities."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śiva.",
+   "directed": "Śiva."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the material from which Śiva constructs the universe.",
+   "directed": "And the material from which Śiva constructs the universe."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which would be rather embarrassing for a nondual metaphysics.",
+   "directed": "Which would be rather embarrassing for a nondual metaphysics."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Instead, the universe is understood as an ābhāsa.",
+   "directed": "Instead, the universe is understood as an ābhāsa."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A manifestation or appearance within and through consciousness.",
+   "directed": "A manifestation or appearance within and through consciousness."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja describes these processes in exactly that framework.",
+   "directed": "And Kṣemarāja describes these processes in exactly that framework."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Manifestation is the coming forth of differentiated appearances through kriyāśakti, the divine power of action.",
+   "directed": "Manifestation is the coming forth of differentiated appearances through kriyāśakti, the divine power of action."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Maintenance is their continuing outward manifestation.",
+   "directed": "Maintenance is their continuing outward manifestation."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And dissolution is their repose in the conscious subject.",
+   "directed": "And dissolution is their repose in the conscious subject."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now here’s the crucial thing.",
+   "directed": "Now here’s the crucial thing."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "When an object disappears from experience, it does not follow that consciousness has disappeared.",
+   "directed": "When an object disappears from experience, it does not follow that consciousness has disappeared."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Imagine looking at a candle.",
+   "directed": "Imagine looking at a candle."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The flame is present.",
+   "directed": "The flame is present."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You perceive it.",
+   "directed": "You perceive it."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then somebody blows it out.",
+   "directed": "Then somebody blows it out."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The flame disappears.",
+   "directed": "The flame disappears."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Your perception of that particular flame ends.",
+   "directed": "Your perception of that particular flame ends."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the consciousness through which its appearance and disappearance were known is not thereby annihilated.",
+   "directed": "But the consciousness through which its appearance and disappearance were known is not thereby annihilated."
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now don’t take the candle analogy too literally.",
+   "directed": "Now don’t take the candle analogy too literally."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja is not simply explaining ordinary visual persistence.",
+   "directed": "Kṣemarāja is not simply explaining ordinary visual persistence."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He’s giving a metaphysical account of the relation between manifestation and the conscious knower.",
+   "directed": "He’s giving a metaphysical account of the relation between manifestation and the conscious knower."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The point is that both appearance and withdrawal belong to Śakti.",
+   "directed": "The point is that both appearance and withdrawal belong to Śakti."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The presence of an object doesn’t establish an independent reality outside consciousness.",
+   "directed": "The presence of an object doesn’t establish an independent reality outside consciousness."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And its disappearance doesn’t indicate that consciousness has lost something essential to itself.",
+   "directed": "And its disappearance doesn’t indicate that consciousness has lost something essential to itself."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The entire movement is understood through the conscious power of manifestation.",
+   "directed": "The entire movement is understood through the conscious power of manifestation."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja even invokes the distinction between asti and nāsti.",
+   "directed": "Kṣemarāja even invokes the distinction between asti and nāsti."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 3.31",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“It is.”",
+   "directed": "[short pause] “It is.”"
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 3.31",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“It is not.”",
+   "directed": "[short pause] “It is not.”"
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The apparent presence and absence of things.",
+   "directed": "The apparent presence and absence of things."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And he connects both with the operations of Śakti.",
+   "directed": "And he connects both with the operations of Śakti."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now imagine a terrible situation.",
+   "directed": "Now imagine a terrible situation."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Your favourite cup breaks.",
+   "directed": "Your favourite cup breaks."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Immediately:",
+   "directed": "[short pause] Immediately:"
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 3.31",
+   "type": "figure",
+   "voice": "none",
+   "text": "“NOOOOO.”",
+   "directed": "“NOOOOO.”"
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The cup has existed in your experience.",
+   "directed": "The cup has existed in your experience."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It has persisted through time.",
+   "directed": "It has persisted through time."
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now the particular arrangement of matter has been destroyed.",
+   "directed": "And now the particular arrangement of matter has been destroyed."
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And your mind announces:",
+   "directed": "[short pause] And your mind announces:"
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 3.31",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“A great tragedy has occurred.”",
+   "directed": "[short pause] “A great tragedy has occurred.”"
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which may be quite reasonable.",
+   "directed": "Which may be quite reasonable."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It was a lovely cup.",
+   "directed": "It was a lovely cup."
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But from the standpoint of Trika metaphysics, the coming forth, duration and dissolution of phenomena all belong to the dynamic manifestation of consciousness.",
+   "directed": "But from the standpoint of Trika metaphysics, the coming forth, duration and dissolution of phenomena all belong to the dynamic manifestation of consciousness."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The supreme reality is not made complete by the cup’s existence.",
+   "directed": "The supreme reality is not made complete by the cup’s existence."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nor is it diminished by its destruction.",
+   "directed": "Nor is it diminished by its destruction."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja extends this to the whole universe.",
+   "directed": "And Kṣemarāja extends this to the whole universe."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Manifestation.",
+   "directed": "Manifestation."
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Maintenance.",
+   "directed": "Maintenance."
+  },
+  {
+   "id": "b77",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Dissolution.",
+   "directed": "Dissolution."
+  },
+  {
+   "id": "b78",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "All are expressions of the same divine power.",
+   "directed": "All are expressions of the same divine power."
+  },
+  {
+   "id": "b79",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He cites the Kālikākrama and a verse concerning the liberated person who recognises pure, independent consciousness as their own I-awareness. Sanskrit & Trika Shaivism.",
+   "directed": "He cites the Kālikākrama and a verse concerning the liberated person who recognises pure, independent consciousness as their own I-awareness. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b80",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now the extraordinary thing is that 3.30 and 3.31 have together established an entire cosmology.",
+   "directed": "Now the extraordinary thing is that 3.30 and 3.31 have together established an entire cosmology."
+  },
+  {
+   "id": "b81",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The world unfolds as Śakti.",
+   "directed": "The world unfolds as Śakti."
+  },
+  {
+   "id": "b82",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It persists through Śakti.",
+   "directed": "It persists through Śakti."
+  },
+  {
+   "id": "b83",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is withdrawn through Śakti.",
+   "directed": "It is withdrawn through Śakti."
+  },
+  {
+   "id": "b84",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nothing has escaped the sovereignty of the supreme consciousness.",
+   "directed": "Nothing has escaped the sovereignty of the supreme consciousness."
+  },
+  {
+   "id": "b85",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which sounds magnificent.",
+   "directed": "Which sounds magnificent."
+  },
+  {
+   "id": "b86",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But an objection immediately arises.",
+   "directed": "But an objection immediately arises."
+  },
+  {
+   "id": "b87",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And it’s a very good objection.",
+   "directed": "And it’s a very good objection."
+  },
+  {
+   "id": "b88",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "If consciousness is manifesting these different conditions, doesn’t it change?",
+   "directed": "If consciousness is manifesting these different conditions, doesn’t it change?"
+  },
+  {
+   "id": "b89",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Doesn’t it become one thing during creation, another during maintenance, and something else during dissolution?",
+   "directed": "Doesn’t it become one thing during creation, another during maintenance, and something else during dissolution?"
+  },
+  {
+   "id": "b90",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And if it changes in that manner, how can it possibly be the eternal, self-revealing reality we’ve been talking about?",
+   "directed": "And if it changes in that manner, how can it possibly be the eternal, self-revealing reality we’ve been talking about?"
+  },
+  {
+   "id": "b91",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Well.",
+   "directed": "Well."
+  },
+  {
+   "id": "b92",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vasugupta has an answer.",
+   "directed": "Vasugupta has an answer."
+  },
+  {
+   "id": "b93",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And it’s absolutely devastating.",
+   "directed": "And it’s absolutely devastating."
+  },
+  {
+   "id": "b94",
+   "section": "Śiva Sūtras 3.31",
+   "type": "meta",
+   "voice": "none",
+   "text": "Textual basis: The 45-sūtra recension of Vasugupta’s Śiva Sūtras and Kṣemarāja’s Śivasūtravimarśinī, third section, 16–30. The Devanagari and IAST follow the attested sequence. Interpretive claims about rebirth, extraordinary yogic powers, divine Mothers, and mantra efficacy are presented as traditional doctrines. The commentary’s philosophical arguments inform this original narration; the jokes and contemporary analogies are not translations or quotations from Kṣemarāja.",
+   "directed": "Textual basis: The 45-sūtra recension of Vasugupta’s Śiva Sūtras and Kṣemarāja’s Śivasūtravimarśinī, third section, 16–30. The Devanagari and IAST follow the attested sequence. Interpretive claims about rebirth, extraordinary yogic powers, divine Mothers, and mantra efficacy are presented as traditional doctrines. The commentary’s philosophical arguments inform this original narration; the jokes and contemporary analogies are not translations or quotations from Kṣemarāja."
+  },
+  {
+   "id": "b95",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Next comes the final fifteen sūtras of the entire text.",
+   "directed": "Next comes the final fifteen sūtras of the entire text."
+  },
+  {
+   "id": "b96",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the first two are wonderfully compact:",
+   "directed": "[short pause] And the first two are wonderfully compact:"
+  },
+  {
+   "id": "b97",
+   "section": "Śiva Sūtras 3.31",
+   "type": "verse",
+   "voice": "verse",
+   "text": "स्थितिलयौ।",
+   "directed": "[slowly] स्थितिलयौ।"
+  },
+  {
+   "id": "b98",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sthitilayau.",
+   "directed": "Sthitilayau."
+  },
+  {
+   "id": "b99",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Maintenance and dissolution.",
+   "directed": "Maintenance and dissolution."
+  },
+  {
+   "id": "b100",
+   "section": "Śiva Sūtras 3.31",
+   "type": "verse",
+   "voice": "verse",
+   "text": "तत्प्रवृत्तावप्यनिरासः संवेत्तृभावात्।",
+   "directed": "[slowly] तत्प्रवृत्तावप्यनिरासः संवेत्तृभावात्।"
+  },
+  {
+   "id": "b101",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Tatpravṛttāv apy anirāsaḥ saṃvettṛbhāvāt.",
+   "directed": "Tatpravṛttāv apy anirāsaḥ saṃvettṛbhāvāt."
+  },
+  {
+   "id": "b102",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Even while those powers operate, the yogi does not lose their nature as the conscious knower.",
+   "directed": "Even while those powers operate, the yogi does not lose their nature as the conscious knower."
+  },
+  {
+   "id": "b103",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re about to discover what happens when the universe continues manifesting, sustaining and dissolving — while the liberated yogi remains established in recognition.",
+   "directed": "We’re about to discover what happens when the universe continues manifesting, sustaining and dissolving — while the liberated yogi remains established in recognition."
+  },
+  {
+   "id": "b104",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then comes the final treatment of pleasure and pain, the disappearance of bondage, the relationship between body and consciousness, the subtle movement of breath, and Vasugupta’s concluding teaching.",
+   "directed": "Then comes the final treatment of pleasure and pain, the disappearance of bondage, the relationship between body and consciousness, the subtle movement of breath, and Vasugupta’s concluding teaching."
+  },
+  {
+   "id": "b105",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Finish the Śiva Sūtras — 3.31–3.45.",
+   "directed": "Finish the Śiva Sūtras — 3.31–3.45."
+  },
+  {
+   "id": "b106",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Grand Finale: How Śiva Creates the Universe, Forgets He’s Doing It, Gets Upset About Absolutely Everything, and Finally Remembers That the Whole Bloody Thing Was His Idea.",
+   "directed": "The Grand Finale: How Śiva Creates the Universe, Forgets He’s Doing It, Gets Upset About Absolutely Everything, and Finally Remembers That the Whole Bloody Thing Was His Idea."
+  },
+  {
+   "id": "b107",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Previously, on the Śiva Sūtras…\nLadies and gentlemen.",
+   "directed": "Previously, on the Śiva Sūtras…\nLadies and gentlemen."
+  },
+  {
+   "id": "b108",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’ve arrived.",
+   "directed": "We’ve arrived."
+  },
+  {
+   "id": "b109",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The final fifteen sūtras.",
+   "directed": "The final fifteen sūtras."
+  },
+  {
+   "id": "b110",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Seventy-seven statements in total. Three great openings of consciousness. An entire metaphysical system compressed into what amounts to a particularly aggressive collection of Sanskrit fortune cookies.",
+   "directed": "Seventy-seven statements in total. Three great openings of consciousness. An entire metaphysical system compressed into what amounts to a particularly aggressive collection of Sanskrit fortune cookies."
+  },
+  {
+   "id": "b111",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And what a journey it’s been.",
+   "directed": "And what a journey it’s been."
+  },
+  {
+   "id": "b112",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In Book I, Vasugupta informed us that we’re actually infinite consciousness.",
+   "directed": "In Book I, Vasugupta informed us that we’re actually infinite consciousness."
+  },
+  {
+   "id": "b113",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Marvelous.",
+   "directed": "Marvelous."
+  },
+  {
+   "id": "b114",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In Book II, we discovered that our own mind can become mantra, the alphabet is secretly a goddess, and the entire universe is apparently a rather elaborate manifestation of divine freedom.",
+   "directed": "In Book II, we discovered that our own mind can become mantra, the alphabet is secretly a goddess, and the entire universe is apparently a rather elaborate manifestation of divine freedom."
+  },
+  {
+   "id": "b115",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Excellent.",
+   "directed": "[short pause] Excellent."
+  },
+  {
+   "id": "b116",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then came Book III.",
+   "directed": "Then came Book III."
+  },
+  {
+   "id": "b117",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the situation deteriorated considerably.",
+   "directed": "And the situation deteriorated considerably."
+  },
+  {
+   "id": "b118",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It turns out that this infinite consciousness has somehow become identified with a limited mind, trapped itself in a body, developed an extraordinary number of anxieties, and forgotten the entire arrangement.",
+   "directed": "It turns out that this infinite consciousness has somehow become identified with a limited mind, trapped itself in a body, developed an extraordinary number of anxieties, and forgotten the entire arrangement."
+  },
+  {
+   "id": "b119",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śiva has created saṃsāra.",
+   "directed": "Śiva has created saṃsāra."
+  },
+  {
+   "id": "b120",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Entered saṃsāra.",
+   "directed": "Entered saṃsāra."
+  },
+  {
+   "id": "b121",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Become confused by saṃsāra.",
+   "directed": "Become confused by saṃsāra."
+  },
+  {
+   "id": "b122",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And apparently started buying books about how to escape saṃsāra.",
+   "directed": "And apparently started buying books about how to escape saṃsāra."
+  },
+  {
+   "id": "b123",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Absolutely magnificent levels of self-inflicted administrative difficulty.",
+   "directed": "Absolutely magnificent levels of self-inflicted administrative difficulty."
+  },
+  {
+   "id": "b124",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But then the teaching transformed.",
+   "directed": "But then the teaching transformed."
+  },
+  {
+   "id": "b125",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The individual began recognising the divine powers underlying the body, mind and senses.",
+   "directed": "The individual began recognising the divine powers underlying the body, mind and senses."
+  },
+  {
+   "id": "b126",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The world became a cosmic theatre.",
+   "directed": "The world became a cosmic theatre."
+  },
+  {
+   "id": "b127",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Self was the dancer.",
+   "directed": "The Self was the dancer."
+  },
+  {
+   "id": "b128",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The subtle body was the stage.",
+   "directed": "The subtle body was the stage."
+  },
+  {
+   "id": "b129",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The senses were the spectators.",
+   "directed": "The senses were the spectators."
+  },
+  {
+   "id": "b130",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And at 3.30, Vasugupta gave us one of the most extraordinary statements of the entire work:",
+   "directed": "[short pause] And at 3.30, Vasugupta gave us one of the most extraordinary statements of the entire work:"
+  },
+  {
+   "id": "b131",
+   "section": "Śiva Sūtras 3.31",
+   "type": "verse",
+   "voice": "verse",
+   "text": "स्वशक्तिप्रचयोऽस्य विश्वम्।",
+   "directed": "[slowly] स्वशक्तिप्रचयोऽस्य विश्वम्।"
+  },
+  {
+   "id": "b132",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Svaśaktipracayo ’sya viśvam.",
+   "directed": "Svaśaktipracayo ’sya viśvam."
+  },
+  {
+   "id": "b133",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The universe is the unfoldment of his own Śakti.",
+   "directed": "The universe is the unfoldment of his own Śakti."
+  },
+  {
+   "id": "b134",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The universe.",
+   "directed": "The universe."
+  },
+  {
+   "id": "b135",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The entire bloody universe.",
+   "directed": "The entire bloody universe."
+  },
+  {
+   "id": "b136",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not merely an illusion to be discarded.",
+   "directed": "Not merely an illusion to be discarded."
+  },
+  {
+   "id": "b137",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not an alien territory fundamentally separate from consciousness.",
+   "directed": "Not an alien territory fundamentally separate from consciousness."
+  },
+  {
+   "id": "b138",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The manifestation of the free power of Śiva.",
+   "directed": "The manifestation of the free power of Śiva."
+  },
+  {
+   "id": "b139",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But this creates a philosophical problem.",
+   "directed": "But this creates a philosophical problem."
+  },
+  {
+   "id": "b140",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A BIG one.",
+   "directed": "A BIG one."
+  },
+  {
+   "id": "b141",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "If the universe is consciousness manifesting its own power, what happens when the universe changes?",
+   "directed": "If the universe is consciousness manifesting its own power, what happens when the universe changes?"
+  },
+  {
+   "id": "b142",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "When something appears?",
+   "directed": "When something appears?"
+  },
+  {
+   "id": "b143",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "When something disappears?",
+   "directed": "When something disappears?"
+  },
+  {
+   "id": "b144",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "When you’re happy?",
+   "directed": "When you’re happy?"
+  },
+  {
+   "id": "b145",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "When you’re miserable?",
+   "directed": "When you’re miserable?"
+  },
+  {
+   "id": "b146",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "When your body dies?",
+   "directed": "When your body dies?"
+  },
+  {
+   "id": "b147",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "If everything changes, does consciousness change with it?",
+   "directed": "If everything changes, does consciousness change with it?"
+  },
+  {
+   "id": "b148",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And if everything is Śiva, why the hell are we still suffering?",
+   "directed": "And if everything is Śiva, why the hell are we still suffering?"
+  },
+  {
+   "id": "b149",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "These are precisely the problems Kṣemarāja addresses as we approach the conclusion.",
+   "directed": "These are precisely the problems Kṣemarāja addresses as we approach the conclusion."
+  },
+  {
+   "id": "b150",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the final sūtras are more sophisticated than they initially appear.",
+   "directed": "And the final sūtras are more sophisticated than they initially appear."
+  },
+  {
+   "id": "b151",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because we’re going to discover that the disappearance of an experience is not the disappearance of consciousness, that pleasure and pain need not define the Self, and that the very desire to grasp an object can return consciousness to its contracted standpoint.",
+   "directed": "Because we’re going to discover that the disappearance of an experience is not the disappearance of consciousness, that pleasure and pain need not define the Self, and that the very desire to grasp an object can return consciousness to its contracted standpoint."
+  },
+  {
+   "id": "b152",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then come the breath, the subtle centre, the dissolution of conditioned identity, and the extraordinary final statement.",
+   "directed": "Then come the breath, the subtle centre, the dissolution of conditioned identity, and the extraordinary final statement."
+  },
+  {
+   "id": "b153",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A folding back.",
+   "directed": "A folding back."
+  },
+  {
+   "id": "b154",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A closing.",
+   "directed": "A closing."
+  },
+  {
+   "id": "b155",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A return.",
+   "directed": "A return."
+  },
+  {
+   "id": "b156",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Except — and this is the ultimate plot twist — the reality to which consciousness returns was never actually absent.",
+   "directed": "Except — and this is the ultimate plot twist — the reality to which consciousness returns was never actually absent."
+  },
+  {
+   "id": "b157",
+   "section": "Śiva Sūtras 3.31",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s finish this thing.",
+   "directed": "Let’s finish this thing."
+  }
+ ],
+ "totals": {
+  "blocks": 158,
+  "words_per_voice": {
+   "none": 62,
+   "granny": 1198,
+   "verse": 6,
+   "man": 2
+  },
+  "est_min": {
+   "none": 0.4,
+   "granny": 8.0,
+   "verse": 0.0,
+   "man": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

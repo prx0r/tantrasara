@@ -1,0 +1,833 @@
+{
+ "title": "Śiva Sūtras 3.33",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 3.33",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 3.33",
+   "directed": "[long pause] Śiva Sūtras 3.33"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 3.33",
+   "type": "verse",
+   "voice": "verse",
+   "text": "सुखदुःखयोर्बहिर्मननम्",
+   "directed": "[slowly] सुखदुःखयोर्बहिर्मननम्"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sukhaduḥkhayor bahirmananam.",
+   "directed": "Sukhaduḥkhayor bahirmananam."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Regarding pleasure and pain as external.",
+   "directed": "Regarding pleasure and pain as external."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’re Experiencing Pain. You Don’t Have to Become the Entire Concept of Pain.",
+   "directed": "You’re Experiencing Pain. You Don’t Have to Become the Entire Concept of Pain."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, this is a genuinely subtle teaching.",
+   "directed": "Now, this is a genuinely subtle teaching."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And one that could be very easily misunderstood.",
+   "directed": "And one that could be very easily misunderstood."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So let’s get the Sanskrit right.",
+   "directed": "So let’s get the Sanskrit right."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sukha — pleasure, happiness, ease.",
+   "directed": "Sukha — pleasure, happiness, ease."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Duḥkha — pain, suffering, distress.",
+   "directed": "Duḥkha — pain, suffering, distress."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "-yoḥ — dual genitive ending, referring to both.",
+   "directed": "-yoḥ — dual genitive ending, referring to both."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Bahiḥ — outside, external.",
+   "directed": "Bahiḥ — outside, external."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Mananam — considering, apprehending, reflecting.",
+   "directed": "Mananam — considering, apprehending, reflecting."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So:",
+   "directed": "[short pause] So:"
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The yogi apprehends pleasure and pain as something external to their true conscious identity.",
+   "directed": "The yogi apprehends pleasure and pain as something external to their true conscious identity."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now hang on.",
+   "directed": "Now hang on."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Surely pain is experienced internally?",
+   "directed": "Surely pain is experienced internally?"
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "If you have a headache, you don’t ordinarily experience it as occurring inside a distant mountain.",
+   "directed": "If you have a headache, you don’t ordinarily experience it as occurring inside a distant mountain."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s happening here.",
+   "directed": "It’s happening here."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And if you’re happy, that happiness is part of your lived experience.",
+   "directed": "And if you’re happy, that happiness is part of your lived experience."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So what on earth does Kṣemarāja mean by external?",
+   "directed": "So what on earth does Kṣemarāja mean by external?"
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He doesn’t mean pleasure and pain are physically located outside the body.",
+   "directed": "He doesn’t mean pleasure and pain are physically located outside the body."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He’s making a distinction between:",
+   "directed": "[short pause] He’s making a distinction between:"
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Aham — the fundamental I-consciousness.",
+   "directed": "Aham — the fundamental I-consciousness."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And:",
+   "directed": "[short pause] And:"
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Idam — the realm of appearing objects and experiences.",
+   "directed": "Idam — the realm of appearing objects and experiences."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In ordinary life, we don’t merely experience pleasure or pain.",
+   "directed": "In ordinary life, we don’t merely experience pleasure or pain."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We identify with them.",
+   "directed": "We identify with them."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 3.33",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“I am happy.”",
+   "directed": "[short pause] “I am happy.”"
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 3.33",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“I am miserable.”",
+   "directed": "[short pause] “I am miserable.”"
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 3.33",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“I am suffering.”",
+   "directed": "[short pause] “I am suffering.”"
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And those statements can become deeply entangled with our sense of identity.",
+   "directed": "And those statements can become deeply entangled with our sense of identity."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, Kṣemarāja says that the realised yogi experiences pleasure and pain differently.",
+   "directed": "Now, Kṣemarāja says that the realised yogi experiences pleasure and pain differently."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They become apprehended as idantā — this-ness.",
+   "directed": "They become apprehended as idantā — this-ness."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Objects or contents of experience.",
+   "directed": "Objects or contents of experience."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Just as a blue object appears before awareness, pleasure and pain can appear without becoming the ultimate identity of the conscious subject.",
+   "directed": "Just as a blue object appears before awareness, pleasure and pain can appear without becoming the ultimate identity of the conscious subject."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is a magnificent distinction.",
+   "directed": "And this is a magnificent distinction."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because it doesn’t require denying the experience.",
+   "directed": "Because it doesn’t require denying the experience."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The yogi can still experience pleasure.",
+   "directed": "The yogi can still experience pleasure."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The yogi can still experience pain.",
+   "directed": "The yogi can still experience pain."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The body can still respond.",
+   "directed": "The body can still respond."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The mind can still register changing conditions.",
+   "directed": "The mind can still register changing conditions."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the fundamental identity is no longer exhausted by them.",
+   "directed": "But the fundamental identity is no longer exhausted by them."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja explicitly explains that pleasure and pain arise through contact with objects.",
+   "directed": "And Kṣemarāja explicitly explains that pleasure and pain arise through contact with objects."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The realised yogi apprehends them as appearances within consciousness, rather than through the ordinary limited identification that makes them seem to define the Self.",
+   "directed": "The realised yogi apprehends them as appearances within consciousness, rather than through the ordinary limited identification that makes them seem to define the Self."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, a very important qualification.",
+   "directed": "Now, a very important qualification."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This does not mean that pain is imaginary, that bodily suffering should be ignored, or that the spiritual ideal is emotional numbness.",
+   "directed": "This does not mean that pain is imaginary, that bodily suffering should be ignored, or that the spiritual ideal is emotional numbness."
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nor is it evidence that advanced practitioners cannot experience physical pain.",
+   "directed": "Nor is it evidence that advanced practitioners cannot experience physical pain."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The traditional claim concerns the metaphysical identity of the experiencer, not the abolition of ordinary human physiology.",
+   "directed": "The traditional claim concerns the metaphysical identity of the experiencer, not the abolition of ordinary human physiology."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja is very precise about this.",
+   "directed": "And Kṣemarāja is very precise about this."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He says that the yogi has transcended identification with puryaṣṭaka as the ultimate knower.",
+   "directed": "He says that the yogi has transcended identification with puryaṣṭaka as the ultimate knower."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Remember puryaṣṭaka?",
+   "directed": "Remember puryaṣṭaka?"
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The eightfold subtle constitution.",
+   "directed": "The eightfold subtle constitution."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Buddhi.",
+   "directed": "Buddhi."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 3.33",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Ahaṃkāra.",
+   "directed": "[slowly] Ahaṃkāra."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Manas.",
+   "directed": "Manas."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the five subtle sensory elements.",
+   "directed": "And the five subtle sensory elements."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ordinarily, the individual identifies with this mental and subtle apparatus.",
+   "directed": "Ordinarily, the individual identifies with this mental and subtle apparatus."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And therefore the pleasure and pain occurring through it become appropriated as the defining experiences of the self.",
+   "directed": "And therefore the pleasure and pain occurring through it become appropriated as the defining experiences of the self."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But once that identification is overcome, pleasure and pain no longer have the same power to define the ultimate subject.",
+   "directed": "But once that identification is overcome, pleasure and pain no longer have the same power to define the ultimate subject."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja cites the Īśvarapratyabhijñāvimarśinī and the Spandakārikā to make the distinction between the supreme experiencer and changing pleasure-pain cognitions. Sanskrit & Trika Shaivism.",
+   "directed": "Kṣemarāja cites the Īśvarapratyabhijñāvimarśinī and the Spandakārikā to make the distinction between the supreme experiencer and changing pleasure-pain cognitions. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now consider a practical analogy.",
+   "directed": "Now consider a practical analogy."
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’re sitting quietly.",
+   "directed": "You’re sitting quietly."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A difficult emotion arises.",
+   "directed": "A difficult emotion arises."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Perhaps sadness.",
+   "directed": "Perhaps sadness."
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The ordinary mental structure might immediately become:",
+   "directed": "[short pause] The ordinary mental structure might immediately become:"
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 3.33",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“I am sad.”",
+   "directed": "[short pause] “I am sad.”"
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then:",
+   "directed": "[short pause] Then:"
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 3.33",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“My life is sad.”",
+   "directed": "[short pause] “My life is sad.”"
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then:",
+   "directed": "[short pause] Then:"
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 3.33",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“I have always been sad.”",
+   "directed": "[short pause] “I have always been sad.”"
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then:",
+   "directed": "[short pause] Then:"
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 3.33",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“I will always be sad.”",
+   "directed": "[short pause] “I will always be sad.”"
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And within a few moments, a passing emotional condition has developed into an entire autobiography.",
+   "directed": "And within a few moments, a passing emotional condition has developed into an entire autobiography."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve gone from one feeling to a forty-seven-volume historical account of your own misery.",
+   "directed": "You’ve gone from one feeling to a forty-seven-volume historical account of your own misery."
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Very impressive.",
+   "directed": "Very impressive."
+  },
+  {
+   "id": "b77",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But suppose the emotion is recognised as an appearance within awareness.",
+   "directed": "But suppose the emotion is recognised as an appearance within awareness."
+  },
+  {
+   "id": "b78",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The sadness remains.",
+   "directed": "The sadness remains."
+  },
+  {
+   "id": "b79",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It doesn’t have to be suppressed.",
+   "directed": "It doesn’t have to be suppressed."
+  },
+  {
+   "id": "b80",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the total identification with it can loosen.",
+   "directed": "But the total identification with it can loosen."
+  },
+  {
+   "id": "b81",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There’s sadness.",
+   "directed": "There’s sadness."
+  },
+  {
+   "id": "b82",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There’s awareness of sadness.",
+   "directed": "There’s awareness of sadness."
+  },
+  {
+   "id": "b83",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the whole experience is not necessarily reducible to the statement:",
+   "directed": "[short pause] And the whole experience is not necessarily reducible to the statement:"
+  },
+  {
+   "id": "b84",
+   "section": "Śiva Sūtras 3.33",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“This is the entirety of what I am.”",
+   "directed": "[short pause] “This is the entirety of what I am.”"
+  },
+  {
+   "id": "b85",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, that is a contemporary contemplative analogy, not a complete description of Kṣemarāja’s nondual realisation.",
+   "directed": "Now, that is a contemporary contemplative analogy, not a complete description of Kṣemarāja’s nondual realisation."
+  },
+  {
+   "id": "b86",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "His claim is far more metaphysical.",
+   "directed": "His claim is far more metaphysical."
+  },
+  {
+   "id": "b87",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But it illustrates the shift from identification with a changing experience to recognition of the conscious reality through which it appears.",
+   "directed": "But it illustrates the shift from identification with a changing experience to recognition of the conscious reality through which it appears."
+  },
+  {
+   "id": "b88",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here’s something important.",
+   "directed": "And here’s something important."
+  },
+  {
+   "id": "b89",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The purpose isn’t to construct a permanently detached observer who sits coldly behind experience.",
+   "directed": "The purpose isn’t to construct a permanently detached observer who sits coldly behind experience."
+  },
+  {
+   "id": "b90",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That would risk turning the Self into another subtle individual subject, separate from the objects it witnesses.",
+   "directed": "That would risk turning the Self into another subtle individual subject, separate from the objects it witnesses."
+  },
+  {
+   "id": "b91",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In Trika, the supreme consciousness is inseparable from Śakti.",
+   "directed": "In Trika, the supreme consciousness is inseparable from Śakti."
+  },
+  {
+   "id": "b92",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is the source of the entire manifest field.",
+   "directed": "It is the source of the entire manifest field."
+  },
+  {
+   "id": "b93",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Therefore the recognition is not ultimately a division between a pure observer and an impure world.",
+   "directed": "Therefore the recognition is not ultimately a division between a pure observer and an impure world."
+  },
+  {
+   "id": "b94",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s the recognition that pleasure and pain are manifest within consciousness without exhausting its nature.",
+   "directed": "It’s the recognition that pleasure and pain are manifest within consciousness without exhausting its nature."
+  },
+  {
+   "id": "b95",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now comes the extraordinary implication.",
+   "directed": "And now comes the extraordinary implication."
+  },
+  {
+   "id": "b96",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "If the yogi is no longer inwardly bound by pleasure and pain, what condition have they attained?",
+   "directed": "If the yogi is no longer inwardly bound by pleasure and pain, what condition have they attained?"
+  },
+  {
+   "id": "b97",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vasugupta has a word.",
+   "directed": "Vasugupta has a word."
+  },
+  {
+   "id": "b98",
+   "section": "Śiva Sūtras 3.33",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Kevalī.",
+   "directed": "[slowly] Kevalī."
+  },
+  {
+   "id": "b99",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The one who stands in the purity of their own conscious nature.",
+   "directed": "The one who stands in the purity of their own conscious nature."
+  },
+  {
+   "id": "b100",
+   "section": "Śiva Sūtras 3.33",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that’s where we’re going next.",
+   "directed": "And that’s where we’re going next."
+  }
+ ],
+ "totals": {
+  "blocks": 101,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 783,
+   "verse": 3,
+   "man": 6
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 5.2,
+   "verse": 0.0,
+   "man": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

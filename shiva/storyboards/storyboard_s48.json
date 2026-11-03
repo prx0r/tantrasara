@@ -1,0 +1,1551 @@
+{
+ "title": "Śiva Sūtras 3.16",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 3.16",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 3.16",
+   "directed": "[long pause] Śiva Sūtras 3.16"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 3.16",
+   "type": "verse",
+   "voice": "verse",
+   "text": "आसनस्थः सुखं ह्रदे निमज्जति",
+   "directed": "[slowly] आसनस्थः सुखं ह्रदे निमज्जति"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Āsanasthaḥ sukhaṃ hrade nimajjati.",
+   "directed": "Āsanasthaḥ sukhaṃ hrade nimajjati."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Established in the seat, one easily sinks into the lake.",
+   "directed": "Established in the seat, one easily sinks into the lake."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Stop Trying to Sit Like a Pretzel. Your Real Āsana Is God.",
+   "directed": "Stop Trying to Sit Like a Pretzel. Your Real Āsana Is God."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Oh, this is beautiful.",
+   "directed": "Oh, this is beautiful."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Absolutely beautiful.",
+   "directed": "[short pause] Absolutely beautiful."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because most people hear āsana and immediately think of bodily posture.",
+   "directed": "Because most people hear āsana and immediately think of bodily posture."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Cross-legged.",
+   "directed": "Cross-legged."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Back straight.",
+   "directed": "Back straight."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Shoulders relaxed.",
+   "directed": "Shoulders relaxed."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Knees pointing in directions that appear to violate several international conventions.",
+   "directed": "Knees pointing in directions that appear to violate several international conventions."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And of course, the great spiritual dilemma:",
+   "directed": "[short pause] And of course, the great spiritual dilemma:"
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 3.16",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Can I attain supreme consciousness if my left ankle won’t go on my right thigh?”",
+   "directed": "[short pause] “Can I attain supreme consciousness if my left ankle won’t go on my right thigh?”"
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Fortunately, Kṣemarāja has arrived to rescue us from the yoga-mat industry.",
+   "directed": "Fortunately, Kṣemarāja has arrived to rescue us from the yoga-mat industry."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because he gives āsana a much deeper meaning.",
+   "directed": "Because he gives āsana a much deeper meaning."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s break down the Sanskrit.",
+   "directed": "Let’s break down the Sanskrit."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Āsana — seat, resting place.",
+   "directed": "Āsana — seat, resting place."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sthaḥ — established, standing or abiding.",
+   "directed": "Sthaḥ — established, standing or abiding."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sukham — easily, comfortably, without difficulty.",
+   "directed": "Sukham — easily, comfortably, without difficulty."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Hrade — into the lake, from hrada.",
+   "directed": "Hrade — into the lake, from hrada."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nimajjati — one sinks, plunges, becomes immersed.",
+   "directed": "Nimajjati — one sinks, plunges, becomes immersed."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, what’s the seat?",
+   "directed": "Now, what’s the seat?"
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja answers:",
+   "directed": "[short pause] Kṣemarāja answers:"
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Paraṃ śāktaṃ balam.",
+   "directed": "Paraṃ śāktaṃ balam."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The supreme power of Śakti.",
+   "directed": "The supreme power of Śakti."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That’s the real āsana here.",
+   "directed": "That’s the real āsana here."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not the cushion.",
+   "directed": "Not the cushion."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not the lotus posture.",
+   "directed": "Not the lotus posture."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not a particularly expensive meditation bench carved by monks from sustainable Himalayan cedar.",
+   "directed": "Not a particularly expensive meditation bench carved by monks from sustainable Himalayan cedar."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The seat is the supreme power of consciousness in which the yogi has become established through identity.",
+   "directed": "The seat is the supreme power of consciousness in which the yogi has become established through identity."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja even explains the word through the idea of abiding.",
+   "directed": "And Kṣemarāja even explains the word through the idea of abiding."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That in which one remains continually established through oneness is the seat.",
+   "directed": "That in which one remains continually established through oneness is the seat."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now think about how extraordinary that is.",
+   "directed": "Now think about how extraordinary that is."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A physical posture is ordinarily something the body performs.",
+   "directed": "A physical posture is ordinarily something the body performs."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You arrange your legs.",
+   "directed": "You arrange your legs."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Adjust your spine.",
+   "directed": "Adjust your spine."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Find a stable position.",
+   "directed": "Find a stable position."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And perhaps the posture becomes supportive of contemplation.",
+   "directed": "And perhaps the posture becomes supportive of contemplation."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Perfectly reasonable.",
+   "directed": "Perfectly reasonable."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But Kṣemarāja is concerned with something more fundamental.",
+   "directed": "But Kṣemarāja is concerned with something more fundamental."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "What is the conscious standpoint in which the practitioner is established?",
+   "directed": "What is the conscious standpoint in which the practitioner is established?"
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You can be physically motionless while mentally wandering around twenty different imaginary universes.",
+   "directed": "You can be physically motionless while mentally wandering around twenty different imaginary universes."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You can sit in full lotus while thinking about what you’re going to eat.",
+   "directed": "You can sit in full lotus while thinking about what you’re going to eat."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You can remain in perfect bodily symmetry while inwardly composing an extremely rude reply to somebody on the internet.",
+   "directed": "You can remain in perfect bodily symmetry while inwardly composing an extremely rude reply to somebody on the internet."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Congratulations.",
+   "directed": "Congratulations."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Your body is seated.",
+   "directed": "Your body is seated."
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Your mind is on a world tour.",
+   "directed": "Your mind is on a world tour."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the āsana described here is establishment in supreme Śakti.",
+   "directed": "But the āsana described here is establishment in supreme Śakti."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And from that establishment, Kṣemarāja says the yogi enters the Great Lake effortlessly.",
+   "directed": "And from that establishment, Kṣemarāja says the yogi enters the Great Lake effortlessly."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sukham.",
+   "directed": "Sukham."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Easily.",
+   "directed": "Easily."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Without strain.",
+   "directed": "Without strain."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here’s the crucial part.",
+   "directed": "And here’s the crucial part."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He explicitly describes the yogi as having relinquished the effort associated with meditation, concentration and other practices.",
+   "directed": "He explicitly describes the yogi as having relinquished the effort associated with meditation, concentration and other practices."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now this doesn’t mean the earlier disciplines were pointless.",
+   "directed": "Now this doesn’t mean the earlier disciplines were pointless."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Quite the opposite.",
+   "directed": "Quite the opposite."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The progression through Āṇavopāya has brought the practitioner to a condition in which the supreme reality can become spontaneously apparent.",
+   "directed": "The progression through Āṇavopāya has brought the practitioner to a condition in which the supreme reality can become spontaneously apparent."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The methods have served their purpose.",
+   "directed": "The methods have served their purpose."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the yogi no longer needs to manufacture the recognition through continual manipulation of attention.",
+   "directed": "And the yogi no longer needs to manufacture the recognition through continual manipulation of attention."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Imagine learning to swim.",
+   "directed": "Imagine learning to swim."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "At first, you’re terribly preoccupied.",
+   "directed": "At first, you’re terribly preoccupied."
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Where do the arms go?",
+   "directed": "Where do the arms go?"
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "How do the legs move?",
+   "directed": "How do the legs move?"
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Am I breathing correctly?",
+   "directed": "Am I breathing correctly?"
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Why is there so much water?",
+   "directed": "Why is there so much water?"
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Have I accidentally enrolled in a drowning course?",
+   "directed": "Have I accidentally enrolled in a drowning course?"
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Everything requires effort.",
+   "directed": "Everything requires effort."
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But eventually, the movements become integrated.",
+   "directed": "But eventually, the movements become integrated."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You can enter the water without continually calculating every action.",
+   "directed": "You can enter the water without continually calculating every action."
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now take that analogy much further.",
+   "directed": "Now take that analogy much further."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The yogi becomes established in the conscious source itself.",
+   "directed": "The yogi becomes established in the conscious source itself."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And immersion is no longer an externally imposed operation.",
+   "directed": "And immersion is no longer an externally imposed operation."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It becomes natural.",
+   "directed": "It becomes natural."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But what’s the lake?",
+   "directed": "But what’s the lake?"
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja describes it as the supreme ocean of immortality, the source of the continuous flow of universal manifestation.",
+   "directed": "Kṣemarāja describes it as the supreme ocean of immortality, the source of the continuous flow of universal manifestation."
+  },
+  {
+   "id": "b77",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The parāmṛtasamudra.",
+   "directed": "The parāmṛtasamudra."
+  },
+  {
+   "id": "b78",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The ocean of supreme nectar.",
+   "directed": "The ocean of supreme nectar."
+  },
+  {
+   "id": "b79",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The same divine reality we’ve been approaching since the first book.",
+   "directed": "The same divine reality we’ve been approaching since the first book."
+  },
+  {
+   "id": "b80",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And remember that earlier sūtra:",
+   "directed": "[short pause] And remember that earlier sūtra:"
+  },
+  {
+   "id": "b81",
+   "section": "Śiva Sūtras 3.16",
+   "type": "verse",
+   "voice": "verse",
+   "text": "महाह्रदानुसन्धानान्मन्त्रवीर्यानुभवः।",
+   "directed": "[slowly] महाह्रदानुसन्धानान्मन्त्रवीर्यानुभवः।"
+  },
+  {
+   "id": "b82",
+   "section": "Śiva Sūtras 3.16",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Mahāhradānusandhānān mantravīryānubhavaḥ.",
+   "directed": "[slowly] Mahāhradānusandhānān mantravīryānubhavaḥ."
+  },
+  {
+   "id": "b83",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Through union with the Great Lake comes the experience of the potency of mantra.",
+   "directed": "Through union with the Great Lake comes the experience of the potency of mantra."
+  },
+  {
+   "id": "b84",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That was 1.22.",
+   "directed": "That was 1.22."
+  },
+  {
+   "id": "b85",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now, in 3.16, the yogi actually plunges into that lake through establishment in the power of Śakti.",
+   "directed": "And now, in 3.16, the yogi actually plunges into that lake through establishment in the power of Śakti."
+  },
+  {
+   "id": "b86",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s an extraordinary return.",
+   "directed": "It’s an extraordinary return."
+  },
+  {
+   "id": "b87",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Book I described the supreme source from an exalted standpoint.",
+   "directed": "Book I described the supreme source from an exalted standpoint."
+  },
+  {
+   "id": "b88",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Book III has brought the limited practitioner towards it through successive practices.",
+   "directed": "Book III has brought the limited practitioner towards it through successive practices."
+  },
+  {
+   "id": "b89",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now the two converge.",
+   "directed": "Now the two converge."
+  },
+  {
+   "id": "b90",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And notice that Kṣemarāja doesn’t describe this immersion as bodily annihilation.",
+   "directed": "And notice that Kṣemarāja doesn’t describe this immersion as bodily annihilation."
+  },
+  {
+   "id": "b91",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He speaks of the subsiding of the saṃskāras of saṃkoca.",
+   "directed": "He speaks of the subsiding of the saṃskāras of saṃkoca."
+  },
+  {
+   "id": "b92",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The residual impressions of contraction, particularly those tied to identification with the body and other limiting structures.",
+   "directed": "The residual impressions of contraction, particularly those tied to identification with the body and other limiting structures."
+  },
+  {
+   "id": "b93",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The yogi ceases to be governed by the conviction:",
+   "directed": "[short pause] The yogi ceases to be governed by the conviction:"
+  },
+  {
+   "id": "b94",
+   "section": "Śiva Sūtras 3.16",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“I am merely this limited organism.”",
+   "directed": "[short pause] “I am merely this limited organism.”"
+  },
+  {
+   "id": "b95",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That conviction is submerged in the recognition of consciousness.",
+   "directed": "That conviction is submerged in the recognition of consciousness."
+  },
+  {
+   "id": "b96",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here’s a magnificent detail.",
+   "directed": "And here’s a magnificent detail."
+  },
+  {
+   "id": "b97",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja cites the Netratantra, under the title Mṛtyujit, to describe a supreme state in which the practitioner no longer requires a fixed direction for meditation.",
+   "directed": "Kṣemarāja cites the Netratantra, under the title Mṛtyujit, to describe a supreme state in which the practitioner no longer requires a fixed direction for meditation."
+  },
+  {
+   "id": "b98",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not above.",
+   "directed": "Not above."
+  },
+  {
+   "id": "b99",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not below.",
+   "directed": "Not below."
+  },
+  {
+   "id": "b100",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not in front.",
+   "directed": "Not in front."
+  },
+  {
+   "id": "b101",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not behind.",
+   "directed": "Not behind."
+  },
+  {
+   "id": "b102",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not inside the body as a particular spatial location.",
+   "directed": "Not inside the body as a particular spatial location."
+  },
+  {
+   "id": "b103",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not in external space.",
+   "directed": "Not in external space."
+  },
+  {
+   "id": "b104",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The teaching proceeds beyond reliance on such supports.",
+   "directed": "The teaching proceeds beyond reliance on such supports."
+  },
+  {
+   "id": "b105",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This isn’t an instruction for beginners to abandon every practice.",
+   "directed": "This isn’t an instruction for beginners to abandon every practice."
+  },
+  {
+   "id": "b106",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It describes the culmination of the preceding movement towards direct recognition. Sanskrit & Trika Shaivism.",
+   "directed": "It describes the culmination of the preceding movement towards direct recognition. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b107",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And there is the extraordinary point.",
+   "directed": "And there is the extraordinary point."
+  },
+  {
+   "id": "b108",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You spend years trying to sit correctly.",
+   "directed": "You spend years trying to sit correctly."
+  },
+  {
+   "id": "b109",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then discover that the highest seat isn’t a physical arrangement.",
+   "directed": "Then discover that the highest seat isn’t a physical arrangement."
+  },
+  {
+   "id": "b110",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s establishment in your own deepest nature.",
+   "directed": "It’s establishment in your own deepest nature."
+  },
+  {
+   "id": "b111",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And once you’re established there?",
+   "directed": "And once you’re established there?"
+  },
+  {
+   "id": "b112",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You sink into the lake.",
+   "directed": "You sink into the lake."
+  },
+  {
+   "id": "b113",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Effortlessly.",
+   "directed": "Effortlessly."
+  },
+  {
+   "id": "b114",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The body may still be sitting.",
+   "directed": "The body may still be sitting."
+  },
+  {
+   "id": "b115",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the identity of the practitioner is no longer confined to the body.",
+   "directed": "But the identity of the practitioner is no longer confined to the body."
+  },
+  {
+   "id": "b116",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The meditator has stopped trying to approach the ocean as though it were something external.",
+   "directed": "The meditator has stopped trying to approach the ocean as though it were something external."
+  },
+  {
+   "id": "b117",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And recognises their identity with the conscious reality represented by the ocean.",
+   "directed": "And recognises their identity with the conscious reality represented by the ocean."
+  },
+  {
+   "id": "b118",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which raises an obvious question.",
+   "directed": "Which raises an obvious question."
+  },
+  {
+   "id": "b119",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "What happens when the yogi emerges from this immersion?",
+   "directed": "What happens when the yogi emerges from this immersion?"
+  },
+  {
+   "id": "b120",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Well, apparently he starts manifesting worlds.",
+   "directed": "Well, apparently he starts manifesting worlds."
+  },
+  {
+   "id": "b121",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Of course he does.",
+   "directed": "Of course he does."
+  },
+  {
+   "id": "b122",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s Kashmir.",
+   "directed": "It’s Kashmir."
+  },
+  {
+   "id": "b123",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nobody ever just has a nice meditation and goes home.",
+   "directed": "Nobody ever just has a nice meditation and goes home."
+  },
+  {
+   "id": "b124",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Next, at 3.16:",
+   "directed": "[short pause] Next, at 3.16:"
+  },
+  {
+   "id": "b125",
+   "section": "Śiva Sūtras 3.16",
+   "type": "verse",
+   "voice": "verse",
+   "text": "आसनस्थः सुखं ह्रदे निमज्जति।",
+   "directed": "[slowly] आसनस्थः सुखं ह्रदे निमज्जति।"
+  },
+  {
+   "id": "b126",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Āsanasthaḥ sukhaṃ hrade nimajjati.",
+   "directed": "Āsanasthaḥ sukhaṃ hrade nimajjati."
+  },
+  {
+   "id": "b127",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Established in the seat, the yogi effortlessly sinks into the lake.",
+   "directed": "Established in the seat, the yogi effortlessly sinks into the lake."
+  },
+  {
+   "id": "b128",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And we’re returning to that magnificent image from the end of the first book.",
+   "directed": "And we’re returning to that magnificent image from the end of the first book."
+  },
+  {
+   "id": "b129",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Great Lake.",
+   "directed": "The Great Lake."
+  },
+  {
+   "id": "b130",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The oceanic source of manifestation.",
+   "directed": "The oceanic source of manifestation."
+  },
+  {
+   "id": "b131",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But now we’ll discover why Kṣemarāja’s idea of āsana is much deeper than simply sitting cross-legged on a cushion.",
+   "directed": "But now we’ll discover why Kṣemarāja’s idea of āsana is much deeper than simply sitting cross-legged on a cushion."
+  },
+  {
+   "id": "b132",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The next fifteen sūtras also take us through the creation of one’s world, the ending of rebirth, the Mothers associated with the Sanskrit phonemes, the infusion of the fourth state into waking, dreaming and deep sleep like oil, the transformation of breath, and the extraordinary declarations:",
+   "directed": "[short pause] The next fifteen sūtras also take us through the creation of one’s world, the ending of rebirth, the Mothers associated with the Sanskrit phonemes, the infusion of the fourth state into waking, dreaming and deep sleep like oil, the transformation of breath, and the extraordinary declarations:"
+  },
+  {
+   "id": "b133",
+   "section": "Śiva Sūtras 3.16",
+   "type": "verse",
+   "voice": "verse",
+   "text": "शिवतुल्यो जायते।",
+   "directed": "[slowly] शिवतुल्यो जायते।"
+  },
+  {
+   "id": "b134",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śivatulyo jāyate.",
+   "directed": "Śivatulyo jāyate."
+  },
+  {
+   "id": "b135",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "One becomes like Śiva.",
+   "directed": "One becomes like Śiva."
+  },
+  {
+   "id": "b136",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And:",
+   "directed": "[short pause] And:"
+  },
+  {
+   "id": "b137",
+   "section": "Śiva Sūtras 3.16",
+   "type": "verse",
+   "voice": "verse",
+   "text": "कथा जपः।",
+   "directed": "[slowly] कथा जपः।"
+  },
+  {
+   "id": "b138",
+   "section": "Śiva Sūtras 3.16",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Kathā japaḥ.",
+   "directed": "[slowly] Kathā japaḥ."
+  },
+  {
+   "id": "b139",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Conversation becomes mantra-recitation.",
+   "directed": "Conversation becomes mantra-recitation."
+  },
+  {
+   "id": "b140",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Apparently even talking can become worship.",
+   "directed": "Apparently even talking can become worship."
+  },
+  {
+   "id": "b141",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which is excellent news for a tradition that’s been talking about itself for approximately a thousand years.",
+   "directed": "Which is excellent news for a tradition that’s been talking about itself for approximately a thousand years."
+  },
+  {
+   "id": "b142",
+   "section": "Śiva Sūtras 3.16",
+   "type": "meta",
+   "voice": "none",
+   "text": "Textual basis: Vasugupta’s Śiva Sūtras, third section 3.1–3.15, with Kṣemarāja’s Śivasūtravimarśinī. The explanations follow the commentary’s doctrinal sequence, including its citations of the Spandakārikā, Vijñānabhairava, Svacchandatantra and Netratantra. The audiobook narration is an original paraphrase; modern analogies are illustrative rather than translations. Siddhis and subtle-body mechanisms are identified as traditional claims.",
+   "directed": "Textual basis: Vasugupta’s Śiva Sūtras, third section 3.1–3.15, with Kṣemarāja’s Śivasūtravimarśinī. The explanations follow the commentary’s doctrinal sequence, including its citations of the Spandakārikā, Vijñānabhairava, Svacchandatantra and Netratantra. The audiobook narration is an original paraphrase; modern analogies are illustrative rather than translations. Siddhis and subtle-body mechanisms are identified as traditional claims."
+  },
+  {
+   "id": "b143",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Previously, on the Śiva Sūtras…\nRight.",
+   "directed": "Previously, on the Śiva Sūtras…\nRight."
+  },
+  {
+   "id": "b144",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re back in Kashmir.",
+   "directed": "We’re back in Kashmir."
+  },
+  {
+   "id": "b145",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Vasugupta has been absolutely outrageous.",
+   "directed": "And Vasugupta has been absolutely outrageous."
+  },
+  {
+   "id": "b146",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In the first fifteen sūtras of Āṇavopāya, we discovered that the individual Self appears contracted into the mind, the mind becomes bound by its own limited knowledge, and Māyā supplies an entire metaphysical bureaucracy to keep the arrangement going.",
+   "directed": "In the first fifteen sūtras of Āṇavopāya, we discovered that the individual Self appears contracted into the mind, the mind becomes bound by its own limited knowledge, and Māyā supplies an entire metaphysical bureaucracy to keep the arrangement going."
+  },
+  {
+   "id": "b147",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Five kañcukas.",
+   "directed": "Five kañcukas."
+  },
+  {
+   "id": "b148",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Limited knowledge.",
+   "directed": "Limited knowledge."
+  },
+  {
+   "id": "b149",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Limited agency.",
+   "directed": "Limited agency."
+  },
+  {
+   "id": "b150",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Desire.",
+   "directed": "Desire."
+  },
+  {
+   "id": "b151",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Time.",
+   "directed": "[short pause] Time."
+  },
+  {
+   "id": "b152",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Necessity.",
+   "directed": "Necessity."
+  },
+  {
+   "id": "b153",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Congratulations. You’ve gone from being infinite consciousness to a man who can’t find his sandals.",
+   "directed": "Congratulations. You’ve gone from being infinite consciousness to a man who can’t find his sandals."
+  },
+  {
+   "id": "b154",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But then things got interesting.",
+   "directed": "But then things got interesting."
+  },
+  {
+   "id": "b155",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The practitioner began withdrawing the tattvas into their source.",
+   "directed": "The practitioner began withdrawing the tattvas into their source."
+  },
+  {
+   "id": "b156",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The body became a field of contemplation.",
+   "directed": "The body became a field of contemplation."
+  },
+  {
+   "id": "b157",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The senses were transformed from instruments of bondage into spectators of a cosmic drama.",
+   "directed": "The senses were transformed from instruments of bondage into spectators of a cosmic drama."
+  },
+  {
+   "id": "b158",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Vasugupta dropped possibly the finest theatrical trilogy in the entire history of metaphysics.",
+   "directed": "And Vasugupta dropped possibly the finest theatrical trilogy in the entire history of metaphysics."
+  },
+  {
+   "id": "b159",
+   "section": "Śiva Sūtras 3.16",
+   "type": "verse",
+   "voice": "verse",
+   "text": "नर्तक आत्मा।",
+   "directed": "[slowly] नर्तक आत्मा।"
+  },
+  {
+   "id": "b160",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nartaka ātmā.",
+   "directed": "Nartaka ātmā."
+  },
+  {
+   "id": "b161",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Self is the dancer.",
+   "directed": "The Self is the dancer."
+  },
+  {
+   "id": "b162",
+   "section": "Śiva Sūtras 3.16",
+   "type": "verse",
+   "voice": "verse",
+   "text": "रङ्गोऽन्तरात्मा।",
+   "directed": "[slowly] रङ्गोऽन्तरात्मा।"
+  },
+  {
+   "id": "b163",
+   "section": "Śiva Sūtras 3.16",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Raṅgo ’ntarātmā.",
+   "directed": "[slowly] Raṅgo ’ntarātmā."
+  },
+  {
+   "id": "b164",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The inner Self is the stage.",
+   "directed": "The inner Self is the stage."
+  },
+  {
+   "id": "b165",
+   "section": "Śiva Sūtras 3.16",
+   "type": "verse",
+   "voice": "verse",
+   "text": "प्रेक्षकाणीन्द्रियाणि।",
+   "directed": "[slowly] प्रेक्षकाणीन्द्रियाणि।"
+  },
+  {
+   "id": "b166",
+   "section": "Śiva Sūtras 3.16",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Prekṣakāṇīndriyāṇi.",
+   "directed": "[slowly] Prekṣakāṇīndriyāṇi."
+  },
+  {
+   "id": "b167",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The senses are the spectators.",
+   "directed": "The senses are the spectators."
+  },
+  {
+   "id": "b168",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Absolutely magnificent.",
+   "directed": "Absolutely magnificent."
+  },
+  {
+   "id": "b169",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And just when it seemed the curtain was coming down, we reached:",
+   "directed": "[short pause] And just when it seemed the curtain was coming down, we reached:"
+  },
+  {
+   "id": "b170",
+   "section": "Śiva Sūtras 3.16",
+   "type": "verse",
+   "voice": "verse",
+   "text": "बीजावधानम्।",
+   "directed": "[slowly] बीजावधानम्।"
+  },
+  {
+   "id": "b171",
+   "section": "Śiva Sūtras 3.16",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Bījāvadhānam.",
+   "directed": "[slowly] Bījāvadhānam."
+  },
+  {
+   "id": "b172",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Attention to the seed.",
+   "directed": "Attention to the seed."
+  },
+  {
+   "id": "b173",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The seed being Parā Śakti, the supreme creative power of consciousness.",
+   "directed": "The seed being Parā Śakti, the supreme creative power of consciousness."
+  },
+  {
+   "id": "b174",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja told us to establish attention there repeatedly.",
+   "directed": "Kṣemarāja told us to establish attention there repeatedly."
+  },
+  {
+   "id": "b175",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Again and again.",
+   "directed": "Again and again."
+  },
+  {
+   "id": "b176",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not because Śiva was missing.",
+   "directed": "Not because Śiva was missing."
+  },
+  {
+   "id": "b177",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But because the practitioner keeps becoming distracted by Śiva’s own performance.",
+   "directed": "But because the practitioner keeps becoming distracted by Śiva’s own performance."
+  },
+  {
+   "id": "b178",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which is, admittedly, a rather good performance.",
+   "directed": "Which is, admittedly, a rather good performance."
+  },
+  {
+   "id": "b179",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now we’re going further.",
+   "directed": "Now we’re going further."
+  },
+  {
+   "id": "b180",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’ve been concentrating on the seed.",
+   "directed": "We’ve been concentrating on the seed."
+  },
+  {
+   "id": "b181",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Vasugupta says that when this concentration matures, something extraordinary happens.",
+   "directed": "And Vasugupta says that when this concentration matures, something extraordinary happens."
+  },
+  {
+   "id": "b182",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You fall into a lake.",
+   "directed": "You fall into a lake."
+  },
+  {
+   "id": "b183",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not a geographical lake.",
+   "directed": "Not a geographical lake."
+  },
+  {
+   "id": "b184",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not Dal Lake, although Kashmir does have a rather beautiful one.",
+   "directed": "Not Dal Lake, although Kashmir does have a rather beautiful one."
+  },
+  {
+   "id": "b185",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Great Lake of Consciousness.",
+   "directed": "The Great Lake of Consciousness."
+  },
+  {
+   "id": "b186",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this time you’re not merely observing it.",
+   "directed": "And this time you’re not merely observing it."
+  },
+  {
+   "id": "b187",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’re going in.",
+   "directed": "You’re going in."
+  },
+  {
+   "id": "b188",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Headfirst.",
+   "directed": "Headfirst."
+  },
+  {
+   "id": "b189",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Metaphysically speaking.",
+   "directed": "Metaphysically speaking."
+  },
+  {
+   "id": "b190",
+   "section": "Śiva Sūtras 3.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s begin.",
+   "directed": "Let’s begin."
+  }
+ ],
+ "totals": {
+  "blocks": 191,
+  "words_per_voice": {
+   "none": 52,
+   "granny": 1306,
+   "verse": 26
+  },
+  "est_min": {
+   "none": 0.3,
+   "granny": 8.7,
+   "verse": 0.2
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

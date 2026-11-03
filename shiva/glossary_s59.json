@@ -1,0 +1,56 @@
+{
+ "japah": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "kalikakrama": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b57"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "katha": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "mahamantra": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b38"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "mudras": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b95"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "vijnanabhairava": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b60"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ }
+}

@@ -1,0 +1,671 @@
+{
+ "title": "Śiva Sūtras 3.4",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 3.4",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 3.4",
+   "directed": "[long pause] Śiva Sūtras 3.4"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 3.4",
+   "type": "verse",
+   "voice": "verse",
+   "text": "शरीरे संहारः कलानाम्",
+   "directed": "[slowly] शरीरे संहारः कलानाम्"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śarīre saṃhāraḥ kalānām.",
+   "directed": "Śarīre saṃhāraḥ kalānām."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In the body, the dissolution of the constituent powers or parts.",
+   "directed": "In the body, the dissolution of the constituent powers or parts."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Right, Time to Uninstall the Universe from Your Body.",
+   "directed": "Right, Time to Uninstall the Universe from Your Body."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’ve arrived at our first major concrete contemplative instruction.",
+   "directed": "We’ve arrived at our first major concrete contemplative instruction."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja explains it using bhāvanā.",
+   "directed": "And Kṣemarāja explains it using bhāvanā."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Creative contemplation.",
+   "directed": "Creative contemplation."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Or more precisely, an intentionally cultivated contemplative apprehension.",
+   "directed": "Or more precisely, an intentionally cultivated contemplative apprehension."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, unlike the sudden recognition characteristic of Śāmbhavopāya, we’re working with structured practices.",
+   "directed": "Now, unlike the sudden recognition characteristic of Śāmbhavopāya, we’re working with structured practices."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The practitioner deliberately employs the mind to transform the way manifestation is understood.",
+   "directed": "The practitioner deliberately employs the mind to transform the way manifestation is understood."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the practice here concerns the dissolution of the principles of manifestation into their sources.",
+   "directed": "And the practice here concerns the dissolution of the principles of manifestation into their sources."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 3.4",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Saṃhāra.",
+   "directed": "[slowly] Saṃhāra."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Withdrawal.",
+   "directed": "Withdrawal."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Reabsorption.",
+   "directed": "Reabsorption."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Dissolution.",
+   "directed": "Dissolution."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Remember the thirty-six tattvas?",
+   "directed": "Remember the thirty-six tattvas?"
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The entire hierarchy extending from Śiva down to earth?",
+   "directed": "The entire hierarchy extending from Śiva down to earth?"
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Well, now we’re moving in reverse.",
+   "directed": "Well, now we’re moving in reverse."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The universe has manifested through successive degrees of differentiation.",
+   "directed": "The universe has manifested through successive degrees of differentiation."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The contemplative process reverses that movement.",
+   "directed": "The contemplative process reverses that movement."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the body becomes the field of practice.",
+   "directed": "And the body becomes the field of practice."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, Kṣemarāja distinguishes three levels of embodiment.",
+   "directed": "Now, Kṣemarāja distinguishes three levels of embodiment."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The gross body, constituted by the gross elements.",
+   "directed": "The gross body, constituted by the gross elements."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The subtle body, including the mental faculties and subtle elements.",
+   "directed": "The subtle body, including the mental faculties and subtle elements."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And a higher causal level, involving subtler conditions of consciousness and vital power extending towards Samanā.",
+   "directed": "And a higher causal level, involving subtler conditions of consciousness and vital power extending towards Samanā."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The practitioner contemplates the progressive dissolution of the manifest principles.",
+   "directed": "The practitioner contemplates the progressive dissolution of the manifest principles."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Earth is reabsorbed into its causal principle.",
+   "directed": "Earth is reabsorbed into its causal principle."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And so on through the hierarchy.",
+   "directed": "And so on through the hierarchy."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The differentiated structures of manifestation are traced back towards their ultimate source.",
+   "directed": "The differentiated structures of manifestation are traced back towards their ultimate source."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the point isn’t merely to memorise the thirty-six tattvas backwards like an exceptionally committed Sanskrit student.",
+   "directed": "But the point isn’t merely to memorise the thirty-six tattvas backwards like an exceptionally committed Sanskrit student."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Although, to be fair, that would be quite impressive.",
+   "directed": "Although, to be fair, that would be quite impressive."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The point is the transformation of how the practitioner understands the relationship between the manifest and its source.",
+   "directed": "The point is the transformation of how the practitioner understands the relationship between the manifest and its source."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Imagine looking at a golden ornament.",
+   "directed": "Imagine looking at a golden ornament."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A bracelet.",
+   "directed": "A bracelet."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You can identify its particular form.",
+   "directed": "You can identify its particular form."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Its weight.",
+   "directed": "Its weight."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Its decoration.",
+   "directed": "Its decoration."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Its shape.",
+   "directed": "Its shape."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But you can also recognise that the bracelet’s existence depends upon the gold.",
+   "directed": "But you can also recognise that the bracelet’s existence depends upon the gold."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The bracelet is not an independent substance standing apart from the gold.",
+   "directed": "The bracelet is not an independent substance standing apart from the gold."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now imagine reversing the process conceptually.",
+   "directed": "Now imagine reversing the process conceptually."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You cease attending to the bracelet as a separate form.",
+   "directed": "You cease attending to the bracelet as a separate form."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You recognise the underlying material reality.",
+   "directed": "You recognise the underlying material reality."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then you consider that the same reality can appear through many different ornaments.",
+   "directed": "Then you consider that the same reality can appear through many different ornaments."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The distinction between the forms remains intelligible.",
+   "directed": "The distinction between the forms remains intelligible."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But their substantial unity becomes apparent.",
+   "directed": "But their substantial unity becomes apparent."
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is only an analogy.",
+   "directed": "This is only an analogy."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The tattva system is far more elaborate, and Śiva is not merely an inert substance underlying objects.",
+   "directed": "The tattva system is far more elaborate, and Śiva is not merely an inert substance underlying objects."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But it illustrates the direction of contemplation.",
+   "directed": "But it illustrates the direction of contemplation."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "From differentiation towards source.",
+   "directed": "From differentiation towards source."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "From appearance towards its ground.",
+   "directed": "From appearance towards its ground."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "From limited identity towards consciousness.",
+   "directed": "From limited identity towards consciousness."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now Kṣemarāja brings in a rather dramatic method.",
+   "directed": "And now Kṣemarāja brings in a rather dramatic method."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The body consumed by fire.",
+   "directed": "The body consumed by fire."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He cites the Vijñānabhairava, which describes contemplating a fire arising from the right foot and burning the body, culminating in the appearance of peaceful divine luminosity.",
+   "directed": "He cites the Vijñānabhairava, which describes contemplating a fire arising from the right foot and burning the body, culminating in the appearance of peaceful divine luminosity."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Yes.",
+   "directed": "[short pause] Yes."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A tantric visualisation of your entire body being incinerated.",
+   "directed": "A tantric visualisation of your entire body being incinerated."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Lovely.",
+   "directed": "[short pause] Lovely."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Very relaxing.",
+   "directed": "Very relaxing."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the fire is imagined within contemplation, not physically applied.",
+   "directed": "But the fire is imagined within contemplation, not physically applied."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nobody needs to set themselves on fire.",
+   "directed": "Nobody needs to set themselves on fire."
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nobody needs to damage the body.",
+   "directed": "Nobody needs to damage the body."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The aim is to dissolve the mental fixation upon the body as the ultimate identity.",
+   "directed": "The aim is to dissolve the mental fixation upon the body as the ultimate identity."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is where the philosophical and practical dimensions meet.",
+   "directed": "And this is where the philosophical and practical dimensions meet."
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ordinarily you perceive:",
+   "directed": "[short pause] Ordinarily you perceive:"
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 3.4",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“I am this organism, situated in this particular place, surrounded by a separate universe.”",
+   "directed": "[short pause] “I am this organism, situated in this particular place, surrounded by a separate universe.”"
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But through the contemplative dissolution of the embodied principles, that identification is progressively loosened.",
+   "directed": "But through the contemplative dissolution of the embodied principles, that identification is progressively loosened."
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The body, subtle faculties and differentiated categories are considered in relation to their source.",
+   "directed": "The body, subtle faculties and differentiated categories are considered in relation to their source."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ultimately, that source is consciousness.",
+   "directed": "Ultimately, that source is consciousness."
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja connects this practice to dhyāna, meditation, and cites the Mālinīvijayatantra on the methods characteristic of Āṇavopāya, including recitation, meditation, phonemic contemplation and visualisation. Sanskrit & Trika Shaivism.",
+   "directed": "Kṣemarāja connects this practice to dhyāna, meditation, and cites the Mālinīvijayatantra on the methods characteristic of Āṇavopāya, including recitation, meditation, phonemic contemplation and visualisation. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The extraordinary point is that you begin with the very structures through which limitation is experienced.",
+   "directed": "The extraordinary point is that you begin with the very structures through which limitation is experienced."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The body.",
+   "directed": "The body."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The mind.",
+   "directed": "The mind."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The elements.",
+   "directed": "The elements."
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And use them to contemplate what exceeds their limitations.",
+   "directed": "And use them to contemplate what exceeds their limitations."
+  },
+  {
+   "id": "b77",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The prison becomes the meditation hall.",
+   "directed": "The prison becomes the meditation hall."
+  },
+  {
+   "id": "b78",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is when the text starts getting into yogic physiology.",
+   "directed": "And this is when the text starts getting into yogic physiology."
+  },
+  {
+   "id": "b79",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because apparently dissolving the universe wasn’t quite enough.",
+   "directed": "Because apparently dissolving the universe wasn’t quite enough."
+  },
+  {
+   "id": "b80",
+   "section": "Śiva Sūtras 3.4",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now we’ve got to deal with the plumbing.",
+   "directed": "Now we’ve got to deal with the plumbing."
+  }
+ ],
+ "totals": {
+  "blocks": 81,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 636,
+   "verse": 4
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 4.2,
+   "verse": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "jayate": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "jivanmukti": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b40"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "sivatulyo": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "turyatita": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b32"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ }
+}

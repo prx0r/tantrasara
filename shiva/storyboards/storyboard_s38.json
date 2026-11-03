@@ -1,0 +1,561 @@
+{
+ "title": "Śiva Sūtras 3.6",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 3.6",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 3.6",
+   "directed": "[long pause] Śiva Sūtras 3.6"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 3.6",
+   "type": "verse",
+   "voice": "verse",
+   "text": "मोहावरणात्सिद्धिः",
+   "directed": "[slowly] मोहावरणात्सिद्धिः"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Mohāvaraṇāt siddhiḥ.",
+   "directed": "Mohāvaraṇāt siddhiḥ."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Supernatural accomplishment arises because of the covering of delusion.",
+   "directed": "Supernatural accomplishment arises because of the covering of delusion."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Congratulations, You’ve Acquired Superpowers. Unfortunately, You’re Still Deluded.",
+   "directed": "Congratulations, You’ve Acquired Superpowers. Unfortunately, You’re Still Deluded."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Oh, this is BRUTAL.",
+   "directed": "Oh, this is BRUTAL."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Absolutely ruthless.",
+   "directed": "Absolutely ruthless."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Imagine you’ve spent twenty years practising yoga.",
+   "directed": "Imagine you’ve spent twenty years practising yoga."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve mastered concentration.",
+   "directed": "You’ve mastered concentration."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve performed elaborate contemplations of the elements.",
+   "directed": "You’ve performed elaborate contemplations of the elements."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve become adept at extraordinary states of absorption.",
+   "directed": "You’ve become adept at extraordinary states of absorption."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And perhaps, within the traditional framework, you’ve acquired unusual siddhis.",
+   "directed": "And perhaps, within the traditional framework, you’ve acquired unusual siddhis."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You arrive before Kṣemarāja.",
+   "directed": "You arrive before Kṣemarāja."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 3.6",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Master, I have attained extraordinary abilities.”",
+   "directed": "[short pause] “Master, I have attained extraordinary abilities.”"
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja replies:",
+   "directed": "[short pause] And Kṣemarāja replies:"
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 3.6",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Very impressive. That’s Māyā.”",
+   "directed": "[short pause] “Very impressive. That’s Māyā.”"
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 3.6",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Sorry?”",
+   "directed": "[short pause] “Sorry?”"
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 3.6",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Delusion, mate.”",
+   "directed": "[short pause] “Delusion, mate.”"
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 3.6",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“But I can do remarkable things!”",
+   "directed": "[short pause] “But I can do remarkable things!”"
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 3.6",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Yes, within the realm of delusion.”",
+   "directed": "[short pause] “Yes, within the realm of delusion.”"
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 3.6",
+   "type": "figure",
+   "voice": "none",
+   "text": "“I CAN LITERALLY—”",
+   "directed": "“I CAN LITERALLY—”"
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 3.6",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Still Māyā.”",
+   "directed": "[short pause] “Still Māyā.”"
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Absolutely devastating.",
+   "directed": "Absolutely devastating."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But philosophically, he’s making a precise distinction.",
+   "directed": "But philosophically, he’s making a precise distinction."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Siddhi — accomplishment, perfection, supernatural power.",
+   "directed": "Siddhi — accomplishment, perfection, supernatural power."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Moha — delusion, bewilderment.",
+   "directed": "Moha — delusion, bewilderment."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Āvaraṇa — covering, concealment.",
+   "directed": "Āvaraṇa — covering, concealment."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the sūtra says that certain extraordinary powers arise within the covering of delusion.",
+   "directed": "And the sūtra says that certain extraordinary powers arise within the covering of delusion."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Why?",
+   "directed": "Why?"
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because the powers described here concern differentiated realities.",
+   "directed": "Because the powers described here concern differentiated realities."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They belong to the manifested domain of experience.",
+   "directed": "They belong to the manifested domain of experience."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the acquisition of unusual abilities within that domain doesn’t necessarily disclose the supreme reality beyond limited subject-object relations.",
+   "directed": "And the acquisition of unusual abilities within that domain doesn’t necessarily disclose the supreme reality beyond limited subject-object relations."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Imagine somebody becomes extraordinarily skilled at lucid dreaming.",
+   "directed": "Imagine somebody becomes extraordinarily skilled at lucid dreaming."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They can manipulate their dream environment.",
+   "directed": "They can manipulate their dream environment."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Change the scenery.",
+   "directed": "Change the scenery."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Fly through the sky.",
+   "directed": "Fly through the sky."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Conjure objects.",
+   "directed": "Conjure objects."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Perform impossible feats.",
+   "directed": "Perform impossible feats."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Wonderful.",
+   "directed": "Wonderful."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But does mastery over the dream automatically mean they’ve awakened from it?",
+   "directed": "But does mastery over the dream automatically mean they’ve awakened from it?"
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not necessarily.",
+   "directed": "Not necessarily."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They may simply have become a very powerful character within the dream.",
+   "directed": "They may simply have become a very powerful character within the dream."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is analogous to Kṣemarāja’s argument.",
+   "directed": "This is analogous to Kṣemarāja’s argument."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The siddhis are not necessarily the same as liberation.",
+   "directed": "The siddhis are not necessarily the same as liberation."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the deeper problem is that the practitioner may mistake control over phenomena for freedom from fundamental ignorance.",
+   "directed": "And the deeper problem is that the practitioner may mistake control over phenomena for freedom from fundamental ignorance."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 3.6",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“I can control this.”",
+   "directed": "[short pause] “I can control this.”"
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 3.6",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“I can manifest that.”",
+   "directed": "[short pause] “I can manifest that.”"
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 3.6",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“I have acquired this power.”",
+   "directed": "[short pause] “I have acquired this power.”"
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Notice that the entire grammar of limited selfhood remains intact.",
+   "directed": "Notice that the entire grammar of limited selfhood remains intact."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A finite subject acquires powers over finite or extraordinary objects.",
+   "directed": "A finite subject acquires powers over finite or extraordinary objects."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The structure of identification has not necessarily changed.",
+   "directed": "The structure of identification has not necessarily changed."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja explicitly differentiates powers obtained through yogic techniques from direct manifestation of the supreme principle.",
+   "directed": "Kṣemarāja explicitly differentiates powers obtained through yogic techniques from direct manifestation of the supreme principle."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But he also makes an important qualification.",
+   "directed": "But he also makes an important qualification."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The same disciplines can contribute to genuine recognition when directed towards their highest aim.",
+   "directed": "The same disciplines can contribute to genuine recognition when directed towards their highest aim."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He cites teachings from the Netratantra describing withdrawal from subtle objects, meditation on supreme consciousness, and the contemplative understanding of one’s identity with Śiva. Sanskrit & Trika Shaivism.",
+   "directed": "He cites teachings from the Netratantra describing withdrawal from subtle objects, meditation on supreme consciousness, and the contemplative understanding of one’s identity with Śiva. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So he’s not rejecting practice.",
+   "directed": "So he’s not rejecting practice."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He’s rejecting a confusion about its purpose.",
+   "directed": "He’s rejecting a confusion about its purpose."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The aim of Āṇavopāya isn’t to become the most impressive individual in the universe.",
+   "directed": "The aim of Āṇavopāya isn’t to become the most impressive individual in the universe."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s to recognise the conscious reality in which individuality itself appears.",
+   "directed": "It’s to recognise the conscious reality in which individuality itself appears."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is the wonderful paradox.",
+   "directed": "And this is the wonderful paradox."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You could acquire the power to perform astonishing feats.",
+   "directed": "You could acquire the power to perform astonishing feats."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And still be bound.",
+   "directed": "And still be bound."
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Or you could have no unusual abilities whatsoever and recognise the nature of awareness.",
+   "directed": "Or you could have no unusual abilities whatsoever and recognise the nature of awareness."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Within this system, the latter is the more fundamental spiritual accomplishment.",
+   "directed": "Within this system, the latter is the more fundamental spiritual accomplishment."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which is a terrible blow to the supernatural entertainment industry.",
+   "directed": "Which is a terrible blow to the supernatural entertainment industry."
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 3.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But excellent news for anyone whose principal skill is sitting quietly and investigating consciousness.",
+   "directed": "But excellent news for anyone whose principal skill is sitting quietly and investigating consciousness."
+  }
+ ],
+ "totals": {
+  "blocks": 67,
+  "words_per_voice": {
+   "none": 4,
+   "granny": 445,
+   "verse": 1,
+   "man": 21
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 3.0,
+   "verse": 0.0,
+   "man": 0.1
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

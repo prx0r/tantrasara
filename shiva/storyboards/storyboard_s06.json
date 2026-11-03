@@ -1,0 +1,319 @@
+{
+ "title": "Śiva Sūtras 1.6",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 1.6",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 1.6",
+   "directed": "[long pause] Śiva Sūtras 1.6"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 1.6",
+   "type": "verse",
+   "voice": "verse",
+   "text": "शक्तिचक्रसन्धाने विश्वसंहारः",
+   "directed": "[slowly] शक्तिचक्रसन्धाने विश्वसंहारः"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 1.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śakticakrasandhāne viśvasaṃhāraḥ.",
+   "directed": "Śakticakrasandhāne viśvasaṃhāraḥ."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 1.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Through union with the circle of powers, the universe is withdrawn.",
+   "directed": "Through union with the circle of powers, the universe is withdrawn."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 1.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Universe Gets Swallowed, but Don’t Worry About the Furniture.",
+   "directed": "The Universe Gets Swallowed, but Don’t Worry About the Furniture."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 1.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Right.",
+   "directed": "[short pause] Right."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 1.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now we’re dissolving universes.",
+   "directed": "Now we’re dissolving universes."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 1.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Six statements in.",
+   "directed": "Six statements in."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 1.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Excellent pace.",
+   "directed": "Excellent pace."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 1.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śakti is power.",
+   "directed": "Śakti is power."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 1.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Cakra is a wheel, circle, or collective.",
+   "directed": "Cakra is a wheel, circle, or collective."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 1.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sandhāna means joining, connecting, or bringing into union.",
+   "directed": "Sandhāna means joining, connecting, or bringing into union."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 1.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Viśvasaṃhāra is the withdrawal or dissolution of the universe.",
+   "directed": "Viśvasaṃhāra is the withdrawal or dissolution of the universe."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 1.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But we’re not saying the advanced yogi sits in his bedroom and Jupiter physically disappears.",
+   "directed": "But we’re not saying the advanced yogi sits in his bedroom and Jupiter physically disappears."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 1.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Rather, Kṣemarāja is explaining the withdrawal of differentiated manifestation into its conscious source.",
+   "directed": "Rather, Kṣemarāja is explaining the withdrawal of differentiated manifestation into its conscious source."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 1.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Consider all the powers constituting your experience.",
+   "directed": "Consider all the powers constituting your experience."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 1.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Seeing.",
+   "directed": "Seeing."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 1.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Hearing.",
+   "directed": "Hearing."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 1.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Thinking.",
+   "directed": "Thinking."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 1.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Remembering.",
+   "directed": "Remembering."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 1.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Imagining.",
+   "directed": "Imagining."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 1.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Desiring.",
+   "directed": "Desiring."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 1.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Each appears as a distinct activity.",
+   "directed": "Each appears as a distinct activity."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 1.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ordinarily, attention follows these activities outward, towards their objects.",
+   "directed": "Ordinarily, attention follows these activities outward, towards their objects."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 1.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But what happens when consciousness recognises the shared reality of these powers?",
+   "directed": "But what happens when consciousness recognises the shared reality of these powers?"
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 1.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The apparent separateness of their manifestations is reabsorbed into the unity from which they arise.",
+   "directed": "The apparent separateness of their manifestations is reabsorbed into the unity from which they arise."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 1.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The universe is no longer experienced as something independent of the conscious reality manifesting it.",
+   "directed": "The universe is no longer experienced as something independent of the conscious reality manifesting it."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 1.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is saṃhāra — withdrawal.",
+   "directed": "This is saṃhāra — withdrawal."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 1.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And it’s inseparable from manifestation.",
+   "directed": "And it’s inseparable from manifestation."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 1.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śiva expresses the universe through Śakti.",
+   "directed": "Śiva expresses the universe through Śakti."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 1.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śiva withdraws the universe through Śakti.",
+   "directed": "Śiva withdraws the universe through Śakti."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 1.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s not a one-way escape from a terrible material world.",
+   "directed": "It’s not a one-way escape from a terrible material world."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 1.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s a dynamic movement of manifestation and reabsorption within consciousness itself.",
+   "directed": "It’s a dynamic movement of manifestation and reabsorption within consciousness itself."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 1.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Like a wave discovering that it was never separate from the ocean.",
+   "directed": "Like a wave discovering that it was never separate from the ocean."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 1.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Except the ocean is conscious, infinitely free, and has been pretending to be every single wave.",
+   "directed": "Except the ocean is conscious, infinitely free, and has been pretending to be every single wave."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 1.6",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which is quite the hobby.",
+   "directed": "Which is quite the hobby."
+  }
+ ],
+ "totals": {
+  "blocks": 37,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 237,
+   "verse": 2
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 1.6,
+   "verse": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

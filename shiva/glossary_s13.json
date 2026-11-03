@@ -1,0 +1,74 @@
+{
+ "atma": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b33"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "iccha": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b20"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "icchasakti": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b8"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "icchasaktir": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "jnana": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b21"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "kriya": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b22"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "kumari": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "sakti": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b19"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ }
+}

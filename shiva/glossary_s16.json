@@ -1,0 +1,83 @@
+{
+ "non-siva": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b30"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "paramasiva": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b23"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "pasa": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b11"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "pasu": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b7"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "pasutva": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b28"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "saiva": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b8"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "suddhatattvasandhana": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b23"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "suddhatattvasandhanad": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "vapasusaktih": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ }
+}

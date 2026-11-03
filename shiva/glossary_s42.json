@@ -1,0 +1,65 @@
+{
+ "anavopaya": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b67"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "antaratman": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b23"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "atma": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b72"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "ntaratma": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "puryastaka": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b26"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "rango": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "saivism": {
+  "deva": "",
+  "gloss": "the audience is going to be something completely unexpected",
+  "status": "proposed",
+  "cue_blocks": [
+   "b79"
+  ],
+  "note": "appositive-mined, confirm"
+ }
+}

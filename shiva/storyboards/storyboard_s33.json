@@ -1,0 +1,1265 @@
+{
+ "title": "Śiva Sūtras 3.1",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 3.1",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 3.1",
+   "directed": "[long pause] Śiva Sūtras 3.1"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 3.1",
+   "type": "verse",
+   "voice": "verse",
+   "text": "आत्मा चित्तम्",
+   "directed": "[slowly] आत्मा चित्तम्"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ātmā cittam.",
+   "directed": "Ātmā cittam."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Self is mind.",
+   "directed": "The Self is mind."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Congratulations, You’re a Mind Now. Quite the Demotion.",
+   "directed": "Congratulations, You’re a Mind Now. Quite the Demotion."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 3.1",
+   "type": "figure",
+   "voice": "none",
+   "text": "EXCUSE ME?",
+   "directed": "EXCUSE ME?"
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vasugupta.",
+   "directed": "Vasugupta."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "My friend.",
+   "directed": "My friend."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "My brother in Bhairava.",
+   "directed": "My brother in Bhairava."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 3.1",
+   "type": "figure",
+   "voice": "none",
+   "text": "WHAT?",
+   "directed": "WHAT?"
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The first sūtra of the entire text was:",
+   "directed": "[short pause] The first sūtra of the entire text was:"
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 3.1",
+   "type": "verse",
+   "voice": "verse",
+   "text": "चैतन्यमात्मा।",
+   "directed": "[slowly] चैतन्यमात्मा।"
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Caitanyam ātmā.",
+   "directed": "Caitanyam ātmā."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Consciousness is the Self.",
+   "directed": "Consciousness is the Self."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’ve spent thirty-two sūtras establishing the supreme identity of consciousness.",
+   "directed": "We’ve spent thirty-two sūtras establishing the supreme identity of consciousness."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now you’ve changed your bloody mind?",
+   "directed": "And now you’ve changed your bloody mind?"
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ātmā cittam.",
+   "directed": "Ātmā cittam."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Self is mind.",
+   "directed": "The Self is mind."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Well, which is it?",
+   "directed": "Well, which is it?"
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Are we infinite consciousness, or are we a bundle of thoughts wandering around worrying about the price of vegetables?",
+   "directed": "Are we infinite consciousness, or are we a bundle of thoughts wandering around worrying about the price of vegetables?"
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Fortunately, Kṣemarāja anticipated this objection.",
+   "directed": "Fortunately, Kṣemarāja anticipated this objection."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And his explanation is absolutely crucial.",
+   "directed": "And his explanation is absolutely crucial."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He’s not contradicting the first book.",
+   "directed": "He’s not contradicting the first book."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He’s changing the standpoint.",
+   "directed": "He’s changing the standpoint."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In the first book, we considered the true nature of the Self.",
+   "directed": "In the first book, we considered the true nature of the Self."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In this book, we consider the Self as it appears in the contracted condition of individuality.",
+   "directed": "In this book, we consider the Self as it appears in the contracted condition of individuality."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That’s the distinction.",
+   "directed": "That’s the distinction."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s break down the Sanskrit.",
+   "directed": "Let’s break down the Sanskrit."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ātman — Self.",
+   "directed": "Ātman — Self."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Citta — mind, mental consciousness.",
+   "directed": "Citta — mind, mental consciousness."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But Kṣemarāja is very specific about citta.",
+   "directed": "But Kṣemarāja is very specific about citta."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Here it encompasses the antaḥkaraṇa, the internal instrument of cognition.",
+   "directed": "Here it encompasses the antaḥkaraṇa, the internal instrument of cognition."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that instrument consists of three major functions.",
+   "directed": "And that instrument consists of three major functions."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Buddhi — determining intelligence.",
+   "directed": "Buddhi — determining intelligence."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The faculty that makes judgements.",
+   "directed": "The faculty that makes judgements."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 3.1",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“This is a tree.”",
+   "directed": "[short pause] “This is a tree.”"
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 3.1",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“That is a dog.”",
+   "directed": "[short pause] “That is a dog.”"
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 3.1",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“That person is being unreasonable.”",
+   "directed": "[short pause] “That person is being unreasonable.”"
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ahaṃkāra — the ego-making or I-making principle.",
+   "directed": "Ahaṃkāra — the ego-making or I-making principle."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The faculty of appropriation.",
+   "directed": "The faculty of appropriation."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 3.1",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“This is MY tree.”",
+   "directed": "[short pause] “This is MY tree.”"
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 3.1",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“That is MY dog.”",
+   "directed": "[short pause] “That is MY dog.”"
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 3.1",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“That person has insulted ME.”",
+   "directed": "[short pause] “That person has insulted ME.”"
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Manas — the ordinary mind.",
+   "directed": "Manas — the ordinary mind."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The faculty of mental construction, fluctuation, and engagement with sensory objects.",
+   "directed": "The faculty of mental construction, fluctuation, and engagement with sensory objects."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 3.1",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“What shall I do about this?”",
+   "directed": "[short pause] “What shall I do about this?”"
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 3.1",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“What if the tree falls?”",
+   "directed": "[short pause] “What if the tree falls?”"
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 3.1",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“What if the dog doesn’t like me?”",
+   "directed": "[short pause] “What if the dog doesn’t like me?”"
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 3.1",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“What if everybody secretly hates me?”",
+   "directed": "[short pause] “What if everybody secretly hates me?”"
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And suddenly we’ve got the entire human predicament.",
+   "directed": "And suddenly we’ve got the entire human predicament."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Buddhi identifies the object.",
+   "directed": "Buddhi identifies the object."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ahaṃkāra appropriates the experience.",
+   "directed": "Ahaṃkāra appropriates the experience."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Manas starts producing a twelve-part Netflix documentary about it.",
+   "directed": "Manas starts producing a twelve-part Netflix documentary about it."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the whole thing takes place within consciousness.",
+   "directed": "And the whole thing takes place within consciousness."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But because consciousness has contracted into identification with this mental apparatus, the limited individual experiences:",
+   "directed": "[short pause] But because consciousness has contracted into identification with this mental apparatus, the limited individual experiences:"
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "I am this mind.",
+   "directed": "I am this mind."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not:",
+   "directed": "[short pause] Not:"
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 3.1",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“I am the universal consciousness in which these mental activities manifest.”",
+   "directed": "[short pause] “I am the universal consciousness in which these mental activities manifest.”"
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Just:",
+   "directed": "[short pause] Just:"
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 3.1",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“I am this collection of thoughts, desires, judgements and personal history.”",
+   "directed": "[short pause] “I am this collection of thoughts, desires, judgements and personal history.”"
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that’s the condition of the aṇu.",
+   "directed": "And that’s the condition of the aṇu."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The little one.",
+   "directed": "The little one."
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The apparently finite individual.",
+   "directed": "The apparently finite individual."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But here’s the extraordinarily important move.",
+   "directed": "But here’s the extraordinarily important move."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja says the Self doesn’t genuinely become a different ultimate substance.",
+   "directed": "Kṣemarāja says the Self doesn’t genuinely become a different ultimate substance."
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In its true nature, it remains consciousness.",
+   "directed": "In its true nature, it remains consciousness."
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Its identification with citta belongs to its āṇavadaśā — the condition of limitation.",
+   "directed": "Its identification with citta belongs to its āṇavadaśā — the condition of limitation."
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So there’s no actual contradiction between:",
+   "directed": "[short pause] So there’s no actual contradiction between:"
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Caitanyam ātmā.",
+   "directed": "Caitanyam ātmā."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And:",
+   "directed": "[short pause] And:"
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ātmā cittam.",
+   "directed": "Ātmā cittam."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The first describes the Self in its fundamental nature.",
+   "directed": "The first describes the Self in its fundamental nature."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The second describes the Self under the condition of contraction.",
+   "directed": "The second describes the Self under the condition of contraction."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now think about what that means.",
+   "directed": "Now think about what that means."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The individual isn’t some metaphysical mistake that exists outside Śiva.",
+   "directed": "The individual isn’t some metaphysical mistake that exists outside Śiva."
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Individuality is itself a manifestation within Śiva’s consciousness.",
+   "directed": "Individuality is itself a manifestation within Śiva’s consciousness."
+  },
+  {
+   "id": "b77",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The limitation is real as an experienced condition, but it does not establish an ultimately independent second reality.",
+   "directed": "The limitation is real as an experienced condition, but it does not establish an ultimately independent second reality."
+  },
+  {
+   "id": "b78",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The infinite has become involved in its own finite appearance.",
+   "directed": "The infinite has become involved in its own finite appearance."
+  },
+  {
+   "id": "b79",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is why saṃkoca, contraction, is so important in Trika.",
+   "directed": "And this is why saṃkoca, contraction, is so important in Trika."
+  },
+  {
+   "id": "b80",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Consciousness hasn’t been physically compressed into a tiny container.",
+   "directed": "Consciousness hasn’t been physically compressed into a tiny container."
+  },
+  {
+   "id": "b81",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s not as though somebody took an infinitely large Śiva, shoved him into a human skull, and slammed the lid.",
+   "directed": "It’s not as though somebody took an infinitely large Śiva, shoved him into a human skull, and slammed the lid."
+  },
+  {
+   "id": "b82",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Rather, the conscious subject appears under the conditions of limited knowing and agency.",
+   "directed": "Rather, the conscious subject appears under the conditions of limited knowing and agency."
+  },
+  {
+   "id": "b83",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Like an actor becoming completely absorbed in a character.",
+   "directed": "Like an actor becoming completely absorbed in a character."
+  },
+  {
+   "id": "b84",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The actor doesn’t cease to be the actor.",
+   "directed": "The actor doesn’t cease to be the actor."
+  },
+  {
+   "id": "b85",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But from within the performance, the character’s world becomes the apparent horizon of experience.",
+   "directed": "But from within the performance, the character’s world becomes the apparent horizon of experience."
+  },
+  {
+   "id": "b86",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the tragedy begins when the actor forgets the distinction.",
+   "directed": "And the tragedy begins when the actor forgets the distinction."
+  },
+  {
+   "id": "b87",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja explicitly states that there is no ultimate wandering of the Self, whose nature remains consciousness. The appearance of transmigration belongs to its contracted identification with the mental apparatus. Sanskrit & Trika Shaivism.",
+   "directed": "Kṣemarāja explicitly states that there is no ultimate wandering of the Self, whose nature remains consciousness. The appearance of transmigration belongs to its contracted identification with the mental apparatus. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b88",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The philosophical revelation: Your ordinary selfhood is not the complete truth of what you are. But neither is it something standing outside consciousness. It is consciousness appearing under conditions of limitation.",
+   "directed": "The philosophical revelation: Your ordinary selfhood is not the complete truth of what you are. But neither is it something standing outside consciousness. It is consciousness appearing under conditions of limitation."
+  },
+  {
+   "id": "b89",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now we know who our protagonist is.",
+   "directed": "And now we know who our protagonist is."
+  },
+  {
+   "id": "b90",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śiva.",
+   "directed": "Śiva."
+  },
+  {
+   "id": "b91",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Playing a person.",
+   "directed": "Playing a person."
+  },
+  {
+   "id": "b92",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Who thinks he’s a mind.",
+   "directed": "Who thinks he’s a mind."
+  },
+  {
+   "id": "b93",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And is about to become terribly confused.",
+   "directed": "And is about to become terribly confused."
+  },
+  {
+   "id": "b94",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Textual note: The ten Sanskrit sūtras are attested in the standard 77-sūtra recension. The explanatory reading follows Kṣemarāja’s Śivasūtravimarśinī, especially his distinctions concerning mantra, limited siddhis, Khecarī, Mātṛkā and the subsidence of pure knowledge. Traditional supernatural and cosmological claims have been presented as the tradition’s claims, not verified physical phenomena. The humorous narration is original rather than a quotation of Kṣemarāja.",
+   "directed": "Textual note: The ten Sanskrit sūtras are attested in the standard 77-sūtra recension. The explanatory reading follows Kṣemarāja’s Śivasūtravimarśinī, especially his distinctions concerning mantra, limited siddhis, Khecarī, Mātṛkā and the subsidence of pure knowledge. Traditional supernatural and cosmological claims have been presented as the tradition’s claims, not verified physical phenomena. The humorous narration is original rather than a quotation of Kṣemarāja."
+  },
+  {
+   "id": "b95",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Next comes the longest and most extraordinary part of the text.",
+   "directed": "Next comes the longest and most extraordinary part of the text."
+  },
+  {
+   "id": "b96",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Book III — Āṇavopāya\nForty-five sūtras.",
+   "directed": "Book III — Āṇavopāya\nForty-five sūtras."
+  },
+  {
+   "id": "b97",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The limited individual, the return of bondage, the construction of experience, the role of the senses, the breath, embodiment, liberation in daily life, and one of the most beautiful sequences in all Kashmir Śaivism:",
+   "directed": "[short pause] The limited individual, the return of bondage, the construction of experience, the role of the senses, the breath, embodiment, liberation in daily life, and one of the most beautiful sequences in all Kashmir Śaivism:"
+  },
+  {
+   "id": "b98",
+   "section": "Śiva Sūtras 3.1",
+   "type": "verse",
+   "voice": "verse",
+   "text": "नर्तक आत्मा।",
+   "directed": "[slowly] नर्तक आत्मा।"
+  },
+  {
+   "id": "b99",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nartaka ātmā.",
+   "directed": "Nartaka ātmā."
+  },
+  {
+   "id": "b100",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Self is the dancer.",
+   "directed": "The Self is the dancer."
+  },
+  {
+   "id": "b101",
+   "section": "Śiva Sūtras 3.1",
+   "type": "verse",
+   "voice": "verse",
+   "text": "रङ्गोऽन्तरात्मा।.",
+   "directed": "[slowly] रङ्गोऽन्तरात्मा।."
+  },
+  {
+   "id": "b102",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Raṅgo ’ntarātmā.",
+   "directed": "Raṅgo ’ntarātmā."
+  },
+  {
+   "id": "b103",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The inner Self is the stage.",
+   "directed": "The inner Self is the stage."
+  },
+  {
+   "id": "b104",
+   "section": "Śiva Sūtras 3.1",
+   "type": "verse",
+   "voice": "verse",
+   "text": "प्रेक्षकाणीन्द्रियाणि।.",
+   "directed": "[slowly] प्रेक्षकाणीन्द्रियाणि।."
+  },
+  {
+   "id": "b105",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Prekṣakāṇīndriyāṇi.",
+   "directed": "Prekṣakāṇīndriyāṇi."
+  },
+  {
+   "id": "b106",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The senses are the spectators.",
+   "directed": "The senses are the spectators."
+  },
+  {
+   "id": "b107",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which means that after two books of studying the metaphysical nature of consciousness, Vasugupta is about to explain that the entire business of being alive is essentially Śiva putting on a theatrical production for himself.",
+   "directed": "Which means that after two books of studying the metaphysical nature of consciousness, Vasugupta is about to explain that the entire business of being alive is essentially Śiva putting on a theatrical production for himself."
+  },
+  {
+   "id": "b108",
+   "section": "Śiva Sūtras 3.1",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And you’ve been taking your role rather seriously.",
+   "directed": "And you’ve been taking your role rather seriously."
+  },
+  {
+   "id": "b109",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "title",
+   "voice": "granny",
+   "text": "BOOK III — ĀṆAVOPĀYA",
+   "directed": "[long pause] BOOK III — ĀṆAVOPĀYA"
+  },
+  {
+   "id": "b110",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Previously, on the Śiva Sūtras…\nRight.",
+   "directed": "Previously, on the Śiva Sūtras…\nRight."
+  },
+  {
+   "id": "b111",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’ve survived two books.",
+   "directed": "We’ve survived two books."
+  },
+  {
+   "id": "b112",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In Book I, Vasugupta told us that consciousness is the Self, the universe is the body of Śiva, and reality is an extraordinary expression of divine freedom.",
+   "directed": "In Book I, Vasugupta told us that consciousness is the Self, the universe is the body of Śiva, and reality is an extraordinary expression of divine freedom."
+  },
+  {
+   "id": "b113",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Beautiful.",
+   "directed": "Beautiful."
+  },
+  {
+   "id": "b114",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In Book II, we discovered that the mind can become mantra, the Sanskrit alphabet is a manifestation of Śakti, knowledge is food, and apparently the entire human body is a sacrificial offering.",
+   "directed": "In Book II, we discovered that the mind can become mantra, the Sanskrit alphabet is a manifestation of Śakti, knowledge is food, and apparently the entire human body is a sacrificial offering."
+  },
+  {
+   "id": "b115",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Also beautiful.",
+   "directed": "Also beautiful."
+  },
+  {
+   "id": "b116",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Slightly concerning, but beautiful.",
+   "directed": "Slightly concerning, but beautiful."
+  },
+  {
+   "id": "b117",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now we’ve arrived at Book III.",
+   "directed": "And now we’ve arrived at Book III."
+  },
+  {
+   "id": "b118",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Āṇavopāya.",
+   "directed": "[slowly] Āṇavopāya."
+  },
+  {
+   "id": "b119",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The means belonging to the aṇu.",
+   "directed": "The means belonging to the aṇu."
+  },
+  {
+   "id": "b120",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The limited individual.",
+   "directed": "The limited individual."
+  },
+  {
+   "id": "b121",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is where things get really interesting.",
+   "directed": "And this is where things get really interesting."
+  },
+  {
+   "id": "b122",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because thus far, we’ve been considering recognition from relatively exalted standpoints.",
+   "directed": "Because thus far, we’ve been considering recognition from relatively exalted standpoints."
+  },
+  {
+   "id": "b123",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śāmbhavopāya — the way associated with Śiva’s immediate power of will.",
+   "directed": "Śāmbhavopāya — the way associated with Śiva’s immediate power of will."
+  },
+  {
+   "id": "b124",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śāktopāya — the way associated with the transformative power of knowledge.",
+   "directed": "Śāktopāya — the way associated with the transformative power of knowledge."
+  },
+  {
+   "id": "b125",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But now Vasugupta has decided to address a rather awkward situation.",
+   "directed": "But now Vasugupta has decided to address a rather awkward situation."
+  },
+  {
+   "id": "b126",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "What if you’re not a supreme yogi?",
+   "directed": "What if you’re not a supreme yogi?"
+  },
+  {
+   "id": "b127",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "What if the spontaneous recognition of Bhairava doesn’t arise?",
+   "directed": "What if the spontaneous recognition of Bhairava doesn’t arise?"
+  },
+  {
+   "id": "b128",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "What if you’ve read an entire book about the divine potency of mantra, but the moment somebody speaks rudely to you, you become a furious little monkey again?",
+   "directed": "What if you’ve read an entire book about the divine potency of mantra, but the moment somebody speaks rudely to you, you become a furious little monkey again?"
+  },
+  {
+   "id": "b129",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "What if you understand svātantrya intellectually, but your actual daily experience consists mainly of confusion, desire, frustration, and checking whether somebody has replied to your messages?",
+   "directed": "What if you understand svātantrya intellectually, but your actual daily experience consists mainly of confusion, desire, frustration, and checking whether somebody has replied to your messages?"
+  },
+  {
+   "id": "b130",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Well.",
+   "directed": "Well."
+  },
+  {
+   "id": "b131",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Congratulations.",
+   "directed": "Congratulations."
+  },
+  {
+   "id": "b132",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You are the target audience.",
+   "directed": "You are the target audience."
+  },
+  {
+   "id": "b133",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Āṇavopāya begins with the limited perspective and employs more definite supports: contemplation, breath, concentration, bodily practices, the senses, and the transformation of ordinary experience.",
+   "directed": "Āṇavopāya begins with the limited perspective and employs more definite supports: contemplation, breath, concentration, bodily practices, the senses, and the transformation of ordinary experience."
+  },
+  {
+   "id": "b134",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But don’t mistake this for a completely different philosophy.",
+   "directed": "But don’t mistake this for a completely different philosophy."
+  },
+  {
+   "id": "b135",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re not abandoning nonduality.",
+   "directed": "We’re not abandoning nonduality."
+  },
+  {
+   "id": "b136",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re asking how the individual who experiences limitation can begin to recognise the freedom that was always their deepest nature.",
+   "directed": "We’re asking how the individual who experiences limitation can begin to recognise the freedom that was always their deepest nature."
+  },
+  {
+   "id": "b137",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja is going to give us an extraordinary explanation.",
+   "directed": "And Kṣemarāja is going to give us an extraordinary explanation."
+  },
+  {
+   "id": "b138",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The individual mind.",
+   "directed": "The individual mind."
+  },
+  {
+   "id": "b139",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The thirty-six tattvas.",
+   "directed": "The thirty-six tattvas."
+  },
+  {
+   "id": "b140",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The five limiting powers.",
+   "directed": "The five limiting powers."
+  },
+  {
+   "id": "b141",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The dissolution of the cosmos within the body.",
+   "directed": "The dissolution of the cosmos within the body."
+  },
+  {
+   "id": "b142",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Subtle channels and extraordinary yogic claims.",
+   "directed": "Subtle channels and extraordinary yogic claims."
+  },
+  {
+   "id": "b143",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The world as the radiance of consciousness.",
+   "directed": "The world as the radiance of consciousness."
+  },
+  {
+   "id": "b144",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And then, perhaps most beautifully of all, the entire universe as a theatrical performance.",
+   "directed": "And then, perhaps most beautifully of all, the entire universe as a theatrical performance."
+  },
+  {
+   "id": "b145",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śiva the actor.",
+   "directed": "Śiva the actor."
+  },
+  {
+   "id": "b146",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The subtle body the stage.",
+   "directed": "The subtle body the stage."
+  },
+  {
+   "id": "b147",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The senses the audience.",
+   "directed": "The senses the audience."
+  },
+  {
+   "id": "b148",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And a cosmic drama in which the actor has become so absorbed in the role that he’s forgotten he’s the one performing it.",
+   "directed": "And a cosmic drama in which the actor has become so absorbed in the role that he’s forgotten he’s the one performing it."
+  },
+  {
+   "id": "b149",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Absolutely magnificent.",
+   "directed": "Absolutely magnificent."
+  },
+  {
+   "id": "b150",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "One textual point before the curtain rises: we’re following Kṣemarāja’s 45-sūtra third section, making 77 sūtras overall. Another recension inserts Visargasvābhāvyād abahiḥsthites tatsthitiḥ before Bījāvadhānam, resulting in 46 sūtras in this section. We’ll stay with the 45-sūtra sequence so the numbering remains consistent.",
+   "directed": "One textual point before the curtain rises: we’re following Kṣemarāja’s 45-sūtra third section, making 77 sūtras overall. Another recension inserts Visargasvābhāvyād abahiḥsthites tatsthitiḥ before Bījāvadhānam, resulting in 46 sūtras in this section. We’ll stay with the 45-sūtra sequence so the numbering remains consistent."
+  },
+  {
+   "id": "b151",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now then.",
+   "directed": "Now then."
+  },
+  {
+   "id": "b152",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Lights down.",
+   "directed": "Lights down."
+  },
+  {
+   "id": "b153",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Curtain up.",
+   "directed": "Curtain up."
+  },
+  {
+   "id": "b154",
+   "section": "BOOK III — ĀṆAVOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Lord of the Universe is about to explain why you think you’re a person.",
+   "directed": "The Lord of the Universe is about to explain why you think you’re a person."
+  }
+ ],
+ "totals": {
+  "blocks": 155,
+  "words_per_voice": {
+   "none": 4,
+   "granny": 1252,
+   "verse": 8,
+   "man": 13
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 8.3,
+   "verse": 0.1,
+   "man": 0.1
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

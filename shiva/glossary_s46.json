@@ -1,0 +1,47 @@
+{
+ "sakti": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b69"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "spandakarika": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b55"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "tatha": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b12"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "tathanyatra": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "yatha": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ }
+}

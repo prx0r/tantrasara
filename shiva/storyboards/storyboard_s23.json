@@ -1,0 +1,983 @@
+{
+ "title": "Śiva Sūtras 2.1",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 2.1",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 2.1",
+   "directed": "[long pause] Śiva Sūtras 2.1"
+  },
+  {
+   "id": "b2",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "title",
+   "voice": "granny",
+   "text": "BOOK II — ŚĀKTOPĀYA",
+   "directed": "[long pause] BOOK II — ŚĀKTOPĀYA"
+  },
+  {
+   "id": "b3",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "verse",
+   "voice": "verse",
+   "text": "चित्तं मन्त्रः",
+   "directed": "[slowly] चित्तं मन्त्रः"
+  },
+  {
+   "id": "b4",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Cittaṃ mantraḥ.",
+   "directed": "Cittaṃ mantraḥ."
+  },
+  {
+   "id": "b5",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The mind is mantra.",
+   "directed": "The mind is mantra."
+  },
+  {
+   "id": "b6",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Congratulations, Your Mind Is Now a Mantra.",
+   "directed": "Congratulations, Your Mind Is Now a Mantra."
+  },
+  {
+   "id": "b7",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ladies and gentlemen.",
+   "directed": "Ladies and gentlemen."
+  },
+  {
+   "id": "b8",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He’s done it again.",
+   "directed": "He’s done it again."
+  },
+  {
+   "id": "b9",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Two words.",
+   "directed": "Two words."
+  },
+  {
+   "id": "b10",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Two bloody words.",
+   "directed": "Two bloody words."
+  },
+  {
+   "id": "b11",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the entire philosophy of mantra has just been turned upside down.",
+   "directed": "And the entire philosophy of mantra has just been turned upside down."
+  },
+  {
+   "id": "b12",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Cittaṃ mantraḥ.",
+   "directed": "[slowly] Cittaṃ mantraḥ."
+  },
+  {
+   "id": "b13",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The mind is mantra.",
+   "directed": "The mind is mantra."
+  },
+  {
+   "id": "b14",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, hang on.",
+   "directed": "Now, hang on."
+  },
+  {
+   "id": "b15",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Didn’t we just spend the entire first book explaining that ordinary cognition produces bondage?",
+   "directed": "Didn’t we just spend the entire first book explaining that ordinary cognition produces bondage?"
+  },
+  {
+   "id": "b16",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Wasn’t differentiated knowledge responsible for the whole miserable business of individual limitation?",
+   "directed": "Wasn’t differentiated knowledge responsible for the whole miserable business of individual limitation?"
+  },
+  {
+   "id": "b17",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now we’re being told that the mind is a sacred instrument of liberation?",
+   "directed": "And now we’re being told that the mind is a sacred instrument of liberation?"
+  },
+  {
+   "id": "b18",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "What’s going on?",
+   "directed": "What’s going on?"
+  },
+  {
+   "id": "b19",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Has Vasugupta forgotten what he wrote?",
+   "directed": "Has Vasugupta forgotten what he wrote?"
+  },
+  {
+   "id": "b20",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Has the manuscript been assembled in the wrong order?",
+   "directed": "Has the manuscript been assembled in the wrong order?"
+  },
+  {
+   "id": "b21",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Is Śiva having an administrative disagreement with himself?",
+   "directed": "Is Śiva having an administrative disagreement with himself?"
+  },
+  {
+   "id": "b22",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "No.",
+   "directed": "No."
+  },
+  {
+   "id": "b23",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is the central brilliance of Śāktopāya.",
+   "directed": "This is the central brilliance of Śāktopāya."
+  },
+  {
+   "id": "b24",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The same consciousness that appears contracted into ordinary mental activity can be recognised in its divine nature.",
+   "directed": "The same consciousness that appears contracted into ordinary mental activity can be recognised in its divine nature."
+  },
+  {
+   "id": "b25",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But Kṣemarāja immediately makes an important qualification.",
+   "directed": "But Kṣemarāja immediately makes an important qualification."
+  },
+  {
+   "id": "b26",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He isn’t saying every random mental fluctuation automatically functions as a liberating mantra.",
+   "directed": "He isn’t saying every random mental fluctuation automatically functions as a liberating mantra."
+  },
+  {
+   "id": "b27",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Your thoughts about what to eat for dinner are not necessarily the supreme mantra.",
+   "directed": "Your thoughts about what to eat for dinner are not necessarily the supreme mantra."
+  },
+  {
+   "id": "b28",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Neither is mentally rehearsing a conversation in which you absolutely destroy somebody who disagreed with you three years ago.",
+   "directed": "Neither is mentally rehearsing a conversation in which you absolutely destroy somebody who disagreed with you three years ago."
+  },
+  {
+   "id": "b29",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Although, admittedly, that can feel rather powerful.",
+   "directed": "Although, admittedly, that can feel rather powerful."
+  },
+  {
+   "id": "b30",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The relevant citta is consciousness actively engaged in contemplating the supreme reality.",
+   "directed": "The relevant citta is consciousness actively engaged in contemplating the supreme reality."
+  },
+  {
+   "id": "b31",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s take the Sanskrit apart.",
+   "directed": "Let’s take the Sanskrit apart."
+  },
+  {
+   "id": "b32",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Cit — consciousness, awareness.",
+   "directed": "Cit — consciousness, awareness."
+  },
+  {
+   "id": "b33",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Citta — mind or mental consciousness, particularly in its active, modified condition.",
+   "directed": "Citta — mind or mental consciousness, particularly in its active, modified condition."
+  },
+  {
+   "id": "b34",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Mantra — a sacred formula, but also understood traditionally through the acts of contemplation and protection.",
+   "directed": "Mantra — a sacred formula, but also understood traditionally through the acts of contemplation and protection."
+  },
+  {
+   "id": "b35",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja gives a characteristic tantric explanation connecting mantra with:",
+   "directed": "[short pause] Kṣemarāja gives a characteristic tantric explanation connecting mantra with:"
+  },
+  {
+   "id": "b36",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Manana — inward contemplation.",
+   "directed": "Manana — inward contemplation."
+  },
+  {
+   "id": "b37",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Trāṇa — protection or deliverance.",
+   "directed": "Trāṇa — protection or deliverance."
+  },
+  {
+   "id": "b38",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is a traditional interpretive derivation, not a claim that the two words mechanically combine according to ordinary Sanskrit morphology.",
+   "directed": "This is a traditional interpretive derivation, not a claim that the two words mechanically combine according to ordinary Sanskrit morphology."
+  },
+  {
+   "id": "b39",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the philosophical meaning is fantastic.",
+   "directed": "But the philosophical meaning is fantastic."
+  },
+  {
+   "id": "b40",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The mantra is that through which contemplation becomes liberating.",
+   "directed": "The mantra is that through which contemplation becomes liberating."
+  },
+  {
+   "id": "b41",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Liberating from what?",
+   "directed": "Liberating from what?"
+  },
+  {
+   "id": "b42",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "From the fundamental misidentification that makes you experience yourself as a finite subject surrounded by an entirely separate world.",
+   "directed": "From the fundamental misidentification that makes you experience yourself as a finite subject surrounded by an entirely separate world."
+  },
+  {
+   "id": "b43",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Here’s the really important bit.",
+   "directed": "Here’s the really important bit."
+  },
+  {
+   "id": "b44",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja insists that the efficacy of mantra does not ultimately reside in an arrangement of letters considered separately from consciousness.",
+   "directed": "Kṣemarāja insists that the efficacy of mantra does not ultimately reside in an arrangement of letters considered separately from consciousness."
+  },
+  {
+   "id": "b45",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The living power of mantra is realised through identification with the conscious reality of its deity.",
+   "directed": "The living power of mantra is realised through identification with the conscious reality of its deity."
+  },
+  {
+   "id": "b46",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is an absolutely enormous claim.",
+   "directed": "And this is an absolutely enormous claim."
+  },
+  {
+   "id": "b47",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Imagine chanting:",
+   "directed": "[short pause] Imagine chanting:"
+  },
+  {
+   "id": "b48",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "verse",
+   "voice": "verse",
+   "text": "ॐ नमः शिवाय।.",
+   "directed": "[slowly] ॐ नमः शिवाय।."
+  },
+  {
+   "id": "b49",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Oṃ namaḥ śivāya.",
+   "directed": "Oṃ namaḥ śivāya."
+  },
+  {
+   "id": "b50",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You can pronounce those sounds mechanically.",
+   "directed": "You can pronounce those sounds mechanically."
+  },
+  {
+   "id": "b51",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You can repeat them while making breakfast.",
+   "directed": "You can repeat them while making breakfast."
+  },
+  {
+   "id": "b52",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You can count them on a string of beads.",
+   "directed": "You can count them on a string of beads."
+  },
+  {
+   "id": "b53",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You can construct an exceptionally complicated spreadsheet documenting your progress.",
+   "directed": "You can construct an exceptionally complicated spreadsheet documenting your progress."
+  },
+  {
+   "id": "b54",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Very impressive.",
+   "directed": "Very impressive."
+  },
+  {
+   "id": "b55",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ten thousand repetitions.",
+   "directed": "Ten thousand repetitions."
+  },
+  {
+   "id": "b56",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Beautiful chart.",
+   "directed": "Beautiful chart."
+  },
+  {
+   "id": "b57",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Excellent consistency.",
+   "directed": "Excellent consistency."
+  },
+  {
+   "id": "b58",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But what if your fundamental understanding remains:",
+   "directed": "[short pause] But what if your fundamental understanding remains:"
+  },
+  {
+   "id": "b59",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“I am a small individual over here, desperately attempting to contact a distant divine being over there”?",
+   "directed": "[short pause] “I am a small individual over here, desperately attempting to contact a distant divine being over there”?"
+  },
+  {
+   "id": "b60",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then the deepest nondual meaning of the mantra has not yet been recognised.",
+   "directed": "Then the deepest nondual meaning of the mantra has not yet been recognised."
+  },
+  {
+   "id": "b61",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "For Kṣemarāja, the culmination involves recognising the non-separation of the practitioner, mantra and deity.",
+   "directed": "For Kṣemarāja, the culmination involves recognising the non-separation of the practitioner, mantra and deity."
+  },
+  {
+   "id": "b62",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The sound is not merely sent towards Śiva.",
+   "directed": "The sound is not merely sent towards Śiva."
+  },
+  {
+   "id": "b63",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The very awareness in which the mantra appears is recognised as Śiva’s own conscious power.",
+   "directed": "The very awareness in which the mantra appears is recognised as Śiva’s own conscious power."
+  },
+  {
+   "id": "b64",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That’s the transformation.",
+   "directed": "That’s the transformation."
+  },
+  {
+   "id": "b65",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And notice how this relates to the previous book.",
+   "directed": "And notice how this relates to the previous book."
+  },
+  {
+   "id": "b66",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "At 1.4:",
+   "directed": "[short pause] At 1.4:"
+  },
+  {
+   "id": "b67",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "verse",
+   "voice": "verse",
+   "text": "ज्ञानाधिष्ठानं मातृका।.",
+   "directed": "[slowly] ज्ञानाधिष्ठानं मातृका।."
+  },
+  {
+   "id": "b68",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Jñānādhiṣṭhānaṃ mātṛkā.",
+   "directed": "Jñānādhiṣṭhānaṃ mātṛkā."
+  },
+  {
+   "id": "b69",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Mātṛkā is the foundation of differentiated knowledge.",
+   "directed": "Mātṛkā is the foundation of differentiated knowledge."
+  },
+  {
+   "id": "b70",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Language participates in the structure of limitation.",
+   "directed": "Language participates in the structure of limitation."
+  },
+  {
+   "id": "b71",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But now:",
+   "directed": "[short pause] But now:"
+  },
+  {
+   "id": "b72",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "verse",
+   "voice": "verse",
+   "text": "चित्तं मन्त्रः।.",
+   "directed": "[slowly] चित्तं मन्त्रः।."
+  },
+  {
+   "id": "b73",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Cittaṃ mantraḥ.",
+   "directed": "Cittaṃ mantraḥ."
+  },
+  {
+   "id": "b74",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The mind itself becomes mantra when its activity is directed towards recognition of its supreme source.",
+   "directed": "The mind itself becomes mantra when its activity is directed towards recognition of its supreme source."
+  },
+  {
+   "id": "b75",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The problem was never that consciousness possessed the ability to articulate experience.",
+   "directed": "The problem was never that consciousness possessed the ability to articulate experience."
+  },
+  {
+   "id": "b76",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The problem was the failure to recognise the true nature of that articulation.",
+   "directed": "The problem was the failure to recognise the true nature of that articulation."
+  },
+  {
+   "id": "b77",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The same Śakti binds.",
+   "directed": "The same Śakti binds."
+  },
+  {
+   "id": "b78",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The same Śakti liberates.",
+   "directed": "The same Śakti liberates."
+  },
+  {
+   "id": "b79",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "An extraordinary business model.",
+   "directed": "An extraordinary business model."
+  },
+  {
+   "id": "b80",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "She’s manufacturing the locks and distributing the keys.",
+   "directed": "She’s manufacturing the locks and distributing the keys."
+  },
+  {
+   "id": "b81",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the keys, apparently, were made from the same material as the locks.",
+   "directed": "And the keys, apparently, were made from the same material as the locks."
+  },
+  {
+   "id": "b82",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja’s point: The mantra’s highest power is not mere pronunciation but contemplative identification with the divine consciousness embodied in it. He supports this reading with tantric scriptural passages and the Spandakārikā. Sanskrit & Trika Shaivism.",
+   "directed": "Kṣemarāja’s point: The mantra’s highest power is not mere pronunciation but contemplative identification with the divine consciousness embodied in it. He supports this reading with tantric scriptural passages and the Spandakārikā. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b83",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Book II: Śāktopāya — The Way of Śakti.",
+   "directed": "Book II: Śāktopāya — The Way of Śakti."
+  },
+  {
+   "id": "b84",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "How to Turn Your Own Mind into a Divine Weapon, Discover That the Alphabet Is Literally a Goddess, and Finally Stop Being Such a Cosmically Confused Little Bastard.",
+   "directed": "How to Turn Your Own Mind into a Divine Weapon, Discover That the Alphabet Is Literally a Goddess, and Finally Stop Being Such a Cosmically Confused Little Bastard."
+  },
+  {
+   "id": "b85",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Previously, on the Śiva Sūtras…\nRight.",
+   "directed": "Previously, on the Śiva Sūtras…\nRight."
+  },
+  {
+   "id": "b86",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "When we last encountered our spiritual protagonist Vasugupta, he’d made twenty-two rather explosive statements about the nature of reality.",
+   "directed": "When we last encountered our spiritual protagonist Vasugupta, he’d made twenty-two rather explosive statements about the nature of reality."
+  },
+  {
+   "id": "b87",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We discovered that consciousness is the Self.",
+   "directed": "We discovered that consciousness is the Self."
+  },
+  {
+   "id": "b88",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That limited knowledge is bondage.",
+   "directed": "That limited knowledge is bondage."
+  },
+  {
+   "id": "b89",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That the entire universe is the body of Śiva.",
+   "directed": "That the entire universe is the body of Śiva."
+  },
+  {
+   "id": "b90",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That enlightenment involves an extraordinary sense of wonder.",
+   "directed": "That enlightenment involves an extraordinary sense of wonder."
+  },
+  {
+   "id": "b91",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that, under certain rather ambitious tantric interpretations, a sufficiently accomplished yogi may possess supernatural powers.",
+   "directed": "And that, under certain rather ambitious tantric interpretations, a sufficiently accomplished yogi may possess supernatural powers."
+  },
+  {
+   "id": "b92",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "All perfectly reasonable.",
+   "directed": "All perfectly reasonable."
+  },
+  {
+   "id": "b93",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But then Vasugupta ended the first book with something particularly intriguing.",
+   "directed": "But then Vasugupta ended the first book with something particularly intriguing."
+  },
+  {
+   "id": "b94",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "verse",
+   "voice": "verse",
+   "text": "महाह्रदानुसन्धानान्मन्त्रवीर्यानुभवः।.",
+   "directed": "[slowly] महाह्रदानुसन्धानान्मन्त्रवीर्यानुभवः।."
+  },
+  {
+   "id": "b95",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Mahāhradānusandhānān mantravīryānubhavaḥ.",
+   "directed": "Mahāhradānusandhānān mantravīryānubhavaḥ."
+  },
+  {
+   "id": "b96",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Through union with the Great Lake comes the experience of the potency of mantra.",
+   "directed": "Through union with the Great Lake comes the experience of the potency of mantra."
+  },
+  {
+   "id": "b97",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Great Lake.",
+   "directed": "The Great Lake."
+  },
+  {
+   "id": "b98",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The unfathomable reservoir of consciousness.",
+   "directed": "The unfathomable reservoir of consciousness."
+  },
+  {
+   "id": "b99",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The divine source of every sound, every thought, every manifestation.",
+   "directed": "The divine source of every sound, every thought, every manifestation."
+  },
+  {
+   "id": "b100",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now, naturally, we’ve got a question.",
+   "directed": "And now, naturally, we’ve got a question."
+  },
+  {
+   "id": "b101",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "If the power of mantra comes from consciousness…",
+   "directed": "If the power of mantra comes from consciousness…"
+  },
+  {
+   "id": "b102",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "What the bloody hell actually is a mantra?",
+   "directed": "What the bloody hell actually is a mantra?"
+  },
+  {
+   "id": "b103",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Is it a magic word?",
+   "directed": "Is it a magic word?"
+  },
+  {
+   "id": "b104",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A sequence of Sanskrit syllables?",
+   "directed": "A sequence of Sanskrit syllables?"
+  },
+  {
+   "id": "b105",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A cosmic password?",
+   "directed": "A cosmic password?"
+  },
+  {
+   "id": "b106",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Does Śiva have some sort of metaphysical voice-recognition software?",
+   "directed": "Does Śiva have some sort of metaphysical voice-recognition software?"
+  },
+  {
+   "id": "b107",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Do you chant Oṃ Namaḥ Śivāya fourteen thousand times and suddenly receive administrative privileges over the universe?",
+   "directed": "Do you chant Oṃ Namaḥ Śivāya fourteen thousand times and suddenly receive administrative privileges over the universe?"
+  },
+  {
+   "id": "b108",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Well.",
+   "directed": "Well."
+  },
+  {
+   "id": "b109",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vasugupta is about to disappoint everyone who’s purchased a very expensive singing bowl.",
+   "directed": "Vasugupta is about to disappoint everyone who’s purchased a very expensive singing bowl."
+  },
+  {
+   "id": "b110",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because the answer is considerably more interesting.",
+   "directed": "Because the answer is considerably more interesting."
+  },
+  {
+   "id": "b111",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Welcome to Śāktopāya.",
+   "directed": "Welcome to Śāktopāya."
+  },
+  {
+   "id": "b112",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The way of Śakti.",
+   "directed": "The way of Śakti."
+  },
+  {
+   "id": "b113",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Whereas Śāmbhavopāya centres on the immediate upsurge of recognition through divine will, Śāktopāya works through the power of awareness, understanding, contemplation and the transformation of cognition.",
+   "directed": "Whereas Śāmbhavopāya centres on the immediate upsurge of recognition through divine will, Śāktopāya works through the power of awareness, understanding, contemplation and the transformation of cognition."
+  },
+  {
+   "id": "b114",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s not merely thinking about Śiva.",
+   "directed": "It’s not merely thinking about Śiva."
+  },
+  {
+   "id": "b115",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s discovering what thinking actually is when illuminated by its own conscious source.",
+   "directed": "It’s discovering what thinking actually is when illuminated by its own conscious source."
+  },
+  {
+   "id": "b116",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is where Kṣemarāja, writing his Śivasūtravimarśinī, really gets going.",
+   "directed": "And this is where Kṣemarāja, writing his Śivasūtravimarśinī, really gets going."
+  },
+  {
+   "id": "b117",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ten sūtras.",
+   "directed": "Ten sūtras."
+  },
+  {
+   "id": "b118",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "One extraordinarily sophisticated theory of mantra, language, consciousness and liberation.",
+   "directed": "One extraordinarily sophisticated theory of mantra, language, consciousness and liberation."
+  },
+  {
+   "id": "b119",
+   "section": "BOOK II — ŚĀKTOPĀYA",
+   "type": "narration",
+   "voice": "granny",
+   "text": "All ten Sanskrit formulations below follow the traditional Śāktopāya sequence; the explanations follow Kṣemarāja rather than treating the brief aphorisms as self-explanatory.",
+   "directed": "All ten Sanskrit formulations below follow the traditional Śāktopāya sequence; the explanations follow Kṣemarāja rather than treating the brief aphorisms as self-explanatory."
+  }
+ ],
+ "totals": {
+  "blocks": 120,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 971,
+   "verse": 12
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 6.5,
+   "verse": 0.1
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

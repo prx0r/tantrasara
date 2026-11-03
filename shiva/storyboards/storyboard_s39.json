@@ -1,0 +1,615 @@
+{
+ "title": "Śiva Sūtras 3.7",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 3.7",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 3.7",
+   "directed": "[long pause] Śiva Sūtras 3.7"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 3.7",
+   "type": "verse",
+   "voice": "verse",
+   "text": "मोहजयादनन्ताभोगात्सहजविद्याजयः",
+   "directed": "[slowly] मोहजयादनन्ताभोगात्सहजविद्याजयः"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Mohajayād anantābhogāt sahajavidyājayaḥ.",
+   "directed": "Mohajayād anantābhogāt sahajavidyājayaḥ."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Through boundless conquest of delusion comes mastery of innate knowledge.",
+   "directed": "Through boundless conquest of delusion comes mastery of innate knowledge."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Defeat Māyā, Unlock the Infinite, and Discover the Knowledge You Never Actually Lost.",
+   "directed": "Defeat Māyā, Unlock the Infinite, and Discover the Knowledge You Never Actually Lost."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Right.",
+   "directed": "[short pause] Right."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now we’re getting somewhere.",
+   "directed": "Now we’re getting somewhere."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because after warning us about siddhis, Vasugupta gives the actual direction of the practice.",
+   "directed": "Because after warning us about siddhis, Vasugupta gives the actual direction of the practice."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not the accumulation of extraordinary abilities.",
+   "directed": "Not the accumulation of extraordinary abilities."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the conquest of delusion and the manifestation of sahajavidyā.",
+   "directed": "But the conquest of delusion and the manifestation of sahajavidyā."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Innate knowledge.",
+   "directed": "Innate knowledge."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s unpack the compound.",
+   "directed": "Let’s unpack the compound."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Moha — delusion.",
+   "directed": "Moha — delusion."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Jaya — conquest, victory.",
+   "directed": "Jaya — conquest, victory."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ananta — endless, boundless.",
+   "directed": "Ananta — endless, boundless."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ābhoga — expansion, extension, pervasive reach.",
+   "directed": "Ābhoga — expansion, extension, pervasive reach."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sahaja — innate, natural, born together with.",
+   "directed": "Sahaja — innate, natural, born together with."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vidyā — knowledge.",
+   "directed": "Vidyā — knowledge."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Jayaḥ — conquest or mastery.",
+   "directed": "Jayaḥ — conquest or mastery."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this word sahaja is absolutely beautiful.",
+   "directed": "And this word sahaja is absolutely beautiful."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because it doesn’t mean you’ve constructed something entirely new.",
+   "directed": "Because it doesn’t mean you’ve constructed something entirely new."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It points to something intrinsic.",
+   "directed": "It points to something intrinsic."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Something belonging to your own nature.",
+   "directed": "Something belonging to your own nature."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So what is the knowledge being revealed?",
+   "directed": "So what is the knowledge being revealed?"
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja identifies it with the recognition of the supreme nature of consciousness, particularly through the movement towards Śivavyāpti.",
+   "directed": "Kṣemarāja identifies it with the recognition of the supreme nature of consciousness, particularly through the movement towards Śivavyāpti."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now we need to introduce two extremely important terms.",
+   "directed": "And now we need to introduce two extremely important terms."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 3.7",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Ātmavyāpti.",
+   "directed": "[slowly] Ātmavyāpti."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 3.7",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Śivavyāpti.",
+   "directed": "[slowly] Śivavyāpti."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vyāpti means pervasion or permeation.",
+   "directed": "Vyāpti means pervasion or permeation."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ātmavyāpti is the attainment or recognition of one’s own conscious Self, beyond the limiting identifications constituting ordinary individuality.",
+   "directed": "Ātmavyāpti is the attainment or recognition of one’s own conscious Self, beyond the limiting identifications constituting ordinary individuality."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śivavyāpti is the fuller recognition of the supreme Śiva-nature, including the universal manifestation and divine powers.",
+   "directed": "Śivavyāpti is the fuller recognition of the supreme Śiva-nature, including the universal manifestation and divine powers."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "These are technical levels within the doctrinal explanation, not merely two interchangeable synonyms for having a nice meditation.",
+   "directed": "These are technical levels within the doctrinal explanation, not merely two interchangeable synonyms for having a nice meditation."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja, citing the Svacchandatantra, distinguishes them.",
+   "directed": "Kṣemarāja, citing the Svacchandatantra, distinguishes them."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The practitioner first moves beyond identification with the bonds of limited existence.",
+   "directed": "The practitioner first moves beyond identification with the bonds of limited existence."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the movement does not end with the recognition of an isolated inner consciousness.",
+   "directed": "But the movement does not end with the recognition of an isolated inner consciousness."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It culminates in the universal recognition of Śiva’s nature.",
+   "directed": "It culminates in the universal recognition of Śiva’s nature."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is where Trika differs sharply from interpretations that describe liberation simply as the discovery of a passive witnessing principle separate from the world.",
+   "directed": "And this is where Trika differs sharply from interpretations that describe liberation simply as the discovery of a passive witnessing principle separate from the world."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "For Trika, the supreme consciousness is not merely a witness.",
+   "directed": "For Trika, the supreme consciousness is not merely a witness."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is svatantra.",
+   "directed": "It is svatantra."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Free.",
+   "directed": "Free."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Creative.",
+   "directed": "Creative."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Self-revealing.",
+   "directed": "Self-revealing."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The source of manifestation.",
+   "directed": "The source of manifestation."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So the fullest recognition is not simply:",
+   "directed": "[short pause] So the fullest recognition is not simply:"
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 3.7",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“I am the awareness watching everything.”",
+   "directed": "[short pause] “I am the awareness watching everything.”"
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s the much more radical understanding:",
+   "directed": "[short pause] It’s the much more radical understanding:"
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 3.7",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“The reality of awareness is inseparable from the divine power through which everything manifests.”",
+   "directed": "[short pause] “The reality of awareness is inseparable from the divine power through which everything manifests.”"
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, Kṣemarāja connects this movement with Unmanā.",
+   "directed": "Now, Kṣemarāja connects this movement with Unmanā."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A state beyond ordinary conceptual mind, associated with the supreme divine condition.",
+   "directed": "A state beyond ordinary conceptual mind, associated with the supreme divine condition."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here’s an important distinction.",
+   "directed": "And here’s an important distinction."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ordinary knowledge proceeds through successive cognitions.",
+   "directed": "Ordinary knowledge proceeds through successive cognitions."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You know one thing.",
+   "directed": "You know one thing."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then another.",
+   "directed": "Then another."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then another.",
+   "directed": "Then another."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the supreme knowledge described here isn’t merely the accumulation of many individual cognitions.",
+   "directed": "But the supreme knowledge described here isn’t merely the accumulation of many individual cognitions."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is the nondual recognition of the universal conscious reality.",
+   "directed": "It is the nondual recognition of the universal conscious reality."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The yogi does not become liberated by collecting every piece of information in the cosmos.",
+   "directed": "The yogi does not become liberated by collecting every piece of information in the cosmos."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You don’t need to memorise the entire contents of Wikipedia.",
+   "directed": "You don’t need to memorise the entire contents of Wikipedia."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Thank God.",
+   "directed": "Thank God."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve already got enough Sanskrit to learn.",
+   "directed": "You’ve already got enough Sanskrit to learn."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "What is required is a transformation of the fundamental standpoint of knowing.",
+   "directed": "What is required is a transformation of the fundamental standpoint of knowing."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja describes the transition from limited self-recognition towards the universal condition of Śiva, emphasising that Āṇavopāya can culminate in Śāktopāya and the fuller awakening of innate knowledge. Sanskrit & Trika Shaivism.",
+   "directed": "Kṣemarāja describes the transition from limited self-recognition towards the universal condition of Śiva, emphasising that Āṇavopāya can culminate in Śāktopāya and the fuller awakening of innate knowledge. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now, ladies and gentlemen, something extraordinary happens.",
+   "directed": "And now, ladies and gentlemen, something extraordinary happens."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because Vasugupta is about to explain what the world looks like when this knowledge has arisen.",
+   "directed": "Because Vasugupta is about to explain what the world looks like when this knowledge has arisen."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the answer is absolutely gorgeous.",
+   "directed": "And the answer is absolutely gorgeous."
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The universe becomes the yogi’s own light.",
+   "directed": "The universe becomes the yogi’s own light."
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not an enemy.",
+   "directed": "Not an enemy."
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not an illusion to be despised.",
+   "directed": "Not an illusion to be despised."
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not a foreign territory from which consciousness needs to escape.",
+   "directed": "Not a foreign territory from which consciousness needs to escape."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The world becomes the radiance of the Self.",
+   "directed": "The world becomes the radiance of the Self."
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which means we’re about to enter one of the most beautiful passages in the entire Śiva Sūtras.",
+   "directed": "Which means we’re about to enter one of the most beautiful passages in the entire Śiva Sūtras."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The cosmic theatre.",
+   "directed": "The cosmic theatre."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 3.7",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Śiva, the absolute show-off, is taking centre stage.",
+   "directed": "And Śiva, the absolute show-off, is taking centre stage."
+  }
+ ],
+ "totals": {
+  "blocks": 74,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 572,
+   "verse": 3
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 3.8,
+   "verse": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

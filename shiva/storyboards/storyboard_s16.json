@@ -1,0 +1,311 @@
+{
+ "title": "Śiva Sūtras 1.16",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 1.16",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 1.16",
+   "directed": "[long pause] Śiva Sūtras 1.16"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 1.16",
+   "type": "verse",
+   "voice": "verse",
+   "text": "शुद्धतत्त्वसन्धानाद्वापशुशक्तिः",
+   "directed": "[slowly] शुद्धतत्त्वसन्धानाद्वापशुशक्तिः"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 1.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śuddhatattvasandhānād vāpaśuśaktiḥ.",
+   "directed": "Śuddhatattvasandhānād vāpaśuśaktiḥ."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 1.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Through union with the pure principle, the power of bondage associated with the limited being is absent.",
+   "directed": "Through union with the pure principle, the power of bondage associated with the limited being is absent."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 1.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You Are No Longer a Bound Little Animal.",
+   "directed": "You Are No Longer a Bound Little Animal."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 1.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Right.",
+   "directed": "[short pause] Right."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 1.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We have to talk about paśu.",
+   "directed": "We have to talk about paśu."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 1.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because in Śaiva terminology, paśu is the bound individual.",
+   "directed": "Because in Śaiva terminology, paśu is the bound individual."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 1.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Literally, the word can mean animal or beast.",
+   "directed": "Literally, the word can mean animal or beast."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 1.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But don’t misunderstand this as an insult to animals.",
+   "directed": "But don’t misunderstand this as an insult to animals."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 1.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s a technical designation for the individual limited by the bonds called pāśa.",
+   "directed": "It’s a technical designation for the individual limited by the bonds called pāśa."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 1.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The paśu experiences itself as separate, incomplete, and constrained.",
+   "directed": "The paśu experiences itself as separate, incomplete, and constrained."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 1.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the tradition contrasts this with Pati — the Lord.",
+   "directed": "And the tradition contrasts this with Pati — the Lord."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 1.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The bound being and the Lord.",
+   "directed": "The bound being and the Lord."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 1.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, if Śiva were fundamentally separate from the individual, you’d have a terrible philosophical problem.",
+   "directed": "Now, if Śiva were fundamentally separate from the individual, you’d have a terrible philosophical problem."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 1.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "How does a finite being ever become truly infinite?",
+   "directed": "How does a finite being ever become truly infinite?"
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 1.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "How does something inherently limited acquire the nature of the limitless?",
+   "directed": "How does something inherently limited acquire the nature of the limitless?"
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 1.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You can’t simply glue infinity onto a finite object.",
+   "directed": "You can’t simply glue infinity onto a finite object."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 1.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Very messy business.",
+   "directed": "Very messy business."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 1.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But Trika’s answer is different.",
+   "directed": "But Trika’s answer is different."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 1.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The limitation is a contraction within the manifestation of consciousness.",
+   "directed": "The limitation is a contraction within the manifestation of consciousness."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 1.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is not the ultimate nature of consciousness.",
+   "directed": "It is not the ultimate nature of consciousness."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 1.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Through śuddhatattvasandhāna, union with the pure principle — identified by Kṣemarāja with Paramaśiva — the binding power no longer governs the yogi’s identity.",
+   "directed": "Through śuddhatattvasandhāna, union with the pure principle — identified by Kṣemarāja with Paramaśiva — the binding power no longer governs the yogi’s identity."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 1.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And notice the word vā.",
+   "directed": "And notice the word vā."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 1.16",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Or.”",
+   "directed": "[short pause] “Or.”"
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 1.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja introduces this as another means of understanding the attainment described previously.",
+   "directed": "Kṣemarāja introduces this as another means of understanding the attainment described previously."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 1.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The yogi recognises the world as inseparable from the pure reality of Śiva.",
+   "directed": "The yogi recognises the world as inseparable from the pure reality of Śiva."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 1.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The power of paśutva, bound individuality, is overcome.",
+   "directed": "The power of paśutva, bound individuality, is overcome."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 1.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In the language of recognition:",
+   "directed": "[short pause] In the language of recognition:"
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 1.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You do not turn a fundamentally non-Śiva entity into Śiva.",
+   "directed": "You do not turn a fundamentally non-Śiva entity into Śiva."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 1.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You recognise that the apparently limited individual was never ultimately separate from Śiva.",
+   "directed": "You recognise that the apparently limited individual was never ultimately separate from Śiva."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 1.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sanskrit & Trika Shaivism.",
+   "directed": "Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 1.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The chains weren’t another cosmic being’s property.",
+   "directed": "The chains weren’t another cosmic being’s property."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 1.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They were part of the Lord’s own self-concealment.",
+   "directed": "They were part of the Lord’s own self-concealment."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 1.16",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now the self-concealment is being recognised.",
+   "directed": "And now the self-concealment is being recognised."
+  }
+ ],
+ "totals": {
+  "blocks": 36,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 287,
+   "verse": 1
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 1.9,
+   "verse": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

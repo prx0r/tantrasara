@@ -1,0 +1,101 @@
+{
+ "atma": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "bhatta": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b64"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "isvarapratyabhijna": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b64"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "lila": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b114"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "naisvasatantra": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b64"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "narayana": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b64"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "prakasa": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b31"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "sakti": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b28"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "stavacintamani": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b64"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "svatantrya": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b112"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "vimarsa": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b31"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ }
+}

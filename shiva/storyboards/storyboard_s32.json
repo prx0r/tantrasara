@@ -1,0 +1,1425 @@
+{
+ "title": "Śiva Sūtras 2.10",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 2.10",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 2.10",
+   "directed": "[long pause] Śiva Sūtras 2.10"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 2.10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "विद्यासंहारे तदुत्थस्वप्नदर्शनम्",
+   "directed": "[slowly] विद्यासंहारे तदुत्थस्वप्नदर्शनम्"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vidyāsaṃhāre tadutthasvapnadarśanam.",
+   "directed": "Vidyāsaṃhāre tadutthasvapnadarśanam."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "When pure knowledge subsides, the dreamlike appearances arising from its fading become visible again.",
+   "directed": "When pure knowledge subsides, the dreamlike appearances arising from its fading become visible again."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You Realise You’re Śiva, Then Immediately Forget Again Like an Absolute Idiot.",
+   "directed": "You Realise You’re Śiva, Then Immediately Forget Again Like an Absolute Idiot."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Right.",
+   "directed": "[short pause] Right."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This final sūtra is absolutely devastating.",
+   "directed": "This final sūtra is absolutely devastating."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And honestly, perhaps the most relatable statement in the entire second book.",
+   "directed": "And honestly, perhaps the most relatable statement in the entire second book."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because after all this extraordinary metaphysics, after the divine mantra, after the awakening of Mātṛkā, after the sacrifice of the body, after the devouring of differentiated knowledge—",
+   "directed": "Because after all this extraordinary metaphysics, after the divine mantra, after the awakening of Mātṛkā, after the sacrifice of the body, after the devouring of differentiated knowledge—"
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vasugupta says:",
+   "directed": "[short pause] Vasugupta says:"
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You might forget.",
+   "directed": "You might forget."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That’s it.",
+   "directed": "That’s it."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve recognised the truth.",
+   "directed": "You’ve recognised the truth."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve understood the fundamental nature of consciousness.",
+   "directed": "You’ve understood the fundamental nature of consciousness."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve experienced the dissolution of limited identification.",
+   "directed": "You’ve experienced the dissolution of limited identification."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve seen the world as the manifestation of Śakti.",
+   "directed": "You’ve seen the world as the manifestation of Śakti."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And then…",
+   "directed": "And then…"
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Someone sends you an annoying message.",
+   "directed": "Someone sends you an annoying message."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Suddenly you’re back.",
+   "directed": "Suddenly you’re back."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 2.10",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“I cannot BELIEVE this person.”",
+   "directed": "[short pause] “I cannot BELIEVE this person.”"
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 2.10",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“How dare they.”",
+   "directed": "[short pause] “How dare they.”"
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 2.10",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Do they not appreciate who they’re dealing with?”",
+   "directed": "[short pause] “Do they not appreciate who they’re dealing with?”"
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And just like that, the individual identity has returned to centre stage.",
+   "directed": "And just like that, the individual identity has returned to centre stage."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The cosmic drama has resumed.",
+   "directed": "The cosmic drama has resumed."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śiva has once again become a bloke arguing with his phone.",
+   "directed": "Śiva has once again become a bloke arguing with his phone."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, obviously, this is a modern psychological illustration.",
+   "directed": "Now, obviously, this is a modern psychological illustration."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja’s actual discussion is more technical.",
+   "directed": "Kṣemarāja’s actual discussion is more technical."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s unpack the Sanskrit.",
+   "directed": "Let’s unpack the Sanskrit."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vidyā — knowledge, here pure liberating knowledge.",
+   "directed": "Vidyā — knowledge, here pure liberating knowledge."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Saṃhāra — withdrawal, subsidence, disappearance.",
+   "directed": "Saṃhāra — withdrawal, subsidence, disappearance."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Taduttha — arising from that, or resulting from it.",
+   "directed": "Taduttha — arising from that, or resulting from it."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Svapna — dream.",
+   "directed": "Svapna — dream."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Darśana — seeing, appearance.",
+   "directed": "Darśana — seeing, appearance."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja describes what happens when the practitioner’s attention to pure knowledge weakens.",
+   "directed": "Kṣemarāja describes what happens when the practitioner’s attention to pure knowledge weakens."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The awareness of supreme reality is no longer maintained.",
+   "directed": "The awareness of supreme reality is no longer maintained."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The impressions of that awareness gradually fade.",
+   "directed": "The impressions of that awareness gradually fade."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the differentiated mental world reasserts itself.",
+   "directed": "And the differentiated mental world reasserts itself."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The svapna here isn’t necessarily a literal dream during sleep.",
+   "directed": "The svapna here isn’t necessarily a literal dream during sleep."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is the dreamlike manifestation of limited, differentiated cognition.",
+   "directed": "It is the dreamlike manifestation of limited, differentiated cognition."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The world once again appears in terms of subject and object, possession and loss, attraction and aversion.",
+   "directed": "The world once again appears in terms of subject and object, possession and loss, attraction and aversion."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the yogi can become caught up in those distinctions.",
+   "directed": "And the yogi can become caught up in those distinctions."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now here’s something very important.",
+   "directed": "Now here’s something very important."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja is not saying Śiva has literally stopped existing.",
+   "directed": "Kṣemarāja is not saying Śiva has literally stopped existing."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Or that universal consciousness has somehow disappeared.",
+   "directed": "Or that universal consciousness has somehow disappeared."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That would contradict the basic doctrine.",
+   "directed": "That would contradict the basic doctrine."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Rather, the recognition of pure consciousness has subsided for the practitioner.",
+   "directed": "Rather, the recognition of pure consciousness has subsided for the practitioner."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The underlying reality has not changed.",
+   "directed": "The underlying reality has not changed."
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The mode of awareness has changed.",
+   "directed": "The mode of awareness has changed."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is the heart of the issue.",
+   "directed": "This is the heart of the issue."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You see clearly.",
+   "directed": "You see clearly."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then you become distracted.",
+   "directed": "Then you become distracted."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then you remember.",
+   "directed": "Then you remember."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then you become absorbed in something else.",
+   "directed": "Then you become absorbed in something else."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then you recognise again.",
+   "directed": "Then you recognise again."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A continual alternation of recognition and contraction.",
+   "directed": "A continual alternation of recognition and contraction."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja is concerned with what happens when awareness lacks the steadiness necessary for sustained recognition.",
+   "directed": "And Kṣemarāja is concerned with what happens when awareness lacks the steadiness necessary for sustained recognition."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He invokes the Mālinīvijayatantra and Spandakārikā to explain that even a genuine opening can be followed by renewed involvement in differentiated experience.",
+   "directed": "He invokes the Mālinīvijayatantra and Spandakārikā to explain that even a genuine opening can be followed by renewed involvement in differentiated experience."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The latent impressions of recognition may remain, but attention is no longer established in their source. Sanskrit & Trika Shaivism.",
+   "directed": "The latent impressions of recognition may remain, but attention is no longer established in their source. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is why the sūtra is a warning.",
+   "directed": "And this is why the sūtra is a warning."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not because the world is inherently evil.",
+   "directed": "Not because the world is inherently evil."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not because ordinary experience is something to hate.",
+   "directed": "Not because ordinary experience is something to hate."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But because the yogi may become identified once more with the limitations appearing within experience.",
+   "directed": "But because the yogi may become identified once more with the limitations appearing within experience."
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Consider what happens when someone understands a profound philosophical truth.",
+   "directed": "Consider what happens when someone understands a profound philosophical truth."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "For a moment, everything is clear.",
+   "directed": "For a moment, everything is clear."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You see how all the elements fit together.",
+   "directed": "You see how all the elements fit together."
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You understand the problem.",
+   "directed": "You understand the problem."
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You feel an extraordinary freedom from the confusion that previously occupied you.",
+   "directed": "You feel an extraordinary freedom from the confusion that previously occupied you."
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And then, a few hours later, you find yourself behaving as though none of that understanding had ever happened.",
+   "directed": "And then, a few hours later, you find yourself behaving as though none of that understanding had ever happened."
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The knowledge was real at the level at which it occurred.",
+   "directed": "The knowledge was real at the level at which it occurred."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But it had not become stable.",
+   "directed": "But it had not become stable."
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is a useful analogy for what Kṣemarāja is discussing, though the actual sūtra concerns a much more profound yogic recognition than an intellectual insight.",
+   "directed": "This is a useful analogy for what Kṣemarāja is discussing, though the actual sūtra concerns a much more profound yogic recognition than an intellectual insight."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The important point is stabilisation.",
+   "directed": "The important point is stabilisation."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not merely having recognised.",
+   "directed": "Not merely having recognised."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But remaining established in recognition.",
+   "directed": "But remaining established in recognition."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here Kṣemarāja provides the transition to the next section.",
+   "directed": "And here Kṣemarāja provides the transition to the next section."
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "If the practitioner cannot maintain the attentive recognition characteristic of Śāktopāya, another form of practice becomes appropriate.",
+   "directed": "If the practitioner cannot maintain the attentive recognition characteristic of Śāktopāya, another form of practice becomes appropriate."
+  },
+  {
+   "id": "b77",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "One employing more concrete supports.",
+   "directed": "One employing more concrete supports."
+  },
+  {
+   "id": "b78",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "More articulated procedures.",
+   "directed": "More articulated procedures."
+  },
+  {
+   "id": "b79",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "More deliberate engagement with the faculties of the limited individual.",
+   "directed": "More deliberate engagement with the faculties of the limited individual."
+  },
+  {
+   "id": "b80",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And thus, the third book emerges.",
+   "directed": "And thus, the third book emerges."
+  },
+  {
+   "id": "b81",
+   "section": "Śiva Sūtras 2.10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Āṇavopāya.",
+   "directed": "[slowly] Āṇavopāya."
+  },
+  {
+   "id": "b82",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The way of the aṇu.",
+   "directed": "The way of the aṇu."
+  },
+  {
+   "id": "b83",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The limited individual.",
+   "directed": "The limited individual."
+  },
+  {
+   "id": "b84",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Where the teaching begins working with the very structures through which consciousness experiences itself as finite.",
+   "directed": "Where the teaching begins working with the very structures through which consciousness experiences itself as finite."
+  },
+  {
+   "id": "b85",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which is a rather beautiful conclusion.",
+   "directed": "Which is a rather beautiful conclusion."
+  },
+  {
+   "id": "b86",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because even when the practitioner becomes distracted from the highest recognition, the tradition doesn’t simply abandon them.",
+   "directed": "Because even when the practitioner becomes distracted from the highest recognition, the tradition doesn’t simply abandon them."
+  },
+  {
+   "id": "b87",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There remains another way.",
+   "directed": "There remains another way."
+  },
+  {
+   "id": "b88",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The capacity for practice belongs to the same Śakti.",
+   "directed": "The capacity for practice belongs to the same Śakti."
+  },
+  {
+   "id": "b89",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The limited individual has not fallen outside consciousness.",
+   "directed": "The limited individual has not fallen outside consciousness."
+  },
+  {
+   "id": "b90",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They have merely returned to a contracted mode of awareness.",
+   "directed": "They have merely returned to a contracted mode of awareness."
+  },
+  {
+   "id": "b91",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that contracted mode can itself become the starting point for liberation.",
+   "directed": "And that contracted mode can itself become the starting point for liberation."
+  },
+  {
+   "id": "b92",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The same Śiva.",
+   "directed": "The same Śiva."
+  },
+  {
+   "id": "b93",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The same Śakti.",
+   "directed": "The same Śakti."
+  },
+  {
+   "id": "b94",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Another method.",
+   "directed": "Another method."
+  },
+  {
+   "id": "b95",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Another opportunity.",
+   "directed": "Another opportunity."
+  },
+  {
+   "id": "b96",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Another chance for consciousness to recognise what it never ceased to be.",
+   "directed": "Another chance for consciousness to recognise what it never ceased to be."
+  },
+  {
+   "id": "b97",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Great Reveal — What Was Śāktopāya Actually Teaching?\nLet’s revisit the extraordinary progression of these ten statements.",
+   "directed": "The Great Reveal — What Was Śāktopāya Actually Teaching?\nLet’s revisit the extraordinary progression of these ten statements."
+  },
+  {
+   "id": "b98",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In the first book, Vasugupta established the supreme nature of consciousness and described the immediate recognition characteristic of Śāmbhavopāya.",
+   "directed": "In the first book, Vasugupta established the supreme nature of consciousness and described the immediate recognition characteristic of Śāmbhavopāya."
+  },
+  {
+   "id": "b99",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But Śāktopāya provides a more articulated account of how mental activity itself can participate in liberation.",
+   "directed": "But Śāktopāya provides a more articulated account of how mental activity itself can participate in liberation."
+  },
+  {
+   "id": "b100",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The teaching is not:",
+   "directed": "[short pause] The teaching is not:"
+  },
+  {
+   "id": "b101",
+   "section": "Śiva Sūtras 2.10",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Stop thinking and become Śiva.”",
+   "directed": "[short pause] “Stop thinking and become Śiva.”"
+  },
+  {
+   "id": "b102",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nor is it:",
+   "directed": "[short pause] Nor is it:"
+  },
+  {
+   "id": "b103",
+   "section": "Śiva Sūtras 2.10",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Think hard enough and manufacture Śiva.”",
+   "directed": "[short pause] “Think hard enough and manufacture Śiva.”"
+  },
+  {
+   "id": "b104",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s something rather subtler.",
+   "directed": "It’s something rather subtler."
+  },
+  {
+   "id": "b105",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Recognise the conscious power from which thought arises, and through which its differentiation becomes manifest.",
+   "directed": "Recognise the conscious power from which thought arises, and through which its differentiation becomes manifest."
+  },
+  {
+   "id": "b106",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Consider the structure.",
+   "directed": "Consider the structure."
+  },
+  {
+   "id": "b107",
+   "section": "Śiva Sūtras 2.10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "2.1 — Cittaṃ mantraḥ.",
+   "directed": "[slowly] 2.1 — Cittaṃ mantraḥ."
+  },
+  {
+   "id": "b108",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The mind becomes mantra through contemplation of its supreme conscious source.",
+   "directed": "The mind becomes mantra through contemplation of its supreme conscious source."
+  },
+  {
+   "id": "b109",
+   "section": "Śiva Sūtras 2.10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "2.2 — Prayatnaḥ sādhakaḥ.",
+   "directed": "[slowly] 2.2 — Prayatnaḥ sādhakaḥ."
+  },
+  {
+   "id": "b110",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Spontaneous, directed effort makes this contemplation effective.",
+   "directed": "Spontaneous, directed effort makes this contemplation effective."
+  },
+  {
+   "id": "b111",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "2.3 — Vidyāśarīrasattā mantrarahasyam.",
+   "directed": "2.3 — Vidyāśarīrasattā mantrarahasyam."
+  },
+  {
+   "id": "b112",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The hidden reality of mantra is the living power of nondual consciousness.",
+   "directed": "The hidden reality of mantra is the living power of nondual consciousness."
+  },
+  {
+   "id": "b113",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "2.4 — Garbhe cittavikāso ’viśiṣṭavidyāsvapnaḥ.",
+   "directed": "2.4 — Garbhe cittavikāso ’viśiṣṭavidyāsvapnaḥ."
+  },
+  {
+   "id": "b114",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The practitioner must not confuse limited accomplishments and visionary phenomena with supreme knowledge.",
+   "directed": "The practitioner must not confuse limited accomplishments and visionary phenomena with supreme knowledge."
+  },
+  {
+   "id": "b115",
+   "section": "Śiva Sūtras 2.10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "2.5 — Vidyāsamutthāne svābhāvike khecarī śivāvasthā.",
+   "directed": "[slowly] 2.5 — Vidyāsamutthāne svābhāvike khecarī śivāvasthā."
+  },
+  {
+   "id": "b116",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "When supreme knowledge arises spontaneously, Khecarī, the state of Śiva, is revealed.",
+   "directed": "When supreme knowledge arises spontaneously, Khecarī, the state of Śiva, is revealed."
+  },
+  {
+   "id": "b117",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "2.6 — Gurur upāyaḥ.",
+   "directed": "2.6 — Gurur upāyaḥ."
+  },
+  {
+   "id": "b118",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The guru, as genuine instruction and the vehicle of divine grace, is a means of recognition.",
+   "directed": "The guru, as genuine instruction and the vehicle of divine grace, is a means of recognition."
+  },
+  {
+   "id": "b119",
+   "section": "Śiva Sūtras 2.10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "2.7 — Mātṛkācakrasambodhaḥ.",
+   "directed": "[slowly] 2.7 — Mātṛkācakrasambodhaḥ."
+  },
+  {
+   "id": "b120",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The practitioner awakens to the divine nature of the entire wheel of phonemic powers.",
+   "directed": "The practitioner awakens to the divine nature of the entire wheel of phonemic powers."
+  },
+  {
+   "id": "b121",
+   "section": "Śiva Sūtras 2.10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "2.8 — Śarīraṃ haviḥ.",
+   "directed": "[slowly] 2.8 — Śarīraṃ haviḥ."
+  },
+  {
+   "id": "b122",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Limited bodily identification becomes an offering into the fire of consciousness.",
+   "directed": "Limited bodily identification becomes an offering into the fire of consciousness."
+  },
+  {
+   "id": "b123",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "2.9 — Jñānam annam.",
+   "directed": "2.9 — Jñānam annam."
+  },
+  {
+   "id": "b124",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Differentiated knowledge is consumed within nondual recognition.",
+   "directed": "Differentiated knowledge is consumed within nondual recognition."
+  },
+  {
+   "id": "b125",
+   "section": "Śiva Sūtras 2.10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "2.10 — Vidyāsaṃhāre tadutthasvapnadarśanam.",
+   "directed": "[slowly] 2.10 — Vidyāsaṃhāre tadutthasvapnadarśanam."
+  },
+  {
+   "id": "b126",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "When that recognition subsides, dreamlike differentiation returns, providing the reason for further practice.",
+   "directed": "When that recognition subsides, dreamlike differentiation returns, providing the reason for further practice."
+  },
+  {
+   "id": "b127",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And there’s an absolutely beautiful symmetry here.",
+   "directed": "And there’s an absolutely beautiful symmetry here."
+  },
+  {
+   "id": "b128",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The first section began:",
+   "directed": "[short pause] The first section began:"
+  },
+  {
+   "id": "b129",
+   "section": "Śiva Sūtras 2.10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "चैतन्यमात्मा।",
+   "directed": "[slowly] चैतन्यमात्मा।"
+  },
+  {
+   "id": "b130",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Caitanyam ātmā.",
+   "directed": "Caitanyam ātmā."
+  },
+  {
+   "id": "b131",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Consciousness is the Self.",
+   "directed": "Consciousness is the Self."
+  },
+  {
+   "id": "b132",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The second section began:",
+   "directed": "[short pause] The second section began:"
+  },
+  {
+   "id": "b133",
+   "section": "Śiva Sūtras 2.10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "चित्तं मन्त्रः।.",
+   "directed": "[slowly] चित्तं मन्त्रः।."
+  },
+  {
+   "id": "b134",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Cittaṃ mantraḥ.",
+   "directed": "Cittaṃ mantraḥ."
+  },
+  {
+   "id": "b135",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The mind is mantra.",
+   "directed": "The mind is mantra."
+  },
+  {
+   "id": "b136",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the third section will begin:",
+   "directed": "[short pause] And the third section will begin:"
+  },
+  {
+   "id": "b137",
+   "section": "Śiva Sūtras 2.10",
+   "type": "verse",
+   "voice": "verse",
+   "text": "आत्मा चित्तम्।",
+   "directed": "[slowly] आत्मा चित्तम्।"
+  },
+  {
+   "id": "b138",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ātmā cittam.",
+   "directed": "Ātmā cittam."
+  },
+  {
+   "id": "b139",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The individual self is mind.",
+   "directed": "The individual self is mind."
+  },
+  {
+   "id": "b140",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Three different points of departure.",
+   "directed": "Three different points of departure."
+  },
+  {
+   "id": "b141",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Three distinct approaches to the problem of recognition.",
+   "directed": "Three distinct approaches to the problem of recognition."
+  },
+  {
+   "id": "b142",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The supreme standpoint of Śiva.",
+   "directed": "The supreme standpoint of Śiva."
+  },
+  {
+   "id": "b143",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The transformative power of Śakti.",
+   "directed": "The transformative power of Śakti."
+  },
+  {
+   "id": "b144",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the limited standpoint of the individual.",
+   "directed": "And the limited standpoint of the individual."
+  },
+  {
+   "id": "b145",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "All directed towards the recognition of the one conscious reality.",
+   "directed": "All directed towards the recognition of the one conscious reality."
+  },
+  {
+   "id": "b146",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Final Teaching — You Cannot Escape Śakti\nHere’s the extraordinary thing about Śāktopāya.",
+   "directed": "The Final Teaching — You Cannot Escape Śakti\nHere’s the extraordinary thing about Śāktopāya."
+  },
+  {
+   "id": "b147",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Everything that appears to separate you from your true nature is itself an expression of the power of that nature.",
+   "directed": "Everything that appears to separate you from your true nature is itself an expression of the power of that nature."
+  },
+  {
+   "id": "b148",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Thought.",
+   "directed": "Thought."
+  },
+  {
+   "id": "b149",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Language.",
+   "directed": "Language."
+  },
+  {
+   "id": "b150",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Desire.",
+   "directed": "Desire."
+  },
+  {
+   "id": "b151",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Mental activity.",
+   "directed": "Mental activity."
+  },
+  {
+   "id": "b152",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Differentiation.",
+   "directed": "Differentiation."
+  },
+  {
+   "id": "b153",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The sense of being an individual.",
+   "directed": "The sense of being an individual."
+  },
+  {
+   "id": "b154",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "All belong, in the final analysis, to the manifestation of Śakti.",
+   "directed": "All belong, in the final analysis, to the manifestation of Śakti."
+  },
+  {
+   "id": "b155",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And therefore, the path to recognition doesn’t always require rejecting them.",
+   "directed": "And therefore, the path to recognition doesn’t always require rejecting them."
+  },
+  {
+   "id": "b156",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It can involve understanding them so completely that their conscious source becomes apparent.",
+   "directed": "It can involve understanding them so completely that their conscious source becomes apparent."
+  },
+  {
+   "id": "b157",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The same language that articulates limitation can become mantra.",
+   "directed": "The same language that articulates limitation can become mantra."
+  },
+  {
+   "id": "b158",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The same mental activity that constructs difference can become contemplative recognition.",
+   "directed": "The same mental activity that constructs difference can become contemplative recognition."
+  },
+  {
+   "id": "b159",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The same Mātṛkā that structures differentiated knowledge can disclose the universal I-consciousness.",
+   "directed": "The same Mātṛkā that structures differentiated knowledge can disclose the universal I-consciousness."
+  },
+  {
+   "id": "b160",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The same body that appears to define your individuality can become an offering into its conscious source.",
+   "directed": "The same body that appears to define your individuality can become an offering into its conscious source."
+  },
+  {
+   "id": "b161",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The same knowledge that constitutes bondage can become food for liberation.",
+   "directed": "The same knowledge that constitutes bondage can become food for liberation."
+  },
+  {
+   "id": "b162",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And when recognition disappears?",
+   "directed": "And when recognition disappears?"
+  },
+  {
+   "id": "b163",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Even that forgetting occurs within the power of consciousness.",
+   "directed": "Even that forgetting occurs within the power of consciousness."
+  },
+  {
+   "id": "b164",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It has not created a second reality independent of Śiva.",
+   "directed": "It has not created a second reality independent of Śiva."
+  },
+  {
+   "id": "b165",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The extraordinary conclusion is that the path and the apparent obstacle are not made from two fundamentally different substances.",
+   "directed": "The extraordinary conclusion is that the path and the apparent obstacle are not made from two fundamentally different substances."
+  },
+  {
+   "id": "b166",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They are different modes of the same divine manifestation.",
+   "directed": "They are different modes of the same divine manifestation."
+  },
+  {
+   "id": "b167",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śakti is not a ladder somebody built so you could climb out of the universe.",
+   "directed": "Śakti is not a ladder somebody built so you could climb out of the universe."
+  },
+  {
+   "id": "b168",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "She’s the power through which the universe appears.",
+   "directed": "She’s the power through which the universe appears."
+  },
+  {
+   "id": "b169",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The power through which you experience yourself as limited.",
+   "directed": "The power through which you experience yourself as limited."
+  },
+  {
+   "id": "b170",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the power through which that limitation can be recognised as a contraction of the infinite.",
+   "directed": "And the power through which that limitation can be recognised as a contraction of the infinite."
+  },
+  {
+   "id": "b171",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Goddess isn’t waiting at the end of the path.",
+   "directed": "The Goddess isn’t waiting at the end of the path."
+  },
+  {
+   "id": "b172",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "She’s been making the path, walking the path, and appearing as the confused individual wondering where the path leads.",
+   "directed": "She’s been making the path, walking the path, and appearing as the confused individual wondering where the path leads."
+  },
+  {
+   "id": "b173",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "An astonishing amount of work for one woman.",
+   "directed": "An astonishing amount of work for one woman."
+  },
+  {
+   "id": "b174",
+   "section": "Śiva Sūtras 2.10",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But apparently infinite power does have its advantages.",
+   "directed": "But apparently infinite power does have its advantages."
+  }
+ ],
+ "totals": {
+  "blocks": 175,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 1331,
+   "verse": 33,
+   "man": 13
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 8.9,
+   "verse": 0.2,
+   "man": 0.1
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

@@ -1,0 +1,727 @@
+{
+ "title": "Śiva Sūtras 3.22",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 3.22",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 3.22",
+   "directed": "[long pause] Śiva Sūtras 3.22"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 3.22",
+   "type": "verse",
+   "voice": "verse",
+   "text": "प्राणसमाचारे समदर्शनम्",
+   "directed": "[slowly] प्राणसमाचारे समदर्शनम्"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Prāṇasamācāre samadarśanam.",
+   "directed": "Prāṇasamācāre samadarśanam."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "When the vital power flows outward in an integrated way, there is equal vision of the one conscious reality.",
+   "directed": "When the vital power flows outward in an integrated way, there is equal vision of the one conscious reality."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You Come Out of Samādhi, and the Entire World Is Still Śiva. Excellent.",
+   "directed": "You Come Out of Samādhi, and the Entire World Is Still Śiva. Excellent."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now this is magnificent.",
+   "directed": "Now this is magnificent."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because we’ve just entered the supreme condition through inward immersion.",
+   "directed": "Because we’ve just entered the supreme condition through inward immersion."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And a very obvious question arises.",
+   "directed": "And a very obvious question arises."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "What happens when we come out?",
+   "directed": "What happens when we come out?"
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Do we lose it?",
+   "directed": "Do we lose it?"
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Does the world become alien again?",
+   "directed": "Does the world become alien again?"
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Do we immediately return to the ordinary sense of separation?",
+   "directed": "Do we immediately return to the ordinary sense of separation?"
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Do we have to spend the rest of our lives sitting perfectly still, hoping nobody disturbs us?",
+   "directed": "Do we have to spend the rest of our lives sitting perfectly still, hoping nobody disturbs us?"
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Well, Vasugupta has a much more interesting answer.",
+   "directed": "Well, Vasugupta has a much more interesting answer."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 3.22",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Samadarśanam.",
+   "directed": "[slowly] Samadarśanam."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Equal vision.",
+   "directed": "Equal vision."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s unpack the Sanskrit.",
+   "directed": "Let’s unpack the Sanskrit."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Prāṇa — vital breath or vital energy.",
+   "directed": "Prāṇa — vital breath or vital energy."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Samācāra — proper, balanced or integrated movement; here, the gradual outward extension of vital activity.",
+   "directed": "Samācāra — proper, balanced or integrated movement; here, the gradual outward extension of vital activity."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sama — equal, uniform, undivided in this context.",
+   "directed": "Sama — equal, uniform, undivided in this context."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Darśana — seeing, vision, apprehension.",
+   "directed": "Darśana — seeing, vision, apprehension."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, this is not simply a sūtra about breathing slowly.",
+   "directed": "Now, this is not simply a sūtra about breathing slowly."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja’s commentary is much more specific.",
+   "directed": "Kṣemarāja’s commentary is much more specific."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He explains that after the yogi enters the supreme state, vital activity naturally begins to extend outward again.",
+   "directed": "He explains that after the yogi enters the supreme state, vital activity naturally begins to extend outward again."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The practitioner doesn’t remain permanently absorbed in a condition without ordinary engagement.",
+   "directed": "The practitioner doesn’t remain permanently absorbed in a condition without ordinary engagement."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The senses operate.",
+   "directed": "The senses operate."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The breath moves.",
+   "directed": "The breath moves."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The mind functions.",
+   "directed": "The mind functions."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The world appears.",
+   "directed": "The world appears."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But now the outgoing activity is pervaded by the recognition of supreme consciousness.",
+   "directed": "But now the outgoing activity is pervaded by the recognition of supreme consciousness."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And therefore samadarśana arises.",
+   "directed": "And therefore samadarśana arises."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The yogi perceives the same fundamental reality throughout experience.",
+   "directed": "The yogi perceives the same fundamental reality throughout experience."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja describes this as the uniformity of cidānanda.",
+   "directed": "Kṣemarāja describes this as the uniformity of cidānanda."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Consciousness and bliss.",
+   "directed": "Consciousness and bliss."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is important.",
+   "directed": "And this is important."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The yogi doesn’t merely have an extraordinary experience and then return to a fundamentally separate ordinary life.",
+   "directed": "The yogi doesn’t merely have an extraordinary experience and then return to a fundamentally separate ordinary life."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The recognition becomes operative as experience unfolds again.",
+   "directed": "The recognition becomes operative as experience unfolds again."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now imagine someone meditating.",
+   "directed": "Now imagine someone meditating."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The mind becomes quiet.",
+   "directed": "The mind becomes quiet."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The sense of limitation temporarily subsides.",
+   "directed": "The sense of limitation temporarily subsides."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There’s an extraordinary experience of spaciousness.",
+   "directed": "There’s an extraordinary experience of spaciousness."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And then they open their eyes.",
+   "directed": "And then they open their eyes."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There’s a table.",
+   "directed": "There’s a table."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A chair.",
+   "directed": "A chair."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Some dust floating in a beam of sunlight.",
+   "directed": "Some dust floating in a beam of sunlight."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "An irritating noise outside.",
+   "directed": "An irritating noise outside."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the question is:",
+   "directed": "[short pause] And the question is:"
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Has the divine disappeared because objects have returned?",
+   "directed": "Has the divine disappeared because objects have returned?"
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "From the Trika standpoint, no.",
+   "directed": "From the Trika standpoint, no."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because the objects themselves are manifestations of consciousness.",
+   "directed": "Because the objects themselves are manifestations of consciousness."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The apparent distinction between meditation and ordinary experience doesn’t establish two fundamentally different ultimate realities.",
+   "directed": "The apparent distinction between meditation and ordinary experience doesn’t establish two fundamentally different ultimate realities."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The supreme conscious nature is not restricted to the absence of objects.",
+   "directed": "The supreme conscious nature is not restricted to the absence of objects."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja makes precisely this point.",
+   "directed": "And Kṣemarāja makes precisely this point."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He explains that even as the intellect and prāṇa extend towards external objects, the realised yogi remains established in universal consciousness without the contracted standpoint returning.",
+   "directed": "He explains that even as the intellect and prāṇa extend towards external objects, the realised yogi remains established in universal consciousness without the contracted standpoint returning."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He cites the Pratyabhijñā tradition and a passage associated with Ānandabhairava concerning equal vision across divine beings, social distinctions and things. Sanskrit & Trika Shaivism.",
+   "directed": "He cites the Pratyabhijñā tradition and a passage associated with Ānandabhairava concerning equal vision across divine beings, social distinctions and things. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now let’s be careful.",
+   "directed": "Now let’s be careful."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Equal vision doesn’t mean empirical differences cease to matter.",
+   "directed": "Equal vision doesn’t mean empirical differences cease to matter."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A tiger and a cup of tea remain very different things.",
+   "directed": "A tiger and a cup of tea remain very different things."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And treating them identically could lead to a rather unpleasant afternoon.",
+   "directed": "And treating them identically could lead to a rather unpleasant afternoon."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It doesn’t mean morality disappears.",
+   "directed": "It doesn’t mean morality disappears."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nor that harmful actions become acceptable merely because everything is Śiva.",
+   "directed": "Nor that harmful actions become acceptable merely because everything is Śiva."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The philosophical point is that the underlying conscious reality is not ultimately divided by the differentiated forms through which it manifests.",
+   "directed": "The philosophical point is that the underlying conscious reality is not ultimately divided by the differentiated forms through which it manifests."
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here’s the extraordinary result.",
+   "directed": "And here’s the extraordinary result."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The yogi can participate in the world without losing recognition of its source.",
+   "directed": "The yogi can participate in the world without losing recognition of its source."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The senses function.",
+   "directed": "The senses function."
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The body functions.",
+   "directed": "The body functions."
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Speech occurs.",
+   "directed": "Speech occurs."
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Action occurs.",
+   "directed": "Action occurs."
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But their apparent differentiation no longer conceals the universal conscious reality.",
+   "directed": "But their apparent differentiation no longer conceals the universal conscious reality."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is integration.",
+   "directed": "This is integration."
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And it’s a profound contrast with the idea that liberation consists solely in withdrawing from the world.",
+   "directed": "And it’s a profound contrast with the idea that liberation consists solely in withdrawing from the world."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The inward movement is important.",
+   "directed": "The inward movement is important."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But so is the outward return.",
+   "directed": "But so is the outward return."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The contemplative state and ordinary activity are not ultimately alien realities.",
+   "directed": "The contemplative state and ordinary activity are not ultimately alien realities."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, this is where things become particularly relevant to the problem of stabilising recognition.",
+   "directed": "Now, this is where things become particularly relevant to the problem of stabilising recognition."
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because Vasugupta is not claiming that everyone who has experienced turya will automatically remain established in it.",
+   "directed": "Because Vasugupta is not claiming that everyone who has experienced turya will automatically remain established in it."
+  },
+  {
+   "id": "b77",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Quite the opposite.",
+   "directed": "Quite the opposite."
+  },
+  {
+   "id": "b78",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The next two sūtras address what happens when the recognition becomes interrupted.",
+   "directed": "The next two sūtras address what happens when the recognition becomes interrupted."
+  },
+  {
+   "id": "b79",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And they are absolutely brilliant.",
+   "directed": "And they are absolutely brilliant."
+  },
+  {
+   "id": "b80",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because we’re about to encounter something deeply familiar.",
+   "directed": "Because we’re about to encounter something deeply familiar."
+  },
+  {
+   "id": "b81",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You recognise the truth.",
+   "directed": "You recognise the truth."
+  },
+  {
+   "id": "b82",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You forget.",
+   "directed": "You forget."
+  },
+  {
+   "id": "b83",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You remember again.",
+   "directed": "You remember again."
+  },
+  {
+   "id": "b84",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You become distracted.",
+   "directed": "You become distracted."
+  },
+  {
+   "id": "b85",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You recognise again.",
+   "directed": "You recognise again."
+  },
+  {
+   "id": "b86",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Vasugupta is going to explain the entire cycle through the relationship between the middle of experience and its conscious source.",
+   "directed": "And Vasugupta is going to explain the entire cycle through the relationship between the middle of experience and its conscious source."
+  },
+  {
+   "id": "b87",
+   "section": "Śiva Sūtras 3.22",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which is exactly the sort of thing you’d expect from a man who has already informed us that the universe is an elaborate one-man theatrical production.",
+   "directed": "Which is exactly the sort of thing you’d expect from a man who has already informed us that the universe is an elaborate one-man theatrical production."
+  }
+ ],
+ "totals": {
+  "blocks": 88,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 699,
+   "verse": 3
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 4.7,
+   "verse": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

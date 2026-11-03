@@ -1,0 +1,83 @@
+{
+ "apana": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b84"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "bhatta": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b85"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "kallata": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b85"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "naisargikah": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "prana": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b15"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "pranasambandhah": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b3"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "sakti": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b22"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "svatantrya": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b24"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ },
+ "tattvarthacintamani": {
+  "deva": "",
+  "gloss": "",
+  "status": "proposed",
+  "cue_blocks": [
+   "b85"
+  ],
+  "note": "auto-mined; needs Deva + gloss review"
+ }
+}

@@ -1,0 +1,695 @@
+{
+ "title": "Śiva Sūtras 3.26",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 3.26",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 3.26",
+   "directed": "[long pause] Śiva Sūtras 3.26"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 3.26",
+   "type": "verse",
+   "voice": "verse",
+   "text": "शरीरवृत्तिर्व्रतम्",
+   "directed": "[slowly] शरीरवृत्तिर्व्रतम्"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śarīravṛttir vratam.",
+   "directed": "Śarīravṛttir vratam."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The continuance or activity of the body is the vow.",
+   "directed": "The continuance or activity of the body is the vow."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Being Alive Is Your Religious Practice. Don’t Make It Weird.",
+   "directed": "Being Alive Is Your Religious Practice. Don’t Make It Weird."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now this is beautiful.",
+   "directed": "Now this is beautiful."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because we’ve reached an extraordinary transition.",
+   "directed": "Because we’ve reached an extraordinary transition."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Earlier, the practitioner was engaged in definite practices.",
+   "directed": "Earlier, the practitioner was engaged in definite practices."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Meditation.",
+   "directed": "Meditation."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Concentration.",
+   "directed": "Concentration."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Mantra.",
+   "directed": "Mantra."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Contemplation.",
+   "directed": "Contemplation."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The discipline of the body and senses.",
+   "directed": "The discipline of the body and senses."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But now the yogi has become established in recognition of Śiva.",
+   "directed": "But now the yogi has become established in recognition of Śiva."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So what becomes of religious practice?",
+   "directed": "So what becomes of religious practice?"
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vasugupta says:",
+   "directed": "[short pause] Vasugupta says:"
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śarīravṛttir vratam.",
+   "directed": "Śarīravṛttir vratam."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The body’s continuation is the vow.",
+   "directed": "The body’s continuation is the vow."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s unpack it.",
+   "directed": "Let’s unpack it."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śarīra — body.",
+   "directed": "Śarīra — body."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vṛtti — activity, functioning, continuation, maintenance.",
+   "directed": "Vṛtti — activity, functioning, continuation, maintenance."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vrata — vow, religious observance, sacred discipline.",
+   "directed": "Vrata — vow, religious observance, sacred discipline."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja gives a specific explanation.",
+   "directed": "And Kṣemarāja gives a specific explanation."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The liberated yogi remains embodied.",
+   "directed": "The liberated yogi remains embodied."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They continue to experience the circumstances of bodily existence.",
+   "directed": "They continue to experience the circumstances of bodily existence."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the continuation of that body becomes their sacred observance.",
+   "directed": "And the continuation of that body becomes their sacred observance."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now this is not an invitation to do whatever you like and call it Tantra.",
+   "directed": "Now this is not an invitation to do whatever you like and call it Tantra."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That’s a misunderstanding worth preventing immediately.",
+   "directed": "That’s a misunderstanding worth preventing immediately."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The sūtra does not mean that every impulse of the body automatically constitutes enlightened conduct.",
+   "directed": "The sūtra does not mean that every impulse of the body automatically constitutes enlightened conduct."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nor does it abolish responsibility for harmful action.",
+   "directed": "Nor does it abolish responsibility for harmful action."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja is describing the condition of a yogi whose identity is already established in the supreme reality.",
+   "directed": "Kṣemarāja is describing the condition of a yogi whose identity is already established in the supreme reality."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Their life has become inseparable from their recognition of Śiva.",
+   "directed": "Their life has become inseparable from their recognition of Śiva."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And therefore the ordinary continuation of embodiment is no longer fundamentally separate from worship.",
+   "directed": "And therefore the ordinary continuation of embodiment is no longer fundamentally separate from worship."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Think about the conventional structure of a religious vow.",
+   "directed": "Think about the conventional structure of a religious vow."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You undertake a particular discipline.",
+   "directed": "You undertake a particular discipline."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Perhaps fasting.",
+   "directed": "Perhaps fasting."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Perhaps recitation.",
+   "directed": "Perhaps recitation."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Perhaps a form of worship.",
+   "directed": "Perhaps a form of worship."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You establish a special period or activity dedicated to the divine.",
+   "directed": "You establish a special period or activity dedicated to the divine."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There’s ordinary life.",
+   "directed": "There’s ordinary life."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And then there’s the vow.",
+   "directed": "And then there’s the vow."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But Kṣemarāja describes a state in which that separation has been transformed.",
+   "directed": "But Kṣemarāja describes a state in which that separation has been transformed."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The yogi remains devoted to the supreme consciousness through the very continuation of embodied existence.",
+   "directed": "The yogi remains devoted to the supreme consciousness through the very continuation of embodied existence."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Living itself becomes a sacred expression.",
+   "directed": "Living itself becomes a sacred expression."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the commentary explicitly mentions the traditional understanding that the remaining circumstances of embodiment are allowed to run their course.",
+   "directed": "And the commentary explicitly mentions the traditional understanding that the remaining circumstances of embodiment are allowed to run their course."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The yogi doesn’t have to destroy the body.",
+   "directed": "The yogi doesn’t have to destroy the body."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Or treat bodily survival as a spiritual failure.",
+   "directed": "Or treat bodily survival as a spiritual failure."
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja also invokes a tantric analogy involving fire, vital energy and the Self, in which the embodied condition is related to the attainment of supreme Śiva.",
+   "directed": "Kṣemarāja also invokes a tantric analogy involving fire, vital energy and the Self, in which the embodied condition is related to the attainment of supreme Śiva."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And he draws on the Trikasāra tradition to explain how ordinary bodily and ritual activity can be transformed through recognition. Sanskrit & Trika Shaivism.",
+   "directed": "And he draws on the Trikasāra tradition to explain how ordinary bodily and ritual activity can be transformed through recognition. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, here’s what I find particularly beautiful.",
+   "directed": "Now, here’s what I find particularly beautiful."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The yogi has ceased to regard the body as the ultimate Self.",
+   "directed": "The yogi has ceased to regard the body as the ultimate Self."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But that doesn’t make the body worthless.",
+   "directed": "But that doesn’t make the body worthless."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The body becomes an expression within consciousness.",
+   "directed": "The body becomes an expression within consciousness."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And therefore its continued activity can be understood through its divine source.",
+   "directed": "And therefore its continued activity can be understood through its divine source."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is an enormously affirmative position.",
+   "directed": "This is an enormously affirmative position."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s not:",
+   "directed": "[short pause] It’s not:"
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 3.26",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“My body is disgusting, and I must escape it.”",
+   "directed": "[short pause] “My body is disgusting, and I must escape it.”"
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nor:",
+   "directed": "[short pause] Nor:"
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 3.26",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“My body is the supreme and complete identity.”",
+   "directed": "[short pause] “My body is the supreme and complete identity.”"
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s:",
+   "directed": "[short pause] It’s:"
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 3.26",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“My body is a manifestation of consciousness, and its activity can occur without obscuring the recognition of that consciousness.”",
+   "directed": "[short pause] “My body is a manifestation of consciousness, and its activity can occur without obscuring the recognition of that consciousness.”"
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this creates an extraordinary possibility.",
+   "directed": "And this creates an extraordinary possibility."
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Eating can become an expression of sacred life.",
+   "directed": "Eating can become an expression of sacred life."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Walking.",
+   "directed": "Walking."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Resting.",
+   "directed": "Resting."
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Breathing.",
+   "directed": "Breathing."
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Speaking.",
+   "directed": "Speaking."
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Acting.",
+   "directed": "Acting."
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not because each activity automatically produces liberation.",
+   "directed": "Not because each activity automatically produces liberation."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But because the liberated yogi is no longer fundamentally estranged from the divine nature of manifestation.",
+   "directed": "But because the liberated yogi is no longer fundamentally estranged from the divine nature of manifestation."
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The life itself becomes permeated by recognition.",
+   "directed": "The life itself becomes permeated by recognition."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here’s the lovely reversal.",
+   "directed": "And here’s the lovely reversal."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Earlier, bodily identification was a central aspect of bondage.",
+   "directed": "Earlier, bodily identification was a central aspect of bondage."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now bodily continuation is a vow.",
+   "directed": "Now bodily continuation is a vow."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Same body.",
+   "directed": "Same body."
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Different standpoint.",
+   "directed": "Different standpoint."
+  },
+  {
+   "id": "b77",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The body that once seemed to imprison consciousness becomes the field through which its freedom is expressed.",
+   "directed": "The body that once seemed to imprison consciousness becomes the field through which its freedom is expressed."
+  },
+  {
+   "id": "b78",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this prepares us for one of the most wonderful sūtras in the entire work.",
+   "directed": "And this prepares us for one of the most wonderful sūtras in the entire work."
+  },
+  {
+   "id": "b79",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because Vasugupta now extends the same transformation to speech.",
+   "directed": "Because Vasugupta now extends the same transformation to speech."
+  },
+  {
+   "id": "b80",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the result is absolutely hilarious when translated literally.",
+   "directed": "And the result is absolutely hilarious when translated literally."
+  },
+  {
+   "id": "b81",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Conversation becomes mantra-recitation.",
+   "directed": "Conversation becomes mantra-recitation."
+  },
+  {
+   "id": "b82",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which means that apparently the enlightened yogi can go down to the market, ask for some vegetables, and still be engaged in worship.",
+   "directed": "Which means that apparently the enlightened yogi can go down to the market, ask for some vegetables, and still be engaged in worship."
+  },
+  {
+   "id": "b83",
+   "section": "Śiva Sūtras 3.26",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now that’s efficient.",
+   "directed": "Now that’s efficient."
+  }
+ ],
+ "totals": {
+  "blocks": 84,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 619,
+   "verse": 1
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 4.1,
+   "verse": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

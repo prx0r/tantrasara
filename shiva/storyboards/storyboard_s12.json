@@ -1,0 +1,383 @@
+{
+ "title": "Śiva Sūtras 1.12",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 1.12",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 1.12",
+   "directed": "[long pause] Śiva Sūtras 1.12"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 1.12",
+   "type": "verse",
+   "voice": "verse",
+   "text": "विस्मयो योगभूमिकाः",
+   "directed": "[slowly] विस्मयो योगभूमिकाः"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vismayo yogabhūmikāḥ.",
+   "directed": "Vismayo yogabhūmikāḥ."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The stages of yoga are wonder.",
+   "directed": "The stages of yoga are wonder."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Enlightenment Is Apparently Going “WHAT THE ACTUAL HELL” Forever.",
+   "directed": "Enlightenment Is Apparently Going “WHAT THE ACTUAL HELL” Forever."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is absolutely gorgeous.",
+   "directed": "This is absolutely gorgeous."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vismaya means wonder, astonishment, amazement.",
+   "directed": "Vismaya means wonder, astonishment, amazement."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Yoga is union or spiritual integration.",
+   "directed": "Yoga is union or spiritual integration."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Bhūmikāḥ are stages, levels, or grounds.",
+   "directed": "Bhūmikāḥ are stages, levels, or grounds."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now you might expect Vasugupta to give us a complicated hierarchy.",
+   "directed": "Now you might expect Vasugupta to give us a complicated hierarchy."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Level one: mild bliss.",
+   "directed": "Level one: mild bliss."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Level two: unusual forehead sensations.",
+   "directed": "Level two: unusual forehead sensations."
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Level three: a very impressive dream about serpents.",
+   "directed": "Level three: a very impressive dream about serpents."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Level four: you start wearing white linen.",
+   "directed": "Level four: you start wearing white linen."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "No.",
+   "directed": "No."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He says wonder.",
+   "directed": "He says wonder."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja explains that the extraordinary yogi encounters ever-renewed astonishment in the manifestation of reality.",
+   "directed": "Kṣemarāja explains that the extraordinary yogi encounters ever-renewed astonishment in the manifestation of reality."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not because everything is mysterious in the sense of being incomprehensible.",
+   "directed": "Not because everything is mysterious in the sense of being incomprehensible."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But because consciousness continually reveals its own extraordinary nature.",
+   "directed": "But because consciousness continually reveals its own extraordinary nature."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "What previously appeared mundane becomes marvellous.",
+   "directed": "What previously appeared mundane becomes marvellous."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A sound.",
+   "directed": "A sound."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A colour.",
+   "directed": "A colour."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The sensation of breathing.",
+   "directed": "The sensation of breathing."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The manifestation of a thought.",
+   "directed": "The manifestation of a thought."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Each is an expression of the same inexhaustible reality.",
+   "directed": "Each is an expression of the same inexhaustible reality."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The yogi discovers something rather surprising.",
+   "directed": "The yogi discovers something rather surprising."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Recognition does not necessarily make the world less interesting.",
+   "directed": "Recognition does not necessarily make the world less interesting."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It makes the world infinitely more astonishing.",
+   "directed": "It makes the world infinitely more astonishing."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because the object is no longer merely an object.",
+   "directed": "Because the object is no longer merely an object."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is an expression of Śakti.",
+   "directed": "It is an expression of Śakti."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is not wonder that depends on finding something new and exotic.",
+   "directed": "And this is not wonder that depends on finding something new and exotic."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s wonder at what has been right in front of you the entire time.",
+   "directed": "It’s wonder at what has been right in front of you the entire time."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Imagine a man studying a lamp.",
+   "directed": "Imagine a man studying a lamp."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He understands the electricity.",
+   "directed": "He understands the electricity."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He understands the circuitry.",
+   "directed": "He understands the circuitry."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He understands the filament.",
+   "directed": "He understands the filament."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But suddenly there is an astonishment at the very fact that anything whatsoever manifests.",
+   "directed": "But suddenly there is an astonishment at the very fact that anything whatsoever manifests."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not merely, “How does this device work?”",
+   "directed": "Not merely, “How does this device work?”"
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But, “What is this astonishing reality in which the device, the observer, and the act of knowing appear?”",
+   "directed": "But, “What is this astonishing reality in which the device, the observer, and the act of knowing appear?”"
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The answer isn’t conceptual bewilderment.",
+   "directed": "The answer isn’t conceptual bewilderment."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s camatkāra — the aesthetic and experiential astonishment so beloved in the Kashmiri tradition.",
+   "directed": "It’s camatkāra — the aesthetic and experiential astonishment so beloved in the Kashmiri tradition."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja even stresses that these stages are not simply a checklist of unusual yogic sensations. They concern the ever-fresh wonder of resting in one’s own conscious nature. Sanskrit & Trika Shaivism.",
+   "directed": "Kṣemarāja even stresses that these stages are not simply a checklist of unusual yogic sensations. They concern the ever-fresh wonder of resting in one’s own conscious nature. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The universe has not become boring.",
+   "directed": "The universe has not become boring."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 1.12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You have finally stopped taking its appearance for granted.",
+   "directed": "You have finally stopped taking its appearance for granted."
+  }
+ ],
+ "totals": {
+  "blocks": 45,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 328,
+   "verse": 2
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 2.2,
+   "verse": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

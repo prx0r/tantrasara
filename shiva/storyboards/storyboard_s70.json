@@ -1,0 +1,959 @@
+{
+ "title": "Śiva Sūtras 3.38",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 3.38",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 3.38",
+   "directed": "[long pause] Śiva Sūtras 3.38"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 3.38",
+   "type": "verse",
+   "voice": "verse",
+   "text": "त्रिपदाद्यनुप्राणनम्",
+   "directed": "[slowly] त्रिपदाद्यनुप्राणनम्"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Tripadādyanuprāṇanam.",
+   "directed": "Tripadādyanuprāṇanam."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The three states are to be enlivened by their primary source, the fourth.",
+   "directed": "The three states are to be enlivened by their primary source, the fourth."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You Can Recognise Bhairava While Listening to Music. Finally, Some Good News.",
+   "directed": "You Can Recognise Bhairava While Listening to Music. Finally, Some Good News."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now this is a very beautiful sūtra.",
+   "directed": "Now this is a very beautiful sūtra."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And it deliberately returns us to an earlier teaching.",
+   "directed": "And it deliberately returns us to an earlier teaching."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Remember 3.20?",
+   "directed": "Remember 3.20?"
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 3.38",
+   "type": "verse",
+   "voice": "verse",
+   "text": "त्रिषु चतुर्थं तैलवदासेच्यम्।",
+   "directed": "[slowly] त्रिषु चतुर्थं तैलवदासेच्यम्।"
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Triṣu caturthaṃ tailavad āsecyam.",
+   "directed": "Triṣu caturthaṃ tailavad āsecyam."
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The fourth should be poured into the three like oil.",
+   "directed": "The fourth should be poured into the three like oil."
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now:",
+   "directed": "[short pause] And now:"
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 3.38",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Tripadādyanuprāṇanam.",
+   "directed": "[slowly] Tripadādyanuprāṇanam."
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The enlivening of the three by their source.",
+   "directed": "The enlivening of the three by their source."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But Kṣemarāja makes an important distinction.",
+   "directed": "But Kṣemarāja makes an important distinction."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "At 3.20, the discussion centred on the pervasion of waking, dreaming and deep sleep by turya.",
+   "directed": "At 3.20, the discussion centred on the pervasion of waking, dreaming and deep sleep by turya."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Here he interprets the three through the dynamics of:",
+   "directed": "[short pause] Here he interprets the three through the dynamics of:"
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sṛṣṭi — manifestation.",
+   "directed": "Sṛṣṭi — manifestation."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sthiti — maintenance.",
+   "directed": "Sthiti — maintenance."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Laya — withdrawal.",
+   "directed": "Laya — withdrawal."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the primary condition underlying all three is:",
+   "directed": "[short pause] And the primary condition underlying all three is:"
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Turya.",
+   "directed": "Turya."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The fourth.",
+   "directed": "The fourth."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s unpack the Sanskrit.",
+   "directed": "Let’s unpack the Sanskrit."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Tri — three.",
+   "directed": "Tri — three."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Pada — state, position, condition.",
+   "directed": "Pada — state, position, condition."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ādi — first, primary, fundamental.",
+   "directed": "Ādi — first, primary, fundamental."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Anuprāṇana — enlivening, vitalising, animating.",
+   "directed": "Anuprāṇana — enlivening, vitalising, animating."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The instruction concerns the infusion of the three conditions with the awareness of their supreme source.",
+   "directed": "The instruction concerns the infusion of the three conditions with the awareness of their supreme source."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, here’s the truly fascinating part.",
+   "directed": "Now, here’s the truly fascinating part."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja associates the three with distinct orientations of experience.",
+   "directed": "Kṣemarāja associates the three with distinct orientations of experience."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The outward movement towards objects.",
+   "directed": "The outward movement towards objects."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The involvement with those objects.",
+   "directed": "The involvement with those objects."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And their inward withdrawal.",
+   "directed": "And their inward withdrawal."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Manifestation.",
+   "directed": "Manifestation."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Maintenance.",
+   "directed": "Maintenance."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Dissolution.",
+   "directed": "Dissolution."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Consider what happens when you encounter something beautiful.",
+   "directed": "Consider what happens when you encounter something beautiful."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A piece of music, for example.",
+   "directed": "A piece of music, for example."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "First, the music begins.",
+   "directed": "First, the music begins."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A sound emerges.",
+   "directed": "A sound emerges."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Your attention turns towards it.",
+   "directed": "Your attention turns towards it."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 3.38",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Sṛṣṭi.",
+   "directed": "[slowly] Sṛṣṭi."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Manifestation.",
+   "directed": "Manifestation."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then the music continues.",
+   "directed": "Then the music continues."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You become absorbed in it.",
+   "directed": "You become absorbed in it."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Perhaps the melody becomes extraordinarily moving.",
+   "directed": "Perhaps the melody becomes extraordinarily moving."
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sthiti.",
+   "directed": "Sthiti."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Maintenance.",
+   "directed": "Maintenance."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then the phrase ends.",
+   "directed": "Then the phrase ends."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The final note fades.",
+   "directed": "The final note fades."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The experience subsides.",
+   "directed": "The experience subsides."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Laya.",
+   "directed": "Laya."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Withdrawal.",
+   "directed": "Withdrawal."
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now here’s the extraordinary claim.",
+   "directed": "Now here’s the extraordinary claim."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "These three movements can become occasions for recognising the fourth.",
+   "directed": "These three movements can become occasions for recognising the fourth."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Turya.",
+   "directed": "Turya."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The underlying conscious reality.",
+   "directed": "The underlying conscious reality."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja says that even when this reality is concealed by Māyā, it can flash forth for an instant.",
+   "directed": "And Kṣemarāja says that even when this reality is concealed by Māyā, it can flash forth for an instant."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Like lightning.",
+   "directed": "Like lightning."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vidyutvat.",
+   "directed": "Vidyutvat."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Like a flash of lightning.",
+   "directed": "Like a flash of lightning."
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now this is a gorgeous image.",
+   "directed": "Now this is a gorgeous image."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because sometimes an experience produces a sudden opening.",
+   "directed": "Because sometimes an experience produces a sudden opening."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A moment of extraordinary joy.",
+   "directed": "A moment of extraordinary joy."
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A feeling of fullness.",
+   "directed": "A feeling of fullness."
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A profound sense of wonder.",
+   "directed": "A profound sense of wonder."
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And for an instant, the ordinary structures of mental limitation can seem to relax.",
+   "directed": "And for an instant, the ordinary structures of mental limitation can seem to relax."
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja says the practitioner can use such moments to enliven their recognition of the supreme state.",
+   "directed": "Kṣemarāja says the practitioner can use such moments to enliven their recognition of the supreme state."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the aim is not merely to chase increasingly intense pleasures.",
+   "directed": "But the aim is not merely to chase increasingly intense pleasures."
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That would simply return us to rāga.",
+   "directed": "That would simply return us to rāga."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Wanting.",
+   "directed": "Wanting."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Clinging.",
+   "directed": "Clinging."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Searching for completeness in another object.",
+   "directed": "Searching for completeness in another object."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Rather, the yogi attends to the underlying conscious reality disclosed through the experience.",
+   "directed": "Rather, the yogi attends to the underlying conscious reality disclosed through the experience."
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now Kṣemarāja cites the Vijñānabhairava.",
+   "directed": "And now Kṣemarāja cites the Vijñānabhairava."
+  },
+  {
+   "id": "b77",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is particularly important because the examples are surprisingly diverse.",
+   "directed": "This is particularly important because the examples are surprisingly diverse."
+  },
+  {
+   "id": "b78",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He invokes practices involving intense delight, the joy of meeting a beloved person after a long separation, the pleasure of eating and drinking, the experience of music, and even the heightened states associated with sexual enjoyment.",
+   "directed": "He invokes practices involving intense delight, the joy of meeting a beloved person after a long separation, the pleasure of eating and drinking, the experience of music, and even the heightened states associated with sexual enjoyment."
+  },
+  {
+   "id": "b79",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Yes.",
+   "directed": "[short pause] Yes."
+  },
+  {
+   "id": "b80",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The traditional text really does include sensual and erotic examples.",
+   "directed": "The traditional text really does include sensual and erotic examples."
+  },
+  {
+   "id": "b81",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is Tantra.",
+   "directed": "This is Tantra."
+  },
+  {
+   "id": "b82",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re not going to pretend it exclusively concerns sitting quietly with a nice cup of herbal tea.",
+   "directed": "We’re not going to pretend it exclusively concerns sitting quietly with a nice cup of herbal tea."
+  },
+  {
+   "id": "b83",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the philosophical point isn’t simply indulgence.",
+   "directed": "But the philosophical point isn’t simply indulgence."
+  },
+  {
+   "id": "b84",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s the recognition of the conscious fullness that can become apparent through powerful experiences.",
+   "directed": "It’s the recognition of the conscious fullness that can become apparent through powerful experiences."
+  },
+  {
+   "id": "b85",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja also invokes the Spandakārikā on intense states such as anger, joy, uncertainty and rapid movement.",
+   "directed": "And Kṣemarāja also invokes the Spandakārikā on intense states such as anger, joy, uncertainty and rapid movement."
+  },
+  {
+   "id": "b86",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The common principle is that an unusual intensity of experience may disclose a deeper conscious power when approached through the appropriate contemplative understanding. Sanskrit & Trika Shaivism.",
+   "directed": "The common principle is that an unusual intensity of experience may disclose a deeper conscious power when approached through the appropriate contemplative understanding. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b87",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now let’s be precise.",
+   "directed": "Now let’s be precise."
+  },
+  {
+   "id": "b88",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is not a claim that every intense emotion automatically reveals enlightenment.",
+   "directed": "This is not a claim that every intense emotion automatically reveals enlightenment."
+  },
+  {
+   "id": "b89",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nor that sexual pleasure, anger or excitement are inherently liberating.",
+   "directed": "Nor that sexual pleasure, anger or excitement are inherently liberating."
+  },
+  {
+   "id": "b90",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The relevant point is the conscious standpoint of the practitioner and the possibility of recognising the source of experience.",
+   "directed": "The relevant point is the conscious standpoint of the practitioner and the possibility of recognising the source of experience."
+  },
+  {
+   "id": "b91",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Here’s the beauty of it.",
+   "directed": "Here’s the beauty of it."
+  },
+  {
+   "id": "b92",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Imagine listening to a piece of music that moves you profoundly.",
+   "directed": "Imagine listening to a piece of music that moves you profoundly."
+  },
+  {
+   "id": "b93",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "For a moment, the usual sense of being a separate subject evaluating an external object may become less prominent.",
+   "directed": "For a moment, the usual sense of being a separate subject evaluating an external object may become less prominent."
+  },
+  {
+   "id": "b94",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The experience becomes extraordinarily full.",
+   "directed": "The experience becomes extraordinarily full."
+  },
+  {
+   "id": "b95",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, you can chase that fullness as something produced exclusively by the external music.",
+   "directed": "Now, you can chase that fullness as something produced exclusively by the external music."
+  },
+  {
+   "id": "b96",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Or you can investigate the conscious reality through which the fullness is experienced.",
+   "directed": "Or you can investigate the conscious reality through which the fullness is experienced."
+  },
+  {
+   "id": "b97",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja’s argument points towards the latter.",
+   "directed": "And Kṣemarāja’s argument points towards the latter."
+  },
+  {
+   "id": "b98",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The delight becomes an occasion for recognising the source.",
+   "directed": "The delight becomes an occasion for recognising the source."
+  },
+  {
+   "id": "b99",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But it must not remain merely an isolated flash.",
+   "directed": "But it must not remain merely an isolated flash."
+  },
+  {
+   "id": "b100",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Remember the lightning.",
+   "directed": "Remember the lightning."
+  },
+  {
+   "id": "b101",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The momentary opening.",
+   "directed": "The momentary opening."
+  },
+  {
+   "id": "b102",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The practitioner is instructed to cultivate the continuity of recognition.",
+   "directed": "The practitioner is instructed to cultivate the continuity of recognition."
+  },
+  {
+   "id": "b103",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "To enliven the successive phases of experience with the conscious reality of turya.",
+   "directed": "To enliven the successive phases of experience with the conscious reality of turya."
+  },
+  {
+   "id": "b104",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is why the word anuprāṇana is so beautiful.",
+   "directed": "This is why the word anuprāṇana is so beautiful."
+  },
+  {
+   "id": "b105",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s not simply suppressing experience.",
+   "directed": "It’s not simply suppressing experience."
+  },
+  {
+   "id": "b106",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s enlivening it.",
+   "directed": "It’s enlivening it."
+  },
+  {
+   "id": "b107",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The ordinary processes of manifestation, maintenance and withdrawal become pervaded by recognition.",
+   "directed": "The ordinary processes of manifestation, maintenance and withdrawal become pervaded by recognition."
+  },
+  {
+   "id": "b108",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now we reach the next sūtra.",
+   "directed": "And now we reach the next sūtra."
+  },
+  {
+   "id": "b109",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which extends the method even further.",
+   "directed": "Which extends the method even further."
+  },
+  {
+   "id": "b110",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not merely to particular mental states.",
+   "directed": "Not merely to particular mental states."
+  },
+  {
+   "id": "b111",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not merely to extraordinary moments of joy.",
+   "directed": "Not merely to extraordinary moments of joy."
+  },
+  {
+   "id": "b112",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But to the body.",
+   "directed": "But to the body."
+  },
+  {
+   "id": "b113",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The senses.",
+   "directed": "The senses."
+  },
+  {
+   "id": "b114",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the external world.",
+   "directed": "And the external world."
+  },
+  {
+   "id": "b115",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because apparently no part of experience is permitted to remain outside this recognition.",
+   "directed": "Because apparently no part of experience is permitted to remain outside this recognition."
+  },
+  {
+   "id": "b116",
+   "section": "Śiva Sūtras 3.38",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The entire universe is getting spiritually saturated.",
+   "directed": "The entire universe is getting spiritually saturated."
+  }
+ ],
+ "totals": {
+  "blocks": 117,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 792,
+   "verse": 6
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 5.3,
+   "verse": 0.0
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

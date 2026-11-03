@@ -1,0 +1,863 @@
+{
+ "title": "Śiva Sūtras 3.43",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Śiva Sūtras 3.43",
+   "type": "title",
+   "voice": "granny",
+   "text": "Śiva Sūtras 3.43",
+   "directed": "[long pause] Śiva Sūtras 3.43"
+  },
+  {
+   "id": "b2",
+   "section": "Śiva Sūtras 3.43",
+   "type": "verse",
+   "voice": "verse",
+   "text": "नैसर्गिकः प्राणसम्बन्धः",
+   "directed": "[slowly] नैसर्गिकः प्राणसम्बन्धः"
+  },
+  {
+   "id": "b3",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Naisargikaḥ prāṇasambandhaḥ.",
+   "directed": "Naisargikaḥ prāṇasambandhaḥ."
+  },
+  {
+   "id": "b4",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The connection with vital energy is natural.",
+   "directed": "The connection with vital energy is natural."
+  },
+  {
+   "id": "b5",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Even When You’re Liberated, Your Body Keeps Breathing. Shocking, I Know.",
+   "directed": "Even When You’re Liberated, Your Body Keeps Breathing. Shocking, I Know."
+  },
+  {
+   "id": "b6",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now this is an extraordinarily subtle continuation.",
+   "directed": "Now this is an extraordinarily subtle continuation."
+  },
+  {
+   "id": "b7",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And we need to understand why Vasugupta places it here.",
+   "directed": "And we need to understand why Vasugupta places it here."
+  },
+  {
+   "id": "b8",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The previous sūtra described the liberated yogi as still clothed in the elements.",
+   "directed": "The previous sūtra described the liberated yogi as still clothed in the elements."
+  },
+  {
+   "id": "b9",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The body remains.",
+   "directed": "The body remains."
+  },
+  {
+   "id": "b10",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now the question arises:",
+   "directed": "[short pause] And now the question arises:"
+  },
+  {
+   "id": "b11",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Why?",
+   "directed": "Why?"
+  },
+  {
+   "id": "b12",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "If the fundamental conditions of bondage have been overcome, why does the embodied condition continue?",
+   "directed": "If the fundamental conditions of bondage have been overcome, why does the embodied condition continue?"
+  },
+  {
+   "id": "b13",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja answers:",
+   "directed": "[short pause] Kṣemarāja answers:"
+  },
+  {
+   "id": "b14",
+   "section": "Śiva Sūtras 3.43",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Naisargikaḥ prāṇasambandhaḥ.",
+   "directed": "[slowly] Naisargikaḥ prāṇasambandhaḥ."
+  },
+  {
+   "id": "b15",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The connection with prāṇa is natural.",
+   "directed": "The connection with prāṇa is natural."
+  },
+  {
+   "id": "b16",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s unpack it.",
+   "directed": "Let’s unpack it."
+  },
+  {
+   "id": "b17",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Naisargika — natural, belonging to nature, arising spontaneously.",
+   "directed": "Naisargika — natural, belonging to nature, arising spontaneously."
+  },
+  {
+   "id": "b18",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Prāṇa — vital energy, life-breath.",
+   "directed": "Prāṇa — vital energy, life-breath."
+  },
+  {
+   "id": "b19",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sambandha — connection, relationship.",
+   "directed": "Sambandha — connection, relationship."
+  },
+  {
+   "id": "b20",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But here’s the important point.",
+   "directed": "But here’s the important point."
+  },
+  {
+   "id": "b21",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣemarāja isn’t merely making the ordinary biological observation that living organisms breathe.",
+   "directed": "Kṣemarāja isn’t merely making the ordinary biological observation that living organisms breathe."
+  },
+  {
+   "id": "b22",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He’s interpreting prāṇa through the metaphysics of Śakti.",
+   "directed": "He’s interpreting prāṇa through the metaphysics of Śakti."
+  },
+  {
+   "id": "b23",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this becomes absolutely fascinating.",
+   "directed": "And this becomes absolutely fascinating."
+  },
+  {
+   "id": "b24",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The supreme consciousness possesses svātantrya.",
+   "directed": "The supreme consciousness possesses svātantrya."
+  },
+  {
+   "id": "b25",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Freedom.",
+   "directed": "Freedom."
+  },
+  {
+   "id": "b26",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Through that freedom, it manifests the universe.",
+   "directed": "Through that freedom, it manifests the universe."
+  },
+  {
+   "id": "b27",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And part of this manifestation involves adopting the standpoint of a contracted subject.",
+   "directed": "And part of this manifestation involves adopting the standpoint of a contracted subject."
+  },
+  {
+   "id": "b28",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A perceiver.",
+   "directed": "A perceiver."
+  },
+  {
+   "id": "b29",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A living individual.",
+   "directed": "A living individual."
+  },
+  {
+   "id": "b30",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And prāṇa, within the tantric framework, belongs to the manifestation of that living subjectivity.",
+   "directed": "And prāṇa, within the tantric framework, belongs to the manifestation of that living subjectivity."
+  },
+  {
+   "id": "b31",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, Kṣemarāja describes the Goddess of consciousness as wishing to manifest the wonderful diversity of the universe.",
+   "directed": "Now, Kṣemarāja describes the Goddess of consciousness as wishing to manifest the wonderful diversity of the universe."
+  },
+  {
+   "id": "b32",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And in doing so, she assumes a contracted aspect associated with vital activity.",
+   "directed": "And in doing so, she assumes a contracted aspect associated with vital activity."
+  },
+  {
+   "id": "b33",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The subject and its objects become manifest through this process.",
+   "directed": "The subject and its objects become manifest through this process."
+  },
+  {
+   "id": "b34",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The relation between consciousness and vital energy therefore belongs to the divine freedom of manifestation.",
+   "directed": "The relation between consciousness and vital energy therefore belongs to the divine freedom of manifestation."
+  },
+  {
+   "id": "b35",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s not necessarily an alien imprisonment imposed upon Śiva from outside.",
+   "directed": "It’s not necessarily an alien imprisonment imposed upon Śiva from outside."
+  },
+  {
+   "id": "b36",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is where the doctrine becomes extremely elegant.",
+   "directed": "And this is where the doctrine becomes extremely elegant."
+  },
+  {
+   "id": "b37",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The same power that makes embodied life possible can continue to operate after the yogi has recognised its source.",
+   "directed": "The same power that makes embodied life possible can continue to operate after the yogi has recognised its source."
+  },
+  {
+   "id": "b38",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The body remains alive.",
+   "directed": "The body remains alive."
+  },
+  {
+   "id": "b39",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Breathing continues.",
+   "directed": "Breathing continues."
+  },
+  {
+   "id": "b40",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The faculties function.",
+   "directed": "The faculties function."
+  },
+  {
+   "id": "b41",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the yogi is no longer fundamentally identified with them.",
+   "directed": "But the yogi is no longer fundamentally identified with them."
+  },
+  {
+   "id": "b42",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now Kṣemarāja brings in a very interesting tantric correspondence.",
+   "directed": "Now Kṣemarāja brings in a very interesting tantric correspondence."
+  },
+  {
+   "id": "b43",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The three principal subtle channels.",
+   "directed": "The three principal subtle channels."
+  },
+  {
+   "id": "b44",
+   "section": "Śiva Sūtras 3.43",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Iḍā.",
+   "directed": "[slowly] Iḍā."
+  },
+  {
+   "id": "b45",
+   "section": "Śiva Sūtras 3.43",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Piṅgalā.",
+   "directed": "[slowly] Piṅgalā."
+  },
+  {
+   "id": "b46",
+   "section": "Śiva Sūtras 3.43",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Suṣumṇā.",
+   "directed": "[slowly] Suṣumṇā."
+  },
+  {
+   "id": "b47",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And these are connected with symbolic structures involving:",
+   "directed": "[short pause] And these are connected with symbolic structures involving:"
+  },
+  {
+   "id": "b48",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Moon.",
+   "directed": "Moon."
+  },
+  {
+   "id": "b49",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sun.",
+   "directed": "Sun."
+  },
+  {
+   "id": "b50",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Fire.",
+   "directed": "Fire."
+  },
+  {
+   "id": "b51",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The known.",
+   "directed": "The known."
+  },
+  {
+   "id": "b52",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The knower.",
+   "directed": "The knower."
+  },
+  {
+   "id": "b53",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Knowledge.",
+   "directed": "Knowledge."
+  },
+  {
+   "id": "b54",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the three temporal dimensions:",
+   "directed": "[short pause] And the three temporal dimensions:"
+  },
+  {
+   "id": "b55",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Past.",
+   "directed": "Past."
+  },
+  {
+   "id": "b56",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Present.",
+   "directed": "Present."
+  },
+  {
+   "id": "b57",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Future.",
+   "directed": "Future."
+  },
+  {
+   "id": "b58",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, we have to keep two levels distinct.",
+   "directed": "Now, we have to keep two levels distinct."
+  },
+  {
+   "id": "b59",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "These are traditional tantric correspondences concerning the subtle body and cosmic manifestation.",
+   "directed": "These are traditional tantric correspondences concerning the subtle body and cosmic manifestation."
+  },
+  {
+   "id": "b60",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They should not be mistaken for anatomical structures verified by modern physiology.",
+   "directed": "They should not be mistaken for anatomical structures verified by modern physiology."
+  },
+  {
+   "id": "b61",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But within the tradition, their metaphysical significance is substantial.",
+   "directed": "But within the tradition, their metaphysical significance is substantial."
+  },
+  {
+   "id": "b62",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They express how the power of consciousness becomes articulated through vitality, temporality and differentiation.",
+   "directed": "They express how the power of consciousness becomes articulated through vitality, temporality and differentiation."
+  },
+  {
+   "id": "b63",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja goes even deeper.",
+   "directed": "And Kṣemarāja goes even deeper."
+  },
+  {
+   "id": "b64",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He relates prāṇa to the processes of emission and return.",
+   "directed": "He relates prāṇa to the processes of emission and return."
+  },
+  {
+   "id": "b65",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Visarga.",
+   "directed": "Visarga."
+  },
+  {
+   "id": "b66",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Emission.",
+   "directed": "Emission."
+  },
+  {
+   "id": "b67",
+   "section": "Śiva Sūtras 3.43",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Āpūraṇa.",
+   "directed": "[slowly] Āpūraṇa."
+  },
+  {
+   "id": "b68",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Filling, inward replenishment.",
+   "directed": "Filling, inward replenishment."
+  },
+  {
+   "id": "b69",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And he connects these with the continuous movement of life.",
+   "directed": "And he connects these with the continuous movement of life."
+  },
+  {
+   "id": "b70",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now imagine breathing.",
+   "directed": "Now imagine breathing."
+  },
+  {
+   "id": "b71",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "An outgoing movement.",
+   "directed": "An outgoing movement."
+  },
+  {
+   "id": "b72",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "An incoming movement.",
+   "directed": "An incoming movement."
+  },
+  {
+   "id": "b73",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "An apparent alternation.",
+   "directed": "An apparent alternation."
+  },
+  {
+   "id": "b74",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A rhythm.",
+   "directed": "A rhythm."
+  },
+  {
+   "id": "b75",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Within the tantric model, this rhythm symbolises the larger movement of manifestation and withdrawal.",
+   "directed": "Within the tantric model, this rhythm symbolises the larger movement of manifestation and withdrawal."
+  },
+  {
+   "id": "b76",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The same structure encountered throughout the text.",
+   "directed": "The same structure encountered throughout the text."
+  },
+  {
+   "id": "b77",
+   "section": "Śiva Sūtras 3.43",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Sṛṣṭi.",
+   "directed": "[slowly] Sṛṣṭi."
+  },
+  {
+   "id": "b78",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Manifestation.",
+   "directed": "Manifestation."
+  },
+  {
+   "id": "b79",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sthiti.",
+   "directed": "Sthiti."
+  },
+  {
+   "id": "b80",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Maintenance.",
+   "directed": "Maintenance."
+  },
+  {
+   "id": "b81",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Laya.",
+   "directed": "Laya."
+  },
+  {
+   "id": "b82",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Withdrawal.",
+   "directed": "Withdrawal."
+  },
+  {
+   "id": "b83",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now the cosmic process is understood through the rhythm of vitality.",
+   "directed": "Now the cosmic process is understood through the rhythm of vitality."
+  },
+  {
+   "id": "b84",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja cites the Svacchandatantra on the relationship between prāṇa and apāna, as well as the association of the phoneme ha with spontaneous vital movement.",
+   "directed": "And Kṣemarāja cites the Svacchandatantra on the relationship between prāṇa and apāna, as well as the association of the phoneme ha with spontaneous vital movement."
+  },
+  {
+   "id": "b85",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He also cites Bhaṭṭa Kallaṭa’s Tattvārthacintāmaṇi, where consciousness is described as becoming vital energy. Sanskrit & Trika Shaivism.",
+   "directed": "He also cites Bhaṭṭa Kallaṭa’s Tattvārthacintāmaṇi, where consciousness is described as becoming vital energy. Sanskrit & Trika Shaivism."
+  },
+  {
+   "id": "b86",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, here’s why this matters.",
+   "directed": "Now, here’s why this matters."
+  },
+  {
+   "id": "b87",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The body’s continued vitality doesn’t invalidate liberation.",
+   "directed": "The body’s continued vitality doesn’t invalidate liberation."
+  },
+  {
+   "id": "b88",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The natural connection with prāṇa can remain.",
+   "directed": "The natural connection with prāṇa can remain."
+  },
+  {
+   "id": "b89",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the yogi understands that connection through the supreme conscious reality.",
+   "directed": "But the yogi understands that connection through the supreme conscious reality."
+  },
+  {
+   "id": "b90",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is a very different perspective from assuming that liberation requires the abolition of ordinary biological life.",
+   "directed": "And this is a very different perspective from assuming that liberation requires the abolition of ordinary biological life."
+  },
+  {
+   "id": "b91",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The body can breathe.",
+   "directed": "The body can breathe."
+  },
+  {
+   "id": "b92",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The senses can function.",
+   "directed": "The senses can function."
+  },
+  {
+   "id": "b93",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The world can appear.",
+   "directed": "The world can appear."
+  },
+  {
+   "id": "b94",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And recognition can remain.",
+   "directed": "And recognition can remain."
+  },
+  {
+   "id": "b95",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The important distinction is not whether the vital processes continue.",
+   "directed": "The important distinction is not whether the vital processes continue."
+  },
+  {
+   "id": "b96",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s whether consciousness is still fundamentally misidentified with them.",
+   "directed": "It’s whether consciousness is still fundamentally misidentified with them."
+  },
+  {
+   "id": "b97",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which brings us to the penultimate sūtra.",
+   "directed": "Which brings us to the penultimate sūtra."
+  },
+  {
+   "id": "b98",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this one is exceptionally technical.",
+   "directed": "And this one is exceptionally technical."
+  },
+  {
+   "id": "b99",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because Vasugupta is going to discuss the subtle channels, the central reality, and the highest form of contemplative awareness.",
+   "directed": "Because Vasugupta is going to discuss the subtle channels, the central reality, and the highest form of contemplative awareness."
+  },
+  {
+   "id": "b100",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Kṣemarāja is going to make an extraordinary claim.",
+   "directed": "And Kṣemarāja is going to make an extraordinary claim."
+  },
+  {
+   "id": "b101",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That the yogi established in the innermost conscious reality no longer depends upon the distinctions between the left, right and central channels.",
+   "directed": "That the yogi established in the innermost conscious reality no longer depends upon the distinctions between the left, right and central channels."
+  },
+  {
+   "id": "b102",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In other words:",
+   "directed": "[short pause] In other words:"
+  },
+  {
+   "id": "b103",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "After an entire book discussing the metaphysical plumbing system, we’re finally going beyond the pipes.",
+   "directed": "After an entire book discussing the metaphysical plumbing system, we’re finally going beyond the pipes."
+  },
+  {
+   "id": "b104",
+   "section": "Śiva Sūtras 3.43",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Thank God.",
+   "directed": "Thank God."
+  }
+ ],
+ "totals": {
+  "blocks": 105,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 676,
+   "verse": 9
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 4.5,
+   "verse": 0.1
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}
