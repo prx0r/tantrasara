@@ -74,3 +74,15 @@ the diksa cue 3s later — her card never appeared while the word was
 spoken. Cause: spans assumed sparse cues. Fix: each span clamps at the
 next cue start (latest mention wins); coverage printout per build proves
 every cue got screen time.
+
+## M12. New storyboard blocks break positional overrides (2026-11-03)
+Extracting witness labels to meta inserted blocks mid-stream, shifting every
+downstream ID — 192 voice changes in ch13. Cause: overrides key on position.
+Fix: remap overrides by text identity (duplicates by occurrence order),
+rebuild green, diff same-text voices (only intended changes allowed).
+
+## M13. Cleanup deleted all paragraph breaks (2026-11-03)
+A blank-guard `continue` skipped empty lines — 10k lines collapsed, every
+paragraph merged. Cause: no diff --stat after the run. Fix: blanks append
+first, always; diff --stat after every cleanup; scope with `--only` so
+frozen chapters are never touched.
