@@ -154,8 +154,14 @@ def main():
     os.makedirs(fdir)
     entries, idx = [], 0
     # opener: thumbnail if it exists, else first verse hold (verse up fast)
+    # thumbnails live in assets/thumbnail/chNN.png (ch01 rainbow emblem law)
+    import re as _re2
     _first_verse = next(b for b in blocks if b['type'] == 'verse')
-    _THUMB = os.path.expanduser('~/tantrasara/assets/thumb_ch1.png')
+    _m = _re2.search(r'ch(\d+)', sys.argv[1])
+    _ch = _m.group(1) if _m else '01'
+    _THUMB = os.path.expanduser(f'~/tantrasara/assets/thumbnail/ch{_ch}.png')
+    if not os.path.exists(_THUMB):
+        _THUMB = os.path.expanduser('~/tantrasara/assets/thumb_ch1.png')  # legacy fallback
     if os.path.exists(_THUMB):
         _tb = Image.open(_THUMB).convert('RGB')
         _tb.thumbnail((1400, 730), Image.LANCZOS)

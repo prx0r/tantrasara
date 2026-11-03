@@ -1,0 +1,4921 @@
+{
+ "title": "Tantrasāra — Chapter 15",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "title",
+   "voice": "granny",
+   "text": "Tantrasāra — Chapter 15",
+   "directed": "[long pause] Tantrasāra — Chapter 15"
+  },
+  {
+   "id": "b2",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "पञ्चदशमाह्निकम् — Pañcadaśam Āhnikam",
+   "directed": "[slowly] पञ्चदशमाह्निकम् — Pañcadaśam Āhnikam"
+  },
+  {
+   "id": "b3",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Deathbed Initiation: or, how Śiva decided even the Grim Reaper wasn’t getting the final bloody word.",
+   "directed": "The Deathbed Initiation: or, how Śiva decided even the Grim Reaper wasn’t getting the final bloody word."
+  },
+  {
+   "id": "b4",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Right then.",
+   "directed": "[short pause] Right then."
+  },
+  {
+   "id": "b5",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Last chapter.",
+   "directed": "Last chapter."
+  },
+  {
+   "id": "b6",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Quite a ceremony, wasn’t it?",
+   "directed": "Quite a ceremony, wasn’t it?"
+  },
+  {
+   "id": "b7",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We built a magnificent trident maṇḍala.",
+   "directed": "We built a magnificent trident maṇḍala."
+  },
+  {
+   "id": "b8",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Installed Parā, Parāparā and Aparā.",
+   "directed": "Installed Parā, Parāparā and Aparā."
+  },
+  {
+   "id": "b9",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Consecrated the entire universe.",
+   "directed": "Consecrated the entire universe."
+  },
+  {
+   "id": "b10",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Performed offerings to the deities.",
+   "directed": "Performed offerings to the deities."
+  },
+  {
+   "id": "b11",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Brought the disciple into the sacred space.",
+   "directed": "Brought the disciple into the sacred space."
+  },
+  {
+   "id": "b12",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Purified all six cosmic pathways.",
+   "directed": "Purified all six cosmic pathways."
+  },
+  {
+   "id": "b13",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And eventually united the disciple’s consciousness with the supreme Lord.",
+   "directed": "And eventually united the disciple’s consciousness with the supreme Lord."
+  },
+  {
+   "id": "b14",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Absolutely magnificent.",
+   "directed": "Absolutely magnificent."
+  },
+  {
+   "id": "b15",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But you’ll remember something important.",
+   "directed": "But you’ll remember something important."
+  },
+  {
+   "id": "b16",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "At the very end, I made an exception.",
+   "directed": "At the very end, I made an exception."
+  },
+  {
+   "id": "b17",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The currently operative karma wasn’t destroyed.",
+   "directed": "The currently operative karma wasn’t destroyed."
+  },
+  {
+   "id": "b18",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Vartamāna-karma.",
+   "directed": "[slowly] Vartamāna-karma."
+  },
+  {
+   "id": "b19",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The karma sustaining the present embodiment.",
+   "directed": "The karma sustaining the present embodiment."
+  },
+  {
+   "id": "b20",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So the disciple could continue living.",
+   "directed": "So the disciple could continue living."
+  },
+  {
+   "id": "b21",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They could eat.",
+   "directed": "They could eat."
+  },
+  {
+   "id": "b22",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sleep.",
+   "directed": "Sleep."
+  },
+  {
+   "id": "b23",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Study the scriptures.",
+   "directed": "Study the scriptures."
+  },
+  {
+   "id": "b24",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Practise their mantras.",
+   "directed": "Practise their mantras."
+  },
+  {
+   "id": "b25",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Have a cup of tea.",
+   "directed": "Have a cup of tea."
+  },
+  {
+   "id": "b26",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And eventually, when the body’s natural course was complete, attain the result promised by initiation.",
+   "directed": "And eventually, when the body’s natural course was complete, attain the result promised by initiation."
+  },
+  {
+   "id": "b27",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Lovely.",
+   "directed": "[short pause] Lovely."
+  },
+  {
+   "id": "b28",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But now imagine someone approaches us with a rather different situation.",
+   "directed": "But now imagine someone approaches us with a rather different situation."
+  },
+  {
+   "id": "b29",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Their life is coming to an end.",
+   "directed": "Their life is coming to an end."
+  },
+  {
+   "id": "b30",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They are already dying.",
+   "directed": "They are already dying."
+  },
+  {
+   "id": "b31",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And suddenly, right at that moment, something extraordinary occurs.",
+   "directed": "And suddenly, right at that moment, something extraordinary occurs."
+  },
+  {
+   "id": "b32",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Śaktipāta.",
+   "directed": "[slowly] Śaktipāta."
+  },
+  {
+   "id": "b33",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The descent of divine power.",
+   "directed": "The descent of divine power."
+  },
+  {
+   "id": "b34",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, are we seriously going to tell this person:",
+   "directed": "[short pause] Now, are we seriously going to tell this person:"
+  },
+  {
+   "id": "b35",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Ah, terribly sorry, mate. You’ve missed the application deadline.”",
+   "directed": "[short pause] “Ah, terribly sorry, mate. You’ve missed the application deadline.”"
+  },
+  {
+   "id": "b36",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Initiations take three working days.”",
+   "directed": "[short pause] “Initiations take three working days.”"
+  },
+  {
+   "id": "b37",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Perhaps come back in your next incarnation.”",
+   "directed": "[short pause] “Perhaps come back in your next incarnation.”"
+  },
+  {
+   "id": "b38",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Absolutely not.",
+   "directed": "[short pause] Absolutely not."
+  },
+  {
+   "id": "b39",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because Abhinavagupta has a specific rite for this.",
+   "directed": "Because Abhinavagupta has a specific rite for this."
+  },
+  {
+   "id": "b40",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And it’s called:",
+   "directed": "[short pause] And it’s called:"
+  },
+  {
+   "id": "b41",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Samutkramaṇa-dīkṣā.",
+   "directed": "[slowly] Samutkramaṇa-dīkṣā."
+  },
+  {
+   "id": "b42",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s understand that word.",
+   "directed": "Let’s understand that word."
+  },
+  {
+   "id": "b43",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Sam-ut-kram-aṇa.",
+   "directed": "[slowly] Sam-ut-kram-aṇa."
+  },
+  {
+   "id": "b44",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The act of proceeding or passing upward and out.",
+   "directed": "The act of proceeding or passing upward and out."
+  },
+  {
+   "id": "b45",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And dīkṣā — initiation.",
+   "directed": "And dīkṣā — initiation."
+  },
+  {
+   "id": "b46",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Initiation of departure or ascent.",
+   "directed": "Initiation of departure or ascent."
+  },
+  {
+   "id": "b47",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, I should make something clear before we enter the ritual.",
+   "directed": "Now, I should make something clear before we enter the ritual."
+  },
+  {
+   "id": "b48",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is a historical tantric death-related rite, and its Sanskrit explicitly links the ceremony to the departure of the individual’s life-consciousness. We can study its metaphysics without treating it as a safe method of hastening death. Nothing in this narration is a practical instruction to manipulate someone’s breathing, vital points or dying process.",
+   "directed": "This is a historical tantric death-related rite, and its Sanskrit explicitly links the ceremony to the departure of the individual’s life-consciousness. We can study its metaphysics without treating it as a safe method of hastening death. Nothing in this narration is a practical instruction to manipulate someone’s breathing, vital points or dying process."
+  },
+  {
+   "id": "b49",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Right.",
+   "directed": "[short pause] Right."
+  },
+  {
+   "id": "b50",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s begin.",
+   "directed": "Let’s begin."
+  },
+  {
+   "id": "b51",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "1. Śaktipāta can happen when someone’s already dying\nHere’s the opening Sanskrit:",
+   "directed": "[short pause] 1. Śaktipāta can happen when someone’s already dying\nHere’s the opening Sanskrit:"
+  },
+  {
+   "id": "b52",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "figure",
+   "voice": "none",
+   "text": "ATTESTED PROSE — 15.1",
+   "directed": "ATTESTED PROSE — 15.1"
+  },
+  {
+   "id": "b53",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "यदा पुनरासन्नमरणस्य स्वयं वा बन्धुमुखेन शक्तिपात उपजायते तदास्मै सद्यः समुत्क्रमणदीक्षां कुर्यात्।\nYadā punar āsannamaraṇasya svayaṃ vā bandhumukhena śaktipāta upajāyate tadāsmai sadyaḥ samutkramaṇadīkṣāṃ kuryāt.",
+   "directed": "[slowly] यदा पुनरासन्नमरणस्य स्वयं वा बन्धुमुखेन शक्तिपात उपजायते तदास्मै सद्यः समुत्क्रमणदीक्षां कुर्यात्।\nYadā punar āsannamaraṇasya svayaṃ vā bandhumukhena śaktipāta upajāyate tadāsmai sadyaḥ samutkramaṇadīkṣāṃ kuryāt."
+  },
+  {
+   "id": "b54",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now let’s break this down.",
+   "directed": "Now let’s break this down."
+  },
+  {
+   "id": "b55",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Āsanna-maraṇa.",
+   "directed": "[slowly] Āsanna-maraṇa."
+  },
+  {
+   "id": "b56",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Approaching death.",
+   "directed": "Approaching death."
+  },
+  {
+   "id": "b57",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Svayam.",
+   "directed": "Svayam."
+  },
+  {
+   "id": "b58",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "By itself, spontaneously.",
+   "directed": "By itself, spontaneously."
+  },
+  {
+   "id": "b59",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Bandhu-mukhena.",
+   "directed": "Bandhu-mukhena."
+  },
+  {
+   "id": "b60",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Through the agency or mediation of a relative.",
+   "directed": "Through the agency or mediation of a relative."
+  },
+  {
+   "id": "b61",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Śaktipāta upajāyate.",
+   "directed": "[slowly] Śaktipāta upajāyate."
+  },
+  {
+   "id": "b62",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The descent of power arises.",
+   "directed": "The descent of power arises."
+  },
+  {
+   "id": "b63",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And then:",
+   "directed": "[short pause] And then:"
+  },
+  {
+   "id": "b64",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Sadyaḥ.",
+   "directed": "[slowly] Sadyaḥ."
+  },
+  {
+   "id": "b65",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Immediately.",
+   "directed": "Immediately."
+  },
+  {
+   "id": "b66",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The guru is to perform the initiation without delay.",
+   "directed": "The guru is to perform the initiation without delay."
+  },
+  {
+   "id": "b67",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now that’s fascinating.",
+   "directed": "Now that’s fascinating."
+  },
+  {
+   "id": "b68",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because someone can apparently receive śaktipāta at the very end of life.",
+   "directed": "Because someone can apparently receive śaktipāta at the very end of life."
+  },
+  {
+   "id": "b69",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Perhaps the person has never previously received the full initiation.",
+   "directed": "Perhaps the person has never previously received the full initiation."
+  },
+  {
+   "id": "b70",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Perhaps their whole life has been spent in ordinary concerns.",
+   "directed": "Perhaps their whole life has been spent in ordinary concerns."
+  },
+  {
+   "id": "b71",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Perhaps they’ve never studied a line of the Tantrāloka.",
+   "directed": "Perhaps they’ve never studied a line of the Tantrāloka."
+  },
+  {
+   "id": "b72",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not even the introduction.",
+   "directed": "Not even the introduction."
+  },
+  {
+   "id": "b73",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And suddenly, as death approaches, the divine power descends.",
+   "directed": "And suddenly, as death approaches, the divine power descends."
+  },
+  {
+   "id": "b74",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, remember Chapter Eleven.",
+   "directed": "Now, remember Chapter Eleven."
+  },
+  {
+   "id": "b75",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We established that śaktipāta isn’t ultimately produced by karma.",
+   "directed": "We established that śaktipāta isn’t ultimately produced by karma."
+  },
+  {
+   "id": "b76",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It isn’t a reward distributed according to some cosmic accounting system.",
+   "directed": "It isn’t a reward distributed according to some cosmic accounting system."
+  },
+  {
+   "id": "b77",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s the manifestation of Śiva’s unrestricted freedom.",
+   "directed": "It’s the manifestation of Śiva’s unrestricted freedom."
+  },
+  {
+   "id": "b78",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Svātantrya.",
+   "directed": "[slowly] Svātantrya."
+  },
+  {
+   "id": "b79",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So there’s no metaphysical reason why the end of bodily life should make recognition impossible.",
+   "directed": "So there’s no metaphysical reason why the end of bodily life should make recognition impossible."
+  },
+  {
+   "id": "b80",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The freedom of Śiva is not subordinate to the body’s remaining lifespan.",
+   "directed": "The freedom of Śiva is not subordinate to the body’s remaining lifespan."
+  },
+  {
+   "id": "b81",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that explains why this chapter comes directly after the putraka initiation.",
+   "directed": "And that explains why this chapter comes directly after the putraka initiation."
+  },
+  {
+   "id": "b82",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The previous rite provides the fuller ritual framework.",
+   "directed": "The previous rite provides the fuller ritual framework."
+  },
+  {
+   "id": "b83",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This one addresses the special condition of approaching death.",
+   "directed": "This one addresses the special condition of approaching death."
+  },
+  {
+   "id": "b84",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But here’s the important thing.",
+   "directed": "But here’s the important thing."
+  },
+  {
+   "id": "b85",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re not merely saying pleasant words at someone’s bedside.",
+   "directed": "We’re not merely saying pleasant words at someone’s bedside."
+  },
+  {
+   "id": "b86",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The original text prescribes an esoteric rite understood to effect the departure of the individual life-principle.",
+   "directed": "The original text prescribes an esoteric rite understood to effect the departure of the individual life-principle."
+  },
+  {
+   "id": "b87",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the deity central to that process?",
+   "directed": "And the deity central to that process?"
+  },
+  {
+   "id": "b88",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Well.",
+   "directed": "Well."
+  },
+  {
+   "id": "b89",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "She’s absolutely terrifying.",
+   "directed": "She’s absolutely terrifying."
+  },
+  {
+   "id": "b90",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In the most magnificent tantric sense.",
+   "directed": "In the most magnificent tantric sense."
+  },
+  {
+   "id": "b91",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "2. Kālarātrī — the goddess who cuts the bonds\nNow we meet:",
+   "directed": "[short pause] 2. Kālarātrī — the goddess who cuts the bonds\nNow we meet:"
+  },
+  {
+   "id": "b92",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Bhagavatī Kālarātrī.",
+   "directed": "[slowly] Bhagavatī Kālarātrī."
+  },
+  {
+   "id": "b93",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "भगवती कालरात्री",
+   "directed": "[slowly] भगवती कालरात्री"
+  },
+  {
+   "id": "b94",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The venerable Goddess Kālarātrī.",
+   "directed": "The venerable Goddess Kālarātrī."
+  },
+  {
+   "id": "b95",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s break down her name.",
+   "directed": "Let’s break down her name."
+  },
+  {
+   "id": "b96",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kāla — time, with associations of mortality and destruction.",
+   "directed": "Kāla — time, with associations of mortality and destruction."
+  },
+  {
+   "id": "b97",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Rātrī — night.",
+   "directed": "Rātrī — night."
+  },
+  {
+   "id": "b98",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Night of Time.",
+   "directed": "The Night of Time."
+  },
+  {
+   "id": "b99",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, that’s a rather extraordinary deity to encounter at the threshold of death.",
+   "directed": "Now, that’s a rather extraordinary deity to encounter at the threshold of death."
+  },
+  {
+   "id": "b100",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And she has a particular epithet here.",
+   "directed": "And she has a particular epithet here."
+  },
+  {
+   "id": "b101",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Marmakartanī.",
+   "directed": "[slowly] Marmakartanī."
+  },
+  {
+   "id": "b102",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "मर्मकर्तनी",
+   "directed": "[slowly] मर्मकर्तनी"
+  },
+  {
+   "id": "b103",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Marma — a vital or vulnerable point, a hidden junction, or something essential.",
+   "directed": "Marma — a vital or vulnerable point, a hidden junction, or something essential."
+  },
+  {
+   "id": "b104",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kartanī — a cutter.",
+   "directed": "Kartanī — a cutter."
+  },
+  {
+   "id": "b105",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So:",
+   "directed": "[short pause] So:"
+  },
+  {
+   "id": "b106",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "She who cuts the vital junctions.",
+   "directed": "She who cuts the vital junctions."
+  },
+  {
+   "id": "b107",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, here’s what the Sanskrit says happens within the rite.",
+   "directed": "Now, here’s what the Sanskrit says happens within the rite."
+  },
+  {
+   "id": "b108",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "First, the six cosmic pathways are installed in the disciple.",
+   "directed": "First, the six cosmic pathways are installed in the disciple."
+  },
+  {
+   "id": "b109",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Samasta-adhvan.",
+   "directed": "Samasta-adhvan."
+  },
+  {
+   "id": "b110",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "All six.",
+   "directed": "All six."
+  },
+  {
+   "id": "b111",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Remember them?",
+   "directed": "Remember them?"
+  },
+  {
+   "id": "b112",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Bhuvana.",
+   "directed": "Bhuvana."
+  },
+  {
+   "id": "b113",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Tattva.",
+   "directed": "Tattva."
+  },
+  {
+   "id": "b114",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Kalā.",
+   "directed": "[slowly] Kalā."
+  },
+  {
+   "id": "b115",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Pada.",
+   "directed": "Pada."
+  },
+  {
+   "id": "b116",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Mantra.",
+   "directed": "Mantra."
+  },
+  {
+   "id": "b117",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Varṇa.",
+   "directed": "[slowly] Varṇa."
+  },
+  {
+   "id": "b118",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The worlds.",
+   "directed": "The worlds."
+  },
+  {
+   "id": "b119",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The principles.",
+   "directed": "The principles."
+  },
+  {
+   "id": "b120",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The cosmic divisions.",
+   "directed": "The cosmic divisions."
+  },
+  {
+   "id": "b121",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The expressions.",
+   "directed": "The expressions."
+  },
+  {
+   "id": "b122",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The mantras.",
+   "directed": "The mantras."
+  },
+  {
+   "id": "b123",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The phonemes.",
+   "directed": "The phonemes."
+  },
+  {
+   "id": "b124",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The whole bloody universe.",
+   "directed": "The whole bloody universe."
+  },
+  {
+   "id": "b125",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Again.",
+   "directed": "Again."
+  },
+  {
+   "id": "b126",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because apparently you can’t initiate someone in Trika without first giving them the entire cosmos to deal with.",
+   "directed": "Because apparently you can’t initiate someone in Trika without first giving them the entire cosmos to deal with."
+  },
+  {
+   "id": "b127",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And then the guru purifies this sixfold manifestation successively.",
+   "directed": "And then the guru purifies this sixfold manifestation successively."
+  },
+  {
+   "id": "b128",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Kramaśaḥ śodhayitvā.",
+   "directed": "[slowly] Kramaśaḥ śodhayitvā."
+  },
+  {
+   "id": "b129",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "After that, Kālarātrī is ritually installed as the power that severs the bonds associated with the vital junctions.",
+   "directed": "After that, Kālarātrī is ritually installed as the power that severs the bonds associated with the vital junctions."
+  },
+  {
+   "id": "b130",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Marma-pāśa.",
+   "directed": "[slowly] Marma-pāśa."
+  },
+  {
+   "id": "b131",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, we’ve encountered pāśa before.",
+   "directed": "Now, we’ve encountered pāśa before."
+  },
+  {
+   "id": "b132",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A bond.",
+   "directed": "A bond."
+  },
+  {
+   "id": "b133",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A fetter.",
+   "directed": "A fetter."
+  },
+  {
+   "id": "b134",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Something that restricts the individual.",
+   "directed": "Something that restricts the individual."
+  },
+  {
+   "id": "b135",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But here the bonds are associated specifically with the vital structure of embodiment.",
+   "directed": "But here the bonds are associated specifically with the vital structure of embodiment."
+  },
+  {
+   "id": "b136",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the text attributes their severing to Kālarātrī.",
+   "directed": "And the text attributes their severing to Kālarātrī."
+  },
+  {
+   "id": "b137",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, don’t imagine the point is ordinary anatomical surgery.",
+   "directed": "Now, don’t imagine the point is ordinary anatomical surgery."
+  },
+  {
+   "id": "b138",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re dealing with a tantric ritual theory of the life-principle and its relation to the body’s subtle structures.",
+   "directed": "We’re dealing with a tantric ritual theory of the life-principle and its relation to the body’s subtle structures."
+  },
+  {
+   "id": "b139",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nevertheless, the rite’s intended effect is directly connected with death and departure, not merely psychological relaxation.",
+   "directed": "Nevertheless, the rite’s intended effect is directly connected with death and departure, not merely psychological relaxation."
+  },
+  {
+   "id": "b140",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And after the removal of these bonds, the disciple’s consciousness is described as being established at:",
+   "directed": "[short pause] And after the removal of these bonds, the disciple’s consciousness is described as being established at:"
+  },
+  {
+   "id": "b141",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Brahmarandhra.",
+   "directed": "Brahmarandhra."
+  },
+  {
+   "id": "b142",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "ब्रह्मरन्ध्र",
+   "directed": "[slowly] ब्रह्मरन्ध्र"
+  },
+  {
+   "id": "b143",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The cranial aperture of Brahmā.",
+   "directed": "The cranial aperture of Brahmā."
+  },
+  {
+   "id": "b144",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The uppermost opening in the traditional subtle-body account.",
+   "directed": "The uppermost opening in the traditional subtle-body account."
+  },
+  {
+   "id": "b145",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, that should sound familiar from our earlier chapters.",
+   "directed": "Now, that should sound familiar from our earlier chapters."
+  },
+  {
+   "id": "b146",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’ve discussed subtle upper centres.",
+   "directed": "We’ve discussed subtle upper centres."
+  },
+  {
+   "id": "b147",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The dvādaśānta.",
+   "directed": "The dvādaśānta."
+  },
+  {
+   "id": "b148",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The ascent of vital power.",
+   "directed": "The ascent of vital power."
+  },
+  {
+   "id": "b149",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The dissolution of differentiated consciousness.",
+   "directed": "The dissolution of differentiated consciousness."
+  },
+  {
+   "id": "b150",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the supreme reality beyond ordinary spatial limitation.",
+   "directed": "And the supreme reality beyond ordinary spatial limitation."
+  },
+  {
+   "id": "b151",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But here the symbolism has a particular function.",
+   "directed": "But here the symbolism has a particular function."
+  },
+  {
+   "id": "b152",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The individual life-consciousness is ritually directed toward departure.",
+   "directed": "The individual life-consciousness is ritually directed toward departure."
+  },
+  {
+   "id": "b153",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And then comes the concluding offering.",
+   "directed": "And then comes the concluding offering."
+  },
+  {
+   "id": "b154",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which is where the entire ceremony reaches its decisive moment.",
+   "directed": "Which is where the entire ceremony reaches its decisive moment."
+  },
+  {
+   "id": "b155",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "3. The final offering — and there is no coming back for another lifetime\nRight.",
+   "directed": "3. The final offering — and there is no coming back for another lifetime\nRight."
+  },
+  {
+   "id": "b156",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’ve purified the cosmic pathways.",
+   "directed": "We’ve purified the cosmic pathways."
+  },
+  {
+   "id": "b157",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kālarātrī has been invoked.",
+   "directed": "Kālarātrī has been invoked."
+  },
+  {
+   "id": "b158",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The ritual has addressed the bonds associated with embodied existence.",
+   "directed": "The ritual has addressed the bonds associated with embodied existence."
+  },
+  {
+   "id": "b159",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now comes:",
+   "directed": "[short pause] And now comes:"
+  },
+  {
+   "id": "b160",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Pūrṇāhuti.",
+   "directed": "[slowly] Pūrṇāhuti."
+  },
+  {
+   "id": "b161",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "पूर्णाहुति",
+   "directed": "[slowly] पूर्णाहुति"
+  },
+  {
+   "id": "b162",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The complete oblation.",
+   "directed": "The complete oblation."
+  },
+  {
+   "id": "b163",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Remember Chapter Fourteen?",
+   "directed": "Remember Chapter Fourteen?"
+  },
+  {
+   "id": "b164",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The fire offering that completed the purification of the tattvas?",
+   "directed": "The fire offering that completed the purification of the tattvas?"
+  },
+  {
+   "id": "b165",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Well, here the concluding oblation serves a particularly decisive purpose.",
+   "directed": "Well, here the concluding oblation serves a particularly decisive purpose."
+  },
+  {
+   "id": "b166",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Yojanikā.",
+   "directed": "[slowly] Yojanikā."
+  },
+  {
+   "id": "b167",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Joining the disciple to the intended state.",
+   "directed": "Joining the disciple to the intended state."
+  },
+  {
+   "id": "b168",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Abhinavagupta says that at the conclusion of the offering, the departed individual becomes non-different from Paramaśiva.",
+   "directed": "And Abhinavagupta says that at the conclusion of the offering, the departed individual becomes non-different from Paramaśiva."
+  },
+  {
+   "id": "b169",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Paramaśiva-abhinnaḥ.",
+   "directed": "[slowly] Paramaśiva-abhinnaḥ."
+  },
+  {
+   "id": "b170",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now let’s appreciate how strong that claim actually is.",
+   "directed": "Now let’s appreciate how strong that claim actually is."
+  },
+  {
+   "id": "b171",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The disciple isn’t merely going to a particularly pleasant heavenly world.",
+   "directed": "The disciple isn’t merely going to a particularly pleasant heavenly world."
+  },
+  {
+   "id": "b172",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not simply becoming a slightly more impressive celestial being.",
+   "directed": "Not simply becoming a slightly more impressive celestial being."
+  },
+  {
+   "id": "b173",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not being transferred to a deluxe apartment in Brahmaloka.",
+   "directed": "Not being transferred to a deluxe apartment in Brahmaloka."
+  },
+  {
+   "id": "b174",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The intended outcome is:",
+   "directed": "[short pause] The intended outcome is:"
+  },
+  {
+   "id": "b175",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Non-difference from supreme Śiva.",
+   "directed": "Non-difference from supreme Śiva."
+  },
+  {
+   "id": "b176",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And in this particular death rite, the text describes the individual life-consciousness departing at the completion of the oblation.",
+   "directed": "And in this particular death rite, the text describes the individual life-consciousness departing at the completion of the oblation."
+  },
+  {
+   "id": "b177",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Jīvo niṣkrāntaḥ.",
+   "directed": "[slowly] Jīvo niṣkrāntaḥ."
+  },
+  {
+   "id": "b178",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The individual has departed.",
+   "directed": "The individual has departed."
+  },
+  {
+   "id": "b179",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, this is more than a metaphor for an expanded state of meditation. The rite is expressly connected with the end of embodied life, and historical accounts of it raise serious questions about ritual intervention in dying.",
+   "directed": "Now, this is more than a metaphor for an expanded state of meditation. The rite is expressly connected with the end of embodied life, and historical accounts of it raise serious questions about ritual intervention in dying."
+  },
+  {
+   "id": "b180",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So this is a doctrine to understand, not a procedure to attempt.",
+   "directed": "So this is a doctrine to understand, not a procedure to attempt."
+  },
+  {
+   "id": "b181",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But within the theology, the point is extraordinary.",
+   "directed": "But within the theology, the point is extraordinary."
+  },
+  {
+   "id": "b182",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Remember what we established at the beginning of the Tantrasāra?",
+   "directed": "Remember what we established at the beginning of the Tantrasāra?"
+  },
+  {
+   "id": "b183",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Your essential nature isn’t the body.",
+   "directed": "Your essential nature isn’t the body."
+  },
+  {
+   "id": "b184",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The body is a manifestation of consciousness.",
+   "directed": "The body is a manifestation of consciousness."
+  },
+  {
+   "id": "b185",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the contracted individual is Śiva appearing through limitation.",
+   "directed": "And the contracted individual is Śiva appearing through limitation."
+  },
+  {
+   "id": "b186",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So when the limiting bonds are overcome, the result isn’t the creation of a new divine substance.",
+   "directed": "So when the limiting bonds are overcome, the result isn’t the creation of a new divine substance."
+  },
+  {
+   "id": "b187",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s the ending of the limited condition.",
+   "directed": "It’s the ending of the limited condition."
+  },
+  {
+   "id": "b188",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And because the person is at the threshold of death, the rite is directed toward that transition rather than the continuation of ordinary embodied life.",
+   "directed": "And because the person is at the threshold of death, the rite is directed toward that transition rather than the continuation of ordinary embodied life."
+  },
+  {
+   "id": "b189",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, here’s a question.",
+   "directed": "Now, here’s a question."
+  },
+  {
+   "id": "b190",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“What if the dying person doesn’t actually want immediate supreme liberation?”",
+   "directed": "[short pause] “What if the dying person doesn’t actually want immediate supreme liberation?”"
+  },
+  {
+   "id": "b191",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ah.",
+   "directed": "Ah."
+  },
+  {
+   "id": "b192",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Interesting.",
+   "directed": "Interesting."
+  },
+  {
+   "id": "b193",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because some people still desire:",
+   "directed": "[short pause] Because some people still desire:"
+  },
+  {
+   "id": "b194",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Bhoga.",
+   "directed": "Bhoga."
+  },
+  {
+   "id": "b195",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Experience.",
+   "directed": "Experience."
+  },
+  {
+   "id": "b196",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Abhinavagupta has accounted for that.",
+   "directed": "And Abhinavagupta has accounted for that."
+  },
+  {
+   "id": "b197",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "4. What if they still want one last cosmic holiday?\nRight.",
+   "directed": "4. What if they still want one last cosmic holiday?\nRight."
+  },
+  {
+   "id": "b198",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Bubhukṣu.",
+   "directed": "[slowly] Bubhukṣu."
+  },
+  {
+   "id": "b199",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Someone who desires enjoyment or experience.",
+   "directed": "Someone who desires enjoyment or experience."
+  },
+  {
+   "id": "b200",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, remember the distinction from Chapter Fourteen.",
+   "directed": "Now, remember the distinction from Chapter Fourteen."
+  },
+  {
+   "id": "b201",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A mumukṣu desires liberation.",
+   "directed": "A mumukṣu desires liberation."
+  },
+  {
+   "id": "b202",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A bubhukṣu desires experience.",
+   "directed": "A bubhukṣu desires experience."
+  },
+  {
+   "id": "b203",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the difference matters because the ritual is directed toward different outcomes.",
+   "directed": "And the difference matters because the ritual is directed toward different outcomes."
+  },
+  {
+   "id": "b204",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "For the enjoyment-seeker, Abhinavagupta prescribes a second complete oblation.",
+   "directed": "For the enjoyment-seeker, Abhinavagupta prescribes a second complete oblation."
+  },
+  {
+   "id": "b205",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Dvitīyā pūrṇāhutiḥ.",
+   "directed": "[slowly] Dvitīyā pūrṇāhutiḥ."
+  },
+  {
+   "id": "b206",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And what does that second oblation accomplish?",
+   "directed": "And what does that second oblation accomplish?"
+  },
+  {
+   "id": "b207",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The disciple is joined with:",
+   "directed": "[short pause] The disciple is joined with:"
+  },
+  {
+   "id": "b208",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Bhoga-sthāna.",
+   "directed": "[slowly] Bhoga-sthāna."
+  },
+  {
+   "id": "b209",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The realm or condition of the desired experience.",
+   "directed": "The realm or condition of the desired experience."
+  },
+  {
+   "id": "b210",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now imagine someone approaching the guru at the end of life.",
+   "directed": "Now imagine someone approaching the guru at the end of life."
+  },
+  {
+   "id": "b211",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Guruji.”",
+   "directed": "[short pause] “Guruji.”"
+  },
+  {
+   "id": "b212",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Yes?”",
+   "directed": "[short pause] “Yes?”"
+  },
+  {
+   "id": "b213",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“I’d like liberation.”",
+   "directed": "[short pause] “I’d like liberation.”"
+  },
+  {
+   "id": "b214",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Very good.”",
+   "directed": "[short pause] “Very good.”"
+  },
+  {
+   "id": "b215",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“But before that, could I perhaps experience a magnificent divine world?”",
+   "directed": "[short pause] “But before that, could I perhaps experience a magnificent divine world?”"
+  },
+  {
+   "id": "b216",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ah.",
+   "directed": "Ah."
+  },
+  {
+   "id": "b217",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There it is.",
+   "directed": "There it is."
+  },
+  {
+   "id": "b218",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Still making requests.",
+   "directed": "Still making requests."
+  },
+  {
+   "id": "b219",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Even on the way out.",
+   "directed": "Even on the way out."
+  },
+  {
+   "id": "b220",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, Abhinavagupta doesn’t simply dismiss the possibility.",
+   "directed": "Now, Abhinavagupta doesn’t simply dismiss the possibility."
+  },
+  {
+   "id": "b221",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He distinguishes the intended result and assigns a further ritual action to it.",
+   "directed": "He distinguishes the intended result and assigns a further ritual action to it."
+  },
+  {
+   "id": "b222",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The initial rite addresses departure and the dissolution of the limited life-condition.",
+   "directed": "The initial rite addresses departure and the dissolution of the limited life-condition."
+  },
+  {
+   "id": "b223",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The additional oblation concerns the desired realm of enjoyment.",
+   "directed": "The additional oblation concerns the desired realm of enjoyment."
+  },
+  {
+   "id": "b224",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the text says:",
+   "directed": "[short pause] And the text says:"
+  },
+  {
+   "id": "b225",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Na atra śeṣavartanam.",
+   "directed": "Na atra śeṣavartanam."
+  },
+  {
+   "id": "b226",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There’s no remaining continuation of the present life-process here, or no further remaining procedure, depending upon how the compressed phrase is interpreted.",
+   "directed": "There’s no remaining continuation of the present life-process here, or no further remaining procedure, depending upon how the compressed phrase is interpreted."
+  },
+  {
+   "id": "b227",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Either way, this is not the same arrangement as Chapter Fourteen, where an initiated disciple receives a ritually purified body for the continuation of life.",
+   "directed": "Either way, this is not the same arrangement as Chapter Fourteen, where an initiated disciple receives a ritually purified body for the continuation of life."
+  },
+  {
+   "id": "b228",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Here the condition of impending death is fundamental.",
+   "directed": "Here the condition of impending death is fundamental."
+  },
+  {
+   "id": "b229",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now, after all this extraordinary business involving Kālarātrī, cosmic pathways, vital bonds and complete oblations, Abhinavagupta suddenly gives us a much simpler alternative.",
+   "directed": "And now, after all this extraordinary business involving Kālarātrī, cosmic pathways, vital bonds and complete oblations, Abhinavagupta suddenly gives us a much simpler alternative."
+  },
+  {
+   "id": "b230",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And I think this is the most beautiful part of the chapter.",
+   "directed": "And I think this is the most beautiful part of the chapter."
+  },
+  {
+   "id": "b231",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because apparently you can perform a profoundly significant deathbed religious act by speaking into someone’s ear.",
+   "directed": "Because apparently you can perform a profoundly significant deathbed religious act by speaking into someone’s ear."
+  },
+  {
+   "id": "b232",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "5. Brahmavidyā — the teaching whispered at death\nHere’s the actual Sanskrit:",
+   "directed": "[short pause] 5. Brahmavidyā — the teaching whispered at death\nHere’s the actual Sanskrit:"
+  },
+  {
+   "id": "b233",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "figure",
+   "voice": "none",
+   "text": "ATTESTED PROSE — 15.5",
+   "directed": "ATTESTED PROSE — 15.5"
+  },
+  {
+   "id": "b234",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "ब्रह्मविद्यां वा कर्णे पठेत्\nBrahmavidyāṃ vā karṇe paṭhet.",
+   "directed": "[slowly] ब्रह्मविद्यां वा कर्णे पठेत्\nBrahmavidyāṃ vā karṇe paṭhet."
+  },
+  {
+   "id": "b235",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Or one should recite the Brahmavidyā into the ear.",
+   "directed": "Or one should recite the Brahmavidyā into the ear."
+  },
+  {
+   "id": "b236",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, this is extraordinary.",
+   "directed": "Now, this is extraordinary."
+  },
+  {
+   "id": "b237",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Brahman — the absolute reality.",
+   "directed": "Brahman — the absolute reality."
+  },
+  {
+   "id": "b238",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vidyā — knowledge, sacred understanding; here also designating an esoteric formula.",
+   "directed": "Vidyā — knowledge, sacred understanding; here also designating an esoteric formula."
+  },
+  {
+   "id": "b239",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Brahmavidyā.",
+   "directed": "[slowly] Brahmavidyā."
+  },
+  {
+   "id": "b240",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Knowledge of the Absolute.",
+   "directed": "Knowledge of the Absolute."
+  },
+  {
+   "id": "b241",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And:",
+   "directed": "[short pause] And:"
+  },
+  {
+   "id": "b242",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Karṇa.",
+   "directed": "[slowly] Karṇa."
+  },
+  {
+   "id": "b243",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ear.",
+   "directed": "Ear."
+  },
+  {
+   "id": "b244",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Paṭhet.",
+   "directed": "[slowly] Paṭhet."
+  },
+  {
+   "id": "b245",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "One should recite.",
+   "directed": "One should recite."
+  },
+  {
+   "id": "b246",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So there you are.",
+   "directed": "So there you are."
+  },
+  {
+   "id": "b247",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Someone is approaching death.",
+   "directed": "Someone is approaching death."
+  },
+  {
+   "id": "b248",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And instead of the elaborate rite involving the full purification of the cosmic pathways, the text allows the Brahmavidyā to be recited into their ear.",
+   "directed": "And instead of the elaborate rite involving the full purification of the cosmic pathways, the text allows the Brahmavidyā to be recited into their ear."
+  },
+  {
+   "id": "b249",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, why would that work?",
+   "directed": "Now, why would that work?"
+  },
+  {
+   "id": "b250",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Abhinavagupta gives an explanation.",
+   "directed": "Abhinavagupta gives an explanation."
+  },
+  {
+   "id": "b251",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And it’s not simply that the person hears some comforting words.",
+   "directed": "And it’s not simply that the person hears some comforting words."
+  },
+  {
+   "id": "b252",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He says the Brahmavidyā is:",
+   "directed": "[short pause] He says the Brahmavidyā is:"
+  },
+  {
+   "id": "b253",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Parāmarśa-svabhāvā.",
+   "directed": "[slowly] Parāmarśa-svabhāvā."
+  },
+  {
+   "id": "b254",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Of the nature of reflexive self-apprehension.",
+   "directed": "Of the nature of reflexive self-apprehension."
+  },
+  {
+   "id": "b255",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now listen carefully.",
+   "directed": "Now listen carefully."
+  },
+  {
+   "id": "b256",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is the very principle we’ve been investigating throughout the entire work.",
+   "directed": "This is the very principle we’ve been investigating throughout the entire work."
+  },
+  {
+   "id": "b257",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Vimarśa.",
+   "directed": "[slowly] Vimarśa."
+  },
+  {
+   "id": "b258",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Consciousness aware of itself.",
+   "directed": "Consciousness aware of itself."
+  },
+  {
+   "id": "b259",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not merely a light illuminating external objects.",
+   "directed": "Not merely a light illuminating external objects."
+  },
+  {
+   "id": "b260",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the living self-awareness through which consciousness apprehends its own nature.",
+   "directed": "But the living self-awareness through which consciousness apprehends its own nature."
+  },
+  {
+   "id": "b261",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Abhinavagupta says that the Brahmavidyā awakens:",
+   "directed": "[short pause] And Abhinavagupta says that the Brahmavidyā awakens:"
+  },
+  {
+   "id": "b262",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Prabuddha-vimarśa.",
+   "directed": "[slowly] Prabuddha-vimarśa."
+  },
+  {
+   "id": "b263",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Awakened self-awareness.",
+   "directed": "Awakened self-awareness."
+  },
+  {
+   "id": "b264",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Within the consciousness of the limited being.",
+   "directed": "Within the consciousness of the limited being."
+  },
+  {
+   "id": "b265",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Paśu-caitanya.",
+   "directed": "[slowly] Paśu-caitanya."
+  },
+  {
+   "id": "b266",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this happens:",
+   "directed": "[short pause] And this happens:"
+  },
+  {
+   "id": "b267",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Sadyaḥ.",
+   "directed": "[slowly] Sadyaḥ."
+  },
+  {
+   "id": "b268",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Immediately.",
+   "directed": "Immediately."
+  },
+  {
+   "id": "b269",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, that’s magnificent.",
+   "directed": "Now, that’s magnificent."
+  },
+  {
+   "id": "b270",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because think about the apparent simplicity.",
+   "directed": "Because think about the apparent simplicity."
+  },
+  {
+   "id": "b271",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "An individual has spent an entire lifetime identifying with the body.",
+   "directed": "An individual has spent an entire lifetime identifying with the body."
+  },
+  {
+   "id": "b272",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They’ve experienced pleasure.",
+   "directed": "They’ve experienced pleasure."
+  },
+  {
+   "id": "b273",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Pain.",
+   "directed": "Pain."
+  },
+  {
+   "id": "b274",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "meta",
+   "voice": "none",
+   "text": "Attachment.",
+   "directed": "Attachment."
+  },
+  {
+   "id": "b275",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Separation.",
+   "directed": "Separation."
+  },
+  {
+   "id": "b276",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "All the ordinary movements of saṃsāra.",
+   "directed": "All the ordinary movements of saṃsāra."
+  },
+  {
+   "id": "b277",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now they’re dying.",
+   "directed": "And now they’re dying."
+  },
+  {
+   "id": "b278",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the tradition proposes that the appropriately transmitted sacred knowledge can awaken the recognition of consciousness’s own nature.",
+   "directed": "And the tradition proposes that the appropriately transmitted sacred knowledge can awaken the recognition of consciousness’s own nature."
+  },
+  {
+   "id": "b279",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not because the words magically manufacture a new Self.",
+   "directed": "Not because the words magically manufacture a new Self."
+  },
+  {
+   "id": "b280",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But because, in this teaching, the formula’s significance lies in its capacity to disclose the self-awareness that was always fundamental.",
+   "directed": "But because, in this teaching, the formula’s significance lies in its capacity to disclose the self-awareness that was always fundamental."
+  },
+  {
+   "id": "b281",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The sound points consciousness back toward its own reality.",
+   "directed": "The sound points consciousness back toward its own reality."
+  },
+  {
+   "id": "b282",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, remember Chapter Three.",
+   "directed": "Now, remember Chapter Three."
+  },
+  {
+   "id": "b283",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The phonemes were expressions of divine powers.",
+   "directed": "The phonemes were expressions of divine powers."
+  },
+  {
+   "id": "b284",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Chapter Five.",
+   "directed": "And Chapter Five."
+  },
+  {
+   "id": "b285",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Mantra wasn’t merely language referring to external objects.",
+   "directed": "Mantra wasn’t merely language referring to external objects."
+  },
+  {
+   "id": "b286",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It could embody the spanda, the pulsation of consciousness itself.",
+   "directed": "It could embody the spanda, the pulsation of consciousness itself."
+  },
+  {
+   "id": "b287",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Chapter Eleven.",
+   "directed": "And Chapter Eleven."
+  },
+  {
+   "id": "b288",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A genuine teacher could communicate liberating recognition through speech.",
+   "directed": "A genuine teacher could communicate liberating recognition through speech."
+  },
+  {
+   "id": "b289",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "All those teachings converge here.",
+   "directed": "All those teachings converge here."
+  },
+  {
+   "id": "b290",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A sacred utterance.",
+   "directed": "A sacred utterance."
+  },
+  {
+   "id": "b291",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "At the threshold of death.",
+   "directed": "At the threshold of death."
+  },
+  {
+   "id": "b292",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Directed toward awakened self-awareness.",
+   "directed": "Directed toward awakened self-awareness."
+  },
+  {
+   "id": "b293",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, Abhinavagupta does not spell out the actual syllables of the Brahmavidyā in this short passage.",
+   "directed": "Now, Abhinavagupta does not spell out the actual syllables of the Brahmavidyā in this short passage."
+  },
+  {
+   "id": "b294",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So we’re not going to invent a mantra, call it his deathbed formula and pretend it’s present in the Sanskrit.",
+   "directed": "So we’re not going to invent a mantra, call it his deathbed formula and pretend it’s present in the Sanskrit."
+  },
+  {
+   "id": "b295",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the doctrinal mechanism is explicit:",
+   "directed": "[short pause] But the doctrinal mechanism is explicit:"
+  },
+  {
+   "id": "b296",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Parāmarśa gives rise to prabuddha-vimarśa.",
+   "directed": "Parāmarśa gives rise to prabuddha-vimarśa."
+  },
+  {
+   "id": "b297",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Reflexive apprehension awakens self-recognition.",
+   "directed": "Reflexive apprehension awakens self-recognition."
+  },
+  {
+   "id": "b298",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And then comes an unexpectedly generous detail.",
+   "directed": "And then comes an unexpectedly generous detail."
+  },
+  {
+   "id": "b299",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "6. Even a samayī may recite it\nRemember the samayī?",
+   "directed": "6. Even a samayī may recite it\nRemember the samayī?"
+  },
+  {
+   "id": "b300",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The initiate from Chapter Thirteen.",
+   "directed": "The initiate from Chapter Thirteen."
+  },
+  {
+   "id": "b301",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The person qualified for daily worship, mantra practice, listening and study, but not necessarily authorised to perform every advanced ritual.",
+   "directed": "The person qualified for daily worship, mantra practice, listening and study, but not necessarily authorised to perform every advanced ritual."
+  },
+  {
+   "id": "b302",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Well, Abhinavagupta says:",
+   "directed": "[short pause] Well, Abhinavagupta says:"
+  },
+  {
+   "id": "b303",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Samayyāder api caitatpāṭhe’dhikāraḥ.",
+   "directed": "Samayyāder api caitatpāṭhe’dhikāraḥ."
+  },
+  {
+   "id": "b304",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Even a samayī and others beginning with that category are authorised to perform this recitation.",
+   "directed": "Even a samayī and others beginning with that category are authorised to perform this recitation."
+  },
+  {
+   "id": "b305",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, isn’t that interesting?",
+   "directed": "Now, isn’t that interesting?"
+  },
+  {
+   "id": "b306",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because we’ve spent several chapters distinguishing initiatory qualifications.",
+   "directed": "Because we’ve spent several chapters distinguishing initiatory qualifications."
+  },
+  {
+   "id": "b307",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not everyone can perform every rite.",
+   "directed": "Not everyone can perform every rite."
+  },
+  {
+   "id": "b308",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The guru has particular responsibilities.",
+   "directed": "The guru has particular responsibilities."
+  },
+  {
+   "id": "b309",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The higher rituals require appropriate knowledge and authorisation.",
+   "directed": "The higher rituals require appropriate knowledge and authorisation."
+  },
+  {
+   "id": "b310",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But here, a comparatively junior initiate can participate in this act of sacred recitation.",
+   "directed": "But here, a comparatively junior initiate can participate in this act of sacred recitation."
+  },
+  {
+   "id": "b311",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now imagine someone dying.",
+   "directed": "Now imagine someone dying."
+  },
+  {
+   "id": "b312",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And there’s no fully qualified Trika master standing beside them.",
+   "directed": "And there’s no fully qualified Trika master standing beside them."
+  },
+  {
+   "id": "b313",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "No elaborate maṇḍala.",
+   "directed": "No elaborate maṇḍala."
+  },
+  {
+   "id": "b314",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "No complete initiatory fire ceremony.",
+   "directed": "No complete initiatory fire ceremony."
+  },
+  {
+   "id": "b315",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But there is someone initiated into the tradition.",
+   "directed": "But there is someone initiated into the tradition."
+  },
+  {
+   "id": "b316",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the text allows that person to recite the Brahmavidyā.",
+   "directed": "And the text allows that person to recite the Brahmavidyā."
+  },
+  {
+   "id": "b317",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That’s quite a significant exception to the otherwise elaborate ritual hierarchy.",
+   "directed": "That’s quite a significant exception to the otherwise elaborate ritual hierarchy."
+  },
+  {
+   "id": "b318",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But again, the stated result is a traditional religious claim.",
+   "directed": "But again, the stated result is a traditional religious claim."
+  },
+  {
+   "id": "b319",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It doesn’t mean that saying a particular formula guarantees a measurable postmortem outcome, or that words should be imposed upon someone who doesn’t want them.",
+   "directed": "It doesn’t mean that saying a particular formula guarantees a measurable postmortem outcome, or that words should be imposed upon someone who doesn’t want them."
+  },
+  {
+   "id": "b320",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In practice, compassionate spiritual care should respect the dying person’s wishes and never replace appropriate medical or palliative care.",
+   "directed": "In practice, compassionate spiritual care should respect the dying person’s wishes and never replace appropriate medical or palliative care."
+  },
+  {
+   "id": "b321",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, we might think the chapter is finished.",
+   "directed": "Now, we might think the chapter is finished."
+  },
+  {
+   "id": "b322",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But Abhinavagupta has another case to discuss.",
+   "directed": "But Abhinavagupta has another case to discuss."
+  },
+  {
+   "id": "b323",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And it’s rather peculiar.",
+   "directed": "And it’s rather peculiar."
+  },
+  {
+   "id": "b324",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "What if someone has received śaktipāta but cannot understand the full teaching?",
+   "directed": "What if someone has received śaktipāta but cannot understand the full teaching?"
+  },
+  {
+   "id": "b325",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "What if the person is so deeply confused that the ordinary initiatory disciplines are impossible?",
+   "directed": "What if the person is so deeply confused that the ordinary initiatory disciplines are impossible?"
+  },
+  {
+   "id": "b326",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And what if we want the initiation to remove even the seeds of further karmic production?",
+   "directed": "And what if we want the initiation to remove even the seeds of further karmic production?"
+  },
+  {
+   "id": "b327",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Right.",
+   "directed": "[short pause] Right."
+  },
+  {
+   "id": "b328",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now comes:",
+   "directed": "[short pause] Now comes:"
+  },
+  {
+   "id": "b329",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Nirbījā-dīkṣā.",
+   "directed": "[slowly] Nirbījā-dīkṣā."
+  },
+  {
+   "id": "b330",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Seedless initiation.",
+   "directed": "Seedless initiation."
+  },
+  {
+   "id": "b331",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Abhinavagupta is about to set the guru’s right hand on fire.",
+   "directed": "And Abhinavagupta is about to set the guru’s right hand on fire."
+  },
+  {
+   "id": "b332",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not literally.",
+   "directed": "Not literally."
+  },
+  {
+   "id": "b333",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s a ritual visualisation.",
+   "directed": "It’s a ritual visualisation."
+  },
+  {
+   "id": "b334",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the image is spectacular.",
+   "directed": "But the image is spectacular."
+  },
+  {
+   "id": "b335",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "7. The Hand of Śiva — an absolutely ferocious visualisation\nNow we’re discussing:",
+   "directed": "[short pause] 7. The Hand of Śiva — an absolutely ferocious visualisation\nNow we’re discussing:"
+  },
+  {
+   "id": "b336",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Sapratyayā nirbījā dīkṣā.",
+   "directed": "[slowly] Sapratyayā nirbījā dīkṣā."
+  },
+  {
+   "id": "b337",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Seedless initiation accompanied by clear assurance or conviction.",
+   "directed": "Seedless initiation accompanied by clear assurance or conviction."
+  },
+  {
+   "id": "b338",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the recipient is described as:",
+   "directed": "[short pause] And the recipient is described as:"
+  },
+  {
+   "id": "b339",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Mūḍha.",
+   "directed": "[slowly] Mūḍha."
+  },
+  {
+   "id": "b340",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Confused or incapable of grasping the ordinary instruction.",
+   "directed": "Confused or incapable of grasping the ordinary instruction."
+  },
+  {
+   "id": "b341",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But with an important qualification.",
+   "directed": "But with an important qualification."
+  },
+  {
+   "id": "b342",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Āyāta-śaktipāta.",
+   "directed": "[slowly] Āyāta-śaktipāta."
+  },
+  {
+   "id": "b343",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The descent of divine power has come to them.",
+   "directed": "The descent of divine power has come to them."
+  },
+  {
+   "id": "b344",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, remember Chapter Eleven.",
+   "directed": "Now, remember Chapter Eleven."
+  },
+  {
+   "id": "b345",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śaktipāta doesn’t necessarily imply that the person has an elaborate conceptual understanding.",
+   "directed": "Śaktipāta doesn’t necessarily imply that the person has an elaborate conceptual understanding."
+  },
+  {
+   "id": "b346",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Some may receive immediate insight.",
+   "directed": "Some may receive immediate insight."
+  },
+  {
+   "id": "b347",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Others may need a teacher.",
+   "directed": "Others may need a teacher."
+  },
+  {
+   "id": "b348",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here, someone may be unable to fulfil the usual intellectual requirements while nevertheless being considered a recipient of divine grace.",
+   "directed": "And here, someone may be unable to fulfil the usual intellectual requirements while nevertheless being considered a recipient of divine grace."
+  },
+  {
+   "id": "b349",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So the rite is directed toward the removal of the remaining seeds of bondage.",
+   "directed": "So the rite is directed toward the removal of the remaining seeds of bondage."
+  },
+  {
+   "id": "b350",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, the relevant ceremony involves:",
+   "directed": "[short pause] Now, the relevant ceremony involves:"
+  },
+  {
+   "id": "b351",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śivahasta.",
+   "directed": "Śivahasta."
+  },
+  {
+   "id": "b352",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Hand of Śiva.",
+   "directed": "The Hand of Śiva."
+  },
+  {
+   "id": "b353",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Abhinavagupta describes an extraordinary visual image associated with it.",
+   "directed": "And Abhinavagupta describes an extraordinary visual image associated with it."
+  },
+  {
+   "id": "b354",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A fiery triangular maṇḍala.",
+   "directed": "A fiery triangular maṇḍala."
+  },
+  {
+   "id": "b355",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Trikoṇa.",
+   "directed": "[slowly] Trikoṇa."
+  },
+  {
+   "id": "b356",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Filled with fierce flames.",
+   "directed": "Filled with fierce flames."
+  },
+  {
+   "id": "b357",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Jvālā-karāla.",
+   "directed": "[slowly] Jvālā-karāla."
+  },
+  {
+   "id": "b358",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sparks associated with the phoneme:",
+   "directed": "[short pause] Sparks associated with the phoneme:"
+  },
+  {
+   "id": "b359",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Repha — र्.",
+   "directed": "[slowly] Repha — र्."
+  },
+  {
+   "id": "b360",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And a great wheel of wind.",
+   "directed": "And a great wheel of wind."
+  },
+  {
+   "id": "b361",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Vātyācakra.",
+   "directed": "[slowly] Vātyācakra."
+  },
+  {
+   "id": "b362",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Imagine the image.",
+   "directed": "Imagine the image."
+  },
+  {
+   "id": "b363",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Fire.",
+   "directed": "Fire."
+  },
+  {
+   "id": "b364",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Wind.",
+   "directed": "Wind."
+  },
+  {
+   "id": "b365",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A blazing triangle.",
+   "directed": "A blazing triangle."
+  },
+  {
+   "id": "b366",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The expressive power of Sanskrit sound.",
+   "directed": "The expressive power of Sanskrit sound."
+  },
+  {
+   "id": "b367",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "All brought together in the divine hand.",
+   "directed": "All brought together in the divine hand."
+  },
+  {
+   "id": "b368",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, the purpose of this visualisation isn’t to injure someone physically.",
+   "directed": "Now, the purpose of this visualisation isn’t to injure someone physically."
+  },
+  {
+   "id": "b369",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The rite is presented as the destruction of the subtle potency responsible for continued bondage.",
+   "directed": "The rite is presented as the destruction of the subtle potency responsible for continued bondage."
+  },
+  {
+   "id": "b370",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the Sanskrit is quite specific about the symbolism.",
+   "directed": "But the Sanskrit is quite specific about the symbolism."
+  },
+  {
+   "id": "b371",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A physical seed represents the generative power.",
+   "directed": "A physical seed represents the generative power."
+  },
+  {
+   "id": "b372",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Janana-śakti.",
+   "directed": "[slowly] Janana-śakti."
+  },
+  {
+   "id": "b373",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that power is ritually subjected to the fire of the mantra.",
+   "directed": "And that power is ritually subjected to the fire of the mantra."
+  },
+  {
+   "id": "b374",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The protective and destructive syllable:",
+   "directed": "[short pause] The protective and destructive syllable:"
+  },
+  {
+   "id": "b375",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Phaṭ — फट्.",
+   "directed": "[slowly] Phaṭ — फट्."
+  },
+  {
+   "id": "b376",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Remember that from Chapter Thirteen?",
+   "directed": "Remember that from Chapter Thirteen?"
+  },
+  {
+   "id": "b377",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The weapon-mantra associated with removing obstacles?",
+   "directed": "The weapon-mantra associated with removing obstacles?"
+  },
+  {
+   "id": "b378",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Well, here it appears in connection with the destruction of the seed’s generative capacity.",
+   "directed": "Well, here it appears in connection with the destruction of the seed’s generative capacity."
+  },
+  {
+   "id": "b379",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, notice something beautiful about the image.",
+   "directed": "Now, notice something beautiful about the image."
+  },
+  {
+   "id": "b380",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A seed is small.",
+   "directed": "A seed is small."
+  },
+  {
+   "id": "b381",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Almost insignificant.",
+   "directed": "Almost insignificant."
+  },
+  {
+   "id": "b382",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You might barely notice it.",
+   "directed": "You might barely notice it."
+  },
+  {
+   "id": "b383",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Yet it contains the capacity to produce an entirely new plant.",
+   "directed": "Yet it contains the capacity to produce an entirely new plant."
+  },
+  {
+   "id": "b384",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So the seed is an excellent symbol for latent potential.",
+   "directed": "So the seed is an excellent symbol for latent potential."
+  },
+  {
+   "id": "b385",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A whole future manifestation exists in possibility.",
+   "directed": "A whole future manifestation exists in possibility."
+  },
+  {
+   "id": "b386",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here the ritual is directed toward destroying that potential.",
+   "directed": "And here the ritual is directed toward destroying that potential."
+  },
+  {
+   "id": "b387",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not a particular already-manifest object.",
+   "directed": "Not a particular already-manifest object."
+  },
+  {
+   "id": "b388",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the power through which further manifestation would arise.",
+   "directed": "But the power through which further manifestation would arise."
+  },
+  {
+   "id": "b389",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that brings us to the actual meaning of:",
+   "directed": "[short pause] And that brings us to the actual meaning of:"
+  },
+  {
+   "id": "b390",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Nirbīja.",
+   "directed": "[slowly] Nirbīja."
+  },
+  {
+   "id": "b391",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "8. Nirbīja — no more bloody seeds\nLet’s break down the word.",
+   "directed": "8. Nirbīja — no more bloody seeds\nLet’s break down the word."
+  },
+  {
+   "id": "b392",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nir — without.",
+   "directed": "Nir — without."
+  },
+  {
+   "id": "b393",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Bīja — seed.",
+   "directed": "Bīja — seed."
+  },
+  {
+   "id": "b394",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Seedless.",
+   "directed": "Seedless."
+  },
+  {
+   "id": "b395",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, think about how this connects with karma.",
+   "directed": "Now, think about how this connects with karma."
+  },
+  {
+   "id": "b396",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Karmic impressions are understood as possessing the potential to produce further experience.",
+   "directed": "Karmic impressions are understood as possessing the potential to produce further experience."
+  },
+  {
+   "id": "b397",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Saṃskāra.",
+   "directed": "[slowly] Saṃskāra."
+  },
+  {
+   "id": "b398",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A latent impression.",
+   "directed": "A latent impression."
+  },
+  {
+   "id": "b399",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A tendency.",
+   "directed": "A tendency."
+  },
+  {
+   "id": "b400",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A condition capable of giving rise to future results.",
+   "directed": "A condition capable of giving rise to future results."
+  },
+  {
+   "id": "b401",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Like a seed.",
+   "directed": "Like a seed."
+  },
+  {
+   "id": "b402",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And a seed doesn’t need to be producing a plant right now to possess that potential.",
+   "directed": "And a seed doesn’t need to be producing a plant right now to possess that potential."
+  },
+  {
+   "id": "b403",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It may remain dormant.",
+   "directed": "It may remain dormant."
+  },
+  {
+   "id": "b404",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then, under appropriate conditions, it gives rise to another manifestation.",
+   "directed": "Then, under appropriate conditions, it gives rise to another manifestation."
+  },
+  {
+   "id": "b405",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Similarly, the tantric account treats certain bonds as retaining the capacity to generate further conditioned existence.",
+   "directed": "Similarly, the tantric account treats certain bonds as retaining the capacity to generate further conditioned existence."
+  },
+  {
+   "id": "b406",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now Abhinavagupta says the ritual destroys:",
+   "directed": "[short pause] Now Abhinavagupta says the ritual destroys:"
+  },
+  {
+   "id": "b407",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Svakāryakaraṇa-sāmarthya.",
+   "directed": "[slowly] Svakāryakaraṇa-sāmarthya."
+  },
+  {
+   "id": "b408",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The capacity to produce one’s own effect.",
+   "directed": "The capacity to produce one’s own effect."
+  },
+  {
+   "id": "b409",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s break that down.",
+   "directed": "Let’s break that down."
+  },
+  {
+   "id": "b410",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sva — one’s own.",
+   "directed": "Sva — one’s own."
+  },
+  {
+   "id": "b411",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kārya — effect, what is produced.",
+   "directed": "Kārya — effect, what is produced."
+  },
+  {
+   "id": "b412",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Karaṇa — causing or producing.",
+   "directed": "Karaṇa — causing or producing."
+  },
+  {
+   "id": "b413",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sāmarthya — capacity, potency.",
+   "directed": "Sāmarthya — capacity, potency."
+  },
+  {
+   "id": "b414",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So:",
+   "directed": "[short pause] So:"
+  },
+  {
+   "id": "b415",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The capacity to generate the corresponding result.",
+   "directed": "The capacity to generate the corresponding result."
+  },
+  {
+   "id": "b416",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And its destruction is:",
+   "directed": "[short pause] And its destruction is:"
+  },
+  {
+   "id": "b417",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Vidhvaṃsinī.",
+   "directed": "[slowly] Vidhvaṃsinī."
+  },
+  {
+   "id": "b418",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That which destroys.",
+   "directed": "That which destroys."
+  },
+  {
+   "id": "b419",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now that’s a remarkably precise metaphysical idea.",
+   "directed": "Now that’s a remarkably precise metaphysical idea."
+  },
+  {
+   "id": "b420",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The rite isn’t merely understood to remove one particular painful experience.",
+   "directed": "The rite isn’t merely understood to remove one particular painful experience."
+  },
+  {
+   "id": "b421",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s directed toward the very capacity of the remaining karmic seeds to bring about further bondage.",
+   "directed": "It’s directed toward the very capacity of the remaining karmic seeds to bring about further bondage."
+  },
+  {
+   "id": "b422",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here the traditional image becomes clear.",
+   "directed": "And here the traditional image becomes clear."
+  },
+  {
+   "id": "b423",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A seed whose productive capacity has been destroyed no longer gives rise to the corresponding plant.",
+   "directed": "A seed whose productive capacity has been destroyed no longer gives rise to the corresponding plant."
+  },
+  {
+   "id": "b424",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Likewise, within the ritual theory, the seeds of further conditioned existence no longer produce their previous effects.",
+   "directed": "Likewise, within the ritual theory, the seeds of further conditioned existence no longer produce their previous effects."
+  },
+  {
+   "id": "b425",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nirbīja-dīkṣā is directed toward the exhaustion of the productive power of bondage.",
+   "directed": "Nirbīja-dīkṣā is directed toward the exhaustion of the productive power of bondage."
+  },
+  {
+   "id": "b426",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, there’s an important nuance.",
+   "directed": "Now, there’s an important nuance."
+  },
+  {
+   "id": "b427",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Abhinavagupta relates the seed used in the rite and the disciple’s latent generative capacity through the same symbolic operation.",
+   "directed": "Abhinavagupta relates the seed used in the rite and the disciple’s latent generative capacity through the same symbolic operation."
+  },
+  {
+   "id": "b428",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The first supplies the ritual representation.",
+   "directed": "The first supplies the ritual representation."
+  },
+  {
+   "id": "b429",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The second is the intended metaphysical target.",
+   "directed": "The second is the intended metaphysical target."
+  },
+  {
+   "id": "b430",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And then he says something absolutely astonishing.",
+   "directed": "And then he says something absolutely astonishing."
+  },
+  {
+   "id": "b431",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because apparently this kind of initiation can be extended beyond ordinary human beings.",
+   "directed": "Because apparently this kind of initiation can be extended beyond ordinary human beings."
+  },
+  {
+   "id": "b432",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Much further.",
+   "directed": "Much further."
+  },
+  {
+   "id": "b433",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "9. Apparently even trees can be initiated\nNow, here’s the Sanskrit:",
+   "directed": "[short pause] 9. Apparently even trees can be initiated\nNow, here’s the Sanskrit:"
+  },
+  {
+   "id": "b434",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sthāvarāṇām api dīkṣyatvena uktatvāt.",
+   "directed": "Sthāvarāṇām api dīkṣyatvena uktatvāt."
+  },
+  {
+   "id": "b435",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because even stationary beings are said to be eligible for initiation.",
+   "directed": "Because even stationary beings are said to be eligible for initiation."
+  },
+  {
+   "id": "b436",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, sthāvara is a fascinating word.",
+   "directed": "Now, sthāvara is a fascinating word."
+  },
+  {
+   "id": "b437",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "From the root associated with standing or remaining stationary.",
+   "directed": "From the root associated with standing or remaining stationary."
+  },
+  {
+   "id": "b438",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It can refer to immobile beings, especially plants and trees.",
+   "directed": "It can refer to immobile beings, especially plants and trees."
+  },
+  {
+   "id": "b439",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now imagine the scene.",
+   "directed": "Now imagine the scene."
+  },
+  {
+   "id": "b440",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A guru approaches a tree.",
+   "directed": "A guru approaches a tree."
+  },
+  {
+   "id": "b441",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Right, mate.”",
+   "directed": "[short pause] “Right, mate.”"
+  },
+  {
+   "id": "b442",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“You’re getting initiated.”",
+   "directed": "[short pause] “You’re getting initiated.”"
+  },
+  {
+   "id": "b443",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The tree remains silent.",
+   "directed": "The tree remains silent."
+  },
+  {
+   "id": "b444",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Obviously.",
+   "directed": "Obviously."
+  },
+  {
+   "id": "b445",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s a tree.",
+   "directed": "It’s a tree."
+  },
+  {
+   "id": "b446",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the philosophical implication is rather important.",
+   "directed": "But the philosophical implication is rather important."
+  },
+  {
+   "id": "b447",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because we’re no longer restricting the possibility of divine participation to beings possessing sophisticated conceptual understanding.",
+   "directed": "Because we’re no longer restricting the possibility of divine participation to beings possessing sophisticated conceptual understanding."
+  },
+  {
+   "id": "b448",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Remember our earlier chapters?",
+   "directed": "Remember our earlier chapters?"
+  },
+  {
+   "id": "b449",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Consciousness manifests through different forms.",
+   "directed": "Consciousness manifests through different forms."
+  },
+  {
+   "id": "b450",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not every manifestation possesses the same faculties.",
+   "directed": "Not every manifestation possesses the same faculties."
+  },
+  {
+   "id": "b451",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not every subject has the same capacity for articulation and understanding.",
+   "directed": "Not every subject has the same capacity for articulation and understanding."
+  },
+  {
+   "id": "b452",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But all manifestations are grounded in Śiva.",
+   "directed": "But all manifestations are grounded in Śiva."
+  },
+  {
+   "id": "b453",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the tradition’s claim that even stationary beings may be initiated follows from this much broader understanding of conscious manifestation.",
+   "directed": "And the tradition’s claim that even stationary beings may be initiated follows from this much broader understanding of conscious manifestation."
+  },
+  {
+   "id": "b454",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, that isn’t biological evidence that plants possess the same subjective experiences as human beings.",
+   "directed": "Now, that isn’t biological evidence that plants possess the same subjective experiences as human beings."
+  },
+  {
+   "id": "b455",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nor does the Sanskrit establish a modern scientific theory of plant consciousness.",
+   "directed": "Nor does the Sanskrit establish a modern scientific theory of plant consciousness."
+  },
+  {
+   "id": "b456",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But within Trika metaphysics, the eligibility of stationary beings for initiation underscores a radical claim:",
+   "directed": "[short pause] But within Trika metaphysics, the eligibility of stationary beings for initiation underscores a radical claim:"
+  },
+  {
+   "id": "b457",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The divine reality isn’t confined to intellectually sophisticated human subjects.",
+   "directed": "The divine reality isn’t confined to intellectually sophisticated human subjects."
+  },
+  {
+   "id": "b458",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, that’s beautiful.",
+   "directed": "Now, that’s beautiful."
+  },
+  {
+   "id": "b459",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’ve been studying classifications of subjects for several chapters.",
+   "directed": "We’ve been studying classifications of subjects for several chapters."
+  },
+  {
+   "id": "b460",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sakala.",
+   "directed": "Sakala."
+  },
+  {
+   "id": "b461",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Pralayākala.",
+   "directed": "[slowly] Pralayākala."
+  },
+  {
+   "id": "b462",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Vijñānākala.",
+   "directed": "[slowly] Vijñānākala."
+  },
+  {
+   "id": "b463",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The divine mantra subjects.",
+   "directed": "The divine mantra subjects."
+  },
+  {
+   "id": "b464",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And ultimately Śiva.",
+   "directed": "And ultimately Śiva."
+  },
+  {
+   "id": "b465",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Here the scope of ritual grace extends to beings incapable of undertaking the normal practices themselves.",
+   "directed": "Here the scope of ritual grace extends to beings incapable of undertaking the normal practices themselves."
+  },
+  {
+   "id": "b466",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And then Abhinavagupta gives us one final visualisation.",
+   "directed": "And then Abhinavagupta gives us one final visualisation."
+  },
+  {
+   "id": "b467",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Something involving wind.",
+   "directed": "Something involving wind."
+  },
+  {
+   "id": "b468",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Lightness.",
+   "directed": "Lightness."
+  },
+  {
+   "id": "b469",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And, strangely enough, weighing scales.",
+   "directed": "And, strangely enough, weighing scales."
+  },
+  {
+   "id": "b470",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "10. The disciple becomes light\nNow the guru contemplates the disciple within:",
+   "directed": "[short pause] 10. The disciple becomes light\nNow the guru contemplates the disciple within:"
+  },
+  {
+   "id": "b471",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Vāyu-pura.",
+   "directed": "[slowly] Vāyu-pura."
+  },
+  {
+   "id": "b472",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The realm or city of wind.",
+   "directed": "The realm or city of wind."
+  },
+  {
+   "id": "b473",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the disciple is imagined as:",
+   "directed": "[short pause] And the disciple is imagined as:"
+  },
+  {
+   "id": "b474",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Dodhūyamāna.",
+   "directed": "[slowly] Dodhūyamāna."
+  },
+  {
+   "id": "b475",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Shaken or stirred.",
+   "directed": "Shaken or stirred."
+  },
+  {
+   "id": "b476",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And:",
+   "directed": "[short pause] And:"
+  },
+  {
+   "id": "b477",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Laghūbhūta.",
+   "directed": "[slowly] Laghūbhūta."
+  },
+  {
+   "id": "b478",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Having become light.",
+   "directed": "Having become light."
+  },
+  {
+   "id": "b479",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now here’s something rather interesting.",
+   "directed": "Now here’s something rather interesting."
+  },
+  {
+   "id": "b480",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Laghu means light.",
+   "directed": "Laghu means light."
+  },
+  {
+   "id": "b481",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not heavy.",
+   "directed": "Not heavy."
+  },
+  {
+   "id": "b482",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not burdened.",
+   "directed": "Not burdened."
+  },
+  {
+   "id": "b483",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the text even refers to lightness as observed through a balance.",
+   "directed": "And the text even refers to lightness as observed through a balance."
+  },
+  {
+   "id": "b484",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Tulā.",
+   "directed": "[slowly] Tulā."
+  },
+  {
+   "id": "b485",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Weighing scales.",
+   "directed": "Weighing scales."
+  },
+  {
+   "id": "b486",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, you might imagine the initiate literally becoming weightless.",
+   "directed": "Now, you might imagine the initiate literally becoming weightless."
+  },
+  {
+   "id": "b487",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the historical ritual does include a striking claim concerning the disciple’s lightness.",
+   "directed": "And the historical ritual does include a striking claim concerning the disciple’s lightness."
+  },
+  {
+   "id": "b488",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But there’s no reliable basis for treating such a visualisation as a method of physically reducing someone’s mass or producing levitation.",
+   "directed": "But there’s no reliable basis for treating such a visualisation as a method of physically reducing someone’s mass or producing levitation."
+  },
+  {
+   "id": "b489",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "What matters to our interpretation is that lightness becomes the ritual sign associated with the removal of a burdening condition.",
+   "directed": "What matters to our interpretation is that lightness becomes the ritual sign associated with the removal of a burdening condition."
+  },
+  {
+   "id": "b490",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The disciple is contemplated as no longer held in the previous configuration of bondage.",
+   "directed": "The disciple is contemplated as no longer held in the previous configuration of bondage."
+  },
+  {
+   "id": "b491",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And in the chapter’s condensed presentation, this is the final visualisation.",
+   "directed": "And in the chapter’s condensed presentation, this is the final visualisation."
+  },
+  {
+   "id": "b492",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now think about the full sequence we’ve just encountered.",
+   "directed": "Now think about the full sequence we’ve just encountered."
+  },
+  {
+   "id": "b493",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A dying individual.",
+   "directed": "A dying individual."
+  },
+  {
+   "id": "b494",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The descent of Śakti.",
+   "directed": "The descent of Śakti."
+  },
+  {
+   "id": "b495",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The purification of the cosmic pathways.",
+   "directed": "The purification of the cosmic pathways."
+  },
+  {
+   "id": "b496",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kālarātrī and the severing of vital bonds.",
+   "directed": "Kālarātrī and the severing of vital bonds."
+  },
+  {
+   "id": "b497",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The intended departure of consciousness.",
+   "directed": "The intended departure of consciousness."
+  },
+  {
+   "id": "b498",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The complete oblation.",
+   "directed": "The complete oblation."
+  },
+  {
+   "id": "b499",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The alternative recitation of Brahmavidyā.",
+   "directed": "The alternative recitation of Brahmavidyā."
+  },
+  {
+   "id": "b500",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then seedless initiation.",
+   "directed": "Then seedless initiation."
+  },
+  {
+   "id": "b501",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The fiery Hand of Śiva.",
+   "directed": "The fiery Hand of Śiva."
+  },
+  {
+   "id": "b502",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The destruction of latent generative power.",
+   "directed": "The destruction of latent generative power."
+  },
+  {
+   "id": "b503",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And finally the disciple imagined as light within the wind.",
+   "directed": "And finally the disciple imagined as light within the wind."
+  },
+  {
+   "id": "b504",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s quite an extraordinary progression.",
+   "directed": "It’s quite an extraordinary progression."
+  },
+  {
+   "id": "b505",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But there’s one final Sanskrit verse.",
+   "directed": "But there’s one final Sanskrit verse."
+  },
+  {
+   "id": "b506",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this time it is genuinely attested in the Devanāgarī witness.",
+   "directed": "And this time it is genuinely attested in the Devanāgarī witness."
+  },
+  {
+   "id": "b507",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "meta",
+   "voice": "none",
+   "text": "ATTESTED CLOSING STANZA — CHAPTER 15",
+   "directed": "ATTESTED CLOSING STANZA — CHAPTER 15"
+  },
+  {
+   "id": "b508",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "11. The closing verse — Śiva performs the rite through the appropriate means",
+   "directed": "11. The closing verse — Śiva performs the rite through the appropriate means"
+  },
+  {
+   "id": "b509",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "मर्मकर्तनविधौ लघुभावे बीजभावविलये यदि मन्त्रः।तत्तथोचितपथेन नियुक्तस्तत्तदाशु कुरुते परमेशः॥\nMarmakartanavidhau laghubhāve bījabhāvavilaye yadi mantraḥ.",
+   "directed": "[slowly] मर्मकर्तनविधौ लघुभावे बीजभावविलये यदि मन्त्रः।तत्तथोचितपथेन नियुक्तस्तत्तदाशु कुरुते परमेशः॥\nMarmakartanavidhau laghubhāve bījabhāvavilaye yadi mantraḥ."
+  },
+  {
+   "id": "b510",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Tattathocitapathena niyuktas tattad āśu kurute parameśaḥ.",
+   "directed": "Tattathocitapathena niyuktas tattad āśu kurute parameśaḥ."
+  },
+  {
+   "id": "b511",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This stanza is present in the Sanskrit & Trika Shaivism edition. The checked GRETIL transcription ends after the preceding prose, so its manuscript distribution remains uncertain.",
+   "directed": "This stanza is present in the Sanskrit & Trika Shaivism edition. The checked GRETIL transcription ends after the preceding prose, so its manuscript distribution remains uncertain."
+  },
+  {
+   "id": "b512",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Right.",
+   "directed": "[short pause] Right."
+  },
+  {
+   "id": "b513",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s break it down.",
+   "directed": "Let’s break it down."
+  },
+  {
+   "id": "b514",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Marma-kartana-vidhau.",
+   "directed": "Marma-kartana-vidhau."
+  },
+  {
+   "id": "b515",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In the procedure concerning the cutting of the vital bonds.",
+   "directed": "In the procedure concerning the cutting of the vital bonds."
+  },
+  {
+   "id": "b516",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Laghu-bhāve.",
+   "directed": "[slowly] Laghu-bhāve."
+  },
+  {
+   "id": "b517",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In the condition of lightness.",
+   "directed": "In the condition of lightness."
+  },
+  {
+   "id": "b518",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Bīja-bhāva-vilaye.",
+   "directed": "[slowly] Bīja-bhāva-vilaye."
+  },
+  {
+   "id": "b519",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In the dissolution of the seed-condition.",
+   "directed": "In the dissolution of the seed-condition."
+  },
+  {
+   "id": "b520",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now:",
+   "directed": "[short pause] Now:"
+  },
+  {
+   "id": "b521",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Yadi mantraḥ.",
+   "directed": "Yadi mantraḥ."
+  },
+  {
+   "id": "b522",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "If a mantra is employed.",
+   "directed": "If a mantra is employed."
+  },
+  {
+   "id": "b523",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And then:",
+   "directed": "[short pause] And then:"
+  },
+  {
+   "id": "b524",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Tathā-ucita-pathena niyuktaḥ.",
+   "directed": "[slowly] Tathā-ucita-pathena niyuktaḥ."
+  },
+  {
+   "id": "b525",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Engaged or directed through the appropriate means.",
+   "directed": "Engaged or directed through the appropriate means."
+  },
+  {
+   "id": "b526",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And:",
+   "directed": "[short pause] And:"
+  },
+  {
+   "id": "b527",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Tat tad āśu kurute parameśaḥ.",
+   "directed": "Tat tad āśu kurute parameśaḥ."
+  },
+  {
+   "id": "b528",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Supreme Lord swiftly accomplishes the respective result.",
+   "directed": "The Supreme Lord swiftly accomplishes the respective result."
+  },
+  {
+   "id": "b529",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, that’s a remarkable ending.",
+   "directed": "Now, that’s a remarkable ending."
+  },
+  {
+   "id": "b530",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because it brings us back to the relationship between mantra and divine power.",
+   "directed": "Because it brings us back to the relationship between mantra and divine power."
+  },
+  {
+   "id": "b531",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The mantra isn’t being presented as an autonomous little machine that operates independently of consciousness.",
+   "directed": "The mantra isn’t being presented as an autonomous little machine that operates independently of consciousness."
+  },
+  {
+   "id": "b532",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The ultimate agent is:",
+   "directed": "[short pause] The ultimate agent is:"
+  },
+  {
+   "id": "b533",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Parameśaḥ.",
+   "directed": "[slowly] Parameśaḥ."
+  },
+  {
+   "id": "b534",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Supreme Lord.",
+   "directed": "The Supreme Lord."
+  },
+  {
+   "id": "b535",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And when the relevant mantra is employed within the appropriate ritual framework, the traditional claim is that the desired result is accomplished through his power.",
+   "directed": "And when the relevant mantra is employed within the appropriate ritual framework, the traditional claim is that the desired result is accomplished through his power."
+  },
+  {
+   "id": "b536",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, remember Chapter Eight?",
+   "directed": "Now, remember Chapter Eight?"
+  },
+  {
+   "id": "b537",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The potter.",
+   "directed": "The potter."
+  },
+  {
+   "id": "b538",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The clay.",
+   "directed": "The clay."
+  },
+  {
+   "id": "b539",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The wheel.",
+   "directed": "The wheel."
+  },
+  {
+   "id": "b540",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the entire causal complex?",
+   "directed": "And the entire causal complex?"
+  },
+  {
+   "id": "b541",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We established that the ultimate agency belongs to Parameśvara.",
+   "directed": "We established that the ultimate agency belongs to Parameśvara."
+  },
+  {
+   "id": "b542",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Well, here’s precisely the same idea applied to ritual.",
+   "directed": "Well, here’s precisely the same idea applied to ritual."
+  },
+  {
+   "id": "b543",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The mantra.",
+   "directed": "The mantra."
+  },
+  {
+   "id": "b544",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The visualisation.",
+   "directed": "The visualisation."
+  },
+  {
+   "id": "b545",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The guru.",
+   "directed": "The guru."
+  },
+  {
+   "id": "b546",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The disciple.",
+   "directed": "The disciple."
+  },
+  {
+   "id": "b547",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The sacred powers.",
+   "directed": "The sacred powers."
+  },
+  {
+   "id": "b548",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The entire process.",
+   "directed": "The entire process."
+  },
+  {
+   "id": "b549",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "All belong to the manifesting activity of consciousness.",
+   "directed": "All belong to the manifesting activity of consciousness."
+  },
+  {
+   "id": "b550",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And what finally produces the result?",
+   "directed": "And what finally produces the result?"
+  },
+  {
+   "id": "b551",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śiva’s own freedom.",
+   "directed": "Śiva’s own freedom."
+  },
+  {
+   "id": "b552",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Svātantrya.",
+   "directed": "[slowly] Svātantrya."
+  },
+  {
+   "id": "b553",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, that’s the teaching.",
+   "directed": "Now, that’s the teaching."
+  },
+  {
+   "id": "b554",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the conclusion is almost absurdly appropriate.",
+   "directed": "And the conclusion is almost absurdly appropriate."
+  },
+  {
+   "id": "b555",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because here we are, at the threshold of death.",
+   "directed": "Because here we are, at the threshold of death."
+  },
+  {
+   "id": "b556",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The moment when the limited individual ordinarily appears most helpless.",
+   "directed": "The moment when the limited individual ordinarily appears most helpless."
+  },
+  {
+   "id": "b557",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The body is failing.",
+   "directed": "The body is failing."
+  },
+  {
+   "id": "b558",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The senses are withdrawing.",
+   "directed": "The senses are withdrawing."
+  },
+  {
+   "id": "b559",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The familiar world is coming to an end.",
+   "directed": "The familiar world is coming to an end."
+  },
+  {
+   "id": "b560",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Abhinavagupta’s response is to return to the one reality he has been discussing from the beginning.",
+   "directed": "And Abhinavagupta’s response is to return to the one reality he has been discussing from the beginning."
+  },
+  {
+   "id": "b561",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The consciousness whose essential nature was never exhausted by the body.",
+   "directed": "The consciousness whose essential nature was never exhausted by the body."
+  },
+  {
+   "id": "b562",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The supreme freedom through which embodiment and its dissolution appear.",
+   "directed": "The supreme freedom through which embodiment and its dissolution appear."
+  },
+  {
+   "id": "b563",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Paramaśiva.",
+   "directed": "[slowly] Paramaśiva."
+  },
+  {
+   "id": "b564",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And within this metaphysical framework, even the end of bodily life is not understood as something standing outside the freedom of Śiva.",
+   "directed": "And within this metaphysical framework, even the end of bodily life is not understood as something standing outside the freedom of Śiva."
+  },
+  {
+   "id": "b565",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "End of Chapter Fifteen — Samutkramaṇa-dīkṣā and Nirbīja-dīkṣā\nNow, think about how far we’ve come.",
+   "directed": "End of Chapter Fifteen — Samutkramaṇa-dīkṣā and Nirbīja-dīkṣā\nNow, think about how far we’ve come."
+  },
+  {
+   "id": "b566",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Back in Chapter One, Abhinavagupta distinguished two kinds of ignorance.",
+   "directed": "Back in Chapter One, Abhinavagupta distinguished two kinds of ignorance."
+  },
+  {
+   "id": "b567",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "One belonging to the understanding.",
+   "directed": "One belonging to the understanding."
+  },
+  {
+   "id": "b568",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Bauddha-ajñāna.",
+   "directed": "[slowly] Bauddha-ajñāna."
+  },
+  {
+   "id": "b569",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And another belonging to the contracted condition of individuality itself.",
+   "directed": "And another belonging to the contracted condition of individuality itself."
+  },
+  {
+   "id": "b570",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Pauruṣa-ajñāna.",
+   "directed": "[slowly] Pauruṣa-ajñāna."
+  },
+  {
+   "id": "b571",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He explained that correct knowledge removes the former and that initiation can address the deeper condition of bondage.",
+   "directed": "He explained that correct knowledge removes the former and that initiation can address the deeper condition of bondage."
+  },
+  {
+   "id": "b572",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Well, we’ve now arrived at the most extreme application of that initiatory framework.",
+   "directed": "Well, we’ve now arrived at the most extreme application of that initiatory framework."
+  },
+  {
+   "id": "b573",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The final transition of embodied existence.",
+   "directed": "The final transition of embodied existence."
+  },
+  {
+   "id": "b574",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the chapter offers different ritual possibilities for different recipients.",
+   "directed": "And the chapter offers different ritual possibilities for different recipients."
+  },
+  {
+   "id": "b575",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "For the person receiving śaktipāta at the approach of death, a special initiation of departure.",
+   "directed": "For the person receiving śaktipāta at the approach of death, a special initiation of departure."
+  },
+  {
+   "id": "b576",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "For someone whose desired end involves a particular realm of experience, the corresponding joining rite.",
+   "directed": "For someone whose desired end involves a particular realm of experience, the corresponding joining rite."
+  },
+  {
+   "id": "b577",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "For someone who can receive the Brahmavidyā, the possibility of a sacred formula awakening self-awareness.",
+   "directed": "For someone who can receive the Brahmavidyā, the possibility of a sacred formula awakening self-awareness."
+  },
+  {
+   "id": "b578",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And for someone unable to undertake the ordinary observances, the seedless initiation directed toward the removal of further karmic potential.",
+   "directed": "And for someone unable to undertake the ordinary observances, the seedless initiation directed toward the removal of further karmic potential."
+  },
+  {
+   "id": "b579",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Different circumstances.",
+   "directed": "Different circumstances."
+  },
+  {
+   "id": "b580",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Different ritual operations.",
+   "directed": "Different ritual operations."
+  },
+  {
+   "id": "b581",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the same supreme reality.",
+   "directed": "But the same supreme reality."
+  },
+  {
+   "id": "b582",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now here’s what I find especially striking.",
+   "directed": "Now here’s what I find especially striking."
+  },
+  {
+   "id": "b583",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Abhinavagupta never needs to introduce a second ultimate consciousness to explain what happens at death.",
+   "directed": "Abhinavagupta never needs to introduce a second ultimate consciousness to explain what happens at death."
+  },
+  {
+   "id": "b584",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The individual consciousness isn’t a little object that must travel outside Śiva to find its destination.",
+   "directed": "The individual consciousness isn’t a little object that must travel outside Śiva to find its destination."
+  },
+  {
+   "id": "b585",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The possibility of embodiment, departure, bondage and liberation all belong to the same unrestricted conscious reality.",
+   "directed": "The possibility of embodiment, departure, bondage and liberation all belong to the same unrestricted conscious reality."
+  },
+  {
+   "id": "b586",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That is the doctrinal argument.",
+   "directed": "That is the doctrinal argument."
+  },
+  {
+   "id": "b587",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the deathbed rite is a historical expression of it.",
+   "directed": "And the deathbed rite is a historical expression of it."
+  },
+  {
+   "id": "b588",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The ritual’s claimed effects on death and postmortem liberation remain religious claims, not established medical or scientific facts. In actual end-of-life care, the relevant priorities are comfort, consent, non-harm and respect for the person’s wishes.",
+   "directed": "The ritual’s claimed effects on death and postmortem liberation remain religious claims, not established medical or scientific facts. In actual end-of-life care, the relevant priorities are comfort, consent, non-harm and respect for the person’s wishes."
+  },
+  {
+   "id": "b589",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But as an account of Trika’s understanding of the relationship between consciousness and mortality, the chapter is remarkable.",
+   "directed": "But as an account of Trika’s understanding of the relationship between consciousness and mortality, the chapter is remarkable."
+  },
+  {
+   "id": "b590",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You began thinking you were a little being inside the universe.",
+   "directed": "You began thinking you were a little being inside the universe."
+  },
+  {
+   "id": "b591",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then you learned that the entire universe is a manifestation of consciousness.",
+   "directed": "Then you learned that the entire universe is a manifestation of consciousness."
+  },
+  {
+   "id": "b592",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You investigated the body.",
+   "directed": "You investigated the body."
+  },
+  {
+   "id": "b593",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The breath.",
+   "directed": "The breath."
+  },
+  {
+   "id": "b594",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The senses.",
+   "directed": "The senses."
+  },
+  {
+   "id": "b595",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The mind.",
+   "directed": "The mind."
+  },
+  {
+   "id": "b596",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The cosmic principles.",
+   "directed": "The cosmic principles."
+  },
+  {
+   "id": "b597",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The powers of Śiva.",
+   "directed": "The powers of Śiva."
+  },
+  {
+   "id": "b598",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now we’ve reached the very dissolution of the embodied condition.",
+   "directed": "And now we’ve reached the very dissolution of the embodied condition."
+  },
+  {
+   "id": "b599",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Abhinavagupta is still telling you the same thing:",
+   "directed": "[short pause] And Abhinavagupta is still telling you the same thing:"
+  },
+  {
+   "id": "b600",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The supreme reality isn’t somewhere else.",
+   "directed": "The supreme reality isn’t somewhere else."
+  },
+  {
+   "id": "b601",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The body appears through it.",
+   "directed": "The body appears through it."
+  },
+  {
+   "id": "b602",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The body disappears through it.",
+   "directed": "The body disappears through it."
+  },
+  {
+   "id": "b603",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the essence of consciousness isn’t reduced to the body.",
+   "directed": "But the essence of consciousness isn’t reduced to the body."
+  },
+  {
+   "id": "b604",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The apparent individual is Śiva manifesting under limitation.",
+   "directed": "The apparent individual is Śiva manifesting under limitation."
+  },
+  {
+   "id": "b605",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And liberation is the overcoming of that limitation.",
+   "directed": "And liberation is the overcoming of that limitation."
+  },
+  {
+   "id": "b606",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So the final joke is almost too good.",
+   "directed": "So the final joke is almost too good."
+  },
+  {
+   "id": "b607",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve spent your entire life worrying about death.",
+   "directed": "You’ve spent your entire life worrying about death."
+  },
+  {
+   "id": "b608",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Abhinavagupta has spent fifteen chapters explaining that the ultimate reality you’ve been looking for is not a thing that begins and ends.",
+   "directed": "And Abhinavagupta has spent fifteen chapters explaining that the ultimate reality you’ve been looking for is not a thing that begins and ends."
+  },
+  {
+   "id": "b609",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The whole bloody business is Śiva.",
+   "directed": "The whole bloody business is Śiva."
+  },
+  {
+   "id": "b610",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "meta",
+   "voice": "none",
+   "text": "Sources: GRETIL Tantrasāra, Chapter 15, prose 15.1–15.7 and Sanskrit & Trika Shaivism, Chapter 15, including the final stanza. The philosophical explanation and humour are original. The chapter’s abbreviated ritual prescriptions have been narrated as historical teachings, not offered as practical death-inducing instructions.",
+   "directed": "Sources: GRETIL Tantrasāra, Chapter 15, prose 15.1–15.7 and Sanskrit & Trika Shaivism, Chapter 15, including the final stanza. The philosophical explanation and humour are original. The chapter’s abbreviated ritual prescriptions have been narrated as historical teachings, not offered as practical death-inducing instructions."
+  },
+  {
+   "id": "b611",
+   "section": "Tantrasāra — Chapter 15",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Initiation in absence: how the guru is said to initiate someone far away or already deceased, the role of subtle representation, and the extraordinary Trika understanding of postmortem liberation.",
+   "directed": "Initiation in absence: how the guru is said to initiate someone far away or already deceased, the role of subtle representation, and the extraordinary Trika understanding of postmortem liberation."
+  }
+ ],
+ "totals": {
+  "blocks": 612,
+  "words_per_voice": {
+   "none": 58,
+   "granny": 4045,
+   "verse": 122,
+   "man": 33
+  },
+  "est_min": {
+   "none": 0.4,
+   "granny": 27.0,
+   "verse": 0.8,
+   "man": 0.2
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

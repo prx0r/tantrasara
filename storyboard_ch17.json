@@ -1,0 +1,5553 @@
+{
+ "title": "Tantrasāra — Chapter 17",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "title",
+   "voice": "granny",
+   "text": "Tantrasāra — Chapter 17",
+   "directed": "[long pause] Tantrasāra — Chapter 17"
+  },
+  {
+   "id": "b2",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "सप्तदशमाह्निकम् — Saptadaśam Āhnikam",
+   "directed": "[slowly] सप्तदशमाह्निकम् — Saptadaśam Āhnikam"
+  },
+  {
+   "id": "b3",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Liṅgoddhāra: or, how to leave your old religion, get the previous gods to release your contract, and discover that Śiva doesn’t actually require a bloody transfer certificate.",
+   "directed": "Liṅgoddhāra: or, how to leave your old religion, get the previous gods to release your contract, and discover that Śiva doesn’t actually require a bloody transfer certificate."
+  },
+  {
+   "id": "b4",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Right then.",
+   "directed": "[short pause] Right then."
+  },
+  {
+   "id": "b5",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Last chapter was quite extraordinary, wasn’t it?",
+   "directed": "Last chapter was quite extraordinary, wasn’t it?"
+  },
+  {
+   "id": "b6",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We discovered that apparently being dead is no excuse for missing your initiation.",
+   "directed": "We discovered that apparently being dead is no excuse for missing your initiation."
+  },
+  {
+   "id": "b7",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A guru could, according to the tradition, contemplate an absent disciple, construct an enormous fiery net through the cosmic pathways, draw their consciousness into a ritual representation, and perform the appropriate liberation ceremony.",
+   "directed": "A guru could, according to the tradition, contemplate an absent disciple, construct an enormous fiery net through the cosmic pathways, draw their consciousness into a ritual representation, and perform the appropriate liberation ceremony."
+  },
+  {
+   "id": "b8",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Absolutely magnificent.",
+   "directed": "Absolutely magnificent."
+  },
+  {
+   "id": "b9",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But now we’ve got a rather different problem.",
+   "directed": "But now we’ve got a rather different problem."
+  },
+  {
+   "id": "b10",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because suppose you’re not dead.",
+   "directed": "Because suppose you’re not dead."
+  },
+  {
+   "id": "b11",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’re perfectly alive.",
+   "directed": "You’re perfectly alive."
+  },
+  {
+   "id": "b12",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve got two functioning legs.",
+   "directed": "You’ve got two functioning legs."
+  },
+  {
+   "id": "b13",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A reasonable understanding of Sanskrit.",
+   "directed": "A reasonable understanding of Sanskrit."
+  },
+  {
+   "id": "b14",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Perhaps a particularly impressive meditation cushion.",
+   "directed": "Perhaps a particularly impressive meditation cushion."
+  },
+  {
+   "id": "b15",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And you’ve finally discovered the teachings of Trika.",
+   "directed": "And you’ve finally discovered the teachings of Trika."
+  },
+  {
+   "id": "b16",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Wonderful.",
+   "directed": "Wonderful."
+  },
+  {
+   "id": "b17",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Except there’s one slight complication.",
+   "directed": "Except there’s one slight complication."
+  },
+  {
+   "id": "b18",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve already been initiated into another religion.",
+   "directed": "You’ve already been initiated into another religion."
+  },
+  {
+   "id": "b19",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Perhaps you’re a Vaiṣṇava.",
+   "directed": "Perhaps you’re a Vaiṣṇava."
+  },
+  {
+   "id": "b20",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Perhaps you’ve taken vows within another Śaiva tradition.",
+   "directed": "Perhaps you’ve taken vows within another Śaiva tradition."
+  },
+  {
+   "id": "b21",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Perhaps you’ve spent years following a particular guru, and now you’ve encountered Abhinavagupta’s teachings and decided that the supreme nondual reality of Bhairava is what you want to investigate.",
+   "directed": "Perhaps you’ve spent years following a particular guru, and now you’ve encountered Abhinavagupta’s teachings and decided that the supreme nondual reality of Bhairava is what you want to investigate."
+  },
+  {
+   "id": "b22",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "What happens?",
+   "directed": "What happens?"
+  },
+  {
+   "id": "b23",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Do you simply abandon everything and begin chanting new mantras?",
+   "directed": "Do you simply abandon everything and begin chanting new mantras?"
+  },
+  {
+   "id": "b24",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Do your previous vows still bind you?",
+   "directed": "Do your previous vows still bind you?"
+  },
+  {
+   "id": "b25",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Can you receive a higher initiation while remaining committed to an earlier religious discipline?",
+   "directed": "Can you receive a higher initiation while remaining committed to an earlier religious discipline?"
+  },
+  {
+   "id": "b26",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And what about the deity associated with your previous vows?",
+   "directed": "And what about the deity associated with your previous vows?"
+  },
+  {
+   "id": "b27",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Is that deity going to be terribly annoyed?",
+   "directed": "Is that deity going to be terribly annoyed?"
+  },
+  {
+   "id": "b28",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Well.",
+   "directed": "Well."
+  },
+  {
+   "id": "b29",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Abhinavagupta has a ceremony for this.",
+   "directed": "Abhinavagupta has a ceremony for this."
+  },
+  {
+   "id": "b30",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Of course he does.",
+   "directed": "Of course he does."
+  },
+  {
+   "id": "b31",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Liṅgoddhāra.",
+   "directed": "[slowly] Liṅgoddhāra."
+  },
+  {
+   "id": "b32",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "लिङ्गोद्धार",
+   "directed": "[slowly] लिङ्गोद्धार"
+  },
+  {
+   "id": "b33",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The removal or lifting away of the previous religious mark.",
+   "directed": "The removal or lifting away of the previous religious mark."
+  },
+  {
+   "id": "b34",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, before anyone gets concerned, liṅga here does not mean someone’s sexual anatomy.",
+   "directed": "Now, before anyone gets concerned, liṅga here does not mean someone’s sexual anatomy."
+  },
+  {
+   "id": "b35",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nor is the guru running around removing Śiva-liṅgas from people’s houses.",
+   "directed": "Nor is the guru running around removing Śiva-liṅgas from people’s houses."
+  },
+  {
+   "id": "b36",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The relevant meaning is a sign or mark of religious affiliation.",
+   "directed": "The relevant meaning is a sign or mark of religious affiliation."
+  },
+  {
+   "id": "b37",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And uddhāra means lifting out, removing or releasing.",
+   "directed": "And uddhāra means lifting out, removing or releasing."
+  },
+  {
+   "id": "b38",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So the purpose is to free an aspirant from the marks and obligations of an earlier religious commitment, allowing the appropriate initiation into the higher system as Abhinavagupta understands it.",
+   "directed": "So the purpose is to free an aspirant from the marks and obligations of an earlier religious commitment, allowing the appropriate initiation into the higher system as Abhinavagupta understands it."
+  },
+  {
+   "id": "b39",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And you’ll notice something immediately.",
+   "directed": "And you’ll notice something immediately."
+  },
+  {
+   "id": "b40",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re not discussing how to convert somebody by winning a philosophical argument.",
+   "directed": "We’re not discussing how to convert somebody by winning a philosophical argument."
+  },
+  {
+   "id": "b41",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is a ritual for a person in whom:",
+   "directed": "[short pause] This is a ritual for a person in whom:"
+  },
+  {
+   "id": "b42",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śaktipāta has already occurred.",
+   "directed": "Śaktipāta has already occurred."
+  },
+  {
+   "id": "b43",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The supreme Power has begun directing their attention toward the new teaching.",
+   "directed": "The supreme Power has begun directing their attention toward the new teaching."
+  },
+  {
+   "id": "b44",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That’s absolutely fundamental.",
+   "directed": "That’s absolutely fundamental."
+  },
+  {
+   "id": "b45",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So let’s begin.",
+   "directed": "So let’s begin."
+  },
+  {
+   "id": "b46",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "1. Who needs the previous religious mark removed?\nAbhinavagupta opens with a rather extraordinary compound.",
+   "directed": "1. Who needs the previous religious mark removed?\nAbhinavagupta opens with a rather extraordinary compound."
+  },
+  {
+   "id": "b47",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Vaiṣṇavādi-dakṣiṇa-tantrānteṣu śāsaneṣu.",
+   "directed": "[slowly] Vaiṣṇavādi-dakṣiṇa-tantrānteṣu śāsaneṣu."
+  },
+  {
+   "id": "b48",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Bloody hell.",
+   "directed": "Bloody hell."
+  },
+  {
+   "id": "b49",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Straight in, no warm-up.",
+   "directed": "Straight in, no warm-up."
+  },
+  {
+   "id": "b50",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s unpack it.",
+   "directed": "Let’s unpack it."
+  },
+  {
+   "id": "b51",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vaiṣṇava — belonging to Viṣṇu or a Vaiṣṇava tradition.",
+   "directed": "Vaiṣṇava — belonging to Viṣṇu or a Vaiṣṇava tradition."
+  },
+  {
+   "id": "b52",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ādi — beginning with.",
+   "directed": "Ādi — beginning with."
+  },
+  {
+   "id": "b53",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Dakṣiṇa-tantra — the Dakṣiṇa or right-hand stream of tantric revelation.",
+   "directed": "Dakṣiṇa-tantra — the Dakṣiṇa or right-hand stream of tantric revelation."
+  },
+  {
+   "id": "b54",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Anta — ending with.",
+   "directed": "Anta — ending with."
+  },
+  {
+   "id": "b55",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śāsana — a system of teaching, religious doctrine or authoritative discipline.",
+   "directed": "Śāsana — a system of teaching, religious doctrine or authoritative discipline."
+  },
+  {
+   "id": "b56",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So he’s referring to religious systems ranging from Vaiṣṇava teachings through the Dakṣiṇa tantras.",
+   "directed": "So he’s referring to religious systems ranging from Vaiṣṇava teachings through the Dakṣiṇa tantras."
+  },
+  {
+   "id": "b57",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, a historical clarification.",
+   "directed": "Now, a historical clarification."
+  },
+  {
+   "id": "b58",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Dakṣiṇa here belongs to the traditional classification of tantric scriptural streams. It shouldn’t simply be equated with the modern popular distinction between respectable right-hand Tantra and transgressive left-hand Tantra.",
+   "directed": "Dakṣiṇa here belongs to the traditional classification of tantric scriptural streams. It shouldn’t simply be equated with the modern popular distinction between respectable right-hand Tantra and transgressive left-hand Tantra."
+  },
+  {
+   "id": "b59",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Abhinavagupta is describing a hierarchy of religious revelations.",
+   "directed": "Abhinavagupta is describing a hierarchy of religious revelations."
+  },
+  {
+   "id": "b60",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And in that hierarchy he regards Trika as belonging to the highest teaching.",
+   "directed": "And in that hierarchy he regards Trika as belonging to the highest teaching."
+  },
+  {
+   "id": "b61",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Uttama-śāsana.",
+   "directed": "[slowly] Uttama-śāsana."
+  },
+  {
+   "id": "b62",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, that is his doctrinal judgment.",
+   "directed": "Now, that is his doctrinal judgment."
+  },
+  {
+   "id": "b63",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re not going to pretend he considers every religious tradition equally authoritative.",
+   "directed": "We’re not going to pretend he considers every religious tradition equally authoritative."
+  },
+  {
+   "id": "b64",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He doesn’t.",
+   "directed": "He doesn’t."
+  },
+  {
+   "id": "b65",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He’s quite unapologetic about it.",
+   "directed": "He’s quite unapologetic about it."
+  },
+  {
+   "id": "b66",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And then he gives the first category of people who may require this rite.",
+   "directed": "And then he gives the first category of people who may require this rite."
+  },
+  {
+   "id": "b67",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Those established in the earlier systems.",
+   "directed": "Those established in the earlier systems."
+  },
+  {
+   "id": "b68",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ye sthitāḥ.",
+   "directed": "Ye sthitāḥ."
+  },
+  {
+   "id": "b69",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And those who have accepted their vows.",
+   "directed": "And those who have accepted their vows."
+  },
+  {
+   "id": "b70",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Tad-gṛhīta-vratāḥ.",
+   "directed": "[slowly] Tad-gṛhīta-vratāḥ."
+  },
+  {
+   "id": "b71",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Gṛhīta — taken, accepted.",
+   "directed": "Gṛhīta — taken, accepted."
+  },
+  {
+   "id": "b72",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vrata — vow or observance.",
+   "directed": "Vrata — vow or observance."
+  },
+  {
+   "id": "b73",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So these are people who have already bound themselves through religious commitments.",
+   "directed": "So these are people who have already bound themselves through religious commitments."
+  },
+  {
+   "id": "b74",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that’s important.",
+   "directed": "And that’s important."
+  },
+  {
+   "id": "b75",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because a vow isn’t merely an interesting opinion.",
+   "directed": "Because a vow isn’t merely an interesting opinion."
+  },
+  {
+   "id": "b76",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Within this ritual culture, taking a vrata establishes a religious obligation.",
+   "directed": "Within this ritual culture, taking a vrata establishes a religious obligation."
+  },
+  {
+   "id": "b77",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A relationship with a deity.",
+   "directed": "A relationship with a deity."
+  },
+  {
+   "id": "b78",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A pattern of conduct.",
+   "directed": "A pattern of conduct."
+  },
+  {
+   "id": "b79",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "An authorised form of worship.",
+   "directed": "An authorised form of worship."
+  },
+  {
+   "id": "b80",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Perhaps a specific mantra.",
+   "directed": "Perhaps a specific mantra."
+  },
+  {
+   "id": "b81",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the ceremony we’re about to investigate is designed to release that prior commitment.",
+   "directed": "And the ceremony we’re about to investigate is designed to release that prior commitment."
+  },
+  {
+   "id": "b82",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, Abhinavagupta gives a second category.",
+   "directed": "Now, Abhinavagupta gives a second category."
+  },
+  {
+   "id": "b83",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this one’s even more interesting.",
+   "directed": "And this one’s even more interesting."
+  },
+  {
+   "id": "b84",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Someone already established in the highest teaching but serving an unauthorised guru of a lower system.",
+   "directed": "Someone already established in the highest teaching but serving an unauthorised guru of a lower system."
+  },
+  {
+   "id": "b85",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Uttamaśāsanasthā api anadhikṛtādhar aśāsanagurūpasevinaḥ.",
+   "directed": "Uttamaśāsanasthā api anadhikṛtādhar aśāsanagurūpasevinaḥ."
+  },
+  {
+   "id": "b86",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s break down the central words.",
+   "directed": "Let’s break down the central words."
+  },
+  {
+   "id": "b87",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Uttama — highest.",
+   "directed": "Uttama — highest."
+  },
+  {
+   "id": "b88",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Adhara — lower.",
+   "directed": "Adhara — lower."
+  },
+  {
+   "id": "b89",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Anadhikṛta — not properly qualified or authorised.",
+   "directed": "Anadhikṛta — not properly qualified or authorised."
+  },
+  {
+   "id": "b90",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Guru-upasevin — someone attending upon or serving a teacher.",
+   "directed": "Guru-upasevin — someone attending upon or serving a teacher."
+  },
+  {
+   "id": "b91",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So imagine you’ve already entered the Trika tradition.",
+   "directed": "So imagine you’ve already entered the Trika tradition."
+  },
+  {
+   "id": "b92",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You know the philosophical hierarchy.",
+   "directed": "You know the philosophical hierarchy."
+  },
+  {
+   "id": "b93",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve studied the teachings.",
+   "directed": "You’ve studied the teachings."
+  },
+  {
+   "id": "b94",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But you’re now following someone Abhinavagupta considers unqualified to act as your spiritual authority.",
+   "directed": "But you’re now following someone Abhinavagupta considers unqualified to act as your spiritual authority."
+  },
+  {
+   "id": "b95",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And he says you may also require this purification.",
+   "directed": "And he says you may also require this purification."
+  },
+  {
+   "id": "b96",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, notice what he isn’t saying.",
+   "directed": "Now, notice what he isn’t saying."
+  },
+  {
+   "id": "b97",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He isn’t saying anyone who has studied two religious traditions must automatically undergo this rite.",
+   "directed": "He isn’t saying anyone who has studied two religious traditions must automatically undergo this rite."
+  },
+  {
+   "id": "b98",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The passage concerns previous vows or guru relationships that constitute an impediment within his initiatory hierarchy.",
+   "directed": "The passage concerns previous vows or guru relationships that constitute an impediment within his initiatory hierarchy."
+  },
+  {
+   "id": "b99",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And we also shouldn’t infer that an actual guru becomes illegitimate simply because another religious group declares its doctrine superior.",
+   "directed": "And we also shouldn’t infer that an actual guru becomes illegitimate simply because another religious group declares its doctrine superior."
+  },
+  {
+   "id": "b100",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That’s the historical sectarian framework speaking.",
+   "directed": "That’s the historical sectarian framework speaking."
+  },
+  {
+   "id": "b101",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But within Abhinavagupta’s system, the problem is real.",
+   "directed": "But within Abhinavagupta’s system, the problem is real."
+  },
+  {
+   "id": "b102",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A previous religious commitment may be understood as binding the aspirant to an order of practice that doesn’t culminate in the recognition being sought.",
+   "directed": "A previous religious commitment may be understood as binding the aspirant to an order of practice that doesn’t culminate in the recognition being sought."
+  },
+  {
+   "id": "b103",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now we reach the decisive condition.",
+   "directed": "And now we reach the decisive condition."
+  },
+  {
+   "id": "b104",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "2. You don’t just decide to change religions because you’re bored\nThe Sanskrit says:",
+   "directed": "[short pause] 2. You don’t just decide to change religions because you’re bored\nThe Sanskrit says:"
+  },
+  {
+   "id": "b105",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Yadā te śaktipātena pārameśvareṇa unmukhīkriyante.",
+   "directed": "Yadā te śaktipātena pārameśvareṇa unmukhīkriyante."
+  },
+  {
+   "id": "b106",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "When they are turned toward the supreme teaching through the descent of Power from Parameśvara.",
+   "directed": "When they are turned toward the supreme teaching through the descent of Power from Parameśvara."
+  },
+  {
+   "id": "b107",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now that’s beautiful.",
+   "directed": "Now that’s beautiful."
+  },
+  {
+   "id": "b108",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śaktipāta — descent of divine Power.",
+   "directed": "Śaktipāta — descent of divine Power."
+  },
+  {
+   "id": "b109",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Pārameśvara — belonging to the Supreme Lord.",
+   "directed": "Pārameśvara — belonging to the Supreme Lord."
+  },
+  {
+   "id": "b110",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Unmukhīkriyante — they are made to turn toward, become inclined or face something.",
+   "directed": "Unmukhīkriyante — they are made to turn toward, become inclined or face something."
+  },
+  {
+   "id": "b111",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s look at that last word.",
+   "directed": "Let’s look at that last word."
+  },
+  {
+   "id": "b112",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Unmukha.",
+   "directed": "Unmukha."
+  },
+  {
+   "id": "b113",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ud — upward, outward or forth.",
+   "directed": "Ud — upward, outward or forth."
+  },
+  {
+   "id": "b114",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Mukha — face.",
+   "directed": "Mukha — face."
+  },
+  {
+   "id": "b115",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The sense is turning one’s face toward something.",
+   "directed": "The sense is turning one’s face toward something."
+  },
+  {
+   "id": "b116",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And isn’t that a magnificent description of spiritual attraction?",
+   "directed": "And isn’t that a magnificent description of spiritual attraction?"
+  },
+  {
+   "id": "b117",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’re going about your life.",
+   "directed": "You’re going about your life."
+  },
+  {
+   "id": "b118",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Following a particular system.",
+   "directed": "Following a particular system."
+  },
+  {
+   "id": "b119",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Perhaps perfectly satisfied with it.",
+   "directed": "Perhaps perfectly satisfied with it."
+  },
+  {
+   "id": "b120",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And then something happens.",
+   "directed": "And then something happens."
+  },
+  {
+   "id": "b121",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You encounter a teaching.",
+   "directed": "You encounter a teaching."
+  },
+  {
+   "id": "b122",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Maybe a sentence.",
+   "directed": "Maybe a sentence."
+  },
+  {
+   "id": "b123",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Perhaps a passage from the Śiva Sūtras.",
+   "directed": "Perhaps a passage from the Śiva Sūtras."
+  },
+  {
+   "id": "b124",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Or a verse from Utpaladeva.",
+   "directed": "Or a verse from Utpaladeva."
+  },
+  {
+   "id": "b125",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Or one of Abhinavagupta’s arguments about consciousness.",
+   "directed": "Or one of Abhinavagupta’s arguments about consciousness."
+  },
+  {
+   "id": "b126",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And suddenly your attention turns toward it.",
+   "directed": "And suddenly your attention turns toward it."
+  },
+  {
+   "id": "b127",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You can’t quite explain why.",
+   "directed": "You can’t quite explain why."
+  },
+  {
+   "id": "b128",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You want to understand.",
+   "directed": "You want to understand."
+  },
+  {
+   "id": "b129",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not merely because someone has advertised it particularly well.",
+   "directed": "Not merely because someone has advertised it particularly well."
+  },
+  {
+   "id": "b130",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But because, within the tradition’s explanation, the divine Power is drawing you toward recognition.",
+   "directed": "But because, within the tradition’s explanation, the divine Power is drawing you toward recognition."
+  },
+  {
+   "id": "b131",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, Chapter Eleven was extremely emphatic about this.",
+   "directed": "Now, Chapter Eleven was extremely emphatic about this."
+  },
+  {
+   "id": "b132",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śaktipāta isn’t ultimately manufactured by karma, merit or religious effort.",
+   "directed": "Śaktipāta isn’t ultimately manufactured by karma, merit or religious effort."
+  },
+  {
+   "id": "b133",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s an expression of Śiva’s own freedom.",
+   "directed": "It’s an expression of Śiva’s own freedom."
+  },
+  {
+   "id": "b134",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Svātantrya.",
+   "directed": "[slowly] Svātantrya."
+  },
+  {
+   "id": "b135",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here the same teaching governs eligibility.",
+   "directed": "And here the same teaching governs eligibility."
+  },
+  {
+   "id": "b136",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The ritual is prescribed when the aspirant has become oriented toward the new teaching through divine grace.",
+   "directed": "The ritual is prescribed when the aspirant has become oriented toward the new teaching through divine grace."
+  },
+  {
+   "id": "b137",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So the essential condition isn’t:",
+   "directed": "[short pause] So the essential condition isn’t:"
+  },
+  {
+   "id": "b138",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“I’ve decided Viṣṇu is terribly unfashionable this year.”",
+   "directed": "[short pause] “I’ve decided Viṣṇu is terribly unfashionable this year.”"
+  },
+  {
+   "id": "b139",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Or:",
+   "directed": "[short pause] Or:"
+  },
+  {
+   "id": "b140",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“I heard Kashmir Śaivism has some absolutely magnificent Sanskrit terminology.”",
+   "directed": "[short pause] “I heard Kashmir Śaivism has some absolutely magnificent Sanskrit terminology.”"
+  },
+  {
+   "id": "b141",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Or:",
+   "directed": "[short pause] Or:"
+  },
+  {
+   "id": "b142",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“I’d like a more impressive spiritual title.”",
+   "directed": "[short pause] “I’d like a more impressive spiritual title.”"
+  },
+  {
+   "id": "b143",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "No.",
+   "directed": "No."
+  },
+  {
+   "id": "b144",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The relevant movement is toward the higher recognition as this tradition conceives it.",
+   "directed": "The relevant movement is toward the higher recognition as this tradition conceives it."
+  },
+  {
+   "id": "b145",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And then Abhinavagupta says:",
+   "directed": "[short pause] And then Abhinavagupta says:"
+  },
+  {
+   "id": "b146",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Tadā teṣām ayaṃ vidhiḥ.",
+   "directed": "[slowly] Tadā teṣām ayaṃ vidhiḥ."
+  },
+  {
+   "id": "b147",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then this is their procedure.",
+   "directed": "Then this is their procedure."
+  },
+  {
+   "id": "b148",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Right.",
+   "directed": "[short pause] Right."
+  },
+  {
+   "id": "b149",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Time to perform the ceremony.",
+   "directed": "Time to perform the ceremony."
+  },
+  {
+   "id": "b150",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the first thing you’ve got to do is stop eating.",
+   "directed": "And the first thing you’ve got to do is stop eating."
+  },
+  {
+   "id": "b151",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "3. First, a fast\nKṛtopavāsam.",
+   "directed": "3. First, a fast\nKṛtopavāsam."
+  },
+  {
+   "id": "b152",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Having undertaken a fast.",
+   "directed": "Having undertaken a fast."
+  },
+  {
+   "id": "b153",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, remember what we discussed about upavāsa?",
+   "directed": "Now, remember what we discussed about upavāsa?"
+  },
+  {
+   "id": "b154",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The word is traditionally associated with dwelling near, although its normal ritual meaning is fasting.",
+   "directed": "The word is traditionally associated with dwelling near, although its normal ritual meaning is fasting."
+  },
+  {
+   "id": "b155",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Here it refers to the required fast before the ceremony.",
+   "directed": "Here it refers to the required fast before the ceremony."
+  },
+  {
+   "id": "b156",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The aspirant observes it, and on the following day:",
+   "directed": "[short pause] The aspirant observes it, and on the following day:"
+  },
+  {
+   "id": "b157",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Anyadine.",
+   "directed": "Anyadine."
+  },
+  {
+   "id": "b158",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "On another day, the next day.",
+   "directed": "On another day, the next day."
+  },
+  {
+   "id": "b159",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The guru brings them before the Lord.",
+   "directed": "The guru brings them before the Lord."
+  },
+  {
+   "id": "b160",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But first, the Lord is worshipped through:",
+   "directed": "[short pause] But first, the Lord is worshipped through:"
+  },
+  {
+   "id": "b161",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Sādhāraṇa-mantra.",
+   "directed": "[slowly] Sādhāraṇa-mantra."
+  },
+  {
+   "id": "b162",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A general or common mantra.",
+   "directed": "A general or common mantra."
+  },
+  {
+   "id": "b163",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now this is a recurring feature of the chapter.",
+   "directed": "Now this is a recurring feature of the chapter."
+  },
+  {
+   "id": "b164",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The rite doesn’t immediately invoke the aspirant’s former specific mantra.",
+   "directed": "The rite doesn’t immediately invoke the aspirant’s former specific mantra."
+  },
+  {
+   "id": "b165",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nor does it begin with the special mantra belonging to the new advanced initiation.",
+   "directed": "Nor does it begin with the special mantra belonging to the new advanced initiation."
+  },
+  {
+   "id": "b166",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It employs a general formula.",
+   "directed": "It employs a general formula."
+  },
+  {
+   "id": "b167",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Why is that appropriate?",
+   "directed": "Why is that appropriate?"
+  },
+  {
+   "id": "b168",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because we’re in a transitional condition.",
+   "directed": "Because we’re in a transitional condition."
+  },
+  {
+   "id": "b169",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The previous affiliation is being released.",
+   "directed": "The previous affiliation is being released."
+  },
+  {
+   "id": "b170",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The next full initiation has not yet occurred.",
+   "directed": "The next full initiation has not yet occurred."
+  },
+  {
+   "id": "b171",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re between established religious commitments.",
+   "directed": "We’re between established religious commitments."
+  },
+  {
+   "id": "b172",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the rite is explicitly preparing the candidate for the higher initiation.",
+   "directed": "And the rite is explicitly preparing the candidate for the higher initiation."
+  },
+  {
+   "id": "b173",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So the general mantra serves the preliminary worship of Parameśvara.",
+   "directed": "So the general mantra serves the preliminary worship of Parameśvara."
+  },
+  {
+   "id": "b174",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then the candidate is brought before the Lord.",
+   "directed": "Then the candidate is brought before the Lord."
+  },
+  {
+   "id": "b175",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But there’s a fascinating little clause here.",
+   "directed": "But there’s a fascinating little clause here."
+  },
+  {
+   "id": "b176",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Tadīyāṃ ceṣṭāṃ śrāvitasya bhagavataḥ.",
+   "directed": "[slowly] Tadīyāṃ ceṣṭāṃ śrāvitasya bhagavataḥ."
+  },
+  {
+   "id": "b177",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Lord has been informed of the aspirant’s conduct or actions.",
+   "directed": "The Lord has been informed of the aspirant’s conduct or actions."
+  },
+  {
+   "id": "b178",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s unpack that.",
+   "directed": "Let’s unpack that."
+  },
+  {
+   "id": "b179",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Tadīya — belonging to that person.",
+   "directed": "Tadīya — belonging to that person."
+  },
+  {
+   "id": "b180",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ceṣṭā — conduct, activity, behaviour.",
+   "directed": "Ceṣṭā — conduct, activity, behaviour."
+  },
+  {
+   "id": "b181",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śrāvita — caused to hear, informed.",
+   "directed": "Śrāvita — caused to hear, informed."
+  },
+  {
+   "id": "b182",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Bhagavat — the Lord.",
+   "directed": "Bhagavat — the Lord."
+  },
+  {
+   "id": "b183",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So the aspirant’s previous conduct is formally brought before Parameśvara.",
+   "directed": "So the aspirant’s previous conduct is formally brought before Parameśvara."
+  },
+  {
+   "id": "b184",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now imagine the scene.",
+   "directed": "Now imagine the scene."
+  },
+  {
+   "id": "b185",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The aspirant has fasted.",
+   "directed": "The aspirant has fasted."
+  },
+  {
+   "id": "b186",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The ritual place is prepared.",
+   "directed": "The ritual place is prepared."
+  },
+  {
+   "id": "b187",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The guru has worshipped Śiva.",
+   "directed": "The guru has worshipped Śiva."
+  },
+  {
+   "id": "b188",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now the candidate is presented.",
+   "directed": "And now the candidate is presented."
+  },
+  {
+   "id": "b189",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Right, Lord.”",
+   "directed": "[short pause] “Right, Lord.”"
+  },
+  {
+   "id": "b190",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“We’ve got someone here.”",
+   "directed": "[short pause] “We’ve got someone here.”"
+  },
+  {
+   "id": "b191",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Previously initiated elsewhere.”",
+   "directed": "[short pause] “Previously initiated elsewhere.”"
+  },
+  {
+   "id": "b192",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Has undertaken certain vows.”",
+   "directed": "[short pause] “Has undertaken certain vows.”"
+  },
+  {
+   "id": "b193",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Now turned toward your supreme teaching.”",
+   "directed": "[short pause] “Now turned toward your supreme teaching.”"
+  },
+  {
+   "id": "b194",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“And we’re here to release the previous obligations.”",
+   "directed": "[short pause] “And we’re here to release the previous obligations.”"
+  },
+  {
+   "id": "b195",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Very formal.",
+   "directed": "Very formal."
+  },
+  {
+   "id": "b196",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Quite a ceremony.",
+   "directed": "Quite a ceremony."
+  },
+  {
+   "id": "b197",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the significance is important.",
+   "directed": "But the significance is important."
+  },
+  {
+   "id": "b198",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The earlier commitment isn’t being treated as though it never existed.",
+   "directed": "The earlier commitment isn’t being treated as though it never existed."
+  },
+  {
+   "id": "b199",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is acknowledged before the divine presence.",
+   "directed": "It is acknowledged before the divine presence."
+  },
+  {
+   "id": "b200",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The ritual recognises that the candidate has a religious past.",
+   "directed": "The ritual recognises that the candidate has a religious past."
+  },
+  {
+   "id": "b201",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now that past affiliation is to be relinquished.",
+   "directed": "And now that past affiliation is to be relinquished."
+  },
+  {
+   "id": "b202",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which brings us to the most wonderfully concrete action in the entire chapter.",
+   "directed": "Which brings us to the most wonderfully concrete action in the entire chapter."
+  },
+  {
+   "id": "b203",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "4. Take the old vow and throw it in the water\nHere’s the Sanskrit:",
+   "directed": "[short pause] 4. Take the old vow and throw it in the water\nHere’s the Sanskrit:"
+  },
+  {
+   "id": "b204",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "figure",
+   "voice": "none",
+   "text": "ATTESTED PROSE — 17.1",
+   "directed": "ATTESTED PROSE — 17.1"
+  },
+  {
+   "id": "b205",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "तत्रास्य व्रतं गृहीत्वाम्भसि क्षिपेत्\nTatrāsya vrataṃ gṛhītvāmbhasi kṣipet.",
+   "directed": "[slowly] तत्रास्य व्रतं गृहीत्वाम्भसि क्षिपेत्\nTatrāsya vrataṃ gṛhītvāmbhasi kṣipet."
+  },
+  {
+   "id": "b206",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There, having taken up the person’s vow, one should cast it into water.",
+   "directed": "There, having taken up the person’s vow, one should cast it into water."
+  },
+  {
+   "id": "b207",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now that’s extraordinary.",
+   "directed": "Now that’s extraordinary."
+  },
+  {
+   "id": "b208",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vrata — vow.",
+   "directed": "Vrata — vow."
+  },
+  {
+   "id": "b209",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Gṛhītvā — having taken.",
+   "directed": "Gṛhītvā — having taken."
+  },
+  {
+   "id": "b210",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ambhas — water.",
+   "directed": "Ambhas — water."
+  },
+  {
+   "id": "b211",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṣipet — one should cast, throw or deposit.",
+   "directed": "Kṣipet — one should cast, throw or deposit."
+  },
+  {
+   "id": "b212",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Take the previous vow and put it into water.",
+   "directed": "Take the previous vow and put it into water."
+  },
+  {
+   "id": "b213",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, presumably you can’t physically pick up a vow like a rock.",
+   "directed": "Now, presumably you can’t physically pick up a vow like a rock."
+  },
+  {
+   "id": "b214",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s not a pair of sandals.",
+   "directed": "It’s not a pair of sandals."
+  },
+  {
+   "id": "b215",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You can’t just reach into someone’s head, pull out a religious commitment and chuck it into a bucket.",
+   "directed": "You can’t just reach into someone’s head, pull out a religious commitment and chuck it into a bucket."
+  },
+  {
+   "id": "b216",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So the action is understood through ritual representation or contemplative appropriation.",
+   "directed": "So the action is understood through ritual representation or contemplative appropriation."
+  },
+  {
+   "id": "b217",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Sanskrit does not specify exactly what physical object, if any, represents the vow.",
+   "directed": "The Sanskrit does not specify exactly what physical object, if any, represents the vow."
+  },
+  {
+   "id": "b218",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that’s worth being careful about.",
+   "directed": "And that’s worth being careful about."
+  },
+  {
+   "id": "b219",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re not going to invent a little paper certificate and claim Abhinavagupta tells you to burn it.",
+   "directed": "We’re not going to invent a little paper certificate and claim Abhinavagupta tells you to burn it."
+  },
+  {
+   "id": "b220",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He doesn’t.",
+   "directed": "He doesn’t."
+  },
+  {
+   "id": "b221",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He says the vow is taken and cast into water.",
+   "directed": "He says the vow is taken and cast into water."
+  },
+  {
+   "id": "b222",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, think about the symbolism.",
+   "directed": "Now, think about the symbolism."
+  },
+  {
+   "id": "b223",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A religious obligation has been accepted.",
+   "directed": "A religious obligation has been accepted."
+  },
+  {
+   "id": "b224",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It has shaped the person’s identity and practice.",
+   "directed": "It has shaped the person’s identity and practice."
+  },
+  {
+   "id": "b225",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Within this tradition, it establishes a binding relationship with a particular order of religious authority.",
+   "directed": "Within this tradition, it establishes a binding relationship with a particular order of religious authority."
+  },
+  {
+   "id": "b226",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the rite symbolically removes it.",
+   "directed": "And the rite symbolically removes it."
+  },
+  {
+   "id": "b227",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not by pretending it never existed.",
+   "directed": "Not by pretending it never existed."
+  },
+  {
+   "id": "b228",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But by formally relinquishing it.",
+   "directed": "But by formally relinquishing it."
+  },
+  {
+   "id": "b229",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, here’s where the ceremony becomes almost comically simple.",
+   "directed": "Now, here’s where the ceremony becomes almost comically simple."
+  },
+  {
+   "id": "b230",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The old religious commitment?",
+   "directed": "The old religious commitment?"
+  },
+  {
+   "id": "b231",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Into the water.",
+   "directed": "Into the water."
+  },
+  {
+   "id": "b232",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Splash.",
+   "directed": "Splash."
+  },
+  {
+   "id": "b233",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Lovely.",
+   "directed": "[short pause] Lovely."
+  },
+  {
+   "id": "b234",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But then comes another action.",
+   "directed": "But then comes another action."
+  },
+  {
+   "id": "b235",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because apparently the candidate must also have a bath.",
+   "directed": "Because apparently the candidate must also have a bath."
+  },
+  {
+   "id": "b236",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "5. Then wash yourself\nTato’sau snāyāt.",
+   "directed": "5. Then wash yourself\nTato’sau snāyāt."
+  },
+  {
+   "id": "b237",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then the candidate should bathe.",
+   "directed": "Then the candidate should bathe."
+  },
+  {
+   "id": "b238",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, remember Chapter Twelve?",
+   "directed": "Now, remember Chapter Twelve?"
+  },
+  {
+   "id": "b239",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We spent an entire chapter discussing the meaning of purification.",
+   "directed": "We spent an entire chapter discussing the meaning of purification."
+  },
+  {
+   "id": "b240",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And what did Abhinavagupta tell us?",
+   "directed": "And what did Abhinavagupta tell us?"
+  },
+  {
+   "id": "b241",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Purity is immersion into the nature of Parameśvara.",
+   "directed": "Purity is immersion into the nature of Parameśvara."
+  },
+  {
+   "id": "b242",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not merely washing dirt from the body.",
+   "directed": "Not merely washing dirt from the body."
+  },
+  {
+   "id": "b243",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The real impurity was the mistaken identification that one’s essential consciousness is something separate from Śiva.",
+   "directed": "The real impurity was the mistaken identification that one’s essential consciousness is something separate from Śiva."
+  },
+  {
+   "id": "b244",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now, in this rite, bathing has a very particular function.",
+   "directed": "And now, in this rite, bathing has a very particular function."
+  },
+  {
+   "id": "b245",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The aspirant has relinquished the old vow.",
+   "directed": "The aspirant has relinquished the old vow."
+  },
+  {
+   "id": "b246",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And undergoes purification before entering the new initiatory system.",
+   "directed": "And undergoes purification before entering the new initiatory system."
+  },
+  {
+   "id": "b247",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The water marks the transition.",
+   "directed": "The water marks the transition."
+  },
+  {
+   "id": "b248",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But here’s something important.",
+   "directed": "But here’s something important."
+  },
+  {
+   "id": "b249",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We shouldn’t pretend Abhinavagupta explicitly repeats the entire philosophical theory of Chapter Twelve here.",
+   "directed": "We shouldn’t pretend Abhinavagupta explicitly repeats the entire philosophical theory of Chapter Twelve here."
+  },
+  {
+   "id": "b250",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He doesn’t.",
+   "directed": "He doesn’t."
+  },
+  {
+   "id": "b251",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This chapter simply prescribes the bath.",
+   "directed": "This chapter simply prescribes the bath."
+  },
+  {
+   "id": "b252",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The interpretation becomes clear when we read it within the larger ritual framework of the Tantrasāra.",
+   "directed": "The interpretation becomes clear when we read it within the larger ritual framework of the Tantrasāra."
+  },
+  {
+   "id": "b253",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So you’ve got the previous obligation relinquished.",
+   "directed": "So you’ve got the previous obligation relinquished."
+  },
+  {
+   "id": "b254",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then the candidate bathes.",
+   "directed": "Then the candidate bathes."
+  },
+  {
+   "id": "b255",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And after that?",
+   "directed": "And after that?"
+  },
+  {
+   "id": "b256",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Prokṣya.",
+   "directed": "[slowly] Prokṣya."
+  },
+  {
+   "id": "b257",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The guru sprinkles the candidate with consecrated water.",
+   "directed": "The guru sprinkles the candidate with consecrated water."
+  },
+  {
+   "id": "b258",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, notice the distinction.",
+   "directed": "Now, notice the distinction."
+  },
+  {
+   "id": "b259",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Snāna — bathing.",
+   "directed": "Snāna — bathing."
+  },
+  {
+   "id": "b260",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Prokṣaṇa — ritual sprinkling.",
+   "directed": "Prokṣaṇa — ritual sprinkling."
+  },
+  {
+   "id": "b261",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The first is the candidate’s bath.",
+   "directed": "The first is the candidate’s bath."
+  },
+  {
+   "id": "b262",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The second is an act of consecration performed in the ritual sequence.",
+   "directed": "The second is an act of consecration performed in the ritual sequence."
+  },
+  {
+   "id": "b263",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And then the candidate is prepared through two more things.",
+   "directed": "And then the candidate is prepared through two more things."
+  },
+  {
+   "id": "b264",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Caru.",
+   "directed": "Caru."
+  },
+  {
+   "id": "b265",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ritually prepared food, commonly cooked grain.",
+   "directed": "Ritually prepared food, commonly cooked grain."
+  },
+  {
+   "id": "b266",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And:",
+   "directed": "[short pause] And:"
+  },
+  {
+   "id": "b267",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Dantakāṣṭha.",
+   "directed": "[slowly] Dantakāṣṭha."
+  },
+  {
+   "id": "b268",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A tooth-cleaning twig.",
+   "directed": "A tooth-cleaning twig."
+  },
+  {
+   "id": "b269",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Yes.",
+   "directed": "[short pause] Yes."
+  },
+  {
+   "id": "b270",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re back to cleaning the teeth.",
+   "directed": "We’re back to cleaning the teeth."
+  },
+  {
+   "id": "b271",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You can apparently transfer religious affiliations at the level of supreme metaphysics, but you’re still going to need a little stick to sort your mouth out.",
+   "directed": "You can apparently transfer religious affiliations at the level of supreme metaphysics, but you’re still going to need a little stick to sort your mouth out."
+  },
+  {
+   "id": "b272",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And these are the same sorts of preliminaries we encountered in Chapter Thirteen.",
+   "directed": "And these are the same sorts of preliminaries we encountered in Chapter Thirteen."
+  },
+  {
+   "id": "b273",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re not going to recreate their entire description here.",
+   "directed": "We’re not going to recreate their entire description here."
+  },
+  {
+   "id": "b274",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Abhinavagupta is deliberately concise.",
+   "directed": "Abhinavagupta is deliberately concise."
+  },
+  {
+   "id": "b275",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the order matters.",
+   "directed": "But the order matters."
+  },
+  {
+   "id": "b276",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Fast.",
+   "directed": "Fast."
+  },
+  {
+   "id": "b277",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Present the aspirant before the Lord.",
+   "directed": "Present the aspirant before the Lord."
+  },
+  {
+   "id": "b278",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Relinquish the vow into water.",
+   "directed": "Relinquish the vow into water."
+  },
+  {
+   "id": "b279",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Bathe.",
+   "directed": "Bathe."
+  },
+  {
+   "id": "b280",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sprinkle.",
+   "directed": "Sprinkle."
+  },
+  {
+   "id": "b281",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Consecrate with caru and the tooth-stick.",
+   "directed": "Consecrate with caru and the tooth-stick."
+  },
+  {
+   "id": "b282",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now?",
+   "directed": "And now?"
+  },
+  {
+   "id": "b283",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Blindfold the candidate.",
+   "directed": "Blindfold the candidate."
+  },
+  {
+   "id": "b284",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because we’re about to introduce them to the worship of Parameśvara.",
+   "directed": "Because we’re about to introduce them to the worship of Parameśvara."
+  },
+  {
+   "id": "b285",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "6. Blindfolded again — the old identity goes, the new worship begins\nRight.",
+   "directed": "6. Blindfolded again — the old identity goes, the new worship begins\nRight."
+  },
+  {
+   "id": "b286",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Baddhanetra.",
+   "directed": "Baddhanetra."
+  },
+  {
+   "id": "b287",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Blindfolded.",
+   "directed": "Blindfolded."
+  },
+  {
+   "id": "b288",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Remember Chapter Thirteen?",
+   "directed": "Remember Chapter Thirteen?"
+  },
+  {
+   "id": "b289",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The disciple was brought into the consecrated space with their eyes covered.",
+   "directed": "The disciple was brought into the consecrated space with their eyes covered."
+  },
+  {
+   "id": "b290",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And when the blindfold was removed, the tradition described the possibility of encountering the deity’s presence through faculties transformed by grace.",
+   "directed": "And when the blindfold was removed, the tradition described the possibility of encountering the deity’s presence through faculties transformed by grace."
+  },
+  {
+   "id": "b291",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Well, we’re using the same ritual motif again.",
+   "directed": "Well, we’re using the same ritual motif again."
+  },
+  {
+   "id": "b292",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The aspirant is brought inside with covered eyes.",
+   "directed": "The aspirant is brought inside with covered eyes."
+  },
+  {
+   "id": "b293",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the guru causes them to perform:",
+   "directed": "[short pause] And the guru causes them to perform:"
+  },
+  {
+   "id": "b294",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Parameśvara-pūjā.",
+   "directed": "[slowly] Parameśvara-pūjā."
+  },
+  {
+   "id": "b295",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Worship of the Supreme Lord.",
+   "directed": "Worship of the Supreme Lord."
+  },
+  {
+   "id": "b296",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Using:",
+   "directed": "[short pause] Using:"
+  },
+  {
+   "id": "b297",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Sādhāraṇa-mantra.",
+   "directed": "[slowly] Sādhāraṇa-mantra."
+  },
+  {
+   "id": "b298",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The general mantra.",
+   "directed": "The general mantra."
+  },
+  {
+   "id": "b299",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, here’s something worth noticing.",
+   "directed": "Now, here’s something worth noticing."
+  },
+  {
+   "id": "b300",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is not yet the full initiation into the new tradition.",
+   "directed": "This is not yet the full initiation into the new tradition."
+  },
+  {
+   "id": "b301",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The previous vow is being relinquished, and the candidate is now worshipping Parameśvara through a general formula.",
+   "directed": "The previous vow is being relinquished, and the candidate is now worshipping Parameśvara through a general formula."
+  },
+  {
+   "id": "b302",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s a transitional act.",
+   "directed": "It’s a transitional act."
+  },
+  {
+   "id": "b303",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Imagine you’re changing from one religious discipline to another.",
+   "directed": "Imagine you’re changing from one religious discipline to another."
+  },
+  {
+   "id": "b304",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve acknowledged the earlier commitment.",
+   "directed": "You’ve acknowledged the earlier commitment."
+  },
+  {
+   "id": "b305",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Released its vow.",
+   "directed": "Released its vow."
+  },
+  {
+   "id": "b306",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Undergone purification.",
+   "directed": "Undergone purification."
+  },
+  {
+   "id": "b307",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now the next act is not immediately to receive the most esoteric secret of Trika.",
+   "directed": "And now the next act is not immediately to receive the most esoteric secret of Trika."
+  },
+  {
+   "id": "b308",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s to worship the Supreme Lord in a preparatory form.",
+   "directed": "It’s to worship the Supreme Lord in a preparatory form."
+  },
+  {
+   "id": "b309",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Rather sensible.",
+   "directed": "Rather sensible."
+  },
+  {
+   "id": "b310",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the ceremony isn’t finished.",
+   "directed": "But the ceremony isn’t finished."
+  },
+  {
+   "id": "b311",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because vows aren’t merely ideas floating around inside the head.",
+   "directed": "Because vows aren’t merely ideas floating around inside the head."
+  },
+  {
+   "id": "b312",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Within this ritual system, they’re understood as establishing a real religious obligation.",
+   "directed": "Within this ritual system, they’re understood as establishing a real religious obligation."
+  },
+  {
+   "id": "b313",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So now Abhinavagupta moves into the fire rite.",
+   "directed": "So now Abhinavagupta moves into the fire rite."
+  },
+  {
+   "id": "b314",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is where the previous commitment receives its formal purification.",
+   "directed": "And this is where the previous commitment receives its formal purification."
+  },
+  {
+   "id": "b315",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "7. The fire must first become Śiva\nHere’s the beginning of the next instruction:",
+   "directed": "[short pause] 7. The fire must first become Śiva\nHere’s the beginning of the next instruction:"
+  },
+  {
+   "id": "b316",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sādhāraṇa-mantreṇa śivīkṛte agnau.",
+   "directed": "Sādhāraṇa-mantreṇa śivīkṛte agnau."
+  },
+  {
+   "id": "b317",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In the fire that has been made Śiva through the general mantra.",
+   "directed": "In the fire that has been made Śiva through the general mantra."
+  },
+  {
+   "id": "b318",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, there’s an extraordinary verb here.",
+   "directed": "Now, there’s an extraordinary verb here."
+  },
+  {
+   "id": "b319",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Śivīkṛta.",
+   "directed": "[slowly] Śivīkṛta."
+  },
+  {
+   "id": "b320",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śiva — the Supreme Lord.",
+   "directed": "Śiva — the Supreme Lord."
+  },
+  {
+   "id": "b321",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kṛta — made.",
+   "directed": "Kṛta — made."
+  },
+  {
+   "id": "b322",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Made into Śiva.",
+   "directed": "Made into Śiva."
+  },
+  {
+   "id": "b323",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, before we get carried away, the fire isn’t being presented as something that originally existed outside consciousness and must somehow be dragged into divinity.",
+   "directed": "Now, before we get carried away, the fire isn’t being presented as something that originally existed outside consciousness and must somehow be dragged into divinity."
+  },
+  {
+   "id": "b324",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Remember Chapter Thirteen.",
+   "directed": "Remember Chapter Thirteen."
+  },
+  {
+   "id": "b325",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We united the external ritual flame with:",
+   "directed": "[short pause] We united the external ritual flame with:"
+  },
+  {
+   "id": "b326",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Hṛdayāntar-bodhāgni.",
+   "directed": "[slowly] Hṛdayāntar-bodhāgni."
+  },
+  {
+   "id": "b327",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The fire of awareness within the Heart.",
+   "directed": "The fire of awareness within the Heart."
+  },
+  {
+   "id": "b328",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the fire became the consecrated expression of the divine power.",
+   "directed": "And the fire became the consecrated expression of the divine power."
+  },
+  {
+   "id": "b329",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Here the same underlying ritual principle is operating.",
+   "directed": "Here the same underlying ritual principle is operating."
+  },
+  {
+   "id": "b330",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The flame is made a suitable support for the action through mantra.",
+   "directed": "The flame is made a suitable support for the action through mantra."
+  },
+  {
+   "id": "b331",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And within that consecrated fire, the guru performs:",
+   "directed": "[short pause] And within that consecrated fire, the guru performs:"
+  },
+  {
+   "id": "b332",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Vrataśuddhi.",
+   "directed": "[slowly] Vrataśuddhi."
+  },
+  {
+   "id": "b333",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Purification of the vow.",
+   "directed": "Purification of the vow."
+  },
+  {
+   "id": "b334",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vrata — vow.",
+   "directed": "Vrata — vow."
+  },
+  {
+   "id": "b335",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śuddhi — purification.",
+   "directed": "Śuddhi — purification."
+  },
+  {
+   "id": "b336",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now think about the structure.",
+   "directed": "Now think about the structure."
+  },
+  {
+   "id": "b337",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The vow was first relinquished in water.",
+   "directed": "The vow was first relinquished in water."
+  },
+  {
+   "id": "b338",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But that isn’t the entire operation.",
+   "directed": "But that isn’t the entire operation."
+  },
+  {
+   "id": "b339",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It must also undergo a formal purification in the fire.",
+   "directed": "It must also undergo a formal purification in the fire."
+  },
+  {
+   "id": "b340",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Water and fire.",
+   "directed": "Water and fire."
+  },
+  {
+   "id": "b341",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Two distinct stages.",
+   "directed": "Two distinct stages."
+  },
+  {
+   "id": "b342",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The water receives the discarded commitment.",
+   "directed": "The water receives the discarded commitment."
+  },
+  {
+   "id": "b343",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The fire purifies the outstanding religious obligation.",
+   "directed": "The fire purifies the outstanding religious obligation."
+  },
+  {
+   "id": "b344",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here’s where the text gets very specific.",
+   "directed": "And here’s where the text gets very specific."
+  },
+  {
+   "id": "b345",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because there’s a formula.",
+   "directed": "Because there’s a formula."
+  },
+  {
+   "id": "b346",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A name.",
+   "directed": "A name."
+  },
+  {
+   "id": "b347",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And precisely one hundred oblations.",
+   "directed": "And precisely one hundred oblations."
+  },
+  {
+   "id": "b348",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "8. The hundred offerings — religious paperwork by sacred fire\nAbhinavagupta says:",
+   "directed": "[short pause] 8. The hundred offerings — religious paperwork by sacred fire\nAbhinavagupta says:"
+  },
+  {
+   "id": "b349",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Tan-mantra-sampuṭaṃ nāma kṛtvā.",
+   "directed": "[slowly] Tan-mantra-sampuṭaṃ nāma kṛtvā."
+  },
+  {
+   "id": "b350",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The person’s name is incorporated with the mantra through a sampuṭa arrangement.",
+   "directed": "The person’s name is incorporated with the mantra through a sampuṭa arrangement."
+  },
+  {
+   "id": "b351",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, sampuṭa suggests something enclosed or encased.",
+   "directed": "Now, sampuṭa suggests something enclosed or encased."
+  },
+  {
+   "id": "b352",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In ritual usage, it refers to a formula being enclosed by another mantric expression, or a name or formula being placed in such an enclosing arrangement.",
+   "directed": "In ritual usage, it refers to a formula being enclosed by another mantric expression, or a name or formula being placed in such an enclosing arrangement."
+  },
+  {
+   "id": "b353",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The exact layout is compressed in this passage, so I’m not going to invent a fully expanded mantra that Abhinavagupta hasn’t written down.",
+   "directed": "The exact layout is compressed in this passage, so I’m not going to invent a fully expanded mantra that Abhinavagupta hasn’t written down."
+  },
+  {
+   "id": "b354",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the central spoken words are explicit.",
+   "directed": "But the central spoken words are explicit."
+  },
+  {
+   "id": "b355",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "figure",
+   "voice": "none",
+   "text": "ATTESTED RITUAL EXPRESSION — 17.2",
+   "directed": "ATTESTED RITUAL EXPRESSION — 17.2"
+  },
+  {
+   "id": "b356",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "प्रायश्चित्तं शोधयामि\nPrāyaścittaṃ śodhayāmi.",
+   "directed": "[slowly] प्रायश्चित्तं शोधयामि\nPrāyaścittaṃ śodhayāmi."
+  },
+  {
+   "id": "b357",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“I purify the expiation,” within the prescribed ritual formula.",
+   "directed": "[short pause] “I purify the expiation,” within the prescribed ritual formula."
+  },
+  {
+   "id": "b358",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now.",
+   "directed": "[short pause] Now."
+  },
+  {
+   "id": "b359",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Prāyaścitta.",
+   "directed": "[slowly] Prāyaścitta."
+  },
+  {
+   "id": "b360",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Expiation.",
+   "directed": "Expiation."
+  },
+  {
+   "id": "b361",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Atonement.",
+   "directed": "Atonement."
+  },
+  {
+   "id": "b362",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A ritual act addressing a transgression or religious fault.",
+   "directed": "A ritual act addressing a transgression or religious fault."
+  },
+  {
+   "id": "b363",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And:",
+   "directed": "[short pause] And:"
+  },
+  {
+   "id": "b364",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Śodhayāmi.",
+   "directed": "[slowly] Śodhayāmi."
+  },
+  {
+   "id": "b365",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "I purify.",
+   "directed": "I purify."
+  },
+  {
+   "id": "b366",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "From the verbal root śudh, to become pure, with the causative formation.",
+   "directed": "From the verbal root śudh, to become pure, with the causative formation."
+  },
+  {
+   "id": "b367",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So we’ve got:",
+   "directed": "[short pause] So we’ve got:"
+  },
+  {
+   "id": "b368",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "I purify the expiation.",
+   "directed": "I purify the expiation."
+  },
+  {
+   "id": "b369",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A slightly unusual expression in English, admittedly.",
+   "directed": "A slightly unusual expression in English, admittedly."
+  },
+  {
+   "id": "b370",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the basic ritual intention is clear.",
+   "directed": "But the basic ritual intention is clear."
+  },
+  {
+   "id": "b371",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The previous religious obligation is being formally purified.",
+   "directed": "The previous religious obligation is being formally purified."
+  },
+  {
+   "id": "b372",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the formula ends with:",
+   "directed": "[short pause] And the formula ends with:"
+  },
+  {
+   "id": "b373",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Svāhā.",
+   "directed": "[slowly] Svāhā."
+  },
+  {
+   "id": "b374",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The traditional oblation exclamation.",
+   "directed": "The traditional oblation exclamation."
+  },
+  {
+   "id": "b375",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "How many times?",
+   "directed": "How many times?"
+  },
+  {
+   "id": "b376",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śatam.",
+   "directed": "Śatam."
+  },
+  {
+   "id": "b377",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "One hundred.",
+   "directed": "One hundred."
+  },
+  {
+   "id": "b378",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now imagine being the officiating guru.",
+   "directed": "Now imagine being the officiating guru."
+  },
+  {
+   "id": "b379",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve already had the candidate fast.",
+   "directed": "You’ve already had the candidate fast."
+  },
+  {
+   "id": "b380",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve worshipped the Lord.",
+   "directed": "You’ve worshipped the Lord."
+  },
+  {
+   "id": "b381",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve heard their previous religious history.",
+   "directed": "You’ve heard their previous religious history."
+  },
+  {
+   "id": "b382",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve put the old vow into water.",
+   "directed": "You’ve put the old vow into water."
+  },
+  {
+   "id": "b383",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You’ve bathed them.",
+   "directed": "You’ve bathed them."
+  },
+  {
+   "id": "b384",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Sprinkled them.",
+   "directed": "Sprinkled them."
+  },
+  {
+   "id": "b385",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Prepared them.",
+   "directed": "Prepared them."
+  },
+  {
+   "id": "b386",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Blindfolded them.",
+   "directed": "Blindfolded them."
+  },
+  {
+   "id": "b387",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Introduced them into the worship of Parameśvara.",
+   "directed": "Introduced them into the worship of Parameśvara."
+  },
+  {
+   "id": "b388",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now you’ve got one hundred fire offerings.",
+   "directed": "And now you’ve got one hundred fire offerings."
+  },
+  {
+   "id": "b389",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Right, guruji, are we nearly done?”",
+   "directed": "[short pause] “Right, guruji, are we nearly done?”"
+  },
+  {
+   "id": "b390",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Not yet.”",
+   "directed": "[short pause] “Not yet.”"
+  },
+  {
+   "id": "b391",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“How many more?”",
+   "directed": "[short pause] “How many more?”"
+  },
+  {
+   "id": "b392",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Ninety-seven.”",
+   "directed": "[short pause] “Ninety-seven.”"
+  },
+  {
+   "id": "b393",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Bloody hell.”",
+   "directed": "[short pause] “Bloody hell.”"
+  },
+  {
+   "id": "b394",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But notice something important.",
+   "directed": "But notice something important."
+  },
+  {
+   "id": "b395",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re not purifying the person as though they were intrinsically inferior because they once worshipped Viṣṇu.",
+   "directed": "We’re not purifying the person as though they were intrinsically inferior because they once worshipped Viṣṇu."
+  },
+  {
+   "id": "b396",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’re discussing a historical rite understood to remove the binding effect of an earlier religious commitment.",
+   "directed": "We’re discussing a historical rite understood to remove the binding effect of an earlier religious commitment."
+  },
+  {
+   "id": "b397",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The claim of doctrinal superiority belongs to Abhinavagupta’s sectarian framework.",
+   "directed": "The claim of doctrinal superiority belongs to Abhinavagupta’s sectarian framework."
+  },
+  {
+   "id": "b398",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It doesn’t establish that Vaiṣṇava or other religious practitioners are intrinsically impure.",
+   "directed": "It doesn’t establish that Vaiṣṇava or other religious practitioners are intrinsically impure."
+  },
+  {
+   "id": "b399",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, after the hundred offerings comes a final one.",
+   "directed": "Now, after the hundred offerings comes a final one."
+  },
+  {
+   "id": "b400",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And it’s got a different ending.",
+   "directed": "And it’s got a different ending."
+  },
+  {
+   "id": "b401",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "9. The complete oblation — Vauṣaṭ!\nThe Sanskrit is wonderfully concise.",
+   "directed": "9. The complete oblation — Vauṣaṭ!\nThe Sanskrit is wonderfully concise."
+  },
+  {
+   "id": "b402",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Tato’pi pūrṇāhutiḥ vauṣaḍantena.",
+   "directed": "Tato’pi pūrṇāhutiḥ vauṣaḍantena."
+  },
+  {
+   "id": "b403",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then the complete oblation, ending in vauṣaṭ.",
+   "directed": "Then the complete oblation, ending in vauṣaṭ."
+  },
+  {
+   "id": "b404",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, remember:",
+   "directed": "[short pause] Now, remember:"
+  },
+  {
+   "id": "b405",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Pūrṇa — full, complete.",
+   "directed": "Pūrṇa — full, complete."
+  },
+  {
+   "id": "b406",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Āhuti — oblation.",
+   "directed": "Āhuti — oblation."
+  },
+  {
+   "id": "b407",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Pūrṇāhuti.",
+   "directed": "[slowly] Pūrṇāhuti."
+  },
+  {
+   "id": "b408",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The complete offering.",
+   "directed": "The complete offering."
+  },
+  {
+   "id": "b409",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And:",
+   "directed": "[short pause] And:"
+  },
+  {
+   "id": "b410",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Vauṣaṭ.",
+   "directed": "[slowly] Vauṣaṭ."
+  },
+  {
+   "id": "b411",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The special ritual exclamation accompanying the concluding offering.",
+   "directed": "The special ritual exclamation accompanying the concluding offering."
+  },
+  {
+   "id": "b412",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So we’ve performed the hundred offerings ending with svāhā.",
+   "directed": "So we’ve performed the hundred offerings ending with svāhā."
+  },
+  {
+   "id": "b413",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now the complete oblation concludes with vauṣaṭ.",
+   "directed": "And now the complete oblation concludes with vauṣaṭ."
+  },
+  {
+   "id": "b414",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That’s the climax of the fire purification.",
+   "directed": "That’s the climax of the fire purification."
+  },
+  {
+   "id": "b415",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, here’s something interesting.",
+   "directed": "Now, here’s something interesting."
+  },
+  {
+   "id": "b416",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You might imagine that, once the previous vow has been cast into water and purified in fire, the religious affiliation has simply disappeared.",
+   "directed": "You might imagine that, once the previous vow has been cast into water and purified in fire, the religious affiliation has simply disappeared."
+  },
+  {
+   "id": "b417",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But Abhinavagupta isn’t quite finished.",
+   "directed": "But Abhinavagupta isn’t quite finished."
+  },
+  {
+   "id": "b418",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because apparently there’s a divine authority associated with the previous vows.",
+   "directed": "Because apparently there’s a divine authority associated with the previous vows."
+  },
+  {
+   "id": "b419",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And we’re going to have to speak to him.",
+   "directed": "And we’re going to have to speak to him."
+  },
+  {
+   "id": "b420",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Personally.",
+   "directed": "Personally."
+  },
+  {
+   "id": "b421",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Well, ritually.",
+   "directed": "Well, ritually."
+  },
+  {
+   "id": "b422",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And this is the most fascinating part of the chapter.",
+   "directed": "And this is the most fascinating part of the chapter."
+  },
+  {
+   "id": "b423",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Vrateśvara.",
+   "directed": "[slowly] Vrateśvara."
+  },
+  {
+   "id": "b424",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Lord of the Vow.",
+   "directed": "The Lord of the Vow."
+  },
+  {
+   "id": "b425",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "10. Vrateśvara — the previous contract has a divine administrator\nRight.",
+   "directed": "10. Vrateśvara — the previous contract has a divine administrator\nRight."
+  },
+  {
+   "id": "b426",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s break down the name.",
+   "directed": "Let’s break down the name."
+  },
+  {
+   "id": "b427",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vrata — vow.",
+   "directed": "Vrata — vow."
+  },
+  {
+   "id": "b428",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Īśvara — lord.",
+   "directed": "Īśvara — lord."
+  },
+  {
+   "id": "b429",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Vrateśvara.",
+   "directed": "[slowly] Vrateśvara."
+  },
+  {
+   "id": "b430",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Lord of the Vow.",
+   "directed": "The Lord of the Vow."
+  },
+  {
+   "id": "b431",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, imagine you’ve previously undertaken a religious commitment.",
+   "directed": "Now, imagine you’ve previously undertaken a religious commitment."
+  },
+  {
+   "id": "b432",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Within the ritual worldview, that commitment is not merely an idea you’ve adopted.",
+   "directed": "Within the ritual worldview, that commitment is not merely an idea you’ve adopted."
+  },
+  {
+   "id": "b433",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It establishes a religious relationship, governed by divine authority.",
+   "directed": "It establishes a religious relationship, governed by divine authority."
+  },
+  {
+   "id": "b434",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Abhinavagupta says that this authority must now be invoked.",
+   "directed": "And Abhinavagupta says that this authority must now be invoked."
+  },
+  {
+   "id": "b435",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Āhūya.",
+   "directed": "[slowly] Āhūya."
+  },
+  {
+   "id": "b436",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Having summoned.",
+   "directed": "Having summoned."
+  },
+  {
+   "id": "b437",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then worshipped.",
+   "directed": "Then worshipped."
+  },
+  {
+   "id": "b438",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Pūjayitvā.",
+   "directed": "[slowly] Pūjayitvā."
+  },
+  {
+   "id": "b439",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So here’s the fascinating thing.",
+   "directed": "So here’s the fascinating thing."
+  },
+  {
+   "id": "b440",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The guru doesn’t begin by insulting the previous deity.",
+   "directed": "The guru doesn’t begin by insulting the previous deity."
+  },
+  {
+   "id": "b441",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He doesn’t start shouting:",
+   "directed": "[short pause] He doesn’t start shouting:"
+  },
+  {
+   "id": "b442",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Your religion was complete nonsense!”",
+   "directed": "[short pause] “Your religion was complete nonsense!”"
+  },
+  {
+   "id": "b443",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“Get out!”",
+   "directed": "[short pause] “Get out!”"
+  },
+  {
+   "id": "b444",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“We’re doing Trika now!”",
+   "directed": "[short pause] “We’re doing Trika now!”"
+  },
+  {
+   "id": "b445",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "No.",
+   "directed": "No."
+  },
+  {
+   "id": "b446",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Lord of the Vow is formally invoked and worshipped.",
+   "directed": "The Lord of the Vow is formally invoked and worshipped."
+  },
+  {
+   "id": "b447",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And then something very precise is said.",
+   "directed": "And then something very precise is said."
+  },
+  {
+   "id": "b448",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "figure",
+   "voice": "none",
+   "text": "ATTESTED WORDS ADDRESSED TO VRATEŚVARA — 17.4",
+   "directed": "ATTESTED WORDS ADDRESSED TO VRATEŚVARA — 17.4"
+  },
+  {
+   "id": "b449",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "शिवाज्ञयाकिञ्चित्करस्त्वमस्य भव\nŚivājñayā akiṃcitkaras tvam asya bhava.",
+   "directed": "[slowly] शिवाज्ञयाकिञ्चित्करस्त्वमस्य भव\nŚivājñayā akiṃcitkaras tvam asya bhava."
+  },
+  {
+   "id": "b450",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "By Śiva’s command, become one who does nothing to this person.",
+   "directed": "By Śiva’s command, become one who does nothing to this person."
+  },
+  {
+   "id": "b451",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now.",
+   "directed": "[short pause] Now."
+  },
+  {
+   "id": "b452",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That is magnificent.",
+   "directed": "That is magnificent."
+  },
+  {
+   "id": "b453",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s unpack it.",
+   "directed": "Let’s unpack it."
+  },
+  {
+   "id": "b454",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śiva — Śiva.",
+   "directed": "Śiva — Śiva."
+  },
+  {
+   "id": "b455",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ājñā — command or injunction.",
+   "directed": "Ājñā — command or injunction."
+  },
+  {
+   "id": "b456",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śivājñayā — by Śiva’s command.",
+   "directed": "Śivājñayā — by Śiva’s command."
+  },
+  {
+   "id": "b457",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then:",
+   "directed": "[short pause] Then:"
+  },
+  {
+   "id": "b458",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Akiṃcitkara.",
+   "directed": "[slowly] Akiṃcitkara."
+  },
+  {
+   "id": "b459",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A — not.",
+   "directed": "A — not."
+  },
+  {
+   "id": "b460",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kiṃcit — anything.",
+   "directed": "Kiṃcit — anything."
+  },
+  {
+   "id": "b461",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Kara — doing, making.",
+   "directed": "Kara — doing, making."
+  },
+  {
+   "id": "b462",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So:",
+   "directed": "[short pause] So:"
+  },
+  {
+   "id": "b463",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Doing nothing.",
+   "directed": "Doing nothing."
+  },
+  {
+   "id": "b464",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And:",
+   "directed": "[short pause] And:"
+  },
+  {
+   "id": "b465",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Tvam — you.",
+   "directed": "Tvam — you."
+  },
+  {
+   "id": "b466",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Asya — with respect to this person.",
+   "directed": "Asya — with respect to this person."
+  },
+  {
+   "id": "b467",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Bhava — be, become.",
+   "directed": "Bhava — be, become."
+  },
+  {
+   "id": "b468",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So the injunction is:",
+   "directed": "[short pause] So the injunction is:"
+  },
+  {
+   "id": "b469",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "By the command of Śiva, do nothing to this person.",
+   "directed": "By the command of Śiva, do nothing to this person."
+  },
+  {
+   "id": "b470",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now that’s a rather extraordinary ritual formula.",
+   "directed": "Now that’s a rather extraordinary ritual formula."
+  },
+  {
+   "id": "b471",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because the previous vow’s governing deity isn’t being asked to destroy the candidate.",
+   "directed": "Because the previous vow’s governing deity isn’t being asked to destroy the candidate."
+  },
+  {
+   "id": "b472",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Or punish them.",
+   "directed": "Or punish them."
+  },
+  {
+   "id": "b473",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Or pursue them through future births.",
+   "directed": "Or pursue them through future births."
+  },
+  {
+   "id": "b474",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Or enforce their previous commitment indefinitely.",
+   "directed": "Or enforce their previous commitment indefinitely."
+  },
+  {
+   "id": "b475",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Quite the opposite.",
+   "directed": "Quite the opposite."
+  },
+  {
+   "id": "b476",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The deity is instructed to refrain from exercising any further claim over the aspirant.",
+   "directed": "The deity is instructed to refrain from exercising any further claim over the aspirant."
+  },
+  {
+   "id": "b477",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the authority for this release is:",
+   "directed": "[short pause] And the authority for this release is:"
+  },
+  {
+   "id": "b478",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Śivājñā.",
+   "directed": "[slowly] Śivājñā."
+  },
+  {
+   "id": "b479",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The command of Śiva.",
+   "directed": "The command of Śiva."
+  },
+  {
+   "id": "b480",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now consider how the hierarchy is working.",
+   "directed": "Now consider how the hierarchy is working."
+  },
+  {
+   "id": "b481",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The previous vow belongs to an earlier religious system.",
+   "directed": "The previous vow belongs to an earlier religious system."
+  },
+  {
+   "id": "b482",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The supreme Śaiva authority is invoked to release its obligation.",
+   "directed": "The supreme Śaiva authority is invoked to release its obligation."
+  },
+  {
+   "id": "b483",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the former divine administrator is told not to interfere.",
+   "directed": "And the former divine administrator is told not to interfere."
+  },
+  {
+   "id": "b484",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s essentially the cosmic equivalent of writing to your previous service provider.",
+   "directed": "It’s essentially the cosmic equivalent of writing to your previous service provider."
+  },
+  {
+   "id": "b485",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Dear Vrateśvara.”",
+   "directed": "[short pause] “Dear Vrateśvara.”"
+  },
+  {
+   "id": "b486",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“The individual has transferred to a new spiritual dispensation.”",
+   "directed": "[short pause] “The individual has transferred to a new spiritual dispensation.”"
+  },
+  {
+   "id": "b487",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Please cease any further enforcement of the previous contract.”",
+   "directed": "[short pause] “Please cease any further enforcement of the previous contract.”"
+  },
+  {
+   "id": "b488",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "dialogue",
+   "voice": "granny",
+   "text": "“By order of Śiva.”",
+   "directed": "[short pause] “By order of Śiva.”"
+  },
+  {
+   "id": "b489",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Kind regards.”",
+   "directed": "[short pause] “Kind regards.”"
+  },
+  {
+   "id": "b490",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Absolutely bloody magnificent.",
+   "directed": "Absolutely bloody magnificent."
+  },
+  {
+   "id": "b491",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But here’s what I find particularly interesting.",
+   "directed": "But here’s what I find particularly interesting."
+  },
+  {
+   "id": "b492",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vrateśvara is worshipped before being dismissed.",
+   "directed": "Vrateśvara is worshipped before being dismissed."
+  },
+  {
+   "id": "b493",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The text does not prescribe destroying an image of the previous deity or pretending that earlier worship never occurred.",
+   "directed": "The text does not prescribe destroying an image of the previous deity or pretending that earlier worship never occurred."
+  },
+  {
+   "id": "b494",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The old authority is acknowledged, addressed and formally released.",
+   "directed": "The old authority is acknowledged, addressed and formally released."
+  },
+  {
+   "id": "b495",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that brings us to the final sequence.",
+   "directed": "And that brings us to the final sequence."
+  },
+  {
+   "id": "b496",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "11. You don’t destroy the old deity. You honour him and send him on his way.\nAfter the injunction, Abhinavagupta says:",
+   "directed": "[short pause] 11. You don’t destroy the old deity. You honour him and send him on his way.\nAfter the injunction, Abhinavagupta says:"
+  },
+  {
+   "id": "b497",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Taṃ tarpayitvā.",
+   "directed": "[slowly] Taṃ tarpayitvā."
+  },
+  {
+   "id": "b498",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Having satisfied him.",
+   "directed": "Having satisfied him."
+  },
+  {
+   "id": "b499",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Tarpaṇa — ritual satisfaction, commonly through offerings.",
+   "directed": "Tarpaṇa — ritual satisfaction, commonly through offerings."
+  },
+  {
+   "id": "b500",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then:",
+   "directed": "[short pause] Then:"
+  },
+  {
+   "id": "b501",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Visṛjya.",
+   "directed": "[slowly] Visṛjya."
+  },
+  {
+   "id": "b502",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Having dismissed him.",
+   "directed": "Having dismissed him."
+  },
+  {
+   "id": "b503",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And then:",
+   "directed": "[short pause] And then:"
+  },
+  {
+   "id": "b504",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Agniṃ visṛjet.",
+   "directed": "[slowly] Agniṃ visṛjet."
+  },
+  {
+   "id": "b505",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The fire is dismissed.",
+   "directed": "The fire is dismissed."
+  },
+  {
+   "id": "b506",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, that’s important.",
+   "directed": "Now, that’s important."
+  },
+  {
+   "id": "b507",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because the rite has an orderly conclusion.",
+   "directed": "Because the rite has an orderly conclusion."
+  },
+  {
+   "id": "b508",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The former vow’s divine authority is honoured.",
+   "directed": "The former vow’s divine authority is honoured."
+  },
+  {
+   "id": "b509",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The command releasing its claim has been communicated.",
+   "directed": "The command releasing its claim has been communicated."
+  },
+  {
+   "id": "b510",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The deity is satisfied.",
+   "directed": "The deity is satisfied."
+  },
+  {
+   "id": "b511",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The deity is dismissed.",
+   "directed": "The deity is dismissed."
+  },
+  {
+   "id": "b512",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then the ritual fire is dismissed.",
+   "directed": "Then the ritual fire is dismissed."
+  },
+  {
+   "id": "b513",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Abhinavagupta says:",
+   "directed": "[short pause] And Abhinavagupta says:"
+  },
+  {
+   "id": "b514",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Iti liṅgoddhāraḥ.",
+   "directed": "Iti liṅgoddhāraḥ."
+  },
+  {
+   "id": "b515",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Thus is the removal of the mark.",
+   "directed": "Thus is the removal of the mark."
+  },
+  {
+   "id": "b516",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, notice something.",
+   "directed": "Now, notice something."
+  },
+  {
+   "id": "b517",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is actually the formal completion of the specific liṅgoddhāra procedure.",
+   "directed": "This is actually the formal completion of the specific liṅgoddhāra procedure."
+  },
+  {
+   "id": "b518",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We have now gone through all the necessary operations.",
+   "directed": "We have now gone through all the necessary operations."
+  },
+  {
+   "id": "b519",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The candidate was qualified through śaktipāta.",
+   "directed": "The candidate was qualified through śaktipāta."
+  },
+  {
+   "id": "b520",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Prepared by fasting.",
+   "directed": "Prepared by fasting."
+  },
+  {
+   "id": "b521",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Presented before the deity.",
+   "directed": "Presented before the deity."
+  },
+  {
+   "id": "b522",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The old vow was relinquished in water.",
+   "directed": "The old vow was relinquished in water."
+  },
+  {
+   "id": "b523",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The candidate was purified.",
+   "directed": "The candidate was purified."
+  },
+  {
+   "id": "b524",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The vow received its hundred fire offerings and final oblation.",
+   "directed": "The vow received its hundred fire offerings and final oblation."
+  },
+  {
+   "id": "b525",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vrateśvara was invoked and instructed to cease exercising authority over the candidate.",
+   "directed": "Vrateśvara was invoked and instructed to cease exercising authority over the candidate."
+  },
+  {
+   "id": "b526",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the divine powers were formally dismissed.",
+   "directed": "And the divine powers were formally dismissed."
+  },
+  {
+   "id": "b527",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The old affiliation has been ritually released.",
+   "directed": "The old affiliation has been ritually released."
+  },
+  {
+   "id": "b528",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But there’s one last thing.",
+   "directed": "But there’s one last thing."
+  },
+  {
+   "id": "b529",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And it’s a crucial distinction.",
+   "directed": "And it’s a crucial distinction."
+  },
+  {
+   "id": "b530",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because removing the previous religious mark isn’t the same as completing the new initiation.",
+   "directed": "Because removing the previous religious mark isn’t the same as completing the new initiation."
+  },
+  {
+   "id": "b531",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "12. Now you can actually receive the new initiation\nThe Sanskrit says:",
+   "directed": "[short pause] 12. Now you can actually receive the new initiation\nThe Sanskrit says:"
+  },
+  {
+   "id": "b532",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Tato’sya adhivāsādi prāgvat.",
+   "directed": "Tato’sya adhivāsādi prāgvat."
+  },
+  {
+   "id": "b533",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "After that, the preliminary consecration and related rites proceed as before.",
+   "directed": "After that, the preliminary consecration and related rites proceed as before."
+  },
+  {
+   "id": "b534",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now remember:",
+   "directed": "[short pause] Now remember:"
+  },
+  {
+   "id": "b535",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Adhivāsana.",
+   "directed": "[slowly] Adhivāsana."
+  },
+  {
+   "id": "b536",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The preliminary consecration.",
+   "directed": "The preliminary consecration."
+  },
+  {
+   "id": "b537",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We encountered it in Chapter Thirteen.",
+   "directed": "We encountered it in Chapter Thirteen."
+  },
+  {
+   "id": "b538",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Preparing the disciple.",
+   "directed": "Preparing the disciple."
+  },
+  {
+   "id": "b539",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The ritual ground.",
+   "directed": "The ritual ground."
+  },
+  {
+   "id": "b540",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The sacred implements.",
+   "directed": "The sacred implements."
+  },
+  {
+   "id": "b541",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The necessary conditions for formal initiation.",
+   "directed": "The necessary conditions for formal initiation."
+  },
+  {
+   "id": "b542",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And Abhinavagupta says:",
+   "directed": "[short pause] And Abhinavagupta says:"
+  },
+  {
+   "id": "b543",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Prāgvat.",
+   "directed": "[slowly] Prāgvat."
+  },
+  {
+   "id": "b544",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "As previously explained.",
+   "directed": "As previously explained."
+  },
+  {
+   "id": "b545",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "He’s not going to repeat the entire ceremony.",
+   "directed": "He’s not going to repeat the entire ceremony."
+  },
+  {
+   "id": "b546",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’ve already done the long version.",
+   "directed": "We’ve already done the long version."
+  },
+  {
+   "id": "b547",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Thank God.",
+   "directed": "Thank God."
+  },
+  {
+   "id": "b548",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And then comes the final prose sentence.",
+   "directed": "And then comes the final prose sentence."
+  },
+  {
+   "id": "b549",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "figure",
+   "voice": "none",
+   "text": "ACTUAL END OF THE PROSE — 17.6",
+   "directed": "ACTUAL END OF THE PROSE — 17.6"
+  },
+  {
+   "id": "b550",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "दीक्षा यथेच्छम्\nDīkṣā yatheccham.",
+   "directed": "[slowly] दीक्षा यथेच्छम्\nDīkṣā yatheccham."
+  },
+  {
+   "id": "b551",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Initiation proceeds as desired or appropriate.",
+   "directed": "Initiation proceeds as desired or appropriate."
+  },
+  {
+   "id": "b552",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that’s it.",
+   "directed": "And that’s it."
+  },
+  {
+   "id": "b553",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, understand the sequence.",
+   "directed": "Now, understand the sequence."
+  },
+  {
+   "id": "b554",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "First the release. Then the initiation.",
+   "directed": "First the release. Then the initiation."
+  },
+  {
+   "id": "b555",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The liṅgoddhāra removes the previous mark or obligation.",
+   "directed": "The liṅgoddhāra removes the previous mark or obligation."
+  },
+  {
+   "id": "b556",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It doesn’t automatically replace the full ceremony required for the particular new initiatory status.",
+   "directed": "It doesn’t automatically replace the full ceremony required for the particular new initiatory status."
+  },
+  {
+   "id": "b557",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "After that release, the candidate undergoes the appropriate preliminaries and receives initiation according to the relevant intention and qualification.",
+   "directed": "After that release, the candidate undergoes the appropriate preliminaries and receives initiation according to the relevant intention and qualification."
+  },
+  {
+   "id": "b558",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here’s the really important implication.",
+   "directed": "And here’s the really important implication."
+  },
+  {
+   "id": "b559",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You don’t have to imagine the candidate is spiritually starting from absolutely nothing.",
+   "directed": "You don’t have to imagine the candidate is spiritually starting from absolutely nothing."
+  },
+  {
+   "id": "b560",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The condition that made them eligible was already present.",
+   "directed": "The condition that made them eligible was already present."
+  },
+  {
+   "id": "b561",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Śaktipāta.",
+   "directed": "[slowly] Śaktipāta."
+  },
+  {
+   "id": "b562",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The movement of divine Power that turned their attention toward the teaching.",
+   "directed": "The movement of divine Power that turned their attention toward the teaching."
+  },
+  {
+   "id": "b563",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The release rite prepares them to enter the corresponding initiatory discipline.",
+   "directed": "The release rite prepares them to enter the corresponding initiatory discipline."
+  },
+  {
+   "id": "b564",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So the ultimate source of the transformation is not a mere change of religious label.",
+   "directed": "So the ultimate source of the transformation is not a mere change of religious label."
+  },
+  {
+   "id": "b565",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s the descent of Power, as understood within this tradition.",
+   "directed": "It’s the descent of Power, as understood within this tradition."
+  },
+  {
+   "id": "b566",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The ceremony establishes the appropriate ritual transition.",
+   "directed": "The ceremony establishes the appropriate ritual transition."
+  },
+  {
+   "id": "b567",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And then Abhinavagupta concludes the chapter.",
+   "directed": "And then Abhinavagupta concludes the chapter."
+  },
+  {
+   "id": "b568",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Except there’s one additional verse in another textual witness.",
+   "directed": "Except there’s one additional verse in another textual witness."
+  },
+  {
+   "id": "b569",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And it’s very much worth reading.",
+   "directed": "And it’s very much worth reading."
+  },
+  {
+   "id": "b570",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "13. The attested concluding verse — even someone who followed the wrong guru may be initiated\nCLOSING VERSE ATTESTED IN THE DEVANĀGARĪ EDITION",
+   "directed": "13. The attested concluding verse — even someone who followed the wrong guru may be initiated\nCLOSING VERSE ATTESTED IN THE DEVANĀGARĪ EDITION"
+  },
+  {
+   "id": "b571",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "अधरस्थोऽपि गाढेशशक्तिप्रेरितमानसः।संस्कृत्य दीक्ष्यो यश्च प्राङ्निरतोऽसद्गुरावभूत्॥\nAdharastho’pi gāḍheśaśaktipreritamānasaḥ.",
+   "directed": "[slowly] अधरस्थोऽपि गाढेशशक्तिप्रेरितमानसः।संस्कृत्य दीक्ष्यो यश्च प्राङ्निरतोऽसद्गुरावभूत्॥\nAdharastho’pi gāḍheśaśaktipreritamānasaḥ."
+  },
+  {
+   "id": "b572",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Saṃskṛtya dīkṣyo yaś ca prāṅ nirato’sadgurāv abhūt.",
+   "directed": "Saṃskṛtya dīkṣyo yaś ca prāṅ nirato’sadgurāv abhūt."
+  },
+  {
+   "id": "b573",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This stanza appears after the six prose passages in the Sanskrit & Trika Shaivism edition. It is absent from the GRETIL transcription, which ends at dīkṣā yatheccham. It is therefore an attested additional verse, not something I’ve invented or claimed is universal to all editions.",
+   "directed": "This stanza appears after the six prose passages in the Sanskrit & Trika Shaivism edition. It is absent from the GRETIL transcription, which ends at dīkṣā yatheccham. It is therefore an attested additional verse, not something I’ve invented or claimed is universal to all editions."
+  },
+  {
+   "id": "b574",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Right.",
+   "directed": "[short pause] Right."
+  },
+  {
+   "id": "b575",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Let’s unpack the thing.",
+   "directed": "Let’s unpack the thing."
+  },
+  {
+   "id": "b576",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Adharasthaḥ api.",
+   "directed": "Adharasthaḥ api."
+  },
+  {
+   "id": "b577",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Even someone established in a lower system.",
+   "directed": "Even someone established in a lower system."
+  },
+  {
+   "id": "b578",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Adhara — lower.",
+   "directed": "Adhara — lower."
+  },
+  {
+   "id": "b579",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Stha — situated or established.",
+   "directed": "Stha — situated or established."
+  },
+  {
+   "id": "b580",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Api — even.",
+   "directed": "Api — even."
+  },
+  {
+   "id": "b581",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then:",
+   "directed": "[short pause] Then:"
+  },
+  {
+   "id": "b582",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Gāḍha-īśa-śakti-prerita-mānasaḥ.",
+   "directed": "[slowly] Gāḍha-īśa-śakti-prerita-mānasaḥ."
+  },
+  {
+   "id": "b583",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now that’s a magnificent compound.",
+   "directed": "Now that’s a magnificent compound."
+  },
+  {
+   "id": "b584",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Gāḍha — intense, powerful, deep.",
+   "directed": "Gāḍha — intense, powerful, deep."
+  },
+  {
+   "id": "b585",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Īśa — Lord.",
+   "directed": "Īśa — Lord."
+  },
+  {
+   "id": "b586",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śakti — power.",
+   "directed": "Śakti — power."
+  },
+  {
+   "id": "b587",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Prerita — impelled, driven, directed.",
+   "directed": "Prerita — impelled, driven, directed."
+  },
+  {
+   "id": "b588",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Mānasa — mind.",
+   "directed": "Mānasa — mind."
+  },
+  {
+   "id": "b589",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So:",
+   "directed": "[short pause] So:"
+  },
+  {
+   "id": "b590",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Someone whose mind has been powerfully impelled by the Lord’s Śakti.",
+   "directed": "Someone whose mind has been powerfully impelled by the Lord’s Śakti."
+  },
+  {
+   "id": "b591",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now that’s the essential qualification.",
+   "directed": "Now that’s the essential qualification."
+  },
+  {
+   "id": "b592",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not which religion they were previously born into.",
+   "directed": "Not which religion they were previously born into."
+  },
+  {
+   "id": "b593",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not which guru they used to follow.",
+   "directed": "Not which guru they used to follow."
+  },
+  {
+   "id": "b594",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not how many years they spent in an earlier system.",
+   "directed": "Not how many years they spent in an earlier system."
+  },
+  {
+   "id": "b595",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the present movement of divine Power.",
+   "directed": "But the present movement of divine Power."
+  },
+  {
+   "id": "b596",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then:",
+   "directed": "[short pause] Then:"
+  },
+  {
+   "id": "b597",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Saṃskṛtya dīkṣyaḥ.",
+   "directed": "[slowly] Saṃskṛtya dīkṣyaḥ."
+  },
+  {
+   "id": "b598",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Having been ritually purified or prepared, they should be initiated.",
+   "directed": "Having been ritually purified or prepared, they should be initiated."
+  },
+  {
+   "id": "b599",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the final clause:",
+   "directed": "[short pause] And the final clause:"
+  },
+  {
+   "id": "b600",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Yaś ca prāṅ nirato’sadgurāv abhūt.",
+   "directed": "Yaś ca prāṅ nirato’sadgurāv abhūt."
+  },
+  {
+   "id": "b601",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Even someone who was previously devoted to an untrue or unqualified guru.",
+   "directed": "Even someone who was previously devoted to an untrue or unqualified guru."
+  },
+  {
+   "id": "b602",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, that is particularly interesting.",
+   "directed": "Now, that is particularly interesting."
+  },
+  {
+   "id": "b603",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because you might imagine that someone who spent years following what Abhinavagupta regards as an unqualified teacher has permanently ruined their spiritual prospects.",
+   "directed": "Because you might imagine that someone who spent years following what Abhinavagupta regards as an unqualified teacher has permanently ruined their spiritual prospects."
+  },
+  {
+   "id": "b604",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But no.",
+   "directed": "But no."
+  },
+  {
+   "id": "b605",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The verse explicitly allows them to be initiated.",
+   "directed": "The verse explicitly allows them to be initiated."
+  },
+  {
+   "id": "b606",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Once the appropriate śaktipāta has occurred and the ritual preparation has been performed, the previous affiliation does not permanently disqualify them.",
+   "directed": "Once the appropriate śaktipāta has occurred and the ritual preparation has been performed, the previous affiliation does not permanently disqualify them."
+  },
+  {
+   "id": "b607",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now that’s the whole chapter in one verse.",
+   "directed": "Now that’s the whole chapter in one verse."
+  },
+  {
+   "id": "b608",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The candidate may have previously belonged to a lower system within Abhinavagupta’s hierarchy.",
+   "directed": "The candidate may have previously belonged to a lower system within Abhinavagupta’s hierarchy."
+  },
+  {
+   "id": "b609",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They may have followed a teacher he considers unqualified.",
+   "directed": "They may have followed a teacher he considers unqualified."
+  },
+  {
+   "id": "b610",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But if the Lord’s Power has genuinely turned them toward the supreme teaching, the appropriate release and initiation become possible.",
+   "directed": "But if the Lord’s Power has genuinely turned them toward the supreme teaching, the appropriate release and initiation become possible."
+  },
+  {
+   "id": "b611",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, there are two things to distinguish here.",
+   "directed": "Now, there are two things to distinguish here."
+  },
+  {
+   "id": "b612",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The sectarian claim is that Trika possesses the highest revelation and that other systems occupy lower positions.",
+   "directed": "The sectarian claim is that Trika possesses the highest revelation and that other systems occupy lower positions."
+  },
+  {
+   "id": "b613",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That’s Abhinavagupta’s religious judgment, not an objective ranking established by this ritual.",
+   "directed": "That’s Abhinavagupta’s religious judgment, not an objective ranking established by this ritual."
+  },
+  {
+   "id": "b614",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But there’s also a more general philosophical implication.",
+   "directed": "But there’s also a more general philosophical implication."
+  },
+  {
+   "id": "b615",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A person’s previous commitments need not determine the entirety of their future spiritual life.",
+   "directed": "A person’s previous commitments need not determine the entirety of their future spiritual life."
+  },
+  {
+   "id": "b616",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that conclusion fits remarkably well with the earlier chapters.",
+   "directed": "And that conclusion fits remarkably well with the earlier chapters."
+  },
+  {
+   "id": "b617",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because śaktipāta isn’t ultimately determined by your karmic or institutional history.",
+   "directed": "Because śaktipāta isn’t ultimately determined by your karmic or institutional history."
+  },
+  {
+   "id": "b618",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s an expression of divine freedom.",
+   "directed": "It’s an expression of divine freedom."
+  },
+  {
+   "id": "b619",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Svātantrya.",
+   "directed": "[slowly] Svātantrya."
+  },
+  {
+   "id": "b620",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the previous religious mark can be relinquished.",
+   "directed": "And the previous religious mark can be relinquished."
+  },
+  {
+   "id": "b621",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "End of Chapter Seventeen — Liṅgoddhāra\nNow, consider what just happened.",
+   "directed": "End of Chapter Seventeen — Liṅgoddhāra\nNow, consider what just happened."
+  },
+  {
+   "id": "b622",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This chapter was only six short passages of prose.",
+   "directed": "This chapter was only six short passages of prose."
+  },
+  {
+   "id": "b623",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Rather a relief after the enormous initiatory instructions of Chapter Thirteen.",
+   "directed": "Rather a relief after the enormous initiatory instructions of Chapter Thirteen."
+  },
+  {
+   "id": "b624",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But it’s remarkably important.",
+   "directed": "But it’s remarkably important."
+  },
+  {
+   "id": "b625",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because we’ve encountered a situation that tests the relationship between spiritual freedom and religious obligation.",
+   "directed": "Because we’ve encountered a situation that tests the relationship between spiritual freedom and religious obligation."
+  },
+  {
+   "id": "b626",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "An individual has accepted vows.",
+   "directed": "An individual has accepted vows."
+  },
+  {
+   "id": "b627",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Entered a tradition.",
+   "directed": "Entered a tradition."
+  },
+  {
+   "id": "b628",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Followed a teacher.",
+   "directed": "Followed a teacher."
+  },
+  {
+   "id": "b629",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Established a particular religious identity.",
+   "directed": "Established a particular religious identity."
+  },
+  {
+   "id": "b630",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And then something changes.",
+   "directed": "And then something changes."
+  },
+  {
+   "id": "b631",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A new spiritual attraction arises.",
+   "directed": "A new spiritual attraction arises."
+  },
+  {
+   "id": "b632",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Within Abhinavagupta’s account, Śiva’s Power has turned the aspirant toward a different understanding.",
+   "directed": "Within Abhinavagupta’s account, Śiva’s Power has turned the aspirant toward a different understanding."
+  },
+  {
+   "id": "b633",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the previous vows still have ritual significance.",
+   "directed": "But the previous vows still have ritual significance."
+  },
+  {
+   "id": "b634",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So the tradition provides a formal release.",
+   "directed": "So the tradition provides a formal release."
+  },
+  {
+   "id": "b635",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And what’s particularly striking is that the release isn’t carried out by denying the previous commitment.",
+   "directed": "And what’s particularly striking is that the release isn’t carried out by denying the previous commitment."
+  },
+  {
+   "id": "b636",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It’s acknowledged.",
+   "directed": "It’s acknowledged."
+  },
+  {
+   "id": "b637",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Presented before the Lord.",
+   "directed": "Presented before the Lord."
+  },
+  {
+   "id": "b638",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Relinquished.",
+   "directed": "Relinquished."
+  },
+  {
+   "id": "b639",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Purified.",
+   "directed": "Purified."
+  },
+  {
+   "id": "b640",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And its presiding divine authority is formally told that it no longer has a claim over the aspirant.",
+   "directed": "And its presiding divine authority is formally told that it no longer has a claim over the aspirant."
+  },
+  {
+   "id": "b641",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then the new initiation can proceed.",
+   "directed": "Then the new initiation can proceed."
+  },
+  {
+   "id": "b642",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, that is quite an elaborate solution to the problem of changing religious affiliations.",
+   "directed": "Now, that is quite an elaborate solution to the problem of changing religious affiliations."
+  },
+  {
+   "id": "b643",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the historical rules shouldn’t be treated as universally necessary for modern practitioners.",
+   "directed": "And the historical rules shouldn’t be treated as universally necessary for modern practitioners."
+  },
+  {
+   "id": "b644",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You don’t need a ritual to obtain permission to reconsider your beliefs, leave a community or stop following a teacher. Nor should any religious authority use vows to prevent someone from exercising their freedom of conscience.",
+   "directed": "You don’t need a ritual to obtain permission to reconsider your beliefs, leave a community or stop following a teacher. Nor should any religious authority use vows to prevent someone from exercising their freedom of conscience."
+  },
+  {
+   "id": "b645",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But within Abhinavagupta’s world, vows are serious.",
+   "directed": "But within Abhinavagupta’s world, vows are serious."
+  },
+  {
+   "id": "b646",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They establish obligations within a consecrated hierarchy.",
+   "directed": "They establish obligations within a consecrated hierarchy."
+  },
+  {
+   "id": "b647",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And removing those obligations is itself a religious act.",
+   "directed": "And removing those obligations is itself a religious act."
+  },
+  {
+   "id": "b648",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now consider the deeper irony.",
+   "directed": "Now consider the deeper irony."
+  },
+  {
+   "id": "b649",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We’ve spent sixteen chapters establishing that the entire universe is a manifestation of Śiva.",
+   "directed": "We’ve spent sixteen chapters establishing that the entire universe is a manifestation of Śiva."
+  },
+  {
+   "id": "b650",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That every deity, every mantra, every individual and every possible act occurs within the one conscious reality.",
+   "directed": "That every deity, every mantra, every individual and every possible act occurs within the one conscious reality."
+  },
+  {
+   "id": "b651",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now someone says:",
+   "directed": "[short pause] And now someone says:"
+  },
+  {
+   "id": "b652",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "dialogue",
+   "voice": "man",
+   "text": "“Abhinava, I’ve been worshipping the wrong deity.”",
+   "directed": "[short pause] “Abhinava, I’ve been worshipping the wrong deity.”"
+  },
+  {
+   "id": "b653",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Well, in the ultimate nondual sense, no deity could exist outside Śiva.",
+   "directed": "Well, in the ultimate nondual sense, no deity could exist outside Śiva."
+  },
+  {
+   "id": "b654",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But at the level of differentiated religious practice, Abhinavagupta insists that not every doctrine or initiation is equivalent.",
+   "directed": "But at the level of differentiated religious practice, Abhinavagupta insists that not every doctrine or initiation is equivalent."
+  },
+  {
+   "id": "b655",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Ontological nonduality does not mean ritual and doctrinal equivalence.",
+   "directed": "Ontological nonduality does not mean ritual and doctrinal equivalence."
+  },
+  {
+   "id": "b656",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that’s a crucial distinction for understanding Trika.",
+   "directed": "And that’s a crucial distinction for understanding Trika."
+  },
+  {
+   "id": "b657",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Everything may be Śiva.",
+   "directed": "Everything may be Śiva."
+  },
+  {
+   "id": "b658",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But not every way of understanding or worshipping Śiva is considered equally conducive to the highest recognition.",
+   "directed": "But not every way of understanding or worshipping Śiva is considered equally conducive to the highest recognition."
+  },
+  {
+   "id": "b659",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The hierarchy of teachings remains meaningful within manifestation.",
+   "directed": "The hierarchy of teachings remains meaningful within manifestation."
+  },
+  {
+   "id": "b660",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Yet the ultimate Power through which someone turns toward recognition isn’t restricted by their earlier religious identity.",
+   "directed": "Yet the ultimate Power through which someone turns toward recognition isn’t restricted by their earlier religious identity."
+  },
+  {
+   "id": "b661",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that brings us back to the opening condition.",
+   "directed": "And that brings us back to the opening condition."
+  },
+  {
+   "id": "b662",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "verse",
+   "voice": "verse",
+   "text": "Śaktipāta.",
+   "directed": "[slowly] Śaktipāta."
+  },
+  {
+   "id": "b663",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The descent of divine Power.",
+   "directed": "The descent of divine Power."
+  },
+  {
+   "id": "b664",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A person may have spent years in a particular tradition.",
+   "directed": "A person may have spent years in a particular tradition."
+  },
+  {
+   "id": "b665",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They may have taken formal vows.",
+   "directed": "They may have taken formal vows."
+  },
+  {
+   "id": "b666",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "They may have followed teachers Abhinavagupta regards as limited.",
+   "directed": "They may have followed teachers Abhinavagupta regards as limited."
+  },
+  {
+   "id": "b667",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the emergence of that attraction toward the supreme recognition changes their relationship to the hierarchy.",
+   "directed": "But the emergence of that attraction toward the supreme recognition changes their relationship to the hierarchy."
+  },
+  {
+   "id": "b668",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the rite enables the corresponding transition.",
+   "directed": "And the rite enables the corresponding transition."
+  },
+  {
+   "id": "b669",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "So there you are.",
+   "directed": "So there you are."
+  },
+  {
+   "id": "b670",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The old vows have gone into the water.",
+   "directed": "The old vows have gone into the water."
+  },
+  {
+   "id": "b671",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The candidate has bathed.",
+   "directed": "The candidate has bathed."
+  },
+  {
+   "id": "b672",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The fire has been consecrated.",
+   "directed": "The fire has been consecrated."
+  },
+  {
+   "id": "b673",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The hundred oblations have been offered.",
+   "directed": "The hundred oblations have been offered."
+  },
+  {
+   "id": "b674",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Vrateśvara has been politely informed that his services are no longer required.",
+   "directed": "Vrateśvara has been politely informed that his services are no longer required."
+  },
+  {
+   "id": "b675",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the disciple may now receive the appropriate initiation.",
+   "directed": "And the disciple may now receive the appropriate initiation."
+  },
+  {
+   "id": "b676",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Quite an afternoon.",
+   "directed": "Quite an afternoon."
+  },
+  {
+   "id": "b677",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And after all that?",
+   "directed": "And after all that?"
+  },
+  {
+   "id": "b678",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The ultimate reality hasn’t changed in the slightest.",
+   "directed": "The ultimate reality hasn’t changed in the slightest."
+  },
+  {
+   "id": "b679",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śiva was the reality of the aspirant before the change of affiliation.",
+   "directed": "Śiva was the reality of the aspirant before the change of affiliation."
+  },
+  {
+   "id": "b680",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Śiva is the reality of the aspirant afterward.",
+   "directed": "Śiva is the reality of the aspirant afterward."
+  },
+  {
+   "id": "b681",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The ritual changes their religious commitments and initiatory qualification within the tradition.",
+   "directed": "The ritual changes their religious commitments and initiatory qualification within the tradition."
+  },
+  {
+   "id": "b682",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It doesn’t manufacture a second supreme consciousness.",
+   "directed": "It doesn’t manufacture a second supreme consciousness."
+  },
+  {
+   "id": "b683",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that’s the final joke.",
+   "directed": "And that’s the final joke."
+  },
+  {
+   "id": "b684",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You spent an entire ceremony formally changing your relationship to the divine.",
+   "directed": "You spent an entire ceremony formally changing your relationship to the divine."
+  },
+  {
+   "id": "b685",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the divine reality itself?",
+   "directed": "And the divine reality itself?"
+  },
+  {
+   "id": "b686",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Never went anywhere.",
+   "directed": "Never went anywhere."
+  },
+  {
+   "id": "b687",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The whole bloody business was Śiva from the beginning.",
+   "directed": "The whole bloody business was Śiva from the beginning."
+  },
+  {
+   "id": "b688",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Absolutely magnificent.",
+   "directed": "Absolutely magnificent."
+  },
+  {
+   "id": "b689",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "meta",
+   "voice": "none",
+   "text": "Textual basis: GRETIL — Tantrasāra Chapter 17, six prose passages and Sanskrit & Trika Shaivism — Chapter 17, including the final stanza. The rite’s complete sequence and the distinction between removing an earlier vow and receiving subsequent initiation are preserved. The verse is marked as witness-specific; the jokes and modern ethical reflections are not attributed to Abhinavagupta.",
+   "directed": "Textual basis: GRETIL — Tantrasāra Chapter 17, six prose passages and Sanskrit & Trika Shaivism — Chapter 17, including the final stanza. The rite’s complete sequence and the distinction between removing an earlier vow and receiving subsequent initiation are preserved. The verse is marked as witness-specific; the jokes and modern ethical reflections are not attributed to Abhinavagupta."
+  },
+  {
+   "id": "b690",
+   "section": "Tantrasāra — Chapter 17",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The consecration of the accomplished practitioner or guru: why actual knowledge matters more than impressive religious credentials, the six-month discipline of mantra and worship, and who is genuinely qualified to initiate others.",
+   "directed": "The consecration of the accomplished practitioner or guru: why actual knowledge matters more than impressive religious credentials, the six-month discipline of mantra and worship, and who is genuinely qualified to initiate others."
+  }
+ ],
+ "totals": {
+  "blocks": 691,
+  "words_per_voice": {
+   "none": 81,
+   "granny": 4675,
+   "verse": 84,
+   "man": 42
+  },
+  "est_min": {
+   "none": 0.5,
+   "granny": 31.2,
+   "verse": 0.6,
+   "man": 0.3
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}
