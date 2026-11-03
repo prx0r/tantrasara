@@ -14,6 +14,9 @@ unless --force. --dry-run prints the plan + char usage, calls nothing.
 """
 import json, os, re, sys, hashlib, subprocess
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from holds import drops_for, split_after
+
 VOL = os.path.expanduser('~/vol/tantrasara/renders')
 SECTION_GAP_S = 1.0   # silence between sections (ear review)
 BELL_MIX_DB = 6.0     # bell_ding; owner call 2026-11-02: short bell, +6dB
@@ -47,6 +50,15 @@ def main():
             flush()
         cur.append(b)
     flush()
+    # impact drops split groups so pauses land anywhere (re-rendered halves
+    # are content-hash cache misses — automatic, prosody-safe by bed)
+    _drops = drops_for(sb_path)
+    if _drops:
+        _have = {b['id'] for g in groups for b in g if 'group_kind' not in b}
+        for _bid in _drops:
+            assert _bid in _have, f"drop {_bid}: block not rendered (skipped type?)"
+        groups = split_after(groups, set(_drops))
+        print(f'impact splits at: {sorted(set(_drops))}', flush=True)
     print(f'chapter={ch} groups={len(groups)}')
     total_chars, n_calls, skipped = 0, 0, 0
     plan = []

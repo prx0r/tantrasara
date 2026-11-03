@@ -84,6 +84,19 @@ def main():
                     exp.append(c)
                     break
         check('H3 cue order matches storyboard', mcues == exp, f'{len(mcues)} cues')
+        # drops: every filed drop applied in the render
+        import glob as _gg2
+        _dp = None
+        for _cand in glob.glob(os.path.join(os.path.dirname(os.path.abspath(sb_path)), 'drops_*.json')):
+            _dp = _cand
+        if _dp:
+            _dfile = json.load(open(_dp, encoding='utf-8'))
+            _dmeta = m.get('drops', {})
+            check('H7 drops applied', set(_dfile) <= set(_dmeta),
+                  f'file={sorted(_dfile)} meta={sorted(_dmeta)}')
+            check('H7 every drop justified', all(
+                isinstance(v, dict) and v.get('pause', 0) > 0 and (v.get('why') or '').strip()
+                for v in _dfile.values()), 'pause>0 + non-empty why required')
     else:
         check('H3/H4 render_meta present', False, 'no --meta given')
 

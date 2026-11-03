@@ -1,6 +1,6 @@
 # TANTRASARA EXPLAINED — production standard (all videos, all chapters)
 
-Locked 2026-11-02, amended by owner call 2026-11-04 (four-layer cards, list
+Locked 2026-11-02, amended by owner call 2026-11-04 (three-layer cards per GOLD-STANDARD, list
 engine, persist, IAST-on-cards, 22-chapter set, thumbnail dir). This document
 is law for every chapter. Change it only by owner call, same commit as the
 code that implements the change.
@@ -8,9 +8,9 @@ code that implements the change.
 ## 1. The format in one paragraph
 
 Bell and thumbnail open. Granny speaks the title, declares the role, cold
-opens. The Sanskrit verse goes up with romanisation, literal and final the
-moment chanting starts; a lone chant stays up with its layers through the
-following beat. Terms appear in four layers — Devanagari, IAST, T1 literal,
+opens. The Sanskrit verse goes up with romanisation and final the moment
+chanting starts; a lone chant stays up with its layers through the
+following beat. Terms appear in three layers — Devanagari, IAST,
 final English — the instant she says them; lists accumulate into one
 count-shaped card. Everything else plays over clean white, which returns
 at every tone break. No title cards are ever shown. Subtitles carry every
@@ -61,14 +61,12 @@ lead-ins. Short sentences are NOT beats. Tag cap 3/sentence.
 
 ## 6. Glossary (`glossary_chNN.json` + T1 literals)
 
-Term cards need four layers: citation Devanagari (never rebuilt from the
-folded key — M15) + IAST romanised in lightest grey + T1 intermediary
-literal in mid grey, square brackets (e.g. `cit [consciousness] + śakti
-[power]`) + final English in darkest grey. Glosses and literals drafted
-from the author's own surroundings (literals T1-style morpheme breakdowns),
-every one `proposed` until the owner confirms in bulk — video shows the
-literal only once its own `literal_status` is confirmed. Unconfirmed terms
-play over white — never on cards. Keys are folded ASCII (diacritics
+Term cards need three layers (owner call 2026-11-04 — literal morphemes
+parked proposed, never on screen): citation Devanagari (never rebuilt from
+the folded key — M15) + IAST romanised in lightest grey + final English in
+darkest grey. Glosses drafted from the author's own surroundings, every one
+`proposed` until the owner confirms in bulk — video shows confirmed terms
+only. Unconfirmed terms play over white — never on cards. Keys are folded ASCII (diacritics
 stripped, lowercase). Owner confirms in bulk; engineer flips status, never
 edits glosses silently.
 
@@ -76,8 +74,8 @@ edits glosses silently.
 
 Types: thumbnail opener (`assets/thumbnail/chNN.png`, ch01 rainbow emblem
 law, fits above subtitle zone, never fullscreen-bleed), verse (Devanagari
-+ IAST, wrapped to fit, auto-fit floor, assert no overflow), term (four
-layers, centered under the Sanskrit, brackets not parens), list (count
++ IAST, wrapped to fit, auto-fit floor, assert no overflow), term (three
+layers, centered under the Sanskrit), list (count
 decides the shape: 1 centered, 2 side by side, 3 row-or-triangle, 4
 corners, 5 corners + middle, window slides past five), title, figure.
 Lone glossed chants persist with layers through the following block; cues

@@ -14,25 +14,21 @@ def main():
     out = sys.argv[2]
     os.makedirs(out, exist_ok=True)
     # chapter glossary for term layers (review mode: proposed shown as-is,
-    # video gates on confirmed)
-    import glob as _g, re as _re
-    gl, m = {}, _re.search(r'ch(\d+)', sys.argv[1])
-    if m:
-        gp = os.path.join(os.path.dirname(os.path.abspath(__file__)),
-                           f'glossary_ch{m.group(1)}.json')
-        if os.path.exists(gp):
-            gl = json.load(open(gp, encoding='utf-8'))
+    # video gates on confirmed). Lane-aware: shiva storyboards resolve the
+    # shiva lane (own glossaries, own thumbnail dir).
+    lane = H.lane_for(sys.argv[1])
+    _ch = lane['ch']
+    gl = json.load(open(lane['glossary'], encoding='utf-8')) if os.path.exists(lane['glossary']) else {}
     groups = H.build_holds(sb['blocks'])
     flat = sb['blocks']
     idx = {b['id']: i for i, b in enumerate(flat)}
     files = []
-    _ch = m.group(1) if m else '01'
     _title = H.chapter_title(sb['blocks'], gl)
     for hi, h in enumerate(groups):
         last_id = h[-1]['id']
         if h[0].get('id') == 'b_opener':
             # sheets show the same intro bug the video burns
-            _ih = H.intro_hold(_ch, _title)
+            _ih = H.intro_hold(_ch, _title, lane['assets'], lane['thumbbox'], lane['numeral'], lane['art_center'], H.shiva_header(sb['blocks']) if lane['lane'] == 'shiva' else None)
             im = _ih if _ih is not None else H.render_hold(h, None, gl)
             fn = f'{out}/hold{hi:03d}.png'
             im.save(fn)

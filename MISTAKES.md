@@ -110,3 +110,78 @@ promoted). Fix: `split_scripts` is shared law in `holds.py` — author's
 roman half IS the IAST line, transliteration only where no roman exists;
 subtitle Deva words blank when the roman duplicates them, karaoke indices
 remapped to visible words.
+
+## M17. sa-IN romanizer crashes on digit-only Devanagari tokens (2026-11-04)
+Shiva s01 chant "चैतन्यमात्मा ॥१॥" killed `build_clip`: node
+`RomanizeError: cleanNativeWord: "॥१॥" has no alphabetic content`, no
+output file, stale rows loaded, 1:1 assert fired. Cause: assumed the
+aligner tolerates what TTS tolerates (Fish spoke the digits fine).
+Tantrasara chants carry ॥ but never digits — that is why they align.
+Fix: strip ॥N॥ markers from all 77 shiva chants at source (tantrasara
+danda-strip precedent; the ref lives top-right per canon). Rule for both
+lanes: verse blocks carry words only, never bare digits or digit-danda
+clusters. Rebuild was ID-stable (in-block strip), one chant group
+re-voiced, rest cache hits.
+
+## M18. Stale-bid overrides silently corrupt voices (2026-11-04)
+Three successive shiva remaps produced green-looking storyboards while
+quotes sat UNCAST and stale bids voiced wrong blocks — no error, because
+a bid pointing at the wrong block is still a valid bid. Cause: carrying
+bids across operations that shift IDs (moves, splits, period appends),
+then "verifying" by error count instead of intent. Fix: overrides are
+text-anchored, never bid-carried — remap by quoted-span identity
+(period-proof, merge-proof), then prove (a) UNCAST count equals pre-op,
+(b) every prior voice call honored on identical text (drift audit, zero
+tolerance), (c) absolute rules hold (zero Deva in granny script). A remap
+is not done until all three pass.
+
+## M19. Full-lane remine after approvals silently unblesses everything (2026-11-04)
+Ran mine_glossary.py lane-wide (to refresh 3 chapters' cue_blocks) — it
+regenerated all 20 glossaries, wiping every hand-filled Deva citation and
+changing every file's SHA. The render gate then refused chapters 07-22
+en masse ("glossary_sha changed since approval"). Two harms: data loss
+(Deva citations) + mass unblessing. Fix: restore untouched chapters from
+git byte-identical (gate passes, no re-bless needed); repair touched ones
+surgically (recompute cue_blocks only, preserve every data field —
+proven: zero deva/gloss/status/note changes). Rule: miners run scoped
+(`--only`, like cleanup) or not at all after approvals; a lane-wide regen
+is a re-bless event, never hygiene.
+
+## M20. Tool harness kills background jobs tied to the call (2026-11-04)
+Launched the continuation batch with plain `nohup ... &` inside a tool
+call that also slept/polled — the harness reaped the whole group twice,
+both times mid-assemble, zero logs. nohup does not protect against group
+SIGKILL. Fix (fleet pattern, always): `setsid nohup bash -c '...' <
+/dev/null >log 2>&1 & disown` in ONE call that returns instantly, then
+verify aliveness in a SEPARATE call. Never sleep/poll in the launch call.
+Launch is not done until a later, separate call sees the pid working.
+
+## M21. Stale align outputs mask node failures as count mismatches (2026-11-04)
+build_clip asserts the opath EXISTS but never that node just wrote it —
+a crashed align leaves the previous chapter's rows, and the failure
+presents as `b1: 417 vs 3` instead of the real node stderr. Killed three
+videos (ch04/05/06 b1) before the pattern was seen. Mitigation now:
+clear /tmp/mmsclip before every video run (operational). Fix queued
+post-batch: delete opath before invoking node so failures surface.
+Contributing factor: rclone mount flaked reads 3x in a row on ch04 wavs
+(STANDARD §14 — retry or copy down, never trust a single read).
+
+## M22. Silent stage passes hide blocked assemblies (2026-11-04)
+Assemble printed BLOCKED on missing audio yet returned exit 0, so the
+batch rolled on into holds and video instead of stopping the chapter.
+Same family as M21: failure paths must fail LOUD. Fix: assemble exits
+nonzero on missing (dry-run exempt); build_clip deletes stale opaths
+before every align. Both are control-flow only — no audio, chant, TTS,
+or timing logic touched. Rule: a stage that cannot prove its output
+must stop the chapter, never the run.
+
+## M23. Fold-derived Deva is wrong even when it round-trips (2026-11-04)
+Machine-filled 462 glossary Devas via to_deva(folded key) with a
+round-trip check — and the check is USELESS for exactly the M15 error
+class: folding destroys ā/ī/ū + ṇ/ṣ/ś both ways, so wrong forms
+(अनुपय for अनुपाय, कुन्दलिनि for कुण्डलिनी) round-trip perfectly.
+Reverted all 462 the same hour. Rule, final: Deva enters the lane ONLY
+by (1) owner citation at confirm, or (2) verbatim source extraction.
+Never by transliteration, however checked. (Pre-existing committed
+Devas in ch02-13 carry the same fold-corruption from the old intake
+miner — flagged for the confirm pass, not silently edited.)

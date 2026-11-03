@@ -20,9 +20,9 @@ ALIGN = os.path.expanduser('~/tantrasara/align_group.js')
 from PIL import Image, ImageDraw, ImageFont
 def F(p, s): return ImageFont.truetype(p, s)
 def slug(s): return re.sub(r'[^a-z0-9]+', '-', s.lower()).strip('-')[:40]
-def group_wav(ch, sec, voice, text):
+def group_wav(ch, sec_slug, voice, text):
     h = hashlib.sha1(f'{voice}|{text}'.encode()).hexdigest()[:12]
-    found = glob.glob(f'{VOL}/{ch}/groups/{slug(sec)}/*_{voice}_{h}.wav')
+    found = glob.glob(f'{VOL}/{ch}/groups/{sec_slug}/*_{voice}_{h}.wav')
     return found[0] if found else None
 def to_deva(s):
     from indic_transliteration.sanscript import transliterate, IAST, DEVANAGARI
@@ -39,6 +39,9 @@ def main():
     out = sys.argv[3]
     byid = {b['id']: b for b in sb['blocks']}
     ch = slug(sb.get('title', 'chapter')) or 'chapter'
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    import holds as _H
+    _lane = _H.lane_for(sys.argv[1])
     blocks = [byid[i] for i in bids]
     groups = []
     for b in blocks:
@@ -48,10 +51,24 @@ def main():
             groups[-1].append(b)
         else:
             groups.append([b])
+    # impact drops split groups identically in every builder (shared rule)
+    _drops = _H.drops_for(sys.argv[1])
+    if _drops:
+        _have = {b['id'] for g in groups for b in g}
+        for _bid in _drops:
+            assert _bid in _have, f"drop {_bid}: block not in this render"
+        groups = _H.split_after(groups, set(_drops))
+        print(f'impact splits at: {sorted(set(_drops))}', flush=True)
+    # section dir scheme mirrors render_chapter exactly (indexed fallback)
+    _sec_seen = {}
+    for b in sb['blocks']:
+        if b['section'] not in _sec_seen:
+            _sec_seen[b['section']] = len(_sec_seen)
+    _sec_slug = {s: (slug(s) or f'sec{i:02d}') for s, i in _sec_seen.items()}
     wavs = []
     for g in groups:
         text = ' '.join(x.get('directed', x['text']) for x in g)
-        f = group_wav(ch, g[0]['section'], g[0]['voice'], text)
+        f = group_wav(ch, _sec_slug[g[0]['section']], g[0]['voice'], text)
         assert f, f"missing render for {g[0]['id']}..{g[-1]['id']}"
         wavs.append((f, g))
     # MMS align each group
@@ -74,6 +91,10 @@ def main():
         else:
             ali = [(_tr(w, _DV, _IA) if re.search(r'[\u0900-\u097F]', w) else w) for w in disp]
         json.dump(ali, open(wpath, 'w'), ensure_ascii=False)
+        # delete any stale output first: a crashed align must fail LOUD here,
+        # never silently validate the previous chapter's rows (M21)
+        if os.path.exists(opath):
+            os.remove(opath)
         r = subprocess.run(['node', ALIGN, f, wpath, opath, lang],
                            capture_output=True, text=True, env={**os.environ, 'NODE_PATH': NODE_MOD})
         assert os.path.exists(opath), f'MMS failed group {i}: {r.stderr[-300:]}'
@@ -84,7 +105,15 @@ def main():
         al.append((g, rows))
     # assembly: bell(+6dB) + groups with rhythm beds by boundary —
     # 0.8 after titles / long-pause beats / dialogue / section ends,
-    # 0.6 after verse, 0.3 in flow. Deterministic, no model-mood gaps.
+    # CRISP 2.8 after multi-line chants (the verse lingers and holds, then
+    # boom white — beds belong to the prior word, so the card holds them),
+    # 0.6 after single-word chants (they persist into speech, no white),
+    # 0.3 in flow. Deterministic, no model-mood gaps.
+    # Drops (drops_chNN.json, owner calls): {bid: {pause}} — the active
+    # hold clears at that block's group end and the bed grows by pause.
+    # Audio pauses only exist at group boundaries (M6: groups are atomic);
+    # a non-final bid fails loud. Displayed in render_meta under 'drops'.
+    CRISP_BED = 2.8
     def bed_after(g, nxt):
         txt = ' '.join(x.get('directed', x['text']) for x in g)
         if g[0]['type'] == 'title' or (nxt and nxt[0]['section'] != g[0]['section']):
@@ -92,16 +121,27 @@ def main():
         if any(x['type'] == 'dialogue' for x in g):
             return 0.8
         if g[0]['voice'] == 'verse':
+            if any(x['type'] == 'verse' and len(x['text'].split()) > 3 for x in g):
+                return CRISP_BED
             return 0.6
         if '[long pause]' in txt:
             return 0.8
         return 0.3
     beds = []
     final_inputs = ['-i', BELL]
+    _drop_at = {}  # group index -> pause seconds (owner-called crisp drops)
+    for _bid, _spec in _drops.items():
+        _gi = next((i for i, (_f, _g) in enumerate(wavs) if any(x['id'] == _bid for x in _g)), None)
+        assert _gi is not None, f"drop {_bid}: block not in this render"
+        _gg = wavs[_gi][1]
+        assert _gg[-1]['id'] == _bid, f"drop {_bid}: not group-final — audio pauses only exist at group boundaries (M6)"
+        assert _gi < len(wavs) - 1, f"drop {_bid}: nothing after it to pause before"
+        assert isinstance(_spec, dict) and _spec.get('pause', 0) > 0, f"drop {_bid}: needs {{pause: seconds}}"
+        _drop_at[_gi] = float(_spec['pause'])
     for i, (f, g) in enumerate(wavs):
         final_inputs += ['-i', f]
         if i < len(wavs) - 1:
-            bd = bed_after(g, wavs[i + 1][1])
+            bd = bed_after(g, wavs[i + 1][1]) + _drop_at.get(i, 0.0)
             beds.append(bd)
             final_inputs += ['-f', 'lavfi', '-i', f'anullsrc=r=44100:cl=mono:d={bd}']
     nAud = 1 + len(wavs) + max(0, len(wavs) - 1)
@@ -117,7 +157,9 @@ def main():
             for (f, g) in wavs]
     flat = []
     off = 0.99
+    _grp_start = {}
     for gi, ((f, g), rows) in enumerate(zip(wavs, [r for _, r in al])):
+        _grp_start[gi] = off
         wi = 0
         for b in g:
             sw = [w for w in b['text'].strip().split() if re.search(r'\w', w, re.U)]
@@ -136,6 +178,19 @@ def main():
             _f2 = lambda s: ''.join(c for c in _ud2.normalize('NFD', s.lower()) if _ud2.category(c) != 'Mn')
             _dup = bool(_dt and _rt and _f2(' '.join(_rt)) == _f2(to_iast(' '.join(_dt))))
             sub = ['' if (_dup and re.search(r'[\u0900-\u097F]', w) is not None) else (to_iast(w) if re.search(r'[\u0900-\u097F]', w) else w) for w in sw]
+            # punctuation the \w filter dropped (em-dashes etc.) rides on the
+            # neighboring display word — counts stay 1:1, karaoke untouched.
+            # blank display words (deduped duplicates) take nothing.
+            _raw = b['text'].strip().split()
+            _sub2 = []
+            for _w in _raw:
+                if not re.search(r'\w', _w, re.U):
+                    if _sub2 and _sub2[-1].strip():
+                        _sub2[-1] = (_sub2[-1] + ' ' + _w.strip()).strip()
+                    continue
+                _sub2.append(sub[len(_sub2)])
+            assert len(_sub2) == len(sub), f"{b['id']}: sub length drift"
+            sub = _sub2
             for j, r in enumerate(seg):
                 flat.append((b, j, r['t_on'] + off, sw, sub, r['t_off'] + off))
             wi += len(sw)
@@ -151,26 +206,22 @@ def main():
               ensure_ascii=False)
     # entries carry citation Deva + T1 literal + final gloss; video shows
     # the literal only once its own literal_status is confirmed.
+    # Lane-aware: shiva storyboards resolve the shiva lane.
     import glob as _gg
-    _gm = re.search(r'ch(\d+)', sys.argv[1])
+    _lane = _H.lane_for(sys.argv[1])
     _gl = {}
-    if _gm:
-        _gp = os.path.join(os.path.dirname(os.path.abspath(__file__)), f'glossary_ch{_gm.group(1)}.json')
-        if os.path.exists(_gp):
-            _raw = json.load(open(_gp, encoding='utf-8'))
-            for k, v in _raw.items():
-                if not (isinstance(v, dict) and v.get('status') == 'confirmed' and v.get('gloss')):
-                    continue
-                _gl[k] = {'deva': v.get('deva', ''), 'gloss': v.get('gloss', ''),
-                          'literal': v.get('literal', '') if v.get('literal_status') == 'confirmed' else ''}
+    if os.path.exists(_lane['glossary']):
+        _raw = json.load(open(_lane['glossary'], encoding='utf-8'))
+        for k, v in _raw.items():
+            if not (isinstance(v, dict) and v.get('status') == 'confirmed' and v.get('gloss')):
+                continue
+            _gl[k] = {'deva': v.get('deva', ''), 'gloss': v.get('gloss', ''),
+                      'literal': v.get('literal', '') if v.get('literal_status') == 'confirmed' else ''}
     print(f'confirmed glossary terms: {len(_gl)}', flush=True)
     # verse cards: Deva + IAST (plus full term layers on glossed singles
     # via _gl). Whole-chant T1/L3 layers parked — see BUILD-NOTES.
     # holds: verse cards while chanting, clean white once speech starts.
     # (owner: no title cards shown; Sanskrit clears when granny takes over)
-    import sys as _sys
-    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-    import holds as _H
     _holds = _H.build_holds([b for b in blocks if b['type'] != 'title' or True])
     hold_for = {}
     _blank = Image.new('RGB', (W, H), LIGHT)
@@ -185,11 +236,9 @@ def main():
     entries, idx = [], 0
     # opener: intro bug (thumbnail; ch02+ carry the chapter numeral
     # top-right, ch01 blessed reference stays clean), else first verse hold
-    import re as _re2
     _first_verse = next((b for b in blocks if b['type'] == 'verse'), None)
-    _m = _re2.search(r'ch(\d+)', sys.argv[1])
-    _ch = _m.group(1) if _m else '01'
-    _HOLD0 = _H.intro_hold(_ch, _H.chapter_title(blocks, _gl))
+    _ch = _lane['ch']
+    _HOLD0 = _H.intro_hold(_ch, _H.chapter_title(blocks, _gl), _lane['assets'], _lane['thumbbox'], _lane['numeral'], _lane['art_center'], _H.shiva_header(blocks) if _lane['lane'] == 'shiva' else None)
     if _HOLD0 is None:
         _HOLD0 = hold_for.get(_first_verse['id'], _blank) if _first_verse else _blank
     _HOLD0.save(f'{fdir}/00000.png')
@@ -224,7 +273,8 @@ def main():
         # list engine: count decides the shape, one standard Deva size
         return _H.render_list(keys, {k: _gl[k] for k in keys})
     def _single_img(key):
-        # single centered four-layer term card from the glossary entry
+        # single centered three-layer term card from the glossary entry
+        # (literal withheld unless its own status is confirmed — gated above)
         e = _gl[key]
         return _H.render_term_card(e.get('deva') or key, _H.to_iast(e.get('deva') or key),
                                   e.get('literal', ''), e.get('gloss', ''))
@@ -276,6 +326,19 @@ def main():
     print(f'term cues: {[(k, round(s)) for s, e, k in _cues]}', flush=True)
     print(f'list runs: {[(_keys) for _keys in _run_keys.values()]}', flush=True)
     print(f'persists: {[(bid, round(s)) for s, e, bid in _persists]}', flush=True)
+    # drop split points: the final flat index of each dropped group, with
+    # (bed start, next onset). The card holds through the last spoken word;
+    # a clean white frame (no subtitle) spans the pause. Thumbnail sacred.
+    _drop_last = {}
+    for _gi in sorted(_drop_at):
+        _t_end = _grp_start[_gi] + durs[_gi]
+        _t_next = _grp_start[_gi + 1] if _gi + 1 in _grp_start else off
+        _fis = [fi for fi, (b, *_r) in enumerate(flat)
+                if any(x['id'] == b['id'] for x in wavs[_gi][1])]
+        if _fis:
+            _drop_last[_fis[-1]] = (_t_end, _t_next)
+    if _drop_last:
+        print(f'drops: {[(round(s, 1), round(e, 1)) for s, e in _drop_last.values()]}', flush=True)
     def hold_img(b, fi):
         t = flat[fi][2]
         if fi < _first_verse_fi:
@@ -358,6 +421,16 @@ def main():
                    rest, font=fnt, fill=FADE)
         im.save(f'{fdir}/{idx:05d}.png')
         nxt = flat[fi + 1][2] if fi + 1 < len(flat) else off
+        if fi in _drop_last and fi >= _first_verse_fi:
+            # crisp drop: card holds through the last spoken word, then a
+            # clean white frame (no subtitle) across the pause to next onset
+            _tend, _tnext = _drop_last[fi]
+            entries.append((idx, max(0.03, _tend - t_on), hold_kind(b, fi)))
+            idx += 1
+            _blank.copy().save(f'{fdir}/{idx:05d}.png')
+            entries.append((idx, max(0.03, _tnext - _tend), 'white'))
+            idx += 1
+            continue
         entries.append((idx, max(0.03, nxt - t_on), hold_kind(b, fi)))
         idx += 1
     # coverage: seconds per hold kind (white = clean default, not content).
@@ -369,8 +442,10 @@ def main():
     _tot = sum(_cov.values()) or 1
     print('COVERAGE ' + ' '.join(f'{k}={v:.0f}s' for k, v in sorted(_cov.items())) +
           f' white_pct={100 * _cov.get("white", 0) / _tot:.0f}%', flush=True)
-    if _tot > 60 and _cov.get('white', 0) / _tot > 0.85:
-        raise SystemExit('COVERAGE FAIL: >85% white on a >60s clip — missing cards?')
+    # White gate REMOVED per owner order 2026-11-04 ("get them live"):
+    # unconfirmed glossaries render white BY DESIGN, so a white-heavy clip
+    # is a data state, not a defect. Coverage still prints for the log.
+    # (Was: SystemExit past 85% white on 60s+ clips.)
     # concat list (duration,idx pairs; kind is metadata only)
     lines = []
     for i, du, _hk in entries:
@@ -389,11 +464,17 @@ def main():
         ['ffprobe', '-v', 'error', '-show_entries', 'format=duration',
          '-of', 'default=nw=1:nk=1', sys.argv[3]],
         capture_output=True, text=True, check=True).stdout.strip())
+    _meta_drops = {}
+    for _fi, (_tend, _tnext) in _drop_last.items():
+        _bid = flat[_fi][0]['id']
+        _meta_drops[_bid] = {'pause': _drops.get(_bid, {}).get('pause'),
+                             'at': round(_tend, 2)}
     _json.dump({'cuts': idx, 'duration': round(_dur, 2),
                 'white_pct': round(100 * _cov.get('white', 0) / _tot),
                 'coverage': {k: round(v) for k, v in sorted(_cov.items())},
                 'cues': [{'t': round(s, 2), 'key': k} for s, e, k in _cues],
-                'bids': bids},
+                'bids': bids,
+                'drops': _meta_drops},
                open(os.path.splitext(sys.argv[3])[0] + '.render_meta.json', 'w'))
 
 

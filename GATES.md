@@ -11,10 +11,12 @@ rule — same commit as the code, never a wave-through.
 - V2 Sanskrit Deva is 84 everywhere it stands alone; 64 only as the
   single wrap-down step. No 44s, no other sizes, middle and corners
   alike. [eye on PNGs + asserts at build]
-- V3 every Deva display carries its IAST line beneath it in lightest grey,
-  same onset. No bare Deva on any card. [eye]
-- V4 every confirmed term carries literal (mid grey, square brackets, T1
-  morphemes) and final (darkest grey). Proposed layers never render in
+- V3 verse cards are Devanagari ONLY (subtitles carry the romanised);
+  IAST lines live on term cards and the canonical title. No bare Deva
+  anywhere else. [eye]
+- V4 every confirmed term carries final (darkest grey). Literals live in
+  data as proposed only — never on screen (owner call 2026-11-04, ch01 v3
+  standard). Proposed layers never render in
   video. [machine: video dict filter] [eye: ramp order top to bottom]
 - V5 Deva is the glossary citation form, never rebuilt from the folded
   key (M15: ś/ṣ survive). [machine: every confirmed term has non-empty
@@ -31,9 +33,12 @@ rule — same commit as the code, never a wave-through.
 
 - H1 thumbnail frame 0 to first chant. ch01 clean; ch02+ numeral (zero
   padded) + canonical title. [machine: coverage thumbnail > 0] [eye]
-- H2 verse cards only while chanting. Lone glossed chants persist exactly
+- H2 verse cards only while chanting, plus a 2.8s crisp linger after
+  multi-line chants, then boom white (singles persist instead — no white,
+  0.6 bed). Lone glossed chants persist exactly
   one following block, then white; cues always win over persist. [machine:
-  persist spans in build log match single-glossed verse count] [eye]
+  persist spans in build log match single-glossed verse count] [eye: linger
+  frame holds the card, next frame is clean white]
 - H3 list runs are 2+ cues with no event gap; shape follows count
   (1 centered, 2 side by side, 3 row-or-triangle, 4 corners, 5 corners +
   middle, window slides past five). [machine: render_meta cues order
@@ -50,7 +55,8 @@ rule — same commit as the code, never a wave-through.
 ## Audio and delivery (machine)
 
 - A1 MMS mean ≥ 0.85 per group, zero non-monotonic, row counts match.
-- A2 assembly duration equals sum of parts; no silence over 3.0s; levels
+- A2 assembly duration equals sum of parts; no uncomposed silence past
+  10s (deliberate holds exempt by design); levels
   in band (mean -32..-12dB, peak > -8dB); motion ≥ 70% distinct frames.
 - A3 golden match: duration ±2s, same cue order, cue drift ±3s, white
   ±5pp, cuts drift. First blessed render seals it.

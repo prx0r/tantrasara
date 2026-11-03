@@ -62,31 +62,120 @@ def chapter_title(blocks, glossary=None):
     return None
 
 
-def intro_hold(ch, title=None):
+def lane_for(sb_path):
+    """Lane routing shared by sheets and video: tantrasara chapters resolve
+    tantrasara glossaries/art; shiva storyboards resolve the shiva lane
+    (own glossaries, own thumbnail dir — empty until art lands, so openers
+    stay clean instead of borrowing the wrong series' art)."""
+    import os, re
+    base = os.path.dirname(os.path.abspath(__file__))
+    if '/shiva/' in sb_path:
+        m = re.search(r's(\d+)\.json$', sb_path)
+        ch = m.group(1).zfill(2) if m else '00'
+        return {'lane': 'shiva', 'ch': ch,
+                'glossary': os.path.join(base, 'shiva', f'glossary_s{ch}.json'),
+                'verse': os.path.join(base, 'shiva', f'verse_gloss_s{ch}.json'),
+                'assets': os.path.join(base, 'shiva', 'assets', 'thumbnail'),
+                'thumbbox': (760, 760), 'numeral': False, 'art_center': True,
+                'drops': os.path.join(base, 'shiva', f'drops_s{ch}.json')}
+    m = re.search(r'ch(\d+)', sb_path)
+    ch = m.group(1) if m else '01'
+    return {'lane': 'tantrasara', 'ch': ch,
+            'glossary': os.path.join(base, f'glossary_ch{ch}.json'),
+            'verse': os.path.join(base, f'verse_gloss_ch{ch}.json'),
+            'assets': None, 'thumbbox': (1400, 730), 'numeral': None,
+            'art_center': False,
+            'drops': os.path.join(base, f'drops_ch{ch}.json')}
+
+
+def drops_for(sb_path):
+    """Owner-called impact drops: {bid: {pause, why}}. why is required
+    (fail loud) — every silence is justified or it doesn't render."""
+    import json, os
+    dp = lane_for(sb_path)['drops']
+    if not os.path.exists(dp):
+        return {}
+    d = json.load(open(dp, encoding='utf-8'))
+    for bid, spec in d.items():
+        assert isinstance(spec, dict) and spec.get('pause', 0) > 0, f"drop {bid}: needs {{pause: seconds}}"
+        assert (spec.get('why') or '').strip(), f"drop {bid}: needs a why — unjustified silence never renders"
+    return d
+
+
+def split_after(groups, bids):
+    """Split render groups after the listed block ids (impact drops).
+    Same function in every builder — identical boundaries everywhere."""
+    out = []
+    for g in groups:
+        cur = []
+        for b in g:
+            cur.append(b)
+            if b['id'] in bids:
+                out.append(cur)
+                cur = []
+        if cur:
+            out.append(cur)
+    return out
+
+
+def shiva_header(blocks):
+    """Shiva intro header from the chapter itself: sūtra ref (top-right)
+    and funny title (top-left), mirroring the tantrasara canonical header
+    in the same type. Ref from the H1, title from the heading line."""
+    import re
+    ref, title = None, None
+    for b in blocks:
+        t = b.get('text', '').strip()
+        if b.get('id') == 'b_opener':
+            continue
+        if b.get('type') == 'title' and ref is None:
+            m = re.search(r'(\d+\.\d+)\s*$', t)
+            if m:
+                ref = m.group(1)
+            continue
+        if ref and title is None and b.get('type') == 'narration':
+            m = re.match(r'^\d+\.\d+\s*—\s*(.+)$', t)
+            if m:
+                title = m.group(1).strip()
+                break
+    if not ref:
+        return None
+    return {'ref': ref, 'title': title or ''}
+
+
+def intro_hold(ch, title=None, asset_dir=None, maxbox=(1400, 730), numeral=None,
+               center_art=False, header=None):
     """Intro bug shared by sheets and video: per-chapter thumbnail fitted
-    above the subtitle zone; ch02+ carry the chapter numeral top-right plus
-    the canonical title stack beneath it (Deva 84 + IAST/literal/final in
-    corner sizes, right-aligned, clearing the mandala). ch01 blessed
-    reference: thumbnail alone, never touched. Returns None when no
-    thumbnail art exists -- caller falls back to first verse hold."""
+    above the subtitle zone (maxbox bounds the fit — shiva renders smaller
+    for elegance). Numeral top-right unless numeral=False (shiva numerals
+    pending owner call) or ch01 blessed reference (thumbnail alone, never
+    touched). Art lookup: chNN.png, then series.png, then the legacy
+    tantrasara fallback only when asset_dir is None (default lane).
+    Returns None when no art exists — caller falls back to first verse."""
     import os
     base = os.path.dirname(os.path.abspath(__file__))
-    tb = os.path.join(base, 'assets', 'thumbnail', 'ch' + ch + '.png')
+    tdir = asset_dir or os.path.join(base, 'assets', 'thumbnail')
+    tb = os.path.join(tdir, 'ch' + ch + '.png')
     if not os.path.exists(tb):
+        tb = os.path.join(tdir, 'series.png')
+    if not os.path.exists(tb) and asset_dir is None:
         tb = os.path.join(base, 'assets', 'thumb_ch1.png')  # legacy fallback
     if not os.path.exists(tb):
         return None
     _tb = Image.open(tb).convert('RGB')
-    _tb.thumbnail((1400, 730), Image.LANCZOS)
+    _tb.thumbnail(maxbox, Image.LANCZOS)
     im = Image.new('RGB', (W, H), LIGHT)
-    im.paste(_tb, ((W - _tb.width) // 2, 50))
+    _vy = (H - _tb.height) // 2 if center_art else 50
+    im.paste(_tb, ((W - _tb.width) // 2, _vy))
     # mandala clearance, measured from the art itself before any ink lands:
     # saturated pixels only (the paste rect is white-margined). Each ink
     # box is checked against the art rows it actually occupies.
     from PIL import ImageChops
     _sat = im.crop((0, 0, W, H)).convert('HSV').split()[1]
     _mask = _sat.point(lambda v: 255 if v > 30 else 0)
-    if ch != '01':
+    if numeral is None:
+        numeral = ch != '01'
+    if numeral:
         d = ImageDraw.Draw(im)
         fnt = F(FE, 150)
         num = ch.zfill(2)
@@ -140,6 +229,41 @@ def intro_hold(ch, title=None):
                     _bb = _rows.getbbox()
                     if _bb is not None:
                         assert x1 <= _bb[0], f'title ink over the mandala ({x1:.0f} vs art {_bb[0]})'
+    if header and header.get('ref'):
+        # shiva header mirrors the canonical header in the same type:
+        # sutra ref top-right (FE 150, numeral's mirror), funny title
+        # top-left (FE 64, wrapped clear of the art). Verse hold follows
+        # at the chant — ref + funny first, Sanskrit after.
+        d = ImageDraw.Draw(im)
+        _rf = F(FE, 150)
+        d.text((W - 120 - d.textlength(header['ref'], font=_rf), 60),
+               header['ref'], font=_rf, fill=INK)
+        _hboxes = [((W - 120 - d.textlength(header['ref'], font=_rf)), 60,
+                    W - 120, 60 + int(_rf.size * 1.35))]
+        if header.get('title'):
+            # optical cap-top alignment with the ref numerals: big type
+            # carries tall empty bearings, so same-draw-height reads as
+            # misaligned (measured 73 vs 139). Shift the title down by the
+            # bearing gap, computed from the fonts (deterministic, no raster
+            # pass). Tantrasara's blessed pair keeps draw-height parity —
+            # this changes shiva only.
+            _tf = F(FE, 64)
+            _wrapped = wrap_lines(d, header['title'], _tf, 640)
+            _ref_top = _rf.getbbox(header['ref'])[1]
+            _tit_top = _tf.getbbox(_wrapped[0])[1] if _wrapped else 0
+            _hy = 60 + max(0, _ref_top - _tit_top)
+            for _tln in _wrapped:
+                d.text((120, _hy), _tln, font=_tf, fill=INK)
+                _hboxes.append((120, _hy, 120 + d.textlength(_tln, font=_tf),
+                                _hy + int(_tf.size * 1.35)))
+                _hy += int(_tf.size * 1.35)
+        for (x0, y0, x1, y1) in _hboxes:
+            assert y1 <= SUB_Y, 'header collides with subtitle zone'
+            if y0 < 780:
+                _rows = _mask.crop((0, max(0, int(y0)), W, min(H, int(y1) + 1)))
+                _bb = _rows.getbbox()
+                if _bb is not None:
+                    assert x1 <= _bb[0], f'header ink over the art ({x1:.0f} vs art {_bb[0]})'
     return im
 
 
@@ -426,32 +550,31 @@ def render_hold(hold, sub_text=None, glossary=None):
             lines = [s for s in lines if s]
             if not lines:
                 continue
-            # per-line: term singles via glossary, else Deva + IAST.
-            # Mixed-script lines split first (M4): the author's own roman
-            # half is the IAST line, never a transliteration duplicate.
+            # per-line: lone glossed chants resolve to full term layers;
+            # all other verse lines are Devanagari ONLY — subtitles already
+            # carry the romanised (owner call 2026-11-04).
             for s in lines:
                 deva_part, roman_part = split_scripts(s)
                 v = (glossary or {}).get(fold(s.strip('.,!?')), '')
-                if isinstance(v, dict) and (v.get('deva') or v.get('gloss') or v.get('literal')):
+                single = len(s.split()) <= 3
+                if single and isinstance(v, dict) and (v.get('deva') or v.get('gloss') or v.get('literal')):
                     deva = v.get('deva') or to_deva(deva_part or s)
                     gloss = v.get('gloss', '')
                     literal = v.get('literal', '')
                     if isinstance(gloss, dict):
                         gloss = gloss.get('gloss', '')
+                    iast = ''
+                    if roman_part or deva:
+                        try:
+                            iast = roman_part or to_iast(deva)
+                        except Exception:
+                            iast = roman_part
                 else:
                     try:
                         deva = to_deva(deva_part or s)
                     except Exception:
                         deva = deva_part or s
-                    gloss = (v or '') if isinstance(v, str) else ''
-                    literal = ''
-                if roman_part and not gloss and not literal:
-                    iast = roman_part
-                else:
-                    try:
-                        iast = to_iast(deva)
-                    except Exception:
-                        iast = ''
+                    gloss, literal, iast = '', '', ''
                 if d.textlength(deva, font=F(FD, 84)) <= 1700:
                     dl.append({'deva': [(deva, 84)] if deva.strip() else [], 'iast': [iast] if iast else [],
                                'literal': [literal] if literal else [], 'final': [gloss] if gloss else []})

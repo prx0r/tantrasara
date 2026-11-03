@@ -1,4 +1,16 @@
-# HANDOVER — Tantrasara explained pipeline (2026-11-04)
+# HANDOVER — next agent starts here (2026-11-04)
+
+Goal: render each Tantrasara chapter validated exactly the known way;
+shiva lane follows the same routine. Read AGENTS.md order first
+(RUNTIME → PIPELINE → GATES), then this file, then REGISTRY.json.
+
+Live state: render batch 01–22 running (registry + watch track it); ch01
+v3 + ch02 verified, Qwen pass-4 on ch01; shiva 78/78 green with aligned
+intro headers (ref + funny optically level, measured 139/139 — tantrasara
+pairs deliberately frozen at draw parity); ten todos in the session list.
+To-dos live in the session list + REGISTRY.json queue — refresh the board
+(`run_queue --refresh`) before touching anything, honor the video lock,
+never sleep-block (nohup + poll + watch.py).
 
 All 22 chapters blocked and green. Nothing is approved to render yet.
 

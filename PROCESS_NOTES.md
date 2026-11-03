@@ -145,3 +145,17 @@ this call plus local disk (0.5G vs 1G preflight).
 - Lesson: verse subtitles in an earlier cut showed the wrong block's text
   because the clip range split a rendered group — clip ranges must align
   to group boundaries (builder asserts).
+
+## The crisp moment (2026-11-04) — why this is gorgeous
+A chant is sound becoming meaning. The card holds the bare syllables while
+the voice fills them; when the voice stops, the meaning hangs in the air
+for almost three seconds of held silence — the eye re-reads what the ear
+just received — and then clean white, and her next line lands like a
+verdict. Nothing moves, nothing decorates, nothing explains. Restraint is
+the whole aesthetic: one idea per frame, ink on white, silence as
+punctuation, white as the exhale. It works because every layer was already
+proven separately (bare Deva cards, word-onset timing, deterministic beds)
+so the moment is pure composition, not effects. New pockets to hunt: term
+stacks held a beat past the last cue before clearing; dialogue entries
+preceded by half a breath of white; section ends exhaled the same way.
+Each pocket is a bed constant plus a frame proof — never a guess.

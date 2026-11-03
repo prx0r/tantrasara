@@ -236,9 +236,19 @@ def build(md_path, overrides=None):
             bid += 1
             continue
         if len(text) < 60 and text == text.upper() and re.search(r'[A-Z]{2,}', text):
-            blocks.append({'id': f'b{bid}', 'section': section, 'type': 'figure', 'voice': 'none', 'text': text})
-            bid += 1
-            continue
+            # shouted punchlines stay spoken: a multi-word sentence ending
+            # in a period with no digits, dashes or slashes is granny-grade
+            # prose, not a witness label (M-edge-8: silent shouts). Witness
+            # labels always carry digits, dashes or slashes — proven by
+            # byte-identical rebuild of all frozen tantrasara storyboards.
+            bare = text.rstrip('"“” \t')
+            if (bare.endswith('.') and len(text.split()) > 1
+                    and not re.search(r'[\d—\-/]', text)):
+                pass  # falls through to voice casting below
+            else:
+                blocks.append({'id': f'b{bid}', 'section': section, 'type': 'figure', 'voice': 'none', 'text': text})
+                bid += 1
+                continue
         if DEVA_L.search(text):
             blocks.append({'id': f'b{bid}', 'section': section, 'type': 'verse', 'voice': 'verse', 'text': text})
             bid += 1

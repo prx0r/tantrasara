@@ -23,35 +23,43 @@ implements. Change only by owner call, same commit as the code.
    (blessed reference, never touched); ch02+ carry the chapter numeral
    top-right in house figure type (shared `intro_hold`, one code path for
    sheets and video).
-2. **Verse** — Devanagari plus small IAST beneath each line (per-term IAST
-   lines allowed since 2026-11-04, owner call; full transliteration blocks
-   live in subtitles only). Whole-chant T1 literal + L3 final tried and
-   reverted same day — verses stay Deva + IAST until re-blessed
-   (`mine_verse_gloss.py` output parked proposed in `verse_gloss_chNN.json`).
+2. **Verse** — Devanagari ONLY (subtitles already carry the romanised —
+   owner call 2026-11-04). Up the moment chanting starts; multi-line chants
+   linger through a 2.8s crisp bed, then boom white (2.8 not 3.0: our own
+   dead-air tripwire fires past 3.0s). Whole-chant T1 literal + L3 final
+   tried and reverted same day (`mine_verse_gloss.py` output parked proposed
+   in `verse_gloss_chNN.json`). Max 3 Deva line-pairs per hold. Single-word
+   glossed chants     carry all three term layers (see 5).
    Up the moment chanting starts, clears the instant speech resumes. Max 3
-   Deva line-pairs per hold. Single-word glossed chants carry all four term
+   Deva line-pairs per hold. Single-word glossed chants carry all three term
    layers (see 5).
-3. **Term** — four layers, closest to furthest from the Sanskrit: Devanagari
+3. **Term** — three layers, closest to furthest from the Sanskrit: Devanagari
    headword (ink, citation form from the glossary — never rebuilt from the
-   folded key) + IAST romanised (lightest grey, same onset) + intermediary
-   T1-style literal gloss (mid grey, e.g. cit [consciousness] + śakti
-   (power)) + final English gloss (darkest grey). Pops the instant she says
+   folded key) + IAST romanised (lightest grey, same onset) +
+   final English gloss (darkest grey). Pops the instant she says
    the word; holds until the next cue or tone break (newer cue always
    supersedes). Only `confirmed` glossary terms render — `proposed` plays
-   over white. Single Sanskrit words stay with granny + term card; the
+   over white. (Literal morphemes parked per owner call 2026-11-04 — ch01 v3
+   shipped three layers and that is the house look.) Single Sanskrit words stay with granny + term card; the
    verse voice is multi-line passages only.
 4. **List engine** — count decides the shape, one standard Sanskrit size
    everywhere (Deva 84, locked 2026-11-04; IAST 32/28, literal 28/24, final
    40/36 by slot). One centered; two side by side; three in a row when they
    fit else triangle (apex + two below); four the corners; five corners plus
    middle (newest middle, earlier four in arrival order); past five the
-   window slides. Every member carries all four term layers. Runs trigger
+   window slides. Every member carries all three term layers. Runs trigger
    on 2+ cues with no event gap between them. Every card asserts
    subtitle-zone and pairwise non-overlap — trips fail the build.
 5. **Single-word chant persist** — a lone glossed chant (Aṇu., Svātantrya.)
    renders Deva + gloss underneath like a term card and stays up through
    the directly following block, then white. Cues always win over persist.
-   Verse cards carry confirmed glosses in video (same as sheets).
+6. **Drops** — an owner call in `drops_chNN.json` (`{bid: {pause}}`) clears
+   whatever card is up at that block's group end and stretches the bed by
+   pause seconds: hold through the last spoken word, clean white with no
+   subtitle across the pause, next card after. Audio pauses only exist at
+   group boundaries (M6) — a non-final bid fails loud. Long white holds
+   are legitimate dramatic holds, never dead air (the 3s tripwire is gone;
+   verify only hunts uncomposed silence past 10s).
 6. **Title / figure** — spoken titles stay spoken; no title cards in video.
    Figures (rare) render large numeral + short caption.
 7. **White** — the default. Returns at every tone break, section break,

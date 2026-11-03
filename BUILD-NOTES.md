@@ -490,3 +490,178 @@ centered under the Sanskrit, Deva wrap threshold 520 (stays 84 wherever it
 fits the mandala bound), English wraps to the Deva width. Asserts: subtitle
 zone, mandala clearance (ink right of x=1340 above y=780 no longer
 applies — now ink left of x=640). ch01 untouched.
+
+## 2026-11-04 — shiva lane intake (Śiva Sūtras, factory test)
+Owner test: run the tantrasara documentation on `shivasutrasfinal` until it
+is ready the same way. Lane `shiva/` (shared builders stay single-copy):
+s00 intro + s01–s77 per-sutra chapters (~50.8k words, 147–1744/ch), all 78
+storyboards green (211 UNCAST → 120 provisional calls, owner blesses),
+glossaries drafted, sheets proven green for all 78, review packs publishing
+to `r2:svread-audio/shiva/review/`. Reused verbatim: build_storyboard,
+holds_timeline, align, verify, golden, gate, qwen scripts. Small lane
+shims: split/gen_casting/mine_glossary/publish/runner + `holds.lane_for`
+routing (shiva glossaries, shiva thumbnail dir — empty, so openers stay
+clean white instead of borrowing the rainbow). Render phase open items in
+`shiva/SHIVA-INTAKE.md` (volume/R2 paths, approvals, golden, art, disk).
+
+## 2026-11-04 — shiva series art + heading/Deva split + full republish
+Art: owner-supplied shivashakti line-art Shiva → squared on white
+(full figure, bg cleaned), `shiva/assets/thumbnail/series.png`, rendered
+small (760 box) for elegance. `intro_hold` gains series fallback +
+per-lane maxbox/numeral via `holds.lane_for` (tantrasara path
+byte-identical). Proven on s01 opener. Split fix: sutra headings stand
+alone so she announces the name before the Deva chants (b2-flip shape);
+all overrides remapped by quote identity, zero loses, 78/78 green,
+glossaries re-mined, sheets green. Review packs republishing fresh to
+`r2:svread-audio/shiva/review/` (previous partial batch stale by design).
+
+## 2026-11-04 — shiva hygiene to tantrasara depth (shared-builder fix)
+Sweep found 3 shouted punchlines going silent (short-ALLCAPS figure rule)
+plus Welcome-back ×2 and 4 inline citation tails. Shared-builder guard
+added (multi-word period, no digit/dash/slash → spoken); frozen proof:
+all 22 tantrasara storyboards byte-identical (their silent HELLO!/NO./WHAT?
+preserved deliberately). 11 unquoted shiva shouts now spoken; 3 quoted
+newly UNCAST → provisional granny with scene notes. Remap zero loses,
+78/78 green, glossaries re-mined, full republish running. Parity, audits
+(Deva digits all verse; IAST singles chant; 5.6h total; 51 man-free by
+structure) in shiva/LANE-PARITY.md.
+
+## 2026-11-04 — verses bare Deva + crisp linger-then-white
+Owner: verse cards Devanagari only (subtitles already carry the romanised);
+lone glossed chants keep all four term layers (they function as terms).
+Crisp moment: multi-line chants hold the card through a 2.8s bed, then boom
+white — silence plus hold as emphasis. 2.8 not 3.0: our own dead-air
+tripwire fires past 3.0s. Singles keep the 0.6 bed and persist into speech.
+Proven on ch01 b8–b10: +2.2s exactly, linger frame then clean white with
+her next line lighting. Sheets republished (verse cards changed).
+
+## 2026-11-04 — dead-air tripwire retired + crisp drops in the build
+Owner: blanks longer than 3s are legitimate — the 3.0s verify ceiling was
+bullshit. `verify_clip` now hunts uncomposed silence past 10s only (missing
+audio); composed beds are logged at build. New `drops_chNN.json`: owner
+calls `{bid: {pause}}` to clear the active hold at a group end (M6-asserted)
+and stretch the bed — card through the last word, clean white with no
+subtitle across the pause. Proven on ch01 b79 (2.0s drop, meta-logged,
+frames read). Demo file removed after proof; feature + docs stay.
+
+## 2026-11-04 — render-readiness batch (all 22 publish fresh)
+Demo drops file removed after proof (no demo data ships). Republishing
+review packs ch02–22 (ch01 done via full run): green storyboards, b2
+granny intros, proposed title entries, four-layer engine. After this,
+every chapter sits at review-published awaiting owner bless (approvals,
+glossary/literal/title confirms, ch14–22 casting) — then render is
+mechanical per chapter. ch01 v3 rendered+verified, Qwen pass-4 (dash
+fixed, ṛ misread discarded, karaoke-ahead uncorroborated), awaiting ears
+before golden seal.
+
+## 2026-11-04 — blanket render order recorded (approvals on owner word)
+Owner: "begin the full rendering of each chapter (after u check its all
+ready to go)". Recorded as blanket render approval for ch02–22 (ch01
+already approved + rendered v3). Each approved_chNN.json cites this order;
+revocable by deleting the file — never self-granted, always sourced.
+Known caveats baked into the order, not waived: glossaries unconfirmed
+(term cards white until confirmed — re-render is cache-cheap), ch14–22
+casting provisional (renders held local for ears, nothing ships unblessed),
+disk watched per preflight, Fish free-tier tracked in receipts. Routine
+per chapter stays mechanical: render → verify → qwen → ears → seal →
+upload. ch01 golden seals only after owner ears.
+
+## 2026-11-04 — CODE FREEZE for the render batch + blanket approvals
+Approvals recorded 01–22 citing the blanket full-render order (revocable
+delete). Mixed-code-era packs deleted; republishing 02–22 fresh. CODE
+FREEZE from here until renders land: no holds/clip/sheets edits
+mid-batch (inconsistent packs was the lesson). ch01 v3 predates crisp +
+Deva-only verse — full re-render queued in the batch.
+
+## 2026-11-04 — free-tier gate + status + release packager
+`run_all` opens with `free-tier` stage: asserts the shared renderer pins
+fish-audio/s2.1-pro-free (proven passing). `status.sh` prints capacity,
+lock, jobs, board and newest logs in one screen. `release.py` combines
+verified chapter mp4s with 5s white+silence gaps (mono throughout) and
+zips mp4s + manifest (skips unverified loudly, never silently). ch02 full
+render green end to end (13/13 stages, verify PASS, levels in band).
+
+## 2026-11-04 — event log + shiva republish post-hygiene
+`events.py`: every driver stage appends one JSON line to `EVENTS.jsonl`
+(lane, chapter, stage, status, seconds) — progress derives from the log,
+`status.sh` prints the per-lane tally. Wired into both runners.
+Shiva packs republishing fresh (post welcome/tails/shout hygiene) to R2;
+tantrasara video lock cleared (ch02 done, nothing rendering).
+
+## 2026-11-04 — SOLE GOAL: all 22 tantrasara fully rendered + logged
+Owner narrowed the line: everything else parks until all twenty-two
+Tantrasara chapters exist as full verified mp4s. Batch running
+(run_all 01–22, approvals recorded, code frozen). Every stage logs to
+EVENTS.jsonl automatically; packs, verifies and Qwen finals per chapter
+as they land. Shiva republish (aligned headers) and pending blesses wait
+behind this goal.
+
+## 2026-11-04 — finals go to the volume, not /tmp
+Owner call: finished mp4s must not clog local disk. Rule from here:
+every chapter that passes verify gets its `/tmp/chNN_full.mp4` +
+`.verify.json` moved to `~/vol/tantrasara/renders/finals/` before the
+next chapter's video stage. R2 stays review-packs only until ears +
+seal (public bucket, unblessed video never ships). Release step copies
+back to /tmp (release.py paths hardcoded — no code change, freeze
+intact). ch01 + ch02 moved (36M).
+
+## 2026-11-04 — ch03/04/05 video failures: diagnosed, data fixed, re-run queued
+Batch: ch01/ch02 verified (finals on volume). ch03 video FAIL (455s),
+ch04/ch05 video FAIL (17-18s). Zero new FAILs since.
+- ch03: latent data bug, not interference — verse block b269 mixes English
+  ("sixteen...") into a sa-IN chant; the aligner folds it to garbage
+  ("सिxतेएन्") and node dies. Audit found the same killer in ch12
+  (b174/b177 "Water"/"Wind" in verse) and ch22 (b89 English note glued to
+  verse). Fixed all five with blank-line splits (zero words changed;
+  narration halves read clean in en-IN). ch03/ch12/ch22 rebuilt green,
+  overrides remapped zero loses, glossaries re-mined.
+- ch04/ch05: clean data — killed by concurrent /tmp builds on this box
+  (shared mmsclip filenames + RAM pressure from the shiva preview work).
+  Owned. Lesson is now law: one video build at a time, no exceptions,
+  and node asserts must clear stale opaths (post-batch builder fix filed).
+- Re-run plan (after main batch finishes ch06-22, clean, nothing
+  concurrent): ch03 --from render (split groups need voice), ch04/ch05
+  --from video (audio cached). Pre-flight: clear /tmp/clip_frames,
+  /tmp/mmsclip, /tmp/holds_*.
+
+## 2026-11-04 — slug fallback mismatch broke ch06 assembly (fixed, lookup-only)
+Assemble looked for Deva-titled sections under `groups/sec/` (assemble's
+slug returns 'sec' for empty) while render wrote them under `groups/secNN/`
+(indexed fallback). 16 ch06 groups "missing" though every wav existed.
+Fix: assemble + build_clip now replicate render's indexed fallback exactly
+(`secNN` by first-appearance order). Audit: ch06 is the ONLY chapter with
+an empty-slug section — all other chapters resolve identically to before
+(proven by construction, pure lookup change, no audio/chant logic touched).
+Verified: ch06 assemble --dry-run now resolves 224/224.
+
+## 2026-11-04 — blanket bless (owner message, "probably FINE")
+Owner blesses the full line as-is: ch03/12/22 source splits + cue remaps,
+glossary repairs, slug fallback, and the opencode2/opencode3 sharding.
+Approvals for 03/12/22 recorded against current SHAs on that authority.
+
+## 2026-11-04 — ch03 gold-standard pass (pattern for the lane)
+Storyboard matches ch01 grammar (bell→title→name→tagline→beat→recap→chant;
+man dialogue at b12/b76+). Drops PROPOSED (not filed — owner disposes):
+b11 {1.5s, beat before man deadpans "Yeah, absolutely"} + b75 {1.5s, breath
+before his echo "Hello… hello…"}. Both sit on natural group ends (voice
+turns), so encoding is trivially safe. Glossary finals drafted to
+glossary_ch03.draft.json (23/23, proposed, Deva untouched) for the confirm
+run — merge + re-bless at confirm time, never before.
+
+## 2026-11-04 — owner delegates render blessing (bounded)
+Owner: "i bless you with the responsibility to bless". Accepted with a
+hard boundary, logged so no one has to guess: I bless render-readiness
+— approvals (SHA-verified), casting calls (full context in hand),
+drops/impact timing (documented aesthetic), re-run + gate decisions.
+I do NOT bless Sanskrit scholarship: Deva citations and gloss meanings
+stay owner-confirms (M23 — my generated Deva is unreliable by
+construction; blessing it would be malpractice, not autonomy).
+Unblessed-language videos render white-by-design until confirms land.
+
+## 2026-11-04 — drops blessed + encoded (03/04/05/06, owner-delegated)
+Two impact pauses each, all on natural voice-turn group ends (M6-safe by
+construction; builder asserts). Her setups tee him up every time, so the
+pauses stage his entrances. Files are new (no SHA impact); they take
+effect on the next video build of each chapter (03/04/05 post-batch
+re-runs; 06 on its next build). Pauses stay proposed until heard — white
+holds with silence, never decoration.
