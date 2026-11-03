@@ -11,6 +11,10 @@ Voice seats (locked 2026-11-02):
 import json, re, sys
 
 DEVA = re.compile(r'[\u0900-\u097F]')
+DEVA_L = re.compile(r'[\u0905-\u0939\u093E-\u094D\u0958-\u0963]')  # letters only: digits never voice a block
+URL = re.compile(r'https?://|[\w-]+\.(?:de|com|org|net|info|github\.io)\b')
+WITNESS_LBL = re.compile(r'^[A-Z][A-Z0-9 \-,–—\'().;/]*$')
+WITNESS_W = ('GRETIL', 'ATTESTED', 'WITNESS', 'TRANSCRIPTION', 'MANUSCRIPT')
 IAST = re.compile(r'[āīūṛṝḷḹṃḥṅñṭḍṇśṣĀĪŪṚṜḶṂḤṄÑṬḌṆŚṢ]')
 QUOTED = re.compile(r'^["\u201c\u201d]')
 
@@ -117,7 +121,7 @@ def classify(para, in_translit=False, section=""):
         return ('figure', 'none')
     if len(p) < 60 and p == p.upper() and re.search(r'[A-Z]{2,}', p):
         return ('figure', 'none')
-    if DEVA.search(p):
+    if DEVA_L.search(p):
         return ('verse', 'verse')
     if QUOTED.match(p):
         return ('dialogue', 'man')
@@ -141,7 +145,7 @@ def build(md_path, overrides=None):
                 continue
             if in_translit and kind in ('narration',):
                 # IAST transliteration lines following the label -> verse voice
-                if IAST.search(para['text']) or DEVA.search(para['text']):
+                if IAST.search(para['text']) or DEVA_L.search(para['text']):
                     para['type'], para['voice'] = 'verse', 'verse'
                 elif len(para['text']) < 120:
                     para['type'], para['voice'] = 'verse', 'verse'
@@ -176,10 +180,24 @@ def build(md_path, overrides=None):
                 blocks.append({'id': f'b{bid}', 'section': section, 'type': 'meta', 'voice': 'none', 'text': text[:120]})
                 bid += 1
             continue
+        # embedded witness label ("ATTESTED PRAKRIT VERSE — 21.10, GRETIL"):
+        # never spoken; head classifies normally, label goes meta
+        if '\n' in text:
+            split = [seg.strip() for seg in text.split('\n') if seg.strip()]
+            lbl = [seg for seg in split if WITNESS_LBL.match(seg) and len(seg) < 120
+                   and any(w in seg for w in WITNESS_W)]
+            if lbl:
+                for seg in lbl:
+                    blocks.append({'id': f'b{bid}', 'section': section, 'type': 'meta', 'voice': 'none', 'text': seg})
+                    bid += 1
+                head = '\n'.join(seg for seg in split if seg not in lbl)
+                if not head:
+                    continue
+                text = head
         if is_head:
             section = text[:60]
             sec_idx += 1
-            if DEVA.search(text):
+            if DEVA_L.search(text):
                 blocks.append({'id': f'b{bid}', 'section': section, 'type': 'verse', 'voice': 'verse', 'text': text})
             elif re.match(r'^#?\s*\d+\s*[a-z\u0100-\u024f]*$', text, re.I) and len(text) < 30:
                 blocks.append({'id': f'b{bid}', 'section': section, 'type': 'figure', 'voice': 'none', 'text': text})
@@ -196,7 +214,7 @@ def build(md_path, overrides=None):
             # run continues ONLY on Sanskrit lines; an ASCII-only line ends
             # the run and classifies normally (translation gloss in English
             # belongs to granny — edge case #9, verified ch6)
-            if IAST.search(text) or DEVA.search(text):
+            if IAST.search(text) or DEVA_L.search(text):
                 blocks.append({'id': f'b{bid}', 'section': section, 'type': 'verse', 'voice': 'verse', 'text': text})
                 bid += 1
                 continue
@@ -205,6 +223,14 @@ def build(md_path, overrides=None):
             blocks.append({'id': f'b{bid}', 'section': section, 'type': 'meta', 'voice': 'none', 'text': text})
             bid += 1
             continue
+        if URL.search(text) and not DEVA_L.search(text):
+            # citation-only line ("GRETIL, Chapter 13.52–53. gretil.sub..."):
+            # a spoken URL is never teaching; filed source note carries it
+            bare = URL.sub('', text)
+            if len(re.findall(r'[A-Za-zāīūṛṝḹṃḥṅñṭḍṇśṣ]+', bare)) < 10:
+                blocks.append({'id': f'b{bid}', 'section': section, 'type': 'meta', 'voice': 'none', 'text': text})
+                bid += 1
+                continue
         if re.match(r'^#\s*\d+\s*$', text):
             blocks.append({'id': f'b{bid}', 'section': section, 'type': 'figure', 'voice': 'none', 'text': text})
             bid += 1
@@ -213,7 +239,7 @@ def build(md_path, overrides=None):
             blocks.append({'id': f'b{bid}', 'section': section, 'type': 'figure', 'voice': 'none', 'text': text})
             bid += 1
             continue
-        if DEVA.search(text):
+        if DEVA_L.search(text):
             blocks.append({'id': f'b{bid}', 'section': section, 'type': 'verse', 'voice': 'verse', 'text': text})
             bid += 1
             continue

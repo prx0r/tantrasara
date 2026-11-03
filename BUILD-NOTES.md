@@ -283,3 +283,40 @@ ordered otherwise.
 7. **STANDARD §3 + gen/mine chapter lists**: now cover 14–22 in code;
    STANDARD's canonical-set line still says ch1–13 — one-line extension
    proposed, awaiting owner nod before touching law.
+
+## 2026-11-03 — TTS read-aloud hygiene + intro budget (no renders)
+
+Owner: "keep reading makes no sense read out; general-edit anything that
+doesn't work spoken; cap the verbose intros; never a repeated welcome-back."
+
+1. **Sweep**: URLs, `Attachment.png` (U+2060 joiner), `+N` tails, folio
+   digits, `Next:` lines, ALL-CAPS witness labels across all 22 chapters.
+2. **Already-safe**: provenance paragraphs (`Textual basis`, `Sources:` …)
+   and `Attachment` carriers route to meta/unvoiced; `Keep reading`/`Next:`
+   trailers stripped at split; `![image]` meta. No "welcome back to Kashmir"
+   anywhere in the texts — the repetition risk is the recap shape
+   ("Right then. Last chapter…"), handled by the budget below.
+3. **Real spoken junk found (3)**: ch13 b947 citation-only URL paragraph
+   (granny would read the URL); ch21 b1088 witness label glued to narration;
+   ch12 b662 English paragraph ending in folio `१२` misvoiced as chant —
+   ANY Devanagari char (even a digit) triggered the verse voice.
+4. **Fixes, builder (no text change, safe on frozen chapters)**:
+   voice-routing now requires a Devanagari LETTER (digits never voice);
+   URL + <10 other words → meta; embedded ALL-CAPS witness labels split
+   out to meta. ch01–10 rebuild byte-identical (IDs, voices, green).
+5. **ch11/12/13 grew one meta block each → IDs shifted → overrides
+   remapped by text identity** (ch13 dup quotes by occurrence order), all
+   three green, same-text voice diffs exactly the two intended fixes.
+   Lesson (M12): any emitted block breaks positional overrides — remap,
+   never hand-edit.
+6. **Cleanup (text, scoped to ch14–22 only via new `--only`)**: strips
+   attachment artifacts, standalone URL lines, folio tails. First attempt
+   deleted all paragraph breaks (blank-guard `continue`); fixed, restored,
+   reran — 1 line per file. Lesson (M13): cleanup must preserve blanks;
+   always diff --stat after a cleanup run.
+7. **Intro budget (CHAPTER-FORMAT)**: beats 2–4 ≤150 words, recap ≤5 beats,
+   no repeated greeting formulae. ch01 110 ✓; ch06 217, ch14 179 flagged
+   for owner trim-or-exception. Machine measures, never cuts author's prose.
+8. **Left for owner**: `Next: Chapter 7 — Deśāra` outro in ch06 (spoken,
+   fine); "the GRETIL transcription ends…" sentences are author's own
+   sentences — kept, trim at will.

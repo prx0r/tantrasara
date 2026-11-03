@@ -5029,13 +5029,21 @@
   {
    "id": "b628",
    "section": "Tantrasāra — Chapter 12",
-   "type": "narration",
-   "voice": "granny",
-   "text": "9. The concluding Sanskrit verse — the real bath is immersion in Bhairava\nATTESTED SANSKRIT — CHAPTER TWELVE",
-   "directed": "9. The concluding Sanskrit verse — the real bath is immersion in Bhairava\nATTESTED SANSKRIT — CHAPTER TWELVE"
+   "type": "meta",
+   "voice": "none",
+   "text": "ATTESTED SANSKRIT — CHAPTER TWELVE",
+   "directed": "ATTESTED SANSKRIT — CHAPTER TWELVE"
   },
   {
    "id": "b629",
+   "section": "Tantrasāra — Chapter 12",
+   "type": "narration",
+   "voice": "granny",
+   "text": "9. The concluding Sanskrit verse — the real bath is immersion in Bhairava",
+   "directed": "9. The concluding Sanskrit verse — the real bath is immersion in Bhairava"
+  },
+  {
+   "id": "b630",
    "section": "Tantrasāra — Chapter 12",
    "type": "verse",
    "voice": "verse",
@@ -5043,7 +5051,7 @@
    "directed": "[slowly] परभैरवसम्मज्जनमाहुः स्नानं यथा तु तद्भवति।तदपि बाह्यं स्नानं न मुख्यमुपचारतः किं तु॥\nParabhairavasammajjanam āhuḥ snānaṃ yathā tu tad bhavati."
   },
   {
-   "id": "b630",
+   "id": "b631",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5051,7 +5059,7 @@
    "directed": "Tad api bāhyaṃ snānaṃ na mukhyam upacārataḥ kiṃ tu."
   },
   {
-   "id": "b631",
+   "id": "b632",
    "section": "Tantrasāra — Chapter 12",
    "type": "meta",
    "voice": "none",
@@ -5059,7 +5067,7 @@
    "directed": "This verse is transmitted in the Devanāgarī edition used here, but not in the shorter GRETIL transcription. Its wording contrasts immersion in supreme Bhairava with external bathing, which is not the primary bath. १२ +2"
   },
   {
-   "id": "b632",
+   "id": "b633",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5067,7 +5075,7 @@
    "directed": "[short pause] Right."
   },
   {
-   "id": "b633",
+   "id": "b634",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5075,7 +5083,7 @@
    "directed": "Here it is."
   },
   {
-   "id": "b634",
+   "id": "b635",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5083,7 +5091,7 @@
    "directed": "The entire teaching."
   },
   {
-   "id": "b635",
+   "id": "b636",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5091,7 +5099,7 @@
    "directed": "Parabhairavasammajjanam."
   },
   {
-   "id": "b636",
+   "id": "b637",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5099,7 +5107,7 @@
    "directed": "Immersion in supreme Bhairava."
   },
   {
-   "id": "b637",
+   "id": "b638",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5107,7 +5115,7 @@
    "directed": "Para — supreme."
   },
   {
-   "id": "b638",
+   "id": "b639",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5115,7 +5123,7 @@
    "directed": "Bhairava — the supreme Lord."
   },
   {
-   "id": "b639",
+   "id": "b640",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5123,7 +5131,7 @@
    "directed": "Sam-majjana — immersion, plunging into."
   },
   {
-   "id": "b640",
+   "id": "b641",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5131,7 +5139,7 @@
    "directed": "And this is what is called bathing."
   },
   {
-   "id": "b641",
+   "id": "b642",
    "section": "Tantrasāra — Chapter 12",
    "type": "verse",
    "voice": "verse",
@@ -5139,7 +5147,7 @@
    "directed": "[slowly] Snāna."
   },
   {
-   "id": "b642",
+   "id": "b643",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5147,7 +5155,7 @@
    "directed": "Now, what about external bathing?"
   },
   {
-   "id": "b643",
+   "id": "b644",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5155,7 +5163,7 @@
    "directed": "It’s secondary."
   },
   {
-   "id": "b644",
+   "id": "b645",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5163,7 +5171,7 @@
    "directed": "Na mukhyam."
   },
   {
-   "id": "b645",
+   "id": "b646",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5171,7 +5179,7 @@
    "directed": "Not the principal thing."
   },
   {
-   "id": "b646",
+   "id": "b647",
    "section": "Tantrasāra — Chapter 12",
    "type": "verse",
    "voice": "verse",
@@ -5179,7 +5187,7 @@
    "directed": "[slowly] Upacārataḥ."
   },
   {
-   "id": "b647",
+   "id": "b648",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5187,7 +5195,7 @@
    "directed": "Figuratively or by conventional ritual designation."
   },
   {
-   "id": "b648",
+   "id": "b649",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5195,7 +5203,7 @@
    "directed": "And that’s a magnificent distinction."
   },
   {
-   "id": "b649",
+   "id": "b650",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5203,7 +5211,7 @@
    "directed": "Because Abhinavagupta isn’t saying you shouldn’t wash your body."
   },
   {
-   "id": "b650",
+   "id": "b651",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5211,7 +5219,7 @@
    "directed": "He’s saying that washing the body and attaining supreme purity are not identical accomplishments."
   },
   {
-   "id": "b651",
+   "id": "b652",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5219,7 +5227,7 @@
    "directed": "You can wash away dirt."
   },
   {
-   "id": "b652",
+   "id": "b653",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5227,7 +5235,7 @@
    "directed": "You can put on clean clothes."
   },
   {
-   "id": "b653",
+   "id": "b654",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5235,7 +5243,7 @@
    "directed": "You can smell absolutely delightful."
   },
   {
-   "id": "b654",
+   "id": "b655",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5243,7 +5251,7 @@
    "directed": "But if you’re still completely convinced that your consciousness is fundamentally separate from the universe and the supreme Lord, the metaphysical impurity he’s describing hasn’t been overcome."
   },
   {
-   "id": "b655",
+   "id": "b656",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5251,7 +5259,7 @@
    "directed": "Conversely, the highest purification is not dependent upon the physical cleanliness of the body."
   },
   {
-   "id": "b656",
+   "id": "b657",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5259,7 +5267,7 @@
    "directed": "It’s the recognition of one’s true nature."
   },
   {
-   "id": "b657",
+   "id": "b658",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5267,7 +5275,7 @@
    "directed": "Now, one additional textual detail."
   },
   {
-   "id": "b658",
+   "id": "b659",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5275,7 +5283,7 @@
    "directed": "[short pause] A Sanskrit textual witness also preserves a further closing stanza in a Middle Indo-Aryan vernacular form, beginning:"
   },
   {
-   "id": "b659",
+   "id": "b660",
    "section": "Tantrasāra — Chapter 12",
    "type": "verse",
    "voice": "verse",
@@ -5283,7 +5291,7 @@
    "directed": "[slowly] परमानन्दनिमज्जणु"
   },
   {
-   "id": "b660",
+   "id": "b661",
    "section": "Tantrasāra — Chapter 12",
    "type": "verse",
    "voice": "verse",
@@ -5291,7 +5299,7 @@
    "directed": "[slowly] Paramānanda-nimajjaṇu."
   },
   {
-   "id": "b661",
+   "id": "b662",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5299,15 +5307,15 @@
    "directed": "Immersion in supreme bliss."
   },
   {
-   "id": "b662",
+   "id": "b663",
    "section": "Tantrasāra — Chapter 12",
-   "type": "verse",
-   "voice": "verse",
+   "type": "narration",
+   "voice": "granny",
    "text": "Its message again identifies true bathing with immersion in supreme bliss and the recognition of the highest Self. The stanza is absent from the GRETIL transcription and from the Sanskrit & Trika Shaivism edition, so I’m distinguishing it from the closing Sanskrit verse rather than silently combining the witnesses. १२",
-   "directed": "[slowly] Its message again identifies true bathing with immersion in supreme bliss and the recognition of the highest Self. The stanza is absent from the GRETIL transcription and from the Sanskrit & Trika Shaivism edition, so I’m distinguishing it from the closing Sanskrit verse rather than silently combining the witnesses. १२"
+   "directed": "Its message again identifies true bathing with immersion in supreme bliss and the recognition of the highest Self. The stanza is absent from the GRETIL transcription and from the Sanskrit & Trika Shaivism edition, so I’m distinguishing it from the closing Sanskrit verse rather than silently combining the witnesses. १२"
   },
   {
-   "id": "b663",
+   "id": "b664",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5315,7 +5323,7 @@
    "directed": "And now let’s finish in our own words."
   },
   {
-   "id": "b664",
+   "id": "b665",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5323,7 +5331,7 @@
    "directed": "You’ve spent your entire life imagining that purity is something you can acquire."
   },
   {
-   "id": "b665",
+   "id": "b666",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5331,7 +5339,7 @@
    "directed": "Something you can achieve."
   },
   {
-   "id": "b666",
+   "id": "b667",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5339,7 +5347,7 @@
    "directed": "Something you can produce through the right action."
   },
   {
-   "id": "b667",
+   "id": "b668",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5347,7 +5355,7 @@
    "directed": "And perhaps you’ve believed that impurity is something genuinely stuck to your essential being."
   },
   {
-   "id": "b668",
+   "id": "b669",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5355,7 +5363,7 @@
    "directed": "Some terrible contamination."
   },
   {
-   "id": "b669",
+   "id": "b670",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5363,7 +5371,7 @@
    "directed": "Some condition that separates you from the divine."
   },
   {
-   "id": "b670",
+   "id": "b671",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5371,7 +5379,7 @@
    "directed": "[short pause] But Abhinavagupta says:"
   },
   {
-   "id": "b671",
+   "id": "b672",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5379,7 +5387,7 @@
    "directed": "Hang on, mate."
   },
   {
-   "id": "b672",
+   "id": "b673",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5387,7 +5395,7 @@
    "directed": "What exactly could contaminate unrestricted consciousness?"
   },
   {
-   "id": "b673",
+   "id": "b674",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5395,7 +5403,7 @@
    "directed": "Nothing stands independently outside it."
   },
   {
-   "id": "b674",
+   "id": "b675",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5403,7 +5411,7 @@
    "directed": "Even the apparent impurities are manifested through its own freedom."
   },
   {
-   "id": "b675",
+   "id": "b676",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5411,7 +5419,7 @@
    "directed": "The problem isn’t that Śiva has somehow become fundamentally impure."
   },
   {
-   "id": "b676",
+   "id": "b677",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5419,7 +5427,7 @@
    "directed": "The problem is that consciousness has taken on an identification that conceals its own nature."
   },
   {
-   "id": "b677",
+   "id": "b678",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5427,7 +5435,7 @@
    "directed": "And the moment that identification is overcome?"
   },
   {
-   "id": "b678",
+   "id": "b679",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5435,7 +5443,7 @@
    "directed": "Purity."
   },
   {
-   "id": "b679",
+   "id": "b680",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5443,7 +5451,7 @@
    "directed": "Not because something foreign has been removed from the supreme Self."
   },
   {
-   "id": "b680",
+   "id": "b681",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5451,7 +5459,7 @@
    "directed": "But because its nature has become evident."
   },
   {
-   "id": "b681",
+   "id": "b682",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5459,7 +5467,7 @@
    "directed": "So you can enter a river."
   },
   {
-   "id": "b682",
+   "id": "b683",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5467,7 +5475,7 @@
    "directed": "You can bathe in sacred water."
   },
   {
-   "id": "b683",
+   "id": "b684",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5475,7 +5483,7 @@
    "directed": "You can contemplate earth."
   },
   {
-   "id": "b684",
+   "id": "b685",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5483,7 +5491,7 @@
    "directed": "Fire."
   },
   {
-   "id": "b685",
+   "id": "b686",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5491,7 +5499,7 @@
    "directed": "Wind."
   },
   {
-   "id": "b686",
+   "id": "b687",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5499,7 +5507,7 @@
    "directed": "Space."
   },
   {
-   "id": "b687",
+   "id": "b688",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5507,7 +5515,7 @@
    "directed": "The Moon."
   },
   {
-   "id": "b688",
+   "id": "b689",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5515,7 +5523,7 @@
    "directed": "The Sun."
   },
   {
-   "id": "b689",
+   "id": "b690",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5523,7 +5531,7 @@
    "directed": "You can perform mantra-nyāsa."
   },
   {
-   "id": "b690",
+   "id": "b691",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5531,7 +5539,7 @@
    "directed": "You can engage in internal contemplation."
   },
   {
-   "id": "b691",
+   "id": "b692",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5539,7 +5547,7 @@
    "directed": "And all these may serve as supports."
   },
   {
-   "id": "b692",
+   "id": "b693",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5547,7 +5555,7 @@
    "directed": "But the highest bath?"
   },
   {
-   "id": "b693",
+   "id": "b694",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5555,7 +5563,7 @@
    "directed": "Immersion in Parabhairava."
   },
   {
-   "id": "b694",
+   "id": "b695",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5563,7 +5571,7 @@
    "directed": "The supreme consciousness that is never separate from your own essential being."
   },
   {
-   "id": "b695",
+   "id": "b696",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5571,7 +5579,7 @@
    "directed": "And that’s the punchline."
   },
   {
-   "id": "b696",
+   "id": "b697",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5579,7 +5587,7 @@
    "directed": "You thought you needed to wash something off yourself to reach Śiva."
   },
   {
-   "id": "b697",
+   "id": "b698",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5587,7 +5595,7 @@
    "directed": "Abhinavagupta says the very conviction that you’re something other than Śiva is the impurity."
   },
   {
-   "id": "b698",
+   "id": "b699",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5595,7 +5603,7 @@
    "directed": "You don’t wash yourself until you become Śiva. You recognise that even the apparent impurity never possessed an independent reality outside Śiva."
   },
   {
-   "id": "b699",
+   "id": "b700",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5603,7 +5611,7 @@
    "directed": "And that recognition is the real purification."
   },
   {
-   "id": "b700",
+   "id": "b701",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5611,7 +5619,7 @@
    "directed": "Absolutely bloody magnificent."
   },
   {
-   "id": "b701",
+   "id": "b702",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5619,7 +5627,7 @@
    "directed": "End of Chapter Twelve — Snānaprakāśanam."
   },
   {
-   "id": "b702",
+   "id": "b703",
    "section": "Tantrasāra — Chapter 12",
    "type": "meta",
    "voice": "none",
@@ -5627,7 +5635,7 @@
    "directed": "Sources: The complete prose sequence is preserved in GRETIL, Tantrasāra 12.1–12.10⁠Attachment.png. The closing Sanskrit verse appears in the Sanskrit & Trika Shaivism edition⁠Attachment.png and the additional vernacular stanza is attested in the Viśvāsa Sanskrit text⁠Attachment.png. The dialogue and final reflections are my adaptations, not extra verses attributed to Abhinavagupta."
   },
   {
-   "id": "b703",
+   "id": "b704",
    "section": "Tantrasāra — Chapter 12",
    "type": "narration",
    "voice": "granny",
@@ -5636,17 +5644,17 @@
   }
  ],
  "totals": {
-  "blocks": 704,
+  "blocks": 705,
   "words_per_voice": {
-   "none": 85,
-   "granny": 4104,
-   "verse": 167,
+   "none": 90,
+   "granny": 4149,
+   "verse": 117,
    "man": 63
   },
   "est_min": {
    "none": 0.6,
-   "granny": 27.4,
-   "verse": 1.1,
+   "granny": 27.7,
+   "verse": 0.8,
    "man": 0.4
   }
  },

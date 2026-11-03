@@ -8813,13 +8813,21 @@
   {
    "id": "b1101",
    "section": "Tantrasāra — Chapter 11",
-   "type": "narration",
-   "voice": "granny",
-   "text": "18. The concluding verse — Śiva can hide, reveal, and recognise himself again\nATTESTED SANSKRIT — CHAPTER ELEVEN",
-   "directed": "18. The concluding verse — Śiva can hide, reveal, and recognise himself again\nATTESTED SANSKRIT — CHAPTER ELEVEN"
+   "type": "meta",
+   "voice": "none",
+   "text": "ATTESTED SANSKRIT — CHAPTER ELEVEN",
+   "directed": "ATTESTED SANSKRIT — CHAPTER ELEVEN"
   },
   {
    "id": "b1102",
+   "section": "Tantrasāra — Chapter 11",
+   "type": "narration",
+   "voice": "granny",
+   "text": "18. The concluding verse — Śiva can hide, reveal, and recognise himself again",
+   "directed": "18. The concluding verse — Śiva can hide, reveal, and recognise himself again"
+  },
+  {
+   "id": "b1103",
    "section": "Tantrasāra — Chapter 11",
    "type": "verse",
    "voice": "verse",
@@ -8827,7 +8835,7 @@
    "directed": "[slowly] यथा निरर्गलस्वात्मस्वातन्त्र्यात्परमेश्वरः।"
   },
   {
-   "id": "b1103",
+   "id": "b1104",
    "section": "Tantrasāra — Chapter 11",
    "type": "verse",
    "voice": "verse",
@@ -8835,7 +8843,7 @@
    "directed": "[slowly] आच्छादयेन्निजं धाम तथा विवृणुयादपि॥"
   },
   {
-   "id": "b1104",
+   "id": "b1105",
    "section": "Tantrasāra — Chapter 11",
    "type": "verse",
    "voice": "verse",
@@ -8843,7 +8851,7 @@
    "directed": "[slowly] अप्रबुद्धेऽपि वा धाम्नि स्वस्मिन्बुद्धवदाचरेत्।"
   },
   {
-   "id": "b1105",
+   "id": "b1106",
    "section": "Tantrasāra — Chapter 11",
    "type": "verse",
    "voice": "verse",
@@ -8851,7 +8859,7 @@
    "directed": "[slowly] भूयो बुद्ध्येत वा सोऽयं शक्तिपातोऽनपेक्षकः॥"
   },
   {
-   "id": "b1106",
+   "id": "b1107",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -8859,7 +8867,7 @@
    "directed": "This closing passage is attested in the Sanskrit & Trika Shaivism edition of Chapter 11. The GRETIL transcription ends after the preceding prose and omits these verses."
   },
   {
-   "id": "b1107",
+   "id": "b1108",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -8867,7 +8875,7 @@
    "directed": "Now let’s translate the actual meaning before we get carried away."
   },
   {
-   "id": "b1108",
+   "id": "b1109",
    "section": "Tantrasāra — Chapter 11",
    "type": "verse",
    "voice": "verse",
@@ -8875,7 +8883,7 @@
    "directed": "[slowly] Yathā nirargala-svātma-svātantryāt parameśvaraḥ."
   },
   {
-   "id": "b1109",
+   "id": "b1110",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -8883,7 +8891,7 @@
    "directed": "Just as the supreme Lord, through the unrestricted freedom of his own Self…"
   },
   {
-   "id": "b1110",
+   "id": "b1111",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -8891,7 +8899,7 @@
    "directed": "Nirargala."
   },
   {
-   "id": "b1111",
+   "id": "b1112",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -8899,7 +8907,7 @@
    "directed": "Without obstruction."
   },
   {
-   "id": "b1112",
+   "id": "b1113",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -8907,7 +8915,7 @@
    "directed": "Without restraint."
   },
   {
-   "id": "b1113",
+   "id": "b1114",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -8915,7 +8923,7 @@
    "directed": "Absolutely unrestricted."
   },
   {
-   "id": "b1114",
+   "id": "b1115",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -8923,7 +8931,7 @@
    "directed": "Ācchādayen nijaṃ dhāma tathā vivṛṇuyād api."
   },
   {
-   "id": "b1115",
+   "id": "b1116",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -8931,7 +8939,7 @@
    "directed": "…may conceal his own radiance, so too may he reveal it."
   },
   {
-   "id": "b1116",
+   "id": "b1117",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -8939,7 +8947,7 @@
    "directed": "Now that’s magnificent."
   },
   {
-   "id": "b1117",
+   "id": "b1118",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -8947,7 +8955,7 @@
    "directed": "The same freedom."
   },
   {
-   "id": "b1118",
+   "id": "b1119",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -8955,7 +8963,7 @@
    "directed": "Concealment."
   },
   {
-   "id": "b1119",
+   "id": "b1120",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -8963,7 +8971,7 @@
    "directed": "Revelation."
   },
   {
-   "id": "b1120",
+   "id": "b1121",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -8971,7 +8979,7 @@
    "directed": "No second power required."
   },
   {
-   "id": "b1121",
+   "id": "b1122",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -8979,7 +8987,7 @@
    "directed": "[short pause] Then:"
   },
   {
-   "id": "b1122",
+   "id": "b1123",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -8987,7 +8995,7 @@
    "directed": "Aprabuddhe’pi vā dhāmni svasmin buddhavad ācaret."
   },
   {
-   "id": "b1123",
+   "id": "b1124",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -8995,7 +9003,7 @@
    "directed": "Even when his own radiance is unawakened or unrecognised, he may act as though awakened."
   },
   {
-   "id": "b1124",
+   "id": "b1125",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9003,7 +9011,7 @@
    "directed": "[short pause] And finally:"
   },
   {
-   "id": "b1125",
+   "id": "b1126",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9011,7 +9019,7 @@
    "directed": "Bhūyo buddhyeta vā so’yaṃ śaktipāto’napekṣakaḥ."
   },
   {
-   "id": "b1126",
+   "id": "b1127",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9019,7 +9027,7 @@
    "directed": "Or he may awaken again."
   },
   {
-   "id": "b1127",
+   "id": "b1128",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9027,7 +9035,7 @@
    "directed": "And this descent of power is independent."
   },
   {
-   "id": "b1128",
+   "id": "b1129",
    "section": "Tantrasāra — Chapter 11",
    "type": "verse",
    "voice": "verse",
@@ -9035,7 +9043,7 @@
    "directed": "[slowly] Anapekṣaka."
   },
   {
-   "id": "b1129",
+   "id": "b1130",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9043,7 +9051,7 @@
    "directed": "Not dependent upon something else."
   },
   {
-   "id": "b1130",
+   "id": "b1131",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9051,7 +9059,7 @@
    "directed": "Now, here’s my slang rendering."
   },
   {
-   "id": "b1131",
+   "id": "b1132",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9059,7 +9067,7 @@
    "directed": "[short pause] Right."
   },
   {
-   "id": "b1132",
+   "id": "b1133",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9067,7 +9075,7 @@
    "directed": "The supreme Lord is absolutely free."
   },
   {
-   "id": "b1133",
+   "id": "b1134",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9075,7 +9083,7 @@
    "directed": "No restrictions."
   },
   {
-   "id": "b1134",
+   "id": "b1135",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9083,7 +9091,7 @@
    "directed": "No external authority."
   },
   {
-   "id": "b1135",
+   "id": "b1136",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9091,7 +9099,7 @@
    "directed": "No cosmic manager telling him what he’s allowed to manifest."
   },
   {
-   "id": "b1136",
+   "id": "b1137",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9099,7 +9107,7 @@
    "directed": "And through that freedom, he can conceal his own radiance."
   },
   {
-   "id": "b1137",
+   "id": "b1138",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9107,7 +9115,7 @@
    "directed": "He can appear as a limited individual."
   },
   {
-   "id": "b1138",
+   "id": "b1139",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9115,7 +9123,7 @@
    "directed": "Someone completely convinced they’re separate from everything else."
   },
   {
-   "id": "b1139",
+   "id": "b1140",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9123,7 +9131,7 @@
    "directed": "Someone who experiences themselves as incomplete."
   },
   {
-   "id": "b1140",
+   "id": "b1141",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9131,7 +9139,7 @@
    "directed": "Someone who doesn’t recognise the consciousness through which they’re experiencing anything at all."
   },
   {
-   "id": "b1141",
+   "id": "b1142",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9139,7 +9147,7 @@
    "directed": "And then?"
   },
   {
-   "id": "b1142",
+   "id": "b1143",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9147,7 +9155,7 @@
    "directed": "He can reveal himself."
   },
   {
-   "id": "b1143",
+   "id": "b1144",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9155,7 +9163,7 @@
    "directed": "Just like that."
   },
   {
-   "id": "b1144",
+   "id": "b1145",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9163,7 +9171,7 @@
    "directed": "Or gradually."
   },
   {
-   "id": "b1145",
+   "id": "b1146",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9171,7 +9179,7 @@
    "directed": "He can manifest someone who acts as though awakened even when recognition isn’t fully present."
   },
   {
-   "id": "b1146",
+   "id": "b1147",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9179,7 +9187,7 @@
    "directed": "Or he can awaken again."
   },
   {
-   "id": "b1147",
+   "id": "b1148",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9187,7 +9195,7 @@
    "directed": "And none of this requires some external mechanism standing above his freedom."
   },
   {
-   "id": "b1148",
+   "id": "b1149",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9195,7 +9203,7 @@
    "directed": "Because the descent of power isn’t fundamentally dependent upon karma."
   },
   {
-   "id": "b1149",
+   "id": "b1150",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9203,7 +9211,7 @@
    "directed": "Not upon merit."
   },
   {
-   "id": "b1150",
+   "id": "b1151",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9211,7 +9219,7 @@
    "directed": "Not upon the ripening of impurity."
   },
   {
-   "id": "b1151",
+   "id": "b1152",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9219,7 +9227,7 @@
    "directed": "Not upon an accumulation of religious achievements."
   },
   {
-   "id": "b1152",
+   "id": "b1153",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9227,7 +9235,7 @@
    "directed": "It’s the supreme freedom of consciousness expressing itself."
   },
   {
-   "id": "b1153",
+   "id": "b1154",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9235,7 +9243,7 @@
    "directed": "Śiva hides himself."
   },
   {
-   "id": "b1154",
+   "id": "b1155",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9243,7 +9251,7 @@
    "directed": "Śiva reveals himself."
   },
   {
-   "id": "b1155",
+   "id": "b1156",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9251,7 +9259,7 @@
    "directed": "Śiva recognises himself."
   },
   {
-   "id": "b1156",
+   "id": "b1157",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9259,7 +9267,7 @@
    "directed": "And the whole bloody operation is Śiva."
   },
   {
-   "id": "b1157",
+   "id": "b1158",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9267,7 +9275,7 @@
    "directed": "End of Chapter Eleven — Śaktipātaprakāśanam."
   },
   {
-   "id": "b1158",
+   "id": "b1159",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9275,7 +9283,7 @@
    "directed": "Now consider how remarkable the conclusion is."
   },
   {
-   "id": "b1159",
+   "id": "b1160",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9283,7 +9291,7 @@
    "directed": "At the start, we wanted a causal explanation of grace."
   },
   {
-   "id": "b1160",
+   "id": "b1161",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9291,7 +9299,7 @@
    "directed": "Some specific reason."
   },
   {
-   "id": "b1161",
+   "id": "b1162",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9299,7 +9307,7 @@
    "directed": "A mechanism."
   },
   {
-   "id": "b1162",
+   "id": "b1163",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9307,7 +9315,7 @@
    "directed": "A rule."
   },
   {
-   "id": "b1163",
+   "id": "b1164",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9315,7 +9323,7 @@
    "directed": "[short pause] Something that would let us point at a particular person and say:"
   },
   {
-   "id": "b1164",
+   "id": "b1165",
    "section": "Tantrasāra — Chapter 11",
    "type": "dialogue",
    "voice": "granny",
@@ -9323,7 +9331,7 @@
    "directed": "[short pause] “Ah, yes. This is why that person became liberated.”"
   },
   {
-   "id": "b1165",
+   "id": "b1166",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9331,7 +9339,7 @@
    "directed": "But Abhinavagupta has insisted that such explanations, when treated as ultimate, compromise the unrestricted freedom of Śiva."
   },
   {
-   "id": "b1166",
+   "id": "b1167",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9339,7 +9347,7 @@
    "directed": "Karma can explain karmic experience within manifestation."
   },
   {
-   "id": "b1167",
+   "id": "b1168",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9347,7 +9355,7 @@
    "directed": "Religious practice can prepare understanding."
   },
   {
-   "id": "b1168",
+   "id": "b1169",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9355,7 +9363,7 @@
    "directed": "A genuine teacher can communicate recognition."
   },
   {
-   "id": "b1169",
+   "id": "b1170",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9363,7 +9371,7 @@
    "directed": "Initiation can provide a means of liberation."
   },
   {
-   "id": "b1170",
+   "id": "b1171",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9371,7 +9379,7 @@
    "directed": "But none of these stands outside supreme consciousness as an independently governing power."
   },
   {
-   "id": "b1171",
+   "id": "b1172",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9379,7 +9387,7 @@
    "directed": "And the highest realisation isn’t the acquisition of something that was previously absent."
   },
   {
-   "id": "b1172",
+   "id": "b1173",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9387,7 +9395,7 @@
    "directed": "It’s the recovery of one’s own nature."
   },
   {
-   "id": "b1173",
+   "id": "b1174",
    "section": "Tantrasāra — Chapter 11",
    "type": "verse",
    "voice": "verse",
@@ -9395,7 +9403,7 @@
    "directed": "[slowly] Svarūpa-pratyāpatti."
   },
   {
-   "id": "b1174",
+   "id": "b1175",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9403,7 +9411,7 @@
    "directed": "Now here’s the most extraordinary part."
   },
   {
-   "id": "b1175",
+   "id": "b1176",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9411,7 +9419,7 @@
    "directed": "[short pause] Even the question:"
   },
   {
-   "id": "b1176",
+   "id": "b1177",
    "section": "Tantrasāra — Chapter 11",
    "type": "dialogue",
    "voice": "man",
@@ -9419,7 +9427,7 @@
    "directed": "[short pause] “Why hasn’t Śiva revealed himself to me?”"
   },
   {
-   "id": "b1177",
+   "id": "b1178",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9427,7 +9435,7 @@
    "directed": "Is being asked within the very consciousness whose nature is Śiva."
   },
   {
-   "id": "b1178",
+   "id": "b1179",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9435,7 +9443,7 @@
    "directed": "And the apparent seeker, the question, the process of investigation and the possibility of recognition all arise within that one reality."
   },
   {
-   "id": "b1179",
+   "id": "b1180",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9443,7 +9451,7 @@
    "directed": "You might spend years studying Sanskrit."
   },
   {
-   "id": "b1180",
+   "id": "b1181",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9451,7 +9459,7 @@
    "directed": "Learning mantras."
   },
   {
-   "id": "b1181",
+   "id": "b1182",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9459,7 +9467,7 @@
    "directed": "Contemplating the tattvas."
   },
   {
-   "id": "b1182",
+   "id": "b1183",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9467,7 +9475,7 @@
    "directed": "Investigating the meaning of svātantrya."
   },
   {
-   "id": "b1183",
+   "id": "b1184",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9475,7 +9483,7 @@
    "directed": "And through that process, recognition may become clearer."
   },
   {
-   "id": "b1184",
+   "id": "b1185",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9483,7 +9491,7 @@
    "directed": "But Abhinavagupta’s ultimate point is that no quantity of practice forces Paramaśiva to become what he already is."
   },
   {
-   "id": "b1185",
+   "id": "b1186",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9491,7 +9499,7 @@
    "directed": "The freedom to conceal and the freedom to reveal belong to the same consciousness."
   },
   {
-   "id": "b1186",
+   "id": "b1187",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9499,7 +9507,7 @@
    "directed": "And that consciousness is not something separate from the very awareness through which you’re hearing this."
   },
   {
-   "id": "b1187",
+   "id": "b1188",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9507,7 +9515,7 @@
    "directed": "Absolute bloody magnificence."
   },
   {
-   "id": "b1188",
+   "id": "b1189",
    "section": "Tantrasāra — Chapter 11",
    "type": "meta",
    "voice": "none",
@@ -9515,7 +9523,7 @@
    "directed": "Textual basis: GRETIL-derived Sanskrit edition, Chapter 11 (prose sections 11.1–11.25)⁠Attachment.png and Sanskrit & Trika Shaivism, Chapter 11 with the concluding verse⁠Attachment.png. This follows the original sequence from the objections to karma-based grace through the nine degrees, guru qualifications, initiation, concealment and the five divine acts. The source does not individually spell out the three mild grades; nor does the GRETIL transcription contain the final verse. Neither gap has been filled with invented"
   },
   {
-   "id": "b1189",
+   "id": "b1190",
    "section": "Tantrasāra — Chapter 11",
    "type": "narration",
    "voice": "granny",
@@ -9524,10 +9532,10 @@
   }
  ],
  "totals": {
-  "blocks": 1190,
+  "blocks": 1191,
   "words_per_voice": {
-   "none": 75,
-   "granny": 7382,
+   "none": 80,
+   "granny": 7377,
    "verse": 121,
    "man": 144
   },

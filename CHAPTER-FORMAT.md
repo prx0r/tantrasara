@@ -23,6 +23,11 @@ and it may only PASS or FAIL — never decide, never improvise, never "fix".
 
 **Freeze checklist (all true before any render call):**
 - `chapters/chNN.md` committed; word count logged.
+- Intro budget: title + role + overview + handoff (verse excluded) ≤ 150
+  words; recap after the verse ≤ 5 beats. No repeated greeting formulae —
+  each chapter's handoff in its own words, never a series catchphrase.
+  Current: ch01 110 ✓; ch06 217, ch14 179 — owner trims or grants exception
+  (author's prose; machine never cuts).
 - `storyboard_chNN.json` green: 0 errors, 0 warnings, validator run shown.
 - `overrides_chNN.json` committed; every UNCAST resolved (validator proves zero).
 - `glossary_chNN.json` committed; confirmed set listed by key. Proposed terms render as white — by design, not failure.
