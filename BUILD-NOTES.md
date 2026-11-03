@@ -245,3 +245,41 @@ Combined: https://files.catbox.moe/vf2l96.mp3
 (owner pick; backup recorded in SPEAKER-RULES on lock — same law as the
 kid/old-man guide cast). After pick: narrate A spans first (7 spans,
 ~2900 words ≈ minutes of TTS), fill essay0 audio[], then run the §13 runbook.
+
+## 2026-11-03 — intake ch14–22, data-pristine pass (no renders, owner order)
+
+Goal restated: all data formatted so pristine that any new work's chapters
+can be dropped in and render perfectly first time. Renders PAUSED until
+ordered otherwise.
+
+1. **Split**: extended `split_chapters.py` JOBS with
+   `tantrasara14-18 → 14–18`, `tantrasara19-22 → 19–22`. Ran whole script;
+   it rewrote ch01–13 (reverting their cleanup) — restored all twelve from
+   git, kept only the eight new files. LESSON: splitter is not idempotent
+   over cleaned files. Always `git checkout` old chapters after a run, or
+   scope JOBS to new dumps only. TODO: add `--only` flag / skip-existing.
+2. **Cleanup** (`cleanup_chapters.py`, unmodified): idempotent on finished
+   files (old chapters untouched), new files each dropped duplicate title +
+   jacket blurb + `+N` citation tails. ch14–22 now match house chapter shape.
+   Word counts: ch14 6905, ch15 4307, ch16 6537, ch17 4925, ch18 5600,
+   ch19 7052, ch20 12684, ch21 8709, ch22 12097.
+3. **Storyboard**: all eight build first-try; ZERO non-casting errors
+   (no lexicon gaps, no structural failures). UNCAST counts:
+   14:35, 15:11, 16:54, 17:23, 18:51, 19:62, 20:92, 21:46, 22:93 = 467.
+4. **Casting sheets**: extended `gen_casting.py` list, generated
+   `casting/cast_ch14–22.md`. Regen also rewrote old sheets with shifted
+   IDs (stale snapshot, owner never marked them — overrides are truth and
+   still validate green) — restored old sheets from git. LESSON: generators
+   are not idempotent over filed outputs. Same TODO as (1): scope or
+   checksum-guard all regenerators.
+5. **Glossaries**: extended `mine_glossary.py` list, drafted
+   `glossary_ch14–22.json` (all proposed). Regen wiped hand-filled Deva in
+   old glossaries — restored from git. Same lesson, third instance.
+   Draft sizes: ch14:92, ch15:42, ch16:82, ch17:65, ch18:40, ch19:77,
+   ch20:155, ch21:109, ch22:132 terms; appositives filled a handful.
+6. **Pending owner calls**: mark 467 casting M/G (sheets ready); confirm
+   glossaries in bulk (ch02–22, only ch01 confirmed). Then overrides →
+   green storyboards → frozen sheets.
+7. **STANDARD §3 + gen/mine chapter lists**: now cover 14–22 in code;
+   STANDARD's canonical-set line still says ch1–13 — one-line extension
+   proposed, awaiting owner nod before touching law.

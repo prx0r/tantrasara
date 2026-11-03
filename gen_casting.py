@@ -15,7 +15,8 @@ def blocks_for(ch):
                    capture_output=True, text=True)
     return json.load(open(f'/tmp/sb_{ch}.json'))['blocks']
 
-for ch in ['02', '03', '04', '05', '07', '08', '09', '10', '11', '12', '13']:
+for ch in ['02', '03', '04', '05', '07', '08', '09', '10', '11', '12', '13',
+           '14', '15', '16', '17', '18', '19', '20', '21', '22']:
     blocks = blocks_for(ch)
     byid = {b['id']: i for i, b in enumerate(blocks)}
     uncast = [b for b in blocks if b['voice'] == 'UNCAST']

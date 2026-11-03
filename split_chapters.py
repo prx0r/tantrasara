@@ -2,7 +2,8 @@
 """Split hed's chapter dump files into clean per-chapter markdown.
 Usage: python3 split_chapters.py
 Canonical: ch1<-tantrasara1, ch2<-tantrasara2, ch3-5<-tantrasara3-5,
-ch6<-existing (verified identical), ch7-8<-tantrasara6-9, ch9-13<-tantrasara9-13.
+ch6<-existing (verified identical), ch7-8<-tantrasara6-9, ch9-13<-tantrasara9-13,
+ch14-18<-tantrasara14-18, ch19-22<-tantrasara19-22.
 tantrasara3 (gmail chrome dump) is IGNORED per owner.
 Strips: gmail headers, 'Keep reading'/'Next:' trailers, ' <domain> +1'
 citation tails, standalone citation lines.
@@ -54,6 +55,8 @@ def split_file(path):
 JOBS = [
     ('tantrasara1', [1]), ('tantrasara2', [2]), ('tantrasara3-5', [3, 4, 5]),
     ('tantrasara6-9', [7, 8]), ('tantrasara9-13', [9, 10, 11, 12, 13]),
+    ('tantrasara14-18', [14, 15, 16, 17, 18]),
+    ('tantrasara19-22', [19, 20, 21, 22]),
 ]
 os.makedirs(OUT, exist_ok=True)
 for fname, want in JOBS:
