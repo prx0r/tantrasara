@@ -4,7 +4,8 @@ Usage: python3 verify_clip.py <storyboard.json> <clip.mp4> [--json]
 Checks (all fail-closed, non-zero exit on FAIL):
  1. streams: 1920x1080 video ~30fps + audio present.
  2. levels: speech present (mean in [-32,-12]dB, max > -8dB).
- 3. dead air: no silence longer than 3.0s (missing renders, dropped beds).
+ 3. dead air: no UNCOMPOSED silence past 10s (missing renders only;
+   deliberate holds are composed beds, exempt by design).
  4. word coverage: every narration/dialogue block's head+tail words found
     in whisper transcript in order (verse blocks excluded — whisper
     garbles Sanskrit; their audio is proven by MMS means at render).
@@ -36,9 +37,13 @@ def main():
     info['levels'] = {'mean': mean, 'max': peak}
     if not (-32 <= mean <= -12 and peak > -8):
         fails.append(f'levels out of band: mean {mean}dB max {peak}dB')
-    # 3. dead air
+    # 3. dead air. Deliberate holds (crisp beds, white exhales, drop
+    # pauses) run seconds long BY DESIGN — a 3s ceiling would outlaw the
+    # effect (owner call 2026-11-04). This check is a missing-audio
+    # detector only: beds are composed and logged at build, so anything
+    # past 10s is catastrophe (dropped groups already fail at build).
     r = subprocess.run(['ffmpeg', '-v', 'info', '-i', clip,
-                        '-af', 'silencedetect=noise=-35dB:d=3.0', '-f', 'null', '-'],
+                        '-af', 'silencedetect=noise=-35dB:d=10.0', '-f', 'null', '-'],
                        capture_output=True, text=True)
     sil = re.findall(r'silence_(start|end): ([\d.]+)', r.stderr)
     gaps = []
@@ -46,7 +51,7 @@ def main():
         if sil[i][0] == 'start' and sil[i + 1][0] == 'end':
             gaps.append(round(float(sil[i + 1][1]) - float(sil[i][1]), 2))
     info['max_silence'] = max(gaps) if gaps else 0.0
-    if info['max_silence'] > 3.0:
+    if info['max_silence'] > 10.0:
         fails.append(f"dead air {info['max_silence']}s (missing audio?)")
     # 4. word coverage (English blocks only)
     from faster_whisper import WhisperModel

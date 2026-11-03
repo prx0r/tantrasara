@@ -1,12 +1,12 @@
 {
  "abhiseka": {
-  "deva": "",
+  "deva": "अभिषेक",
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
    "b41"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; Deva cited verbatim from this chapter (verify at confirm)"
  },
  "abhisekaprakasanam": {
   "deva": "अभिषेकप्रकाशनम्",
@@ -23,7 +23,7 @@
   "cue_blocks": [
    "b163"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
  },
  "abhisincet": {
   "deva": "",
@@ -32,7 +32,7 @@
   "cue_blocks": [
    "b75"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
  },
  "acarya": {
   "deva": "",
@@ -41,7 +41,7 @@
   "cue_blocks": [
    "b28"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
  },
  "adhikara": {
   "deva": "",
@@ -50,7 +50,7 @@
   "cue_blocks": [
    "b217"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
  },
  "adhikrtah": {
   "deva": "",
@@ -59,7 +59,7 @@
   "cue_blocks": [
    "b125"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
  },
  "ahamkara": {
   "deva": "",
@@ -68,7 +68,7 @@
   "cue_blocks": [
    "b561"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; no Deva attested in-chapter — needs citation at confirm (M15/M23)"
  },
  "anugraha-karana": {
   "deva": "",
@@ -86,7 +86,7 @@
   "cue_blocks": [
    "b163"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; no Deva attested in-chapter — needs citation at confirm (M15/M23)"
  },
  "ayogyan": {
   "deva": "",
@@ -95,7 +95,7 @@
   "cue_blocks": [
    "b443"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
  },
  "diksadi": {
   "deva": "",
@@ -104,7 +104,7 @@
   "cue_blocks": [
    "b210"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
  },
  "dikseta": {
   "deva": "",
@@ -113,7 +113,7 @@
   "cue_blocks": [
    "b443"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
  },
  "hina": {
   "deva": "",
@@ -122,7 +122,7 @@
   "cue_blocks": [
    "b118"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
  },
  "jnanavan": {
   "deva": "",
@@ -131,7 +131,7 @@
   "cue_blocks": [
    "b123"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
  },
  "jnanin": {
   "deva": "",
@@ -140,7 +140,7 @@
   "cue_blocks": [
    "b69"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
  },
  "kala": {
   "deva": "",
@@ -149,7 +149,7 @@
   "cue_blocks": [
    "b563"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; no Deva attested in-chapter — needs citation at confirm (M15/M23)"
  },
  "kalaratri": {
   "deva": "",
@@ -158,7 +158,7 @@
   "cue_blocks": [
    "b629"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; no Deva attested in-chapter — needs citation at confirm (M15/M23)"
  },
  "karyas": {
   "deva": "",
@@ -167,7 +167,7 @@
   "cue_blocks": [
    "b691"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
  },
  "laksana": {
   "deva": "",
@@ -176,7 +176,7 @@
   "cue_blocks": [
    "b117"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
  },
  "mahabhairava": {
   "deva": "",
@@ -185,7 +185,7 @@
   "cue_blocks": [
    "b153"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; no Deva attested in-chapter — needs citation at confirm (M15/M23)"
  },
  "malini": {
   "deva": "",
@@ -194,7 +194,7 @@
   "cue_blocks": [
    "b366"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; no Deva attested in-chapter — needs citation at confirm (M15/M23)"
  },
  "mandala": {
   "deva": "",
@@ -203,7 +203,7 @@
   "cue_blocks": [
    "b652"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; no Deva attested in-chapter — needs citation at confirm (M15/M23)"
  },
  "pratibha-guru": {
   "deva": "",
@@ -221,7 +221,7 @@
   "cue_blocks": [
    "b201"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
  },
  "rudraksa": {
   "deva": "",
@@ -230,16 +230,16 @@
   "cue_blocks": [
    "b28"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
  },
  "sadhaka": {
-  "deva": "",
+  "deva": "साधक",
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
    "b60"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; Deva cited verbatim from this chapter (verify at confirm)"
  },
  "sadhakagurutayogas": {
   "deva": "",
@@ -248,7 +248,7 @@
   "cue_blocks": [
    "b691"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
  },
  "sadhakatva": {
   "deva": "",
@@ -257,16 +257,16 @@
   "cue_blocks": [
    "b127"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
  },
  "sadhakatve": {
-  "deva": "",
+  "deva": "साधकत्वे",
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
    "b72"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; Deva cited verbatim from this chapter (verify at confirm)"
  },
  "saiva": {
   "deva": "",
@@ -275,7 +275,7 @@
   "cue_blocks": [
    "b277"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; no Deva attested in-chapter — needs citation at confirm (M15/M23)"
  },
  "saktipata": {
   "deva": "",
@@ -284,7 +284,7 @@
   "cue_blocks": [
    "b481"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
  },
  "samarpana": {
   "deva": "",
@@ -293,7 +293,7 @@
   "cue_blocks": [
    "b218"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
  },
  "samayi": {
   "deva": "",
@@ -302,25 +302,25 @@
   "cue_blocks": [
    "b470"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; no Deva attested in-chapter — needs citation at confirm (M15/M23)"
  },
  "svabhyastajnaninam": {
-  "deva": "",
+  "deva": "स्वभ्यस्तज्ञानिनं",
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
    "b70"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; Deva cited verbatim from this chapter (verify at confirm)"
  },
  "svadhikarasamarpane": {
-  "deva": "",
+  "deva": "स्वाधिकारसमर्पणे",
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
    "b210"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; Deva cited verbatim from this chapter (verify at confirm)"
  },
  "tadabhisekah": {
   "deva": "",
@@ -329,7 +329,7 @@
   "cue_blocks": [
    "b691"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
  },
  "vidya": {
   "deva": "",
@@ -338,7 +338,7 @@
   "cue_blocks": [
    "b259"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; no Deva attested in-chapter — needs citation at confirm (M15/M23)"
  },
  "vratesvara": {
   "deva": "",
@@ -347,15 +347,15 @@
   "cue_blocks": [
    "b11"
   ],
-  "note": "appositive-mined, confirm"
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
  },
  "yogyam": {
-  "deva": "",
+  "deva": "योग्यं",
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
    "b446"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; Deva cited verbatim from this chapter (verify at confirm)"
  }
 }

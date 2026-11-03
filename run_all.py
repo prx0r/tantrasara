@@ -27,6 +27,17 @@ def storage_preflight():
     assert local_free >= LOCAL_FREE_MIN_GB, f'local disk critical ({local_free:.1f}G)'
     assert vol_free < 0 or vol_free >= VOL_FREE_MIN_GB, f'volume critical ({vol_free:.0f}G)'
 
+
+def free_tier_preflight():
+    # free Fish only, always: the shared renderer must pin the -free model.
+    # A paid model string anywhere stops the line cold (owner call to waive).
+    import re as _re
+    tts = open('/home/ubuntu/shiva-sutras/tools/tts_line.py', encoding='utf-8').read()
+    m = _re.search(r'"model":\s*"([^"]+)"', tts)
+    model = m.group(1) if m else 'UNKNOWN'
+    print(f'fish model: {model}', flush=True)
+    assert model == 'fish-audio/s2.1-pro-free', f'NOT FREE TIER: {model}'
+
 def stage_cleanup():
     # transient build debris only; caches (models, npm) and other lanes untouched
     for p in ['/tmp/clip_frames', '/tmp/fm2_frames', '/tmp/ts_holds', '/tmp/mmsclip',
@@ -43,7 +54,7 @@ def stage_cleanup():
     return True
 CHAPTERS = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12', '13',
             '14', '15', '16', '17', '18', '19', '20', '21', '22']
-STAGES = ['preflight', 'board', 'cast-check', 'publish', 'render', 'mms', 'assemble', 'holds', 'video', 'verify', 'golden-check', 'review-pack', 'cleanup']
+STAGES = ['preflight', 'free-tier', 'board', 'cast-check', 'publish', 'render', 'mms', 'assemble', 'holds', 'video', 'verify', 'golden-check', 'review-pack', 'cleanup']
 
 def sh(cmd, **kw):
     print('+', ' '.join(cmd), flush=True)
@@ -127,7 +138,7 @@ def src_path(ch):
 def stage_golden_check(ch):
     return sh(['python3', f'{BASE}/golden.py', 'check', ch, f'/tmp/ch{ch}_full.mp4'])
 
-STAGE_FN = {'preflight': lambda ch: storage_preflight() or True, 'board': stage_board, 'cast-check': stage_cast_check, 'publish': stage_publish, 'render': stage_render,
+STAGE_FN = {'preflight': lambda ch: storage_preflight() or True, 'free-tier': lambda ch: free_tier_preflight() or True, 'board': stage_board, 'cast-check': stage_cast_check, 'publish': stage_publish, 'render': stage_render,
             'mms': stage_mms, 'assemble': stage_assemble, 'holds': stage_holds,
             'video': stage_video, 'verify': stage_verify, 'golden-check': stage_golden_check, 'review-pack': stage_review_pack, 'cleanup': lambda ch: stage_cleanup()}
 
@@ -141,6 +152,8 @@ def main():
     stages = STAGES[STAGES.index(frm):]
     print(f'chapters={chs} stages={stages} dry={dry}', flush=True)
     report = {}
+    import time as _time
+    from events import log_event
     for ch in chs:
         report[ch] = {}
         for st in stages:
@@ -148,12 +161,15 @@ def main():
                 print(f'[{ch}/{st}] would run', flush=True)
                 report[ch][st] = 'dry'
                 continue
+            _t0 = _time.time()
             try:
                 ok = STAGE_FN[st](ch)
             except Exception as e:
                 print(f'[{ch}/{st}] EXCEPTION {str(e)[:200]}', flush=True)
                 ok = False
             report[ch][st] = 'ok' if ok else 'FAIL'
+            log_event('tantrasara', ch, st, 'ok' if ok else 'FAIL',
+                      _time.time() - _t0)
             if not ok:
                 break
     print(json.dumps(report, indent=1))
