@@ -92,3 +92,11 @@ frozen chapters are never touched.
 chapter number — run_all could never run a non-06 chapter. Cause: written
 once, never dry-run (`--dry-run` exists and was never used). Fix: paths
 format directly; dry-run the driver before trusting it.
+
+## M15. Rebuilt Devanagari from folded glossary keys (2026-11-04)
+Folded keys strip ś/ṣ/ṇ (cit-sakti) and `to_deva()` re-transliterated them
+as स/स/न — every term card showed चित्-सक्ति (wrong) instead of चित्शक्तिः.
+Cause: display text derived from the lookup key instead of the glossary's
+citation Deva. Fix: term cards always render `glossary.deva`, IAST derived
+from that Deva; folded keys used for lookup only. Sheets and video share
+the rule via `holds.term layers`.

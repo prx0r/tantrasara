@@ -20,16 +20,36 @@ implements. Change only by owner call, same commit as the code.
 ## Cards (owner-confirmed 2026-11-03: term cards as now, ~20% white target)
 1. **Thumbnail** — frame 0 until first chant. Fitted above subtitle zone,
    never fullscreen-bleed.
-2. **Verse** — Devanagari ONLY, no romanisation ever. Up the moment chanting
-   starts, clears the instant speech resumes. Max 3 Deva line-pairs per hold.
-3. **Term** — Devanagari headword + one grey English gloss. Pops the instant
-   she says the word; holds until the next cue or tone break (newer cue
-   always supersedes). Only `confirmed` glossary terms render — `proposed`
-   plays over white. Single Sanskrit words stay with granny + term card;
-   the verse voice is multi-line passages only.
-4. **Title / figure** — spoken titles stay spoken; no title cards in video.
+2. **Verse** — Devanagari plus small IAST beneath each line (no other
+   romanisation ever lives on cards — IAST survives in full only in
+   subtitles, where the Latin face can actually render it). Up the moment
+   chanting starts, clears the instant speech resumes. Max 3 Deva
+   line-pairs per hold. Single-word glossed chants carry all four term
+   layers (see 5).
+3. **Term** — four layers, closest to furthest from the Sanskrit: Devanagari
+   headword (ink, citation form from the glossary — never rebuilt from the
+   folded key) + IAST romanised (lightest grey, same onset) + intermediary
+   T1-style literal gloss (mid grey, e.g. cit (consciousness) + śakti
+   (power)) + final English gloss (darkest grey). Pops the instant she says
+   the word; holds until the next cue or tone break (newer cue always
+   supersedes). Only `confirmed` glossary terms render — `proposed` plays
+   over white. Single Sanskrit words stay with granny + term card; the
+   verse voice is multi-line passages only.
+4. **List engine** — count decides the shape, one standard Sanskrit size
+   everywhere (Deva 84, locked 2026-11-04; IAST 32/28, literal 28/24, final
+   40/36 by slot). One centered; two side by side; three in a row when they
+   fit else triangle (apex + two below); four the corners; five corners plus
+   middle (newest middle, earlier four in arrival order); past five the
+   window slides. Every member carries all four term layers. Runs trigger
+   on 2+ cues with no event gap between them. Every card asserts
+   subtitle-zone and pairwise non-overlap — trips fail the build.
+5. **Single-word chant persist** — a lone glossed chant (Aṇu., Svātantrya.)
+   renders Deva + gloss underneath like a term card and stays up through
+   the directly following block, then white. Cues always win over persist.
+   Verse cards carry confirmed glosses in video (same as sheets).
+6. **Title / figure** — spoken titles stay spoken; no title cards in video.
    Figures (rare) render large numeral + short caption.
-5. **White** — the default. Returns at every tone break, section break,
+7. **White** — the default. Returns at every tone break, section break,
    long-pause beat, dialogue entry. House target ≈ 20% white per chapter;
    builds print COVERAGE and fail over 85% white (60s+ clips).
 

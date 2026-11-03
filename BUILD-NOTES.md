@@ -344,3 +344,30 @@ future renders mechanically compared to the blessed one.
    driver could never have run. M14.
 5. **Flow now**: publish → approve → render → … → golden-check → ears →
    seal → commit. CHAPTER-FORMAT updated.
+
+## 2026-11-04 — conveyor lock, all-84 standard (no render tokens beyond ch01/ch20 slices)
+
+Owner: lists are a five-slot conveyor, one standard Sanskrit size, newest
+middle / earlier corners in order. Implemented in `holds.py`
+(`POS_MIDDLE`, `POS_CORNERS`, `render_conveyor`): Deva 84 + gloss 40 every
+slot, 3+-cue runs accumulate, pairs supersede, lone glossed chants persist
+one block, verse cards carry glosses in video. Window of five, longer
+slides; subtitle + overlap asserts fail closed. Sheets re-rendered green;
+ch01 stack segment re-rendered OK (window detected, persist b64 2s, white
+33%). Law updated in VISUAL.md (items 4–5), skill `tantrasara-holds`
+corrected to all-84, wrong-vs-right recorded in PROCESS_NOTES.md. Pending
+from before, unchanged: provisional casting bless (ch14–22), glossary
+confirms (ch02–22 white by design), approvals (none), local disk 0.54G vs
+1G preflight, golden empty. IAST + literal-gloss card layers requested,
+sourced from prx0r/translation-work T1 pattern — not yet built.
+
+## 2026-11-04 — four-layer term cards (Deva + IAST + literal + final)
+Owner: for any Sanskrit — romanised under the Deva in lightest grey, then
+the T1 intermediary literal in mid grey, then the final English darkest.
+IAST derived per card from the citation Deva (never transliterated twice);
+literals drafted T1-style for all 16 ch01 terms as `proposed`
+(`literal_status`), glossaries otherwise untouched. Sheets show proposed
+layers for review; video gates literal on `literal_status == confirmed`
+(gloss gate unchanged). M15 filed: cards used to rebuild Deva from folded
+keys (चित्-सक्ति with स) — now always glossary citation (चित्शक्तिः).
+Single-word chants and persist spans inherit the layers automatically.

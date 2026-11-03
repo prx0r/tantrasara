@@ -6,7 +6,9 @@
   "cue_blocks": [
    "b92"
   ],
-  "note": "ch2 is titled the Pathless Path; confirm"
+  "note": "ch2 is titled the Pathless Path; confirm",
+  "literal": "an [without] + upāya [means]",
+  "literal_status": "proposed"
  },
  "anavopaya": {
   "deva": "आणवोपायः",
@@ -15,7 +17,9 @@
   "cue_blocks": [
    "b98"
   ],
-  "note": "embodied practices, breath, concentration, activity"
+  "note": "embodied practices, breath, concentration, activity",
+  "literal": "aṇu [limited individual] + upāya [means]",
+  "literal_status": "proposed"
  },
  "anu": {
   "deva": "अणुः",
@@ -24,7 +28,9 @@
   "cue_blocks": [
    "b81"
   ],
-  "note": "verse card exists; gloss shows on mention"
+  "note": "verse card exists; gloss shows on mention",
+  "literal": "aṇu [minute, limited]",
+  "literal_status": "proposed"
  },
  "bauddha-ajnana": {
   "deva": "बौद्धाज्ञानम्",
@@ -33,7 +39,9 @@
   "cue_blocks": [
    "b18"
   ],
-  "note": "following line: understanding all over the place"
+  "note": "following line: understanding all over the place",
+  "literal": "bauddha [of the intellect] + ajñāna [ignorance]",
+  "literal_status": "proposed"
  },
  "cit-sakti": {
   "deva": "चित्शक्तिः",
@@ -42,7 +50,9 @@
   "cue_blocks": [
    "b71"
   ],
-  "note": "verbatim appositive in text"
+  "note": "verbatim appositive in text",
+  "literal": "cit [consciousness] + śakti [power]",
+  "literal_status": "proposed"
  },
  "diksa": {
   "deva": "दीक्षा",
@@ -51,7 +61,9 @@
   "cue_blocks": [
    "b29"
   ],
-  "note": "verbatim appositive in text"
+  "note": "verbatim appositive in text",
+  "literal": "dīkṣā [consecration]",
+  "literal_status": "proposed"
  },
  "iccha-sakti": {
   "deva": "इच्छाशक्तिः",
@@ -60,7 +72,9 @@
   "cue_blocks": [
    "b73"
   ],
-  "note": "verbatim appositive in text"
+  "note": "verbatim appositive in text",
+  "literal": "icchā [will] + śakti [power]",
+  "literal_status": "proposed"
  },
  "jnana-sakti": {
   "deva": "ज्ञानशक्तिः",
@@ -69,7 +83,9 @@
   "cue_blocks": [
    "b74"
   ],
-  "note": "verbatim appositive in text"
+  "note": "verbatim appositive in text",
+  "literal": "jñāna [knowing] + śakti [power]",
+  "literal_status": "proposed"
  },
  "kriya-sakti": {
   "deva": "क्रियाशक्तिः",
@@ -78,7 +94,9 @@
   "cue_blocks": [
    "b75"
   ],
-  "note": "verbatim appositive in text"
+  "note": "verbatim appositive in text",
+  "literal": "kriyā [action] + śakti [power]",
+  "literal_status": "proposed"
  },
  "paurusa-ajnana": {
   "deva": "पौरुषाज्ञानम्",
@@ -87,7 +105,9 @@
   "cue_blocks": [
    "b21"
   ],
-  "note": "deeper than intellectual; contraction theme"
+  "note": "deeper than intellectual; contraction theme",
+  "literal": "puruṣa [soul, person] + ajñāna [ignorance]",
+  "literal_status": "proposed"
  },
  "saktopaya": {
   "deva": "शाक्तोपायः",
@@ -96,7 +116,9 @@
   "cue_blocks": [
    "b96"
   ],
-  "note": "refined understanding and contemplation"
+  "note": "refined understanding and contemplation",
+  "literal": "śākta [of śakti] + upāya [means]",
+  "literal_status": "proposed"
  },
  "sambhavopaya": {
   "deva": "शाम्भवोपायः",
@@ -105,7 +127,9 @@
   "cue_blocks": [
    "b94"
   ],
-  "note": "will, pure awareness, immediate orientation"
+  "note": "will, pure awareness, immediate orientation",
+  "literal": "śāmbhava [of Śambhu] + upāya [means]",
+  "literal_status": "proposed"
  },
  "samsara": {
   "deva": "संसारः",
@@ -113,7 +137,9 @@
   "status": "confirmed",
   "cue_blocks": [
    "b28"
-  ]
+  ],
+  "literal": "saṃsāra [wandering on]",
+  "literal_status": "proposed"
  },
  "samkoca": {
   "deva": "संकोचः",
@@ -122,7 +148,9 @@
   "cue_blocks": [
    "b25"
   ],
-  "note": "verse card exists; gloss shows on mention"
+  "note": "verse card exists; gloss shows on mention",
+  "literal": "saṃkoca [contraction]",
+  "literal_status": "proposed"
  },
  "svatantrya": {
   "deva": "स्वातन्त्र्यम्",
@@ -131,7 +159,9 @@
   "cue_blocks": [
    "b65"
   ],
-  "note": "verse card exists; gloss shows on mention"
+  "note": "verse card exists; gloss shows on mention",
+  "literal": "sva [own] + tantra [rule] — self-mastery",
+  "literal_status": "proposed"
  },
  "ananda-sakti": {
   "deva": "आनन्दशक्तिः",
@@ -140,6 +170,8 @@
   "cue_blocks": [
    "b72"
   ],
-  "note": "verbatim appositive in text"
+  "note": "verbatim appositive in text",
+  "literal": "ānanda [bliss] + śakti [power]",
+  "literal_status": "proposed"
  }
 }

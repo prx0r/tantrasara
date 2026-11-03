@@ -125,7 +125,9 @@ def main():
                 flat.append((b, j, r['t_on'] + off, sw, sub, r['t_off'] + off))
             wi += len(sw)
         off += durs[gi] + (beds[gi] if gi < len(beds) else 0)
-    # glossary: confirmed terms only (proposed terms play over white)
+    # glossary: confirmed terms only (proposed terms play over white).
+    # entries carry citation Deva + T1 literal + final gloss; video shows
+    # the literal only once its own literal_status is confirmed.
     import glob as _gg
     _gm = re.search(r'ch(\d+)', sys.argv[1])
     _gl = {}
@@ -133,8 +135,11 @@ def main():
         _gp = os.path.join(os.path.dirname(os.path.abspath(__file__)), f'glossary_ch{_gm.group(1)}.json')
         if os.path.exists(_gp):
             _raw = json.load(open(_gp, encoding='utf-8'))
-            _gl = {k: v['gloss'] for k, v in _raw.items()
-                   if isinstance(v, dict) and v.get('status') == 'confirmed' and v.get('gloss')}
+            for k, v in _raw.items():
+                if not (isinstance(v, dict) and v.get('status') == 'confirmed' and v.get('gloss')):
+                    continue
+                _gl[k] = {'deva': v.get('deva', ''), 'gloss': v.get('gloss', ''),
+                          'literal': v.get('literal', '') if v.get('literal_status') == 'confirmed' else ''}
     print(f'confirmed glossary terms: {len(_gl)}', flush=True)
     # holds: verse cards while chanting, clean white once speech starts.
     # (owner: no title cards shown; Sanskrit clears when granny takes over)
@@ -145,7 +150,7 @@ def main():
     hold_for = {}
     _blank = Image.new('RGB', (W, H), LIGHT)
     for h in _holds:
-        img = _H.render_hold(h, None)
+        img = _H.render_hold(h, None, _gl)
         for b in h:
             hold_for[b['id']] = img
     # title blocks never shown: map them (and opener) appropriately
@@ -197,10 +202,19 @@ def main():
                 return e
         return off
     _term_imgs = {}
+    def _stack_img(keys):
+        # list engine: count decides the shape, one standard Deva size
+        return _H.render_list(keys, {k: _gl[k] for k in keys})
+    def _single_img(key):
+        # single centered four-layer term card from the glossary entry
+        e = _gl[key]
+        return _H.render_term_card(e.get('deva') or key, _H.to_iast(e.get('deva') or key),
+                                  e.get('literal', ''), e.get('gloss', ''))
+    def _is_single_glossed_verse(b):
+        return (b['type'] == 'verse' and len(b['text'].split()) <= 3
+                and _fold(b['text'].strip('.,!?;:\'"—-')) in _gl)
     for key in set(_cue_starts.values()):
-        _term_imgs[key] = _H.render_hold(
-            [{'id': f'term-{key}', 'type': 'verse', 'section': '', 'voice': 'verse', 'text': key}],
-            None, {key: _gl[key]})
+        _term_imgs[key] = _single_img(key)
     _cues = []
     for (bid, j), key in _cue_starts.items():
         t0 = next(t for (b, k, t, sw, sub, e) in flat if b['id'] == bid and k == j)
@@ -209,16 +223,56 @@ def main():
     # a newer cue always supersedes: clamp each span at the next cue start
     _cues = [(s, min(e, _cues[i + 1][0]) if i + 1 < len(_cues) else e, k)
              for i, (s, e, k) in enumerate(_cues)]
+    # list runs: 2+ cues with no event gap between them (each span ends
+    # exactly where the next begins) accumulate into one count-shaped card
+    # (2 side by side, 3 row-or-triangle, 4 corners, 5 corners + middle).
+    _run_of, _run_keys = {}, {}
+    _i = 0
+    while _i < len(_cues):
+        _j = _i
+        while _j + 1 < len(_cues) and _cues[_j][1] == _cues[_j + 1][0]:
+            _j += 1
+        if _j - _i + 1 >= 2:
+            _keys = [_cues[_n][2] for _n in range(_i, _j + 1)]
+            for _n in range(_i, _j + 1):
+                _run_of[_n] = (_i, _n - _i)
+                _run_keys[_i] = _keys
+        _i = _j + 1
+    for _ri, _keys in _run_keys.items():
+        for _p in range(1, len(_keys) + 1):
+            _term_imgs[('stack', _ri, _p)] = _stack_img(_keys[:_p])
+    # persist: a single-word glossed chant stays up with its gloss through
+    # the directly following block (e.g. "Aṇu." -> "That's you."), then
+    # white. Cues always win over persist. Multi-line chant runs clear.
+    _persists = []
+    for _fi, (b, _k, _ton, _sw, _sub, _toff) in enumerate(flat):
+        if b['type'] == 'verse' and _is_single_glossed_verse(b):
+            _nxt = next((_gj for _gj in range(_fi + 1, len(flat))
+                         if flat[_gj][0]['id'] != b['id']), None)
+            if _nxt is not None and flat[_nxt][0]['type'] != 'verse':
+                _end = next((_gk for _gk in range(_nxt + 1, len(flat))
+                             if flat[_gk][0]['id'] != flat[_nxt][0]['id']),
+                            len(flat))
+                _term_imgs[('persist', b['id'])] = hold_for.get(b['id'], _blank)
+                _persists.append((_ton, flat[_end - 1][5], b['id']))
     print(f'term cues: {[(k, round(s)) for s, e, k in _cues]}', flush=True)
+    print(f'list runs: {[(_keys) for _keys in _run_keys.values()]}', flush=True)
+    print(f'persists: {[(bid, round(s)) for s, e, bid in _persists]}', flush=True)
     def hold_img(b, fi):
         t = flat[fi][2]
         if fi < _first_verse_fi:
             return _HOLD0  # thumbnail holds from frame 0 until chanting starts
         if b['type'] == 'verse':
             return hold_for.get(b['id'], _blank)
-        for (s, e, key) in _cues:
+        for _n, (s, e, key) in enumerate(_cues):
             if s <= t < e:
+                if _n in _run_of:
+                    _ri, _p = _run_of[_n]
+                    return _term_imgs[('stack', _ri, _p + 1)]
                 return _term_imgs[key]
+        for (s, e, bid) in _persists:
+            if s <= t < e:
+                return _term_imgs[('persist', bid)]
         return _blank
     def hold_kind(b, fi):
         t = flat[fi][2]
@@ -226,9 +280,14 @@ def main():
             return 'thumbnail'
         if b['type'] == 'verse':
             return 'verse'
-        for (s, e, key) in _cues:
+        for _n, (s, e, key) in enumerate(_cues):
             if s <= t < e:
+                if _n in _run_of:
+                    return 'stack:' + key
                 return 'term:' + key
+        for (s, e, bid) in _persists:
+            if s <= t < e:
+                return 'verse-hold:' + bid
         return 'white'
     for fi, (b, k, t_on, sw, sub, t_off) in enumerate(flat):
         im = hold_img(b, fi).copy()

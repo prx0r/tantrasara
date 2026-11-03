@@ -55,6 +55,33 @@
   the pass. Single passes are hints; corroborated structure is evidence.
 - **Owner ears dispose.** Everything above is just the ticket to get heard.
 
+## Conveyor lock (2026-11-04) — wrong vs right
+
+Locked look: five fixed slots, one standard Sanskrit size (Deva 84 + grey
+gloss 40 everywhere), newest in the middle, earlier four in the corners in
+arrival order, window slides past five. Reference PNG:
+`review/ch01/conveyor_std.png`.
+
+WRONG, each proven by a render before the fix:
+- Term cues flashing one by one. A 127s samsara span swallowed the diksa
+  cue (M11); rapid cues superseded after 3–5s so no list ever stood whole.
+  RIGHT: runs of 3+ cues with no event gap accumulate into one card that
+  holds until the list closes; pairs keep supersede.
+- Verse cards in video with no gloss. Sheets passed glossary into
+  `render_hold`, `build_clip` passed None, so chants like Svātantrya
+  showed bare Deva while sheets showed Deva + gloss. RIGHT: confirmed
+  glossary flows into verse holds in video too.
+- Single-word chants clearing instantly. "Aṇu." vanished the moment granny
+  said "That's you." RIGHT: lone glossed chants persist with gloss through
+  the directly following block; cues win over persist.
+- Corner stack at invented small type (Deva 44) under a big middle (84),
+  tight 30px gulps then a 280px dead drop to subtitles. RIGHT: all five
+  slots at house standard 84/40; sizes live in POS_MIDDLE/POS_CORNERS and
+  never change per list.
+- Seven-member stacks overflowing the subtitle zone (measured 1306 vs 860).
+  RIGHT: window of five max, longer lists slide; subtitle-zone and pairwise
+  overlap asserts fail the build instead of shipping.
+
 ## Failure log (ch01 full run, 2026-11-02)
 
 - ch01 full chapter: 111 blocks, 7m19s, 15MB. Render 9/9 groups, MMS means
