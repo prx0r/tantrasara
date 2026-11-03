@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 """Batch driver: every chapter through storyboard->render->MMS->assemble->video.
 Usage: python3 run_all.py [--chapters 01,02] [--from STAGE] [--dry-run]
-Stages: board, cast-check, render, mms, assemble, holds, video, review-pack.
+Stages: preflight board cast-check publish render mms assemble holds video verify golden-check review-pack cleanup.
+publish = review pack to R2 for owner sign-off (render REFUSES without
+approved_chNN.json whose SHAs match current files). golden-check compares
+each render against the owner-blessed golden before review-pack.
 Idempotent everywhere (content hashes); resume by re-running. One chapter
 failing never blocks the others. Overnight-safe under nohup.
 Owner gates (NOT automated): casting marks, glossary confirms, final ears.
@@ -38,8 +41,9 @@ def stage_cleanup():
                 pass
     print('cleanup: transient frames/tmp audio removed (R2 holds the shipped copies)', flush=True)
     return True
-CHAPTERS = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12', '13']
-STAGES = ['preflight', 'board', 'cast-check', 'render', 'mms', 'assemble', 'holds', 'video', 'verify', 'review-pack', 'cleanup']
+CHAPTERS = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12', '13',
+            '14', '15', '16', '17', '18', '19', '20', '21', '22']
+STAGES = ['preflight', 'board', 'cast-check', 'publish', 'render', 'mms', 'assemble', 'holds', 'video', 'verify', 'golden-check', 'review-pack', 'cleanup']
 
 def sh(cmd, **kw):
     print('+', ' '.join(cmd), flush=True)
@@ -68,7 +72,18 @@ def stage_cast_check(ch):
     print(f"  | ch{ch}: {len(errs)} validation errors", flush=True)
     return not errs
 
+def stage_publish(ch):
+    return sh(['python3', f'{BASE}/publish_review.py', ch])
+
 def stage_render(ch):
+    ap = f'{BASE}/approved_ch{ch}.json'
+    assert os.path.exists(ap), f'ch{ch}: NOT APPROVED — publish the review pack and get owner sign-off first'
+    a = json.load(open(ap))
+    import hashlib as _hl
+    for key, path in (('storyboard_sha', sb_path(ch)), ('glossary_sha', f'{BASE}/glossary_ch{ch}.json')):
+        h = _hl.sha256(open(path, 'rb').read()).hexdigest()
+        assert h == a.get(key), f'ch{ch}: {key} changed since approval — republish required'
+    print(f'ch{ch}: approval {a["date"]} verified, rendering', flush=True)
     return sh(['python3', f'{BASE}/render_chapter.py', sb_path(ch)])
 
 def stage_mms(ch):
@@ -104,14 +119,17 @@ def stage_review_pack(ch):
 
 
 def sb_path(ch):
-    return f'{BASE}/storyboard_ch6.json' if ch == '06' else sb_path(ch)
+    return f'{BASE}/storyboard_ch6.json' if ch == '06' else f'{BASE}/storyboard_ch{ch}.json'
 
 def src_path(ch):
-    return f'{BASE}/chapters/ch06-kaladhva.md' if ch == '06' else src_path(ch)
+    return f'{BASE}/chapters/ch06-kaladhva.md' if ch == '06' else f'{BASE}/chapters/ch{ch}.md'
 
-STAGE_FN = {'preflight': lambda ch: storage_preflight() or True, 'board': stage_board, 'cast-check': stage_cast_check, 'render': stage_render,
+def stage_golden_check(ch):
+    return sh(['python3', f'{BASE}/golden.py', 'check', ch, f'/tmp/ch{ch}_full.mp4'])
+
+STAGE_FN = {'preflight': lambda ch: storage_preflight() or True, 'board': stage_board, 'cast-check': stage_cast_check, 'publish': stage_publish, 'render': stage_render,
             'mms': stage_mms, 'assemble': stage_assemble, 'holds': stage_holds,
-            'video': stage_video, 'verify': stage_verify, 'review-pack': stage_review_pack, 'cleanup': lambda ch: stage_cleanup()}
+            'video': stage_video, 'verify': stage_verify, 'golden-check': stage_golden_check, 'review-pack': stage_review_pack, 'cleanup': lambda ch: stage_cleanup()}
 
 def main():
     args = sys.argv[1:]

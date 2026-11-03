@@ -320,3 +320,27 @@ doesn't work spoken; cap the verbose intros; never a repeated welcome-back."
 8. **Left for owner**: `Next: Chapter 7 — Deśāra` outro in ch06 (spoken,
    fine); "the GRETIL transcription ends…" sentences are author's own
    sentences — kept, trim at will.
+
+## 2026-11-03 — review-gate + golden store (no renders)
+
+Owner: full storyboard + timeline published pre-render; owner confirms;
+future renders mechanically compared to the blessed one.
+
+1. **publish_review.py** (new): green-storyboard assert → readable
+   `storyboard.md` (every block, voice, 220 chars) + `timeline.md`
+   (holds_timeline) + contact sheets (render_holds, no audio) → R2
+   `review/chNN/` + local `review/chNN/manifest.json` (approved=false).
+   Proven live on ch01 (storyboard 200 + timeline 200).
+2. **Render gate** (run_all.stage_render): refuses without committed
+   `approved_chNN.json` whose storyboard+glossary SHAs match current files.
+   Approval is an owner act recorded by the engineer, never self-granted.
+3. **Golden** (golden.py + build_clip render_meta.json): seal stores
+   duration/cuts/coverage/cue-sequence; check fails on duration ±2s, cue
+   reorder/miss, cue drift ±3s, white ±5pp, cuts drift. Tolerances cover
+   encoder noise only.
+4. **run_all**: CHAPTERS extended 14–22; STAGES gain `publish` (pre-render)
+   and `golden-check` (post-verify). Fixed live infinite-recursion bug:
+   `sb_path`/`src_path` called themselves for non-06 chapters — the batch
+   driver could never have run. M14.
+5. **Flow now**: publish → approve → render → … → golden-check → ears →
+   seal → commit. CHAPTER-FORMAT updated.

@@ -34,10 +34,14 @@ and it may only PASS or FAIL — never decide, never improvise, never "fix".
 - Voice IDs + thumbnail asset path written in the chapter's log line.
 - Storage preflight passed (local ≥1G, volume ≥4G).
 
-**Then, mechanically, in order:** render → align (means ≥0.85) → assemble
-(duration == sum of parts) → holds sheets (owner eye) → video →
+**Then, mechanically, in order:** publish review pack (storyboard + timeline
++ sheets to R2) → owner approves (`approved_chNN.json`, SHAs pinned;
+render REFUSES without it) → render → align (means ≥0.85) → assemble
+(duration == sum of parts) → holds sheets → video →
 COVERAGE printed (white target ≈20%, fail >85%) → verify_clip PASS →
-Whisper head-check → Qwen taste-only → upload + HEAD verify → owner ears.
+Whisper head-check → Qwen taste-only → golden-check vs the blessed render
+(duration ±2s, same cue order, cue times ±3s, white ±5pp) → upload +
+HEAD verify → owner ears → seal golden → commit.
 
 **Stop rule:** anything unplanned (new UNCAST, missing gloss, mean <0.85,
 coverage fail, collision assert) halts the line. No retries with tweaks, no

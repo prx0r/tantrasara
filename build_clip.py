@@ -296,6 +296,17 @@ def main():
                     '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '18',
                     '-c:a', 'aac', '-b:a', '192k', '-shortest', sys.argv[3]], check=True)
     print('OK:', sys.argv[3], f'{idx} cuts')
+    # golden input: machine-readable render fingerprint (see golden.py)
+    import json as _json
+    _dur = float(subprocess.run(
+        ['ffprobe', '-v', 'error', '-show_entries', 'format=duration',
+         '-of', 'default=nw=1:nk=1', sys.argv[3]],
+        capture_output=True, text=True, check=True).stdout.strip())
+    _json.dump({'cuts': idx, 'duration': round(_dur, 2),
+                'white_pct': round(100 * _cov.get('white', 0) / _tot),
+                'coverage': {k: round(v) for k, v in sorted(_cov.items())},
+                'cues': [{'t': round(s, 2), 'key': k} for s, e, k in _cues]},
+               open(os.path.splitext(sys.argv[3])[0] + '.render_meta.json', 'w'))
 
 
 if __name__ == '__main__':

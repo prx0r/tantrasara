@@ -86,3 +86,9 @@ A blank-guard `continue` skipped empty lines — 10k lines collapsed, every
 paragraph merged. Cause: no diff --stat after the run. Fix: blanks append
 first, always; diff --stat after every cleanup; scope with `--only` so
 frozen chapters are never touched.
+
+## M14. Batch driver recursed forever on every chapter (2026-11-03)
+`sb_path`/`src_path` fell through to themselves instead of formatting the
+chapter number — run_all could never run a non-06 chapter. Cause: written
+once, never dry-run (`--dry-run` exists and was never used). Fix: paths
+format directly; dry-run the driver before trusting it.
