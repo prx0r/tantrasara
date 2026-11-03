@@ -1,0 +1,234 @@
+{
+ "adhikya": {
+  "gloss": "predominance",
+  "note": "draft final for owner confirm; verbatim (b198)"
+ },
+ "agninayanam": {
+  "gloss": "fire-leading (mantra name)",
+  "note": "draft final for owner confirm; b765 mantra-name string"
+ },
+ "agnyarnatattvam": {
+  "gloss": "the fire-letter principle",
+  "note": "draft final for owner confirm; b784 mantra-name string"
+ },
+ "anavastha": {
+  "gloss": "no regress (denial)",
+  "note": "draft final for owner confirm; b501 \"Na ca anavasthā\""
+ },
+ "anya": {
+  "gloss": "other (feminine, in mantra string)",
+  "note": "draft final for owner confirm; b765 \"anyā\""
+ },
+ "arya": {
+  "gloss": "noble verse (Āryā metre)",
+  "note": "draft final for owner confirm; b758 \"In the Āryā metre\""
+ },
+ "aryatrayam": {
+  "gloss": "the trio of Āryās",
+  "note": "draft final for owner confirm; b808 \"āryātrayam uktam\""
+ },
+ "atita": {
+  "gloss": "gone beyond",
+  "note": "draft final for owner confirm; b352 \"Atīta — gone beyond, transcended\" (verbatim-ish)"
+ },
+ "brahma": {
+  "gloss": "Brahmā (egg image)",
+  "note": "draft final for owner confirm; b127 cosmic egg of Brahmā"
+ },
+ "ekakapadamantram": {
+  "gloss": "one-word mantra (in string)",
+  "note": "draft final for owner confirm; b784 mantra-name string"
+ },
+ "ekam": {
+  "gloss": "one (accusative)",
+  "note": "draft final for owner confirm; b764 \"ekaṃ puraṣoḍaśakaṃ\""
+ },
+ "evam": {
+  "gloss": "thus; in this way",
+  "note": "draft final for owner confirm; b555 \"Evaṃ ... ūhayet\""
+ },
+ "isvara": {
+  "gloss": "the Lord (ascent endpoint here)",
+  "note": "draft final for owner confirm; b541 extending up to Īśvara"
+ },
+ "kala": {
+  "gloss": "part (kalā question opener)",
+  "note": "draft final for owner confirm; b38 \"What exactly is a kalā?\""
+ },
+ "kalas": {
+  "gloss": "the five great Kalās",
+  "note": "draft final for owner confirm; b3 chapter title line"
+ },
+ "kancukas": {
+  "gloss": "coverings",
+  "note": "draft final for owner confirm; b256 \"Remember the kañcukas?\""
+ },
+ "maya": {
+  "gloss": "delusion (limiting cover)",
+  "note": "draft final for owner confirm; b64 limiting coverings of Māyā"
+ },
+ "navatattvady": {
+  "gloss": "the nine principles etc.",
+  "note": "draft final for owner confirm; b555 \"navatattvādy api\""
+ },
+ "nivrtti": {
+  "gloss": "withdrawal (division where manifestation limits)",
+  "note": "draft final for owner confirm; b88 division gloss"
+ },
+ "nivrttih": {
+  "gloss": "withdrawal (nominative, in mantra string)",
+  "note": "draft final for owner confirm; b764 mantra string"
+ },
+ "padamantravarnam": {
+  "gloss": "word-mantra-letter (in string)",
+  "note": "draft final for owner confirm; b764 mantra string"
+ },
+ "param": {
+  "gloss": "supreme (accusative)",
+  "note": "draft final for owner confirm; b379 \"Svatantraṃ paraṃ tattvam\""
+ },
+ "prakrti": {
+  "gloss": "primordial matter (ladder rung)",
+  "note": "draft final for owner confirm; b141 water up to Prakṛti"
+ },
+ "pratistha": {
+  "gloss": "establishment",
+  "note": "draft final for owner confirm; b134 \"gets itself established\""
+ },
+ "purasodasakam": {
+  "gloss": "sixteenfold city (in string)",
+  "note": "draft final for owner confirm; b764 \"puraṣoḍaśakaṃ\""
+ },
+ "purusa": {
+  "gloss": "the person (ladder rung)",
+  "note": "draft final for owner confirm; b177 Puruṣa up to Māyā"
+ },
+ "rasasarap": {
+  "gloss": "taste-arrow (in mantra string)",
+  "note": "draft final for owner confirm; b765 mantra string"
+ },
+ "sadvidhatvam": {
+  "gloss": "sixfoldness",
+  "note": "draft final for owner confirm; b729 \"Ekasyaiva ṣaḍvidhatvaṃ\""
+ },
+ "saiva": {
+  "gloss": "Śaiva (classifications debated)",
+  "note": "draft final for owner confirm; b563 Śaiva classifications"
+ },
+ "sakti-tattva": {
+  "gloss": "the Śakti-principle (contact via powers)",
+  "note": "draft final for owner confirm; b337 contact remains"
+ },
+ "saktopaya": {
+  "gloss": "the method of power (correct vs mistaken concepts)",
+  "note": "draft final for owner confirm; b513 Śāktopāya use"
+ },
+ "samvid": {
+  "gloss": "consciousness",
+  "note": "draft final for owner confirm; verbatim (b197)"
+ },
+ "sangrahaya": {
+  "gloss": "for the compendium (dative of purpose)",
+  "note": "draft final for owner confirm; b808 \"saṅgrahāya śiṣyebhyaḥ\""
+ },
+ "santa": {
+  "gloss": "calm (coverings calm down)",
+  "note": "draft final for owner confirm; b229 \"coverings finally calm down\""
+ },
+ "santatita": {
+  "gloss": "beyond peace",
+  "note": "draft final for owner confirm; b349 \"beyond even peace\""
+ },
+ "santatita-kala": {
+  "gloss": "the beyond-peace kalā",
+  "note": "draft final for owner confirm; b349 kalā name"
+ },
+ "santyatiteyam": {
+  "gloss": "in the beyond-peace (locative, in string)",
+  "note": "draft final for owner confirm; b798 mantra string"
+ },
+ "sara": {
+  "gloss": "arrow; (here: number five)",
+  "note": "draft final for owner confirm; b775 \"śara — five\""
+ },
+ "sisyebhyah": {
+  "gloss": "to/for disciples (dative plural)",
+  "note": "draft final for owner confirm; b808 \"śiṣyebhyaḥ\""
+ },
+ "siva-tattva": {
+  "gloss": "the supreme Śiva-principle",
+  "note": "draft final for owner confirm; b347 supreme Śiva-tattva"
+ },
+ "sodasa": {
+  "gloss": "sixteen (in string)",
+  "note": "draft final for owner confirm; b798 \"Ṣoḍaśa varṇāḥ\""
+ },
+ "sparsa": {
+  "gloss": "contact (subtle argument)",
+  "note": "draft final for owner confirm; b335 argument involving sparśa"
+ },
+ "sthula": {
+  "gloss": "gross",
+  "note": "draft final for owner confirm; verbatim (b413)"
+ },
+ "suddha": {
+  "gloss": "pure (correct vs mistaken)",
+  "note": "draft final for owner confirm; b422 \"Śuddha\""
+ },
+ "suddhavidya": {
+  "gloss": "pure knowledge (ladder rung)",
+  "note": "draft final for owner confirm; b237 Śuddhavidyā to Śakti"
+ },
+ "suksma": {
+  "gloss": "subtle",
+  "note": "draft final for owner confirm; verbatim (b413)"
+ },
+ "svatantram": {
+  "gloss": "free; independent (accusative)",
+  "note": "draft final for owner confirm; b379 \"Svatantraṃ paraṃ tattvam\""
+ },
+ "tattvarnam": {
+  "gloss": "letter-principle (in string)",
+  "note": "draft final for owner confirm; b765 mantra string"
+ },
+ "tattvasargah": {
+  "gloss": "the emanation of tattvas",
+  "note": "draft final for owner confirm; b103 \"yatas tattvasargaḥ\""
+ },
+ "tirobhava": {
+  "gloss": "concealment",
+  "note": "draft final for owner confirm; verbatim (b196)"
+ },
+ "turya": {
+  "gloss": "the fourth (in string)",
+  "note": "draft final for owner confirm; b784 \"iti turyā\""
+ },
+ "uhayet": {
+  "gloss": "one should infer",
+  "note": "draft final for owner confirm; b555 \"api ūhayet\""
+ },
+ "varna": {
+  "gloss": "letter; the knower (adhvan sense)",
+  "note": "draft final for owner confirm; b680 \"full knower / adhvan\""
+ },
+ "varna-adhvan": {
+  "gloss": "the letter-path",
+  "note": "draft final for owner confirm; b680 adhvan sense"
+ },
+ "varnah": {
+  "gloss": "letters (nominative plural, in string)",
+  "note": "draft final for owner confirm; b798 \"varṇāḥ\""
+ },
+ "vidya": {
+  "gloss": "knowing (becoming evident)",
+  "note": "draft final for owner confirm; b172 consciousness starts evident"
+ },
+ "vidya-kala": {
+  "gloss": "the knowing-kalā",
+  "note": "draft final for owner confirm; b225 not full liberation"
+ },
+ "vijnanakala": {
+  "gloss": "unifying-knowledge grade",
+  "note": "draft final for owner confirm; b537 extending up to"
+ }
+}

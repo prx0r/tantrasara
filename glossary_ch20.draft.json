@@ -1,0 +1,614 @@
+{
+ "abhimana": {
+  "gloss": "identification; conviction",
+  "note": "draft final for owner confirm; b2 \"Parameśvara — the Supreme Lord\" (gloss context)"
+ },
+ "acirena": {
+  "gloss": "before long",
+  "note": "draft final for owner confirm; b426 verbatim"
+ },
+ "acirenaiva": {
+  "gloss": "very soon indeed",
+  "note": "draft final for owner confirm; b419 mirror-gazing verse"
+ },
+ "adarsa": {
+  "gloss": "mirror",
+  "note": "draft final for owner confirm; b421 verbatim"
+ },
+ "adarse": {
+  "gloss": "in the mirror (locative)",
+  "note": "draft final for owner confirm; b419 mirror verse"
+ },
+ "adhikya": {
+  "gloss": "predominance (of consciousness)",
+  "note": "draft final for owner confirm; b1473 Saṃvid context"
+ },
+ "aham": {
+  "gloss": "I (muttered ahaṃ śivaḥ)",
+  "note": "draft final for owner confirm; b39 muttering while tea comes"
+ },
+ "ajivam": {
+  "gloss": "(unwritten; mantra string)",
+  "note": "draft final for owner confirm; PROVISIONAL — b62 string; owner gloss"
+ },
+ "amrta": {
+  "gloss": "nectar (in \"Parama\" list?)",
+  "note": "draft final for owner confirm; b541 list context; provisional link"
+ },
+ "anandamrta-nirbhara-svahrdayanargharghapatra-kramat": {
+  "gloss": "(long hymn compound; unwritten)",
+  "note": "draft final for owner confirm; PROVISIONAL — b566; owner gloss"
+ },
+ "anuyaga": {
+  "gloss": "(unwritten)",
+  "note": "draft final for owner confirm; PROVISIONAL — b986 terse; owner gloss"
+ },
+ "aruna": {
+  "gloss": "dawn-red (courtesan euphemism?)",
+  "note": "draft final for owner confirm; b1031 \"courtesan or sex worker\" (provisional link)"
+ },
+ "asankitam": {
+  "gloss": "undoubted; unhesitating",
+  "note": "draft final for owner confirm; b406 \"aśaṅkitaṃ labdhum\""
+ },
+ "asava": {
+  "gloss": "liquor (vessel identified)",
+  "note": "draft final for owner confirm; b1086 ritual vessel identification"
+ },
+ "asniyat": {
+  "gloss": "(unwritten)",
+  "note": "draft final for owner confirm; PROVISIONAL — b686 terse question; owner gloss"
+ },
+ "asvayuja": {
+  "gloss": "Aśvayuj (month/asterism)",
+  "note": "draft final for owner confirm; b975 astronomical body"
+ },
+ "atman": {
+  "gloss": "self (gift/honorarium context?)",
+  "note": "draft final for owner confirm; b1866 traditional gift (provisional link)"
+ },
+ "avalokayatah": {
+  "gloss": "of one who gazes (genitive)",
+  "note": "draft final for owner confirm; b419 \"avalokayataḥ\""
+ },
+ "bana-linga": {
+  "gloss": "arrow-liṅga (ritual weapon)",
+  "note": "draft final for owner confirm; b761 ritual weapon"
+ },
+ "bhava": {
+  "gloss": "being; state",
+  "note": "draft final for owner confirm; b139 verbatim gloss"
+ },
+ "bhava-prasara": {
+  "gloss": "expansion of being",
+  "note": "draft final for owner confirm; b530 ultimate-reality gloss"
+ },
+ "bodhyaikatmyena": {
+  "gloss": "(unwritten)",
+  "note": "draft final for owner confirm; PROVISIONAL — b676 \"Mind the step\"; owner gloss"
+ },
+ "cakrayaga": {
+  "gloss": "circle-rite (participants divine)",
+  "note": "draft final for owner confirm; b1008 sacred gathering"
+ },
+ "camatkara": {
+  "gloss": "astonishment-joy",
+  "note": "draft final for owner confirm; b576 Camatkṛti-rasa"
+ },
+ "carya-matrena": {
+  "gloss": "by conduct alone",
+  "note": "draft final for owner confirm; b1929 concluding verse topic"
+ },
+ "catra": {
+  "gloss": "and here (indeclinable)",
+  "note": "draft final for owner confirm; b441 \"Na cātra\""
+ },
+ "citra": {
+  "gloss": "picture/star (Graha list)",
+  "note": "draft final for owner confirm; b974 \"Graha\" list item"
+ },
+ "devanagari": {
+  "gloss": "Devanāgarī edition",
+  "note": "draft final for owner confirm; b524 GRETIL + Devanāgarī attestation"
+ },
+ "devarcaye": {
+  "gloss": "for deity-worship (dative?)",
+  "note": "draft final for owner confirm; b566 hymn context (provisional)"
+ },
+ "devya": {
+  "gloss": "of the goddess (hymn topic?)",
+  "note": "draft final for owner confirm; b566 hymn (provisional link)"
+ },
+ "deyah": {
+  "gloss": "to be given (?)",
+  "note": "draft final for owner confirm; PROVISIONAL — b566? owner confirm"
+ },
+ "diksa": {
+  "gloss": "initiation (for refinement vs liberation)",
+  "note": "draft final for owner confirm; b62 two initiations"
+ },
+ "ganapati": {
+  "gloss": "Gaṇapati (think symbolism)",
+  "note": "draft final for owner confirm; b66 symbolism prompt"
+ },
+ "ghatayitva": {
+  "gloss": "having refuted (gerund)",
+  "note": "draft final for owner confirm; b1660 don’t caricature opponent"
+ },
+ "gurupuja": {
+  "gloss": "guru worship (regular/juncture)",
+  "note": "draft final for owner confirm; b164 three worships list"
+ },
+ "gurupujavidhih": {
+  "gloss": "guru-worship rite (chapter close)",
+  "note": "draft final for owner confirm; b1918 completes prose"
+ },
+ "harnisam": {
+  "gloss": "(unwritten; hymn word?)",
+  "note": "draft final for owner confirm; PROVISIONAL — b566; owner gloss"
+ },
+ "isvarapratyabhijna": {
+  "gloss": "(unwritten; Īśvarapratyabhijñā work?)",
+  "note": "draft final for owner confirm; b1551 \"Body.\" (provisional; owner confirm)"
+ },
+ "jala": {
+  "gloss": "net",
+  "note": "draft final for owner confirm; b492 verbatim (net)"
+ },
+ "jnana": {
+  "gloss": "knowledge (without even...)",
+  "note": "draft final for owner confirm; b1953 \"Vinā api jñāna-yogābhyām\""
+ },
+ "jnana-yogabhyam": {
+  "gloss": "by knowledge and yoga (instrumental dual)",
+  "note": "draft final for owner confirm; b1929 concluding verse"
+ },
+ "jnanayogyan": {
+  "gloss": "fit for knowledge (accusative plural)",
+  "note": "draft final for owner confirm; b62 \"jñānayogyān prati\""
+ },
+ "kalanka": {
+  "gloss": "stain; blemish",
+  "note": "draft final for owner confirm; b474 verbatim"
+ },
+ "kamya": {
+  "gloss": "optional/desired rites",
+  "note": "draft final for owner confirm; b125 kāmya for attainments"
+ },
+ "karttika": {
+  "gloss": "Kārttika month (full moon)",
+  "note": "draft final for owner confirm; b1329 Kula full-moon day"
+ },
+ "kascit": {
+  "gloss": "someone",
+  "note": "draft final for owner confirm; b441 \"kaścit kramaḥ\""
+ },
+ "kimcit": {
+  "gloss": "something (Tattvajñāna text?)",
+  "note": "draft final for owner confirm; b1732 \"Tattvajñāna-niṣṭha\" (provisional link)"
+ },
+ "kramah": {
+  "gloss": "order (no order is chief)",
+  "note": "draft final for owner confirm; b441 \"kramaḥ pradhānam ṛte\""
+ },
+ "krsna-paksa": {
+  "gloss": "dark fortnight",
+  "note": "draft final for owner confirm; b912 lunar fortnight"
+ },
+ "krtayam": {
+  "gloss": "(unwritten; mantra string)",
+  "note": "draft final for owner confirm; PROVISIONAL — b62; owner gloss"
+ },
+ "ksipet": {
+  "gloss": "(unwritten)",
+  "note": "draft final for owner confirm; PROVISIONAL — b689 \"Eat it oneself\" imperative?; owner confirm"
+ },
+ "kurvan": {
+  "gloss": "doing (present participle; verse?)",
+  "note": "draft final for owner confirm; b1928 closing verse (provisional)"
+ },
+ "kusa": {
+  "gloss": "kuśa grass (luxurious? ironic)",
+  "note": "draft final for owner confirm; b1343 luxurious (provisional link)"
+ },
+ "linga": {
+  "gloss": "mark (sthaṇḍila context?)",
+  "note": "draft final for owner confirm; b725 \"Sthaṇḍila-yāga\" (provisional link)"
+ },
+ "lingam": {
+  "gloss": "liṅga as support",
+  "note": "draft final for owner confirm; b737 worship support"
+ },
+ "magha": {
+  "gloss": "Maghā (asterism; Graha list)",
+  "note": "draft final for owner confirm; b974 list"
+ },
+ "malini": {
+  "gloss": "Mālinī (Balābala context)",
+  "note": "draft final for owner confirm; b1771 \"Balābala\""
+ },
+ "mandala": {
+  "gloss": "divine circle (foremost worship)",
+  "note": "draft final for owner confirm; b1251 foremost form"
+ },
+ "moksadiksa": {
+  "gloss": "liberation-initiation",
+  "note": "draft final for owner confirm; b62 \"mokṣadīkṣā\" (for the incapable)"
+ },
+ "mudra": {
+  "gloss": "seal; gesture (perform it)",
+  "note": "draft final for owner confirm; b450 perform the mudrā"
+ },
+ "mula": {
+  "gloss": "root (Graha list)",
+  "note": "draft final for owner confirm; b974 list item"
+ },
+ "murtiyaga": {
+  "gloss": "embodiment worship",
+  "note": "draft final for owner confirm; b1014 supplementary worship"
+ },
+ "naimittikam": {
+  "gloss": "occasional (rite; verse?)",
+  "note": "draft final for owner confirm; b1928 closing verse (provisional)"
+ },
+ "nirbija": {
+  "gloss": "seedless (remembered)",
+  "note": "draft final for owner confirm; b74 earlier discussion"
+ },
+ "niskrti": {
+  "gloss": "expiation (?)",
+  "note": "draft final for owner confirm; b1727 \"break it down\" (provisional; owner confirm)"
+ },
+ "nitya": {
+  "gloss": "daily/full-moon (Kula day)",
+  "note": "draft final for owner confirm; b1329 \"full-moon day\""
+ },
+ "nityam": {
+  "gloss": "always (verse?)",
+  "note": "draft final for owner confirm; b1928 closing verse (provisional)"
+ },
+ "nivrtta": {
+  "gloss": "ceased; withdrawn",
+  "note": "draft final for owner confirm; b475 verbatim gloss"
+ },
+ "niyata-puja": {
+  "gloss": "regular worship",
+  "note": "draft final for owner confirm; b138 three worships list"
+ },
+ "paramah": {
+  "gloss": "(unwritten)",
+  "note": "draft final for owner confirm; PROVISIONAL — b140; owner confirm"
+ },
+ "paramarthika": {
+  "gloss": "ultimate (reality gloss)",
+  "note": "draft final for owner confirm; b142 \"pertaining to ultimate reality\""
+ },
+ "paramesvara": {
+  "gloss": "Parameśvara (worshipped daily)",
+  "note": "draft final for owner confirm; b144 disciple worships daily"
+ },
+ "parvapuja": {
+  "gloss": "fortnight worship (regular)",
+  "note": "draft final for owner confirm; b146 three worships list"
+ },
+ "pasa": {
+  "gloss": "bond",
+  "note": "draft final for owner confirm; b148 \"Pāśa — bond\""
+ },
+ "pasu": {
+  "gloss": "bound being",
+  "note": "draft final for owner confirm; b150 \"Paśu — the bound being\""
+ },
+ "patra": {
+  "gloss": "vessel; leaf (priceless)",
+  "note": "draft final for owner confirm; b152 \"Anargha — priceless\""
+ },
+ "pradhanam": {
+  "gloss": "chief thing (no order is)",
+  "note": "draft final for owner confirm; b441 \"kramaḥ pradhānam ṛte\""
+ },
+ "prakasa": {
+  "gloss": "illumination (implied)",
+  "note": "draft final for owner confirm; b156 \"Bhāva-prasara\" context (provisional)"
+ },
+ "pratisthapayet": {
+  "gloss": "should install (?)",
+  "note": "draft final for owner confirm; PROVISIONAL — b158; owner confirm"
+ },
+ "pratyabhijna": {
+  "gloss": "recognition (liberating path)",
+  "note": "draft final for owner confirm; b160 effective path"
+ },
+ "praveso": {
+  "gloss": "entry (strict rule after)",
+  "note": "draft final for owner confirm; b162 \"very strict rule\""
+ },
+ "prayascittadi": {
+  "gloss": "expiation etc. (text?)",
+  "note": "draft final for owner confirm; b164 \"Tattvajñāna-niṣṭha\" (provisional)"
+ },
+ "puja": {
+  "gloss": "proper worship",
+  "note": "draft final for owner confirm; b166 \"proper pūjā\""
+ },
+ "purvapaksa": {
+  "gloss": "opponent’s view (momentariness)",
+  "note": "draft final for owner confirm; b168 arguments about momentariness"
+ },
+ "purvaphalguni": {
+  "gloss": "Pūrva-phalgunī (asterism)",
+  "note": "draft final for owner confirm; b170 \"Graha\""
+ },
+ "pusya": {
+  "gloss": "Puṣya (asterism)",
+  "note": "draft final for owner confirm; b172 \"Graha\""
+ },
+ "ratnamala": {
+  "gloss": "garland-gem (thread ceremony)",
+  "note": "draft final for owner confirm; b174 purificatory thread"
+ },
+ "rohini": {
+  "gloss": "Rohiṇī (asterism)",
+  "note": "draft final for owner confirm; b176 \"Graha\""
+ },
+ "rupam": {
+  "gloss": "form itself (one’s own)",
+  "note": "draft final for owner confirm; b178 \"Svaṃ eva rūpam\""
+ },
+ "sabija": {
+  "gloss": "with-seed (initiation)",
+  "note": "draft final for owner confirm; b180 \"sabījā\" initiation"
+ },
+ "sadadhvan": {
+  "gloss": "six paths (purpose beautiful)",
+  "note": "draft final for owner confirm; b182 \"purpose is beautiful\""
+ },
+ "sadasiva": {
+  "gloss": "Sadāśiva (vessel?)",
+  "note": "draft final for owner confirm; b184 \"ritual vessel\" (provisional link)"
+ },
+ "sadhaka": {
+  "gloss": "practitioner (attainments)",
+  "note": "draft final for owner confirm; b186 kāmya observances"
+ },
+ "saiva": {
+  "gloss": "Śaiva (\"NO\" — joke refusal)",
+  "note": "draft final for owner confirm; b188 ironic \"NO\""
+ },
+ "saivism": {
+  "gloss": "Śaivism (astonishment-joy)",
+  "note": "draft final for owner confirm; b190 \"Camatkṛti-rasa\" (provisional link)"
+ },
+ "saktideha": {
+  "gloss": "power-bodied (?)",
+  "note": "draft final for owner confirm; PROVISIONAL — b192; owner confirm"
+ },
+ "saktipata": {
+  "gloss": "descent (and women — inclusion note)",
+  "note": "draft final for owner confirm; b194 \"And women\""
+ },
+ "saktis": {
+  "gloss": "powers (hierarchy expression)",
+  "note": "draft final for owner confirm; b196 divine hierarchy"
+ },
+ "samayaniskrti": {
+  "gloss": "(unwritten)",
+  "note": "draft final for owner confirm; PROVISIONAL — b198 \"Really.\"; owner gloss"
+ },
+ "samayi": {
+  "gloss": "conventional ones (seated by rank)",
+  "note": "draft final for owner confirm; b200 hierarchy seating"
+ },
+ "samhara": {
+  "gloss": "withdrawal (movement inward)",
+  "note": "draft final for owner confirm; b202 movement inward"
+ },
+ "samskara": {
+  "gloss": "consecration (conviction of non-difference)",
+  "note": "draft final for owner confirm; b204 highest consecration"
+ },
+ "samskarah": {
+  "gloss": "(alone, precisely — adverbial?)",
+  "note": "draft final for owner confirm; b206 \"Eva — alone\" (provisional)"
+ },
+ "samskarasiddhyai": {
+  "gloss": "for perfection of refinement (dative)",
+  "note": "draft final for owner confirm; b208 mantra string"
+ },
+ "samvid": {
+  "gloss": "consciousness (abounding joy)",
+  "note": "draft final for owner confirm; b210 \"Saṃvid-ullāsa-ādhikya\""
+ },
+ "samvitti": {
+  "gloss": "awareness",
+  "note": "draft final for owner confirm; b212 \"Saṃvitti — awareness\""
+ },
+ "sandhya": {
+  "gloss": "twilight (yearly? \"from the year\")",
+  "note": "draft final for owner confirm; b214 \"Varṣād eva\" (provisional)"
+ },
+ "sandhyopasa": {
+  "gloss": "twilight worship",
+  "note": "draft final for owner confirm; b216 junction worship"
+ },
+ "sara": {
+  "gloss": "essence",
+  "note": "draft final for owner confirm; b218 verbatim gloss"
+ },
+ "satabhisaj": {
+  "gloss": "Śatabhiṣaj (asterism)",
+  "note": "draft final for owner confirm; b220 \"Graha\""
+ },
+ "sathya": {
+  "gloss": "deceit (free from)",
+  "note": "draft final for owner confirm; b222 \"Śāṭhya-vivarjitaḥ\""
+ },
+ "sathya-vivarjitah": {
+  "gloss": "free from deceit (in verse?)",
+  "note": "draft final for owner confirm; b224 closing verse (provisional)"
+ },
+ "sesavartana": {
+  "gloss": "what remains (after initiation)",
+  "note": "draft final for owner confirm; b226 verbatim + break-down"
+ },
+ "sesavartanam": {
+  "gloss": "remainder (accusative, mantra)",
+  "note": "draft final for owner confirm; b228 mantra string"
+ },
+ "sesavartanaprakasanam": {
+  "gloss": "exposition of the remainder (chapter title)",
+  "note": "draft final for owner confirm; b230 \"Rest of Your Bloody Life\""
+ },
+ "siddhamata": {
+  "gloss": "Siddhāmata (Ratnamālā?)",
+  "note": "draft final for owner confirm; b232 \"The Ratnamālā\" (provisional link)"
+ },
+ "siras": {
+  "gloss": "head (throat-end?)",
+  "note": "draft final for owner confirm; b234 \"Kaṇṭhānta\" (provisional)"
+ },
+ "siva-nature": {
+  "gloss": "Śiva-nature (enjoyed)",
+  "note": "draft final for owner confirm; b236 \"The enjoyed\" (provisional)"
+ },
+ "sivah": {
+  "gloss": "Śiva (muttered ...)",
+  "note": "draft final for owner confirm; b238 muttering ahaṃ śivaḥ"
+ },
+ "sodha": {
+  "gloss": "procedure (festival rites)",
+  "note": "draft final for owner confirm; b240 festival observances"
+ },
+ "sphurana": {
+  "gloss": "flashing forth",
+  "note": "draft final for owner confirm; b242 verbatim gloss"
+ },
+ "sravana": {
+  "gloss": "Śravaṇa (asterism)",
+  "note": "draft final for owner confirm; b244 \"Graha\""
+ },
+ "srsti": {
+  "gloss": "emanation (movement inward?)",
+  "note": "draft final for owner confirm; b246 movement inward (provisional)"
+ },
+ "sukla-paksa": {
+  "gloss": "bright fortnight",
+  "note": "draft final for owner confirm; b248 \"Pakṣa\" (provisional)"
+ },
+ "svabhava": {
+  "gloss": "own-nature flower (?)",
+  "note": "draft final for owner confirm; b250 \"Svabhāva-kusuma\""
+ },
+ "svam": {
+  "gloss": "own (itself)",
+  "note": "draft final for owner confirm; b252 \"Svaṃ eva\""
+ },
+ "svarupa-nisciti": {
+  "gloss": "certain self-recognition",
+  "note": "draft final for owner confirm; b254 verbatim gloss"
+ },
+ "svatmanam": {
+  "gloss": "own self (accusative; deity-circle)",
+  "note": "draft final for owner confirm; b256 deity-circle satisfied"
+ },
+ "tadasaktan": {
+  "gloss": "(unwritten; mantra string)",
+  "note": "draft final for owner confirm; PROVISIONAL — b208; owner gloss"
+ },
+ "tanmayibhava": {
+  "gloss": "identity with that (decisive)",
+  "note": "draft final for owner confirm; b260 decisive thing"
+ },
+ "tanmayibhavam": {
+  "gloss": "identity (accusative; to attain)",
+  "note": "draft final for owner confirm; b262 \"aśaṅkitaṃ labdhum\""
+ },
+ "tanmayibhavat": {
+  "gloss": "by identity (ablative; no order)",
+  "note": "draft final for owner confirm; b264 \"tanmayībhāvāt\""
+ },
+ "tantrasadbhava": {
+  "gloss": "Tantra-born (?)",
+  "note": "draft final for owner confirm; b266 Nityātantra citation (provisional)"
+ },
+ "tasyam": {
+  "gloss": "in/for her (mantra string)",
+  "note": "draft final for owner confirm; PROVISIONAL — b208; owner gloss"
+ },
+ "tatsvarupaniscitih": {
+  "gloss": "recognition of its nature (nominative)",
+  "note": "draft final for owner confirm; b270 mirror verse"
+ },
+ "tisya": {
+  "gloss": "Tiṣya (asterism)",
+  "note": "draft final for owner confirm; b272 \"Graha\""
+ },
+ "trisiromata": {
+  "gloss": "Trīśiromata (scripture cited)",
+  "note": "draft final for owner confirm; b274 authorities named"
+ },
+ "tvam": {
+  "gloss": "you (hymn address?)",
+  "note": "draft final for owner confirm; b276 hymn topic (provisional)"
+ },
+ "ullasa": {
+  "gloss": "joy (break it down)",
+  "note": "draft final for owner confirm; b278 \"break that down\""
+ },
+ "upadeyam": {
+  "gloss": "to be adopted (supreme that)",
+  "note": "draft final for owner confirm; b280 \"Tad eva paramam upādeyam\""
+ },
+ "upadiset": {
+  "gloss": "(unwritten; mantra string)",
+  "note": "draft final for owner confirm; PROVISIONAL — b208; owner gloss"
+ },
+ "vaktragamenaiva": {
+  "gloss": "by mouth alone (offer!)",
+  "note": "draft final for owner confirm; b284 \"arpayet\""
+ },
+ "varsad": {
+  "gloss": "yearly (remarkable addition)",
+  "note": "draft final for owner confirm; b286 remarkable addition"
+ },
+ "vasana": {
+  "gloss": "latent impressions",
+  "note": "draft final for owner confirm; b288 verbatim gloss"
+ },
+ "vela": {
+  "gloss": "time (technical distinction)",
+  "note": "draft final for owner confirm; b290 useful distinction"
+ },
+ "vina": {
+  "gloss": "without (duet intro?)",
+  "note": "draft final for owner confirm; b292 \"So:\" (provisional)"
+ },
+ "vinapi": {
+  "gloss": "even without (concluding verse?)",
+  "note": "draft final for owner confirm; b294 liberation through conduct (provisional)"
+ },
+ "vira": {
+  "gloss": "heroes (in rows)",
+  "note": "draft final for owner confirm; b296 \"In rows\" (provisional)"
+ },
+ "virya": {
+  "gloss": "vigour; efficacy",
+  "note": "draft final for owner confirm; b298 verbatim gloss"
+ },
+ "visakha": {
+  "gloss": "Viśākhā (asterism)",
+  "note": "draft final for owner confirm; b300 \"Graha\""
+ },
+ "vyakhya": {
+  "gloss": "commentary (Sanskrit insufficient!)",
+  "note": "draft final for owner confirm; b302 speaking Sanskrit insufficient"
+ },
+ "yaga": {
+  "gloss": "sacrifice (explaining ≠ transferring)",
+  "note": "draft final for owner confirm; b304 explaining philosophy"
+ },
+ "yoginis": {
+  "gloss": "yoginīs (esoteric gathering)",
+  "note": "draft final for owner confirm; b306 gathering context"
+ }
+}

@@ -13,7 +13,7 @@
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
-   "b462"
+   "b464"
   ],
   "note": "auto-mined; needs Deva + gloss review"
  },
@@ -31,7 +31,7 @@
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
-   "b502"
+   "b504"
   ],
   "note": "auto-mined; needs Deva + gloss review"
  },
@@ -40,7 +40,7 @@
   "gloss": "the lunar movement of vital energy and the powers of manifestati",
   "status": "proposed",
   "cue_blocks": [
-   "b299"
+   "b301"
   ],
   "note": "appositive-mined, confirm"
  },
@@ -49,7 +49,7 @@
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
-   "b175"
+   "b176"
   ],
   "note": "auto-mined; needs Deva + gloss review"
  },
@@ -58,7 +58,7 @@
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
-   "b542"
+   "b544"
   ],
   "note": "auto-mined; needs Deva + gloss review"
  },
@@ -76,7 +76,7 @@
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
-   "b326"
+   "b328"
   ],
   "note": "auto-mined; needs Deva + gloss review"
  },
@@ -85,7 +85,7 @@
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
-   "b468"
+   "b470"
   ],
   "note": "auto-mined; needs Deva + gloss review"
  },
@@ -94,7 +94,7 @@
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
-   "b460"
+   "b462"
   ],
   "note": "auto-mined; needs Deva + gloss review"
  },
@@ -103,7 +103,7 @@
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
-   "b630"
+   "b633"
   ],
   "note": "auto-mined; needs Deva + gloss review"
  },
@@ -112,7 +112,7 @@
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
-   "b543"
+   "b545"
   ],
   "note": "auto-mined; needs Deva + gloss review"
  },
@@ -148,7 +148,7 @@
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
-   "b519"
+   "b521"
   ],
   "note": "auto-mined; needs Deva + gloss review"
  },
@@ -157,7 +157,7 @@
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
-   "b181"
+   "b183"
   ],
   "note": "auto-mined; needs Deva + gloss review"
  },
@@ -166,7 +166,7 @@
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
-   "b703"
+   "b706"
   ],
   "note": "auto-mined; needs Deva + gloss review"
  },
@@ -175,7 +175,7 @@
   "gloss": "the practitioner contemplates that power as belonging to Parameś",
   "status": "proposed",
   "cue_blocks": [
-   "b248"
+   "b250"
   ],
   "note": "appositive-mined, confirm"
  },
@@ -211,7 +211,7 @@
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
-   "b540"
+   "b542"
   ],
   "note": "auto-mined; needs Deva + gloss review"
  },
@@ -229,7 +229,7 @@
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
-   "b401"
+   "b403"
   ],
   "note": "auto-mined; needs Deva + gloss review"
  },
@@ -256,7 +256,7 @@
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
-   "b518"
+   "b520"
   ],
   "note": "auto-mined; needs Deva + gloss review"
  },
@@ -265,7 +265,7 @@
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
-   "b408"
+   "b410"
   ],
   "note": "auto-mined; needs Deva + gloss review"
  },
@@ -284,14 +284,17 @@
   "gloss": "The Sacred Bath",
   "status": "proposed",
   "literal_status": "proposed",
-  "note": "chapter-title entry; drives the canonical intro title stack"
+  "note": "chapter-title entry; drives the canonical intro title stack",
+  "cue_blocks": [
+   "b2"
+  ]
  },
  "srsti-samarthya": {
   "deva": "स्र्स्ति समर्थ्य",
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
-   "b187"
+   "b189"
   ],
   "note": "auto-mined; needs Deva + gloss review"
  },
@@ -300,7 +303,7 @@
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
-   "b190"
+   "b192"
   ],
   "note": "auto-mined; needs Deva + gloss review"
  },
@@ -327,7 +330,7 @@
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
-   "b466"
+   "b468"
   ],
   "note": "auto-mined; needs Deva + gloss review"
  },
@@ -336,7 +339,7 @@
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
-   "b544"
+   "b546"
   ],
   "note": "auto-mined; needs Deva + gloss review"
  },
@@ -345,7 +348,7 @@
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
-   "b630"
+   "b633"
   ],
   "note": "auto-mined; needs Deva + gloss review"
  },
@@ -354,7 +357,7 @@
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
-   "b355"
+   "b357"
   ],
   "note": "auto-mined; needs Deva + gloss review"
  },
@@ -363,7 +366,7 @@
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
-   "b351"
+   "b353"
   ],
   "note": "auto-mined; needs Deva + gloss review"
  },
@@ -372,7 +375,7 @@
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
-   "b362"
+   "b364"
   ],
   "note": "auto-mined; needs Deva + gloss review"
  },
@@ -381,7 +384,7 @@
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
-   "b178"
+   "b180"
   ],
   "note": "auto-mined; needs Deva + gloss review"
  },
@@ -390,7 +393,7 @@
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
-   "b362"
+   "b364"
   ],
   "note": "auto-mined; needs Deva + gloss review"
  },
@@ -399,7 +402,7 @@
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
-   "b184"
+   "b186"
   ],
   "note": "auto-mined; needs Deva + gloss review"
  }

@@ -2157,13 +2157,21 @@
   {
    "id": "b269",
    "section": "Tantrasāra — Chapter 3",
-   "type": "verse",
-   "voice": "verse",
-   "text": "The sixteen sacred vowel forms\nअ\na",
-   "directed": "[slowly] The sixteen sacred vowel forms\nअ\na"
+   "type": "narration",
+   "voice": "granny",
+   "text": "The sixteen sacred vowel forms.",
+   "directed": "The sixteen sacred vowel forms."
   },
   {
    "id": "b270",
+   "section": "Tantrasāra — Chapter 3",
+   "type": "verse",
+   "voice": "verse",
+   "text": "अ\na",
+   "directed": "[slowly] अ\na"
+  },
+  {
+   "id": "b271",
    "section": "Tantrasāra — Chapter 3",
    "type": "verse",
    "voice": "verse",
@@ -2171,7 +2179,7 @@
    "directed": "[slowly] आ\nā"
   },
   {
-   "id": "b271",
+   "id": "b272",
    "section": "Tantrasāra — Chapter 3",
    "type": "verse",
    "voice": "verse",
@@ -2179,7 +2187,7 @@
    "directed": "[slowly] इ\ni"
   },
   {
-   "id": "b272",
+   "id": "b273",
    "section": "Tantrasāra — Chapter 3",
    "type": "verse",
    "voice": "verse",
@@ -2187,7 +2195,7 @@
    "directed": "[slowly] ई\nī"
   },
   {
-   "id": "b273",
+   "id": "b274",
    "section": "Tantrasāra — Chapter 3",
    "type": "verse",
    "voice": "verse",
@@ -2195,7 +2203,7 @@
    "directed": "[slowly] उ\nu"
   },
   {
-   "id": "b274",
+   "id": "b275",
    "section": "Tantrasāra — Chapter 3",
    "type": "verse",
    "voice": "verse",
@@ -2203,7 +2211,7 @@
    "directed": "[slowly] ऊ\nū"
   },
   {
-   "id": "b275",
+   "id": "b276",
    "section": "Tantrasāra — Chapter 3",
    "type": "verse",
    "voice": "verse",
@@ -2211,7 +2219,7 @@
    "directed": "[slowly] ऋ\nṛ"
   },
   {
-   "id": "b276",
+   "id": "b277",
    "section": "Tantrasāra — Chapter 3",
    "type": "verse",
    "voice": "verse",
@@ -2219,7 +2227,7 @@
    "directed": "[slowly] ॠ\nṝ"
   },
   {
-   "id": "b277",
+   "id": "b278",
    "section": "Tantrasāra — Chapter 3",
    "type": "verse",
    "voice": "verse",
@@ -2227,7 +2235,7 @@
    "directed": "[slowly] ऌ\nḷ"
   },
   {
-   "id": "b278",
+   "id": "b279",
    "section": "Tantrasāra — Chapter 3",
    "type": "verse",
    "voice": "verse",
@@ -2235,7 +2243,7 @@
    "directed": "[slowly] ॡ\nḹ"
   },
   {
-   "id": "b279",
+   "id": "b280",
    "section": "Tantrasāra — Chapter 3",
    "type": "verse",
    "voice": "verse",
@@ -2243,7 +2251,7 @@
    "directed": "[slowly] ए\ne"
   },
   {
-   "id": "b280",
+   "id": "b281",
    "section": "Tantrasāra — Chapter 3",
    "type": "verse",
    "voice": "verse",
@@ -2251,7 +2259,7 @@
    "directed": "[slowly] ऐ\nai"
   },
   {
-   "id": "b281",
+   "id": "b282",
    "section": "Tantrasāra — Chapter 3",
    "type": "verse",
    "voice": "verse",
@@ -2259,7 +2267,7 @@
    "directed": "[slowly] ओ\no"
   },
   {
-   "id": "b282",
+   "id": "b283",
    "section": "Tantrasāra — Chapter 3",
    "type": "verse",
    "voice": "verse",
@@ -2267,7 +2275,7 @@
    "directed": "[slowly] औ\nau"
   },
   {
-   "id": "b283",
+   "id": "b284",
    "section": "Tantrasāra — Chapter 3",
    "type": "verse",
    "voice": "verse",
@@ -2275,7 +2283,7 @@
    "directed": "[slowly] अं\naṃ"
   },
   {
-   "id": "b284",
+   "id": "b285",
    "section": "Tantrasāra — Chapter 3",
    "type": "verse",
    "voice": "verse",
@@ -2283,7 +2291,7 @@
    "directed": "[slowly] अः\naḥ"
   },
   {
-   "id": "b285",
+   "id": "b286",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2291,7 +2299,7 @@
    "directed": "The sixteen bīja forms in Abhinavagupta’s phonemic cosmology."
   },
   {
-   "id": "b286",
+   "id": "b287",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2299,7 +2307,7 @@
    "directed": "Sixteen."
   },
   {
-   "id": "b287",
+   "id": "b288",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2307,7 +2315,7 @@
    "directed": "And these are the bīja forms."
   },
   {
-   "id": "b288",
+   "id": "b289",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2315,7 +2323,7 @@
    "directed": "Seeds."
   },
   {
-   "id": "b289",
+   "id": "b290",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2323,7 +2331,7 @@
    "directed": "Now, what do seeds need?"
   },
   {
-   "id": "b290",
+   "id": "b291",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2331,7 +2339,7 @@
    "directed": "6. Seeds and wombs: the universe gets going\nWombs."
   },
   {
-   "id": "b291",
+   "id": "b292",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2339,7 +2347,7 @@
    "directed": "Yoni."
   },
   {
-   "id": "b292",
+   "id": "b293",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2347,7 +2355,7 @@
    "directed": "The sixteen vowels are the seeds."
   },
   {
-   "id": "b293",
+   "id": "b294",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2355,7 +2363,7 @@
    "directed": "And from them arise the consonantal forms, called wombs in this scheme."
   },
   {
-   "id": "b294",
+   "id": "b295",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2363,7 +2371,7 @@
    "directed": "Because when vowel and consonant come together, articulated syllables become possible."
   },
   {
-   "id": "b295",
+   "id": "b296",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2371,7 +2379,7 @@
    "directed": "Think of a Sanskrit syllable."
   },
   {
-   "id": "b296",
+   "id": "b297",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2379,7 +2387,7 @@
    "directed": "Take ka."
   },
   {
-   "id": "b297",
+   "id": "b298",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2387,7 +2395,7 @@
    "directed": "You’ve got the consonantal articulation k together with the vowel a."
   },
   {
-   "id": "b298",
+   "id": "b299",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2395,7 +2403,7 @@
    "directed": "And now we have the basis of expressive speech."
   },
   {
-   "id": "b299",
+   "id": "b300",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2403,7 +2411,7 @@
    "directed": "But the important thing is where all these consonants come from in the divine scheme."
   },
   {
-   "id": "b300",
+   "id": "b301",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2411,7 +2419,7 @@
    "directed": "Let’s begin with the five groups of five."
   },
   {
-   "id": "b301",
+   "id": "b302",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2419,7 +2427,7 @@
    "directed": "The five consonant families"
   },
   {
-   "id": "b302",
+   "id": "b303",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2427,7 +2435,7 @@
    "directed": "ka-varga"
   },
   {
-   "id": "b303",
+   "id": "b304",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2435,7 +2443,7 @@
    "directed": "Anuttara — the absolute"
   },
   {
-   "id": "b304",
+   "id": "b305",
    "section": "Tantrasāra — Chapter 3",
    "type": "verse",
    "voice": "verse",
@@ -2443,7 +2451,7 @@
    "directed": "[slowly] क ख ग घ ङ\nca-varga"
   },
   {
-   "id": "b305",
+   "id": "b306",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2451,7 +2459,7 @@
    "directed": "Icchā — pure will"
   },
   {
-   "id": "b306",
+   "id": "b307",
    "section": "Tantrasāra — Chapter 3",
    "type": "verse",
    "voice": "verse",
@@ -2459,7 +2467,7 @@
    "directed": "[slowly] च छ ज झ ञ\nṭa-varga"
   },
   {
-   "id": "b307",
+   "id": "b308",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2467,7 +2475,7 @@
    "directed": "Object-directed will"
   },
   {
-   "id": "b308",
+   "id": "b309",
    "section": "Tantrasāra — Chapter 3",
    "type": "verse",
    "voice": "verse",
@@ -2475,7 +2483,7 @@
    "directed": "[slowly] ट ठ ड ढ ण\nta-varga"
   },
   {
-   "id": "b309",
+   "id": "b310",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2483,7 +2491,7 @@
    "directed": "Object-directed will"
   },
   {
-   "id": "b310",
+   "id": "b311",
    "section": "Tantrasāra — Chapter 3",
    "type": "verse",
    "voice": "verse",
@@ -2491,7 +2499,7 @@
    "directed": "[slowly] त थ द ध न\npa-varga"
   },
   {
-   "id": "b311",
+   "id": "b312",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2499,15 +2507,23 @@
    "directed": "Unmeṣa — unfolding"
   },
   {
-   "id": "b312",
+   "id": "b313",
    "section": "Tantrasāra — Chapter 3",
    "type": "verse",
    "voice": "verse",
-   "text": "प फ ब भ म\nTwenty-five consonants.",
-   "directed": "[slowly] प फ ब भ म\nTwenty-five consonants."
+   "text": "प फ ब भ म",
+   "directed": "[slowly] प फ ब भ म"
   },
   {
-   "id": "b313",
+   "id": "b314",
+   "section": "Tantrasāra — Chapter 3",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Twenty-five consonants.",
+   "directed": "Twenty-five consonants."
+  },
+  {
+   "id": "b315",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2515,7 +2531,7 @@
    "directed": "Five families of five."
   },
   {
-   "id": "b314",
+   "id": "b316",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2523,7 +2539,7 @@
    "directed": "The fivefold organisation reflects the five divine powers."
   },
   {
-   "id": "b315",
+   "id": "b317",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2531,7 +2547,7 @@
    "directed": "Now, the remaining articulations also have their places."
   },
   {
-   "id": "b316",
+   "id": "b318",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2539,7 +2555,7 @@
    "directed": "[short pause] The threefold forms of will give rise to:"
   },
   {
-   "id": "b317",
+   "id": "b319",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2547,7 +2563,7 @@
    "directed": "ya, ra, la."
   },
   {
-   "id": "b318",
+   "id": "b320",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2555,7 +2571,7 @@
    "directed": "[short pause] Unfolding gives:"
   },
   {
-   "id": "b319",
+   "id": "b321",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2563,7 +2579,7 @@
    "directed": "va."
   },
   {
-   "id": "b320",
+   "id": "b322",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2571,7 +2587,7 @@
    "directed": "[short pause] The threefold will also gives:"
   },
   {
-   "id": "b321",
+   "id": "b323",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2579,7 +2595,7 @@
    "directed": "śa, ṣa, sa."
   },
   {
-   "id": "b322",
+   "id": "b324",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2587,7 +2603,7 @@
    "directed": "[short pause] From emission comes:"
   },
   {
-   "id": "b323",
+   "id": "b325",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2595,7 +2611,7 @@
    "directed": "ha."
   },
   {
-   "id": "b324",
+   "id": "b326",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2603,7 +2619,7 @@
    "directed": "[short pause] And from combining consonantal wombs comes:"
   },
   {
-   "id": "b325",
+   "id": "b327",
    "section": "Tantrasāra — Chapter 3",
    "type": "verse",
    "voice": "verse",
@@ -2611,7 +2627,7 @@
    "directed": "[slowly] kṣa."
   },
   {
-   "id": "b326",
+   "id": "b328",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2619,7 +2635,7 @@
    "directed": "You see what’s happening?"
   },
   {
-   "id": "b327",
+   "id": "b329",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2627,7 +2643,7 @@
    "directed": "The entire Sanskrit sound-system is being interpreted as an expression of the powers of consciousness."
   },
   {
-   "id": "b328",
+   "id": "b330",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2635,7 +2651,7 @@
    "directed": "Language is not merely something Śiva uses. In this metaphysical vision, language itself embodies Śiva’s creative articulation."
   },
   {
-   "id": "b329",
+   "id": "b331",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2643,7 +2659,7 @@
    "directed": "And all this brings us to a name."
   },
   {
-   "id": "b330",
+   "id": "b332",
    "section": "Tantrasāra — Chapter 3",
    "type": "verse",
    "voice": "verse",
@@ -2651,7 +2667,7 @@
    "directed": "[slowly] Kuleśvara."
   },
   {
-   "id": "b331",
+   "id": "b333",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2659,7 +2675,7 @@
    "directed": "The Lord of the Kula."
   },
   {
-   "id": "b332",
+   "id": "b334",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2667,7 +2683,7 @@
    "directed": "The Lord of the family or totality of powers."
   },
   {
-   "id": "b333",
+   "id": "b335",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2675,7 +2691,7 @@
    "directed": "Who is that?"
   },
   {
-   "id": "b334",
+   "id": "b336",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2683,7 +2699,7 @@
    "directed": "The supreme absolute itself."
   },
   {
-   "id": "b335",
+   "id": "b337",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2691,7 +2707,7 @@
    "directed": "Anuttara."
   },
   {
-   "id": "b336",
+   "id": "b338",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2699,7 +2715,7 @@
    "directed": "Now, Kuleśvara possesses his own power of emission."
   },
   {
-   "id": "b337",
+   "id": "b339",
    "section": "Tantrasāra — Chapter 3",
    "type": "verse",
    "voice": "verse",
@@ -2707,7 +2723,7 @@
    "directed": "[slowly] Kaulikī-visarga-śakti."
   },
   {
-   "id": "b338",
+   "id": "b340",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2715,7 +2731,7 @@
    "directed": "And through this power, the differentiated expressions of consciousness unfold toward the externally manifest universe."
   },
   {
-   "id": "b339",
+   "id": "b341",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2723,7 +2739,7 @@
    "directed": "The phonemic powers become associated with the tattvas."
   },
   {
-   "id": "b340",
+   "id": "b342",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2731,7 +2747,7 @@
    "directed": "The principles constituting reality."
   },
   {
-   "id": "b341",
+   "id": "b343",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2739,7 +2755,7 @@
    "directed": "The universe is emerging."
   },
   {
-   "id": "b342",
+   "id": "b344",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2747,7 +2763,7 @@
    "directed": "Not because some bloke in the sky has started assembling matter."
   },
   {
-   "id": "b343",
+   "id": "b345",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2755,7 +2771,7 @@
    "directed": "But because the supreme freedom of consciousness is manifesting its own powers in increasingly differentiated ways."
   },
   {
-   "id": "b344",
+   "id": "b346",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2763,7 +2779,7 @@
    "directed": "7. Three forms of the great emission\nNow let’s return to visarga."
   },
   {
-   "id": "b345",
+   "id": "b347",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2771,7 +2787,7 @@
    "directed": "Because it’s absolutely central."
   },
   {
-   "id": "b346",
+   "id": "b348",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2779,7 +2795,7 @@
    "directed": "The creative emission of consciousness can be understood in three ways."
   },
   {
-   "id": "b347",
+   "id": "b349",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2787,7 +2803,7 @@
    "directed": "First, āṇava-visarga."
   },
   {
-   "id": "b348",
+   "id": "b350",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2795,7 +2811,7 @@
    "directed": "Associated with the limited individual."
   },
   {
-   "id": "b349",
+   "id": "b351",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2803,7 +2819,7 @@
    "directed": "[short pause] Its characteristic is:"
   },
   {
-   "id": "b350",
+   "id": "b352",
    "section": "Tantrasāra — Chapter 3",
    "type": "verse",
    "voice": "verse",
@@ -2811,7 +2827,7 @@
    "directed": "[slowly] Citta-viśrānti."
   },
   {
-   "id": "b351",
+   "id": "b353",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2819,7 +2835,7 @@
    "directed": "The mind coming to rest."
   },
   {
-   "id": "b352",
+   "id": "b354",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2827,7 +2843,7 @@
    "directed": "Second, śākta-visarga."
   },
   {
-   "id": "b353",
+   "id": "b355",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2835,7 +2851,7 @@
    "directed": "Associated with Śakti."
   },
   {
-   "id": "b354",
+   "id": "b356",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2843,7 +2859,7 @@
    "directed": "[short pause] Its characteristic is:"
   },
   {
-   "id": "b355",
+   "id": "b357",
    "section": "Tantrasāra — Chapter 3",
    "type": "verse",
    "voice": "verse",
@@ -2851,7 +2867,7 @@
    "directed": "[slowly] Citta-saṃbodha."
   },
   {
-   "id": "b356",
+   "id": "b358",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2859,7 +2875,7 @@
    "directed": "The awakening or illumination of the mind."
   },
   {
-   "id": "b357",
+   "id": "b359",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2867,7 +2883,7 @@
    "directed": "Third, śāmbhava-visarga."
   },
   {
-   "id": "b358",
+   "id": "b360",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2875,7 +2891,7 @@
    "directed": "Associated with Śambhu himself."
   },
   {
-   "id": "b359",
+   "id": "b361",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2883,7 +2899,7 @@
    "directed": "[short pause] Its characteristic is:"
   },
   {
-   "id": "b360",
+   "id": "b362",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2891,7 +2907,7 @@
    "directed": "Citta-pralaya."
   },
   {
-   "id": "b361",
+   "id": "b363",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2899,7 +2915,7 @@
    "directed": "The dissolution of mind."
   },
   {
-   "id": "b362",
+   "id": "b364",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2907,7 +2923,7 @@
    "directed": "And don’t misunderstand that last expression."
   },
   {
-   "id": "b363",
+   "id": "b365",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2915,7 +2931,7 @@
    "directed": "We’re not talking about hitting yourself over the head until you lose consciousness."
   },
   {
-   "id": "b364",
+   "id": "b366",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2923,7 +2939,7 @@
    "directed": "That would be a rather unfortunate interpretation of liberation."
   },
   {
-   "id": "b365",
+   "id": "b367",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2931,7 +2947,7 @@
    "directed": "We’re talking about the dissolution of the mind’s limited, differentiated mode into its supreme conscious ground."
   },
   {
-   "id": "b366",
+   "id": "b368",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2939,7 +2955,7 @@
    "directed": "Three forms."
   },
   {
-   "id": "b367",
+   "id": "b369",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2947,7 +2963,7 @@
    "directed": "Repose."
   },
   {
-   "id": "b368",
+   "id": "b370",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2955,7 +2971,7 @@
    "directed": "Awakening."
   },
   {
-   "id": "b369",
+   "id": "b371",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2963,7 +2979,7 @@
    "directed": "Dissolution."
   },
   {
-   "id": "b370",
+   "id": "b372",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2971,7 +2987,7 @@
    "directed": "And all of them belong to the same fundamental power of divine emission."
   },
   {
-   "id": "b371",
+   "id": "b373",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2979,7 +2995,7 @@
    "directed": "Visarga is the Lord’s power of bringing forth the universe."
   },
   {
-   "id": "b372",
+   "id": "b374",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2987,7 +3003,7 @@
    "directed": "Now we’re ready for another astonishing piece of arithmetic."
   },
   {
-   "id": "b373",
+   "id": "b375",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -2995,7 +3011,7 @@
    "directed": "8. How one becomes fifty, eighty-one, and twelve\nRight."
   },
   {
-   "id": "b374",
+   "id": "b376",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3003,7 +3019,7 @@
    "directed": "[short pause] You might be looking at this enormous collection of powers and thinking:"
   },
   {
-   "id": "b375",
+   "id": "b377",
    "section": "Tantrasāra — Chapter 3",
    "type": "dialogue",
    "voice": "man",
@@ -3011,7 +3027,7 @@
    "directed": "[short pause] “Abhinava, mate, how many bloody things are there?”"
   },
   {
-   "id": "b376",
+   "id": "b378",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3019,7 +3035,7 @@
    "directed": "Excellent question."
   },
   {
-   "id": "b377",
+   "id": "b379",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3027,7 +3043,7 @@
    "directed": "Depends how you’re looking."
   },
   {
-   "id": "b378",
+   "id": "b380",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3035,7 +3051,7 @@
    "directed": "When consciousness is apprehended without any division whatsoever, there is only one."
   },
   {
-   "id": "b379",
+   "id": "b381",
    "section": "Tantrasāra — Chapter 3",
    "type": "verse",
    "voice": "verse",
@@ -3043,7 +3059,7 @@
    "directed": "[slowly] Bhagavān."
   },
   {
-   "id": "b380",
+   "id": "b382",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3051,7 +3067,7 @@
    "directed": "The Blessed Lord."
   },
   {
-   "id": "b381",
+   "id": "b383",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3059,7 +3075,7 @@
    "directed": "But when we distinguish the seed and womb aspects, we speak of two."
   },
   {
-   "id": "b382",
+   "id": "b384",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3067,7 +3083,7 @@
    "directed": "Śiva and Śakti."
   },
   {
-   "id": "b383",
+   "id": "b385",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3075,7 +3091,7 @@
    "directed": "The possessor of power and power itself."
   },
   {
-   "id": "b384",
+   "id": "b386",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3083,7 +3099,7 @@
    "directed": "Then, examining the eight consonantal groups together with their presiding lord, we speak of nine classes."
   },
   {
-   "id": "b385",
+   "id": "b387",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3091,7 +3107,7 @@
    "directed": "If we differentiate the individual phonemes, we get fifty."
   },
   {
-   "id": "b386",
+   "id": "b388",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3099,7 +3115,7 @@
    "directed": "And when we include finer subdivisions of their articulation, we can speak of eighty-one."
   },
   {
-   "id": "b387",
+   "id": "b389",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3107,7 +3123,7 @@
    "directed": "But here’s the important point."
   },
   {
-   "id": "b388",
+   "id": "b390",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3115,7 +3131,7 @@
    "directed": "We haven’t discovered eighty-one different supreme realities."
   },
   {
-   "id": "b389",
+   "id": "b391",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3123,7 +3139,7 @@
    "directed": "We’re describing one reality according to different modes of apprehension."
   },
   {
-   "id": "b390",
+   "id": "b392",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3131,7 +3147,7 @@
    "directed": "One."
   },
   {
-   "id": "b391",
+   "id": "b393",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3139,7 +3155,7 @@
    "directed": "Two."
   },
   {
-   "id": "b392",
+   "id": "b394",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3147,7 +3163,7 @@
    "directed": "Nine."
   },
   {
-   "id": "b393",
+   "id": "b395",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3155,7 +3171,7 @@
    "directed": "Fifty."
   },
   {
-   "id": "b394",
+   "id": "b396",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3163,7 +3179,7 @@
    "directed": "Eighty-one."
   },
   {
-   "id": "b395",
+   "id": "b397",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3171,7 +3187,7 @@
    "directed": "The divisions arise in how consciousness articulates and apprehends its powers."
   },
   {
-   "id": "b396",
+   "id": "b398",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3179,7 +3195,7 @@
    "directed": "And beneath all these classifications remain the six fundamental expressions we encountered earlier."
   },
   {
-   "id": "b397",
+   "id": "b399",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3187,7 +3203,7 @@
    "directed": "a, ā, i, ī, u, ū."
   },
   {
-   "id": "b398",
+   "id": "b400",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3195,7 +3211,7 @@
    "directed": "Through expansion and reabsorption, these are considered in a twelvefold arrangement."
   },
   {
-   "id": "b399",
+   "id": "b401",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3203,7 +3219,7 @@
    "directed": "And those twelve powers?"
   },
   {
-   "id": "b400",
+   "id": "b402",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3211,7 +3227,7 @@
    "directed": "They’re associated with the blessed Kālīs."
   },
   {
-   "id": "b401",
+   "id": "b403",
    "section": "Tantrasāra — Chapter 3",
    "type": "verse",
    "voice": "verse",
@@ -3219,7 +3235,7 @@
    "directed": "[slowly] Śrī Kālikāḥ."
   },
   {
-   "id": "b402",
+   "id": "b404",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3227,7 +3243,7 @@
    "directed": "The divine powers of articulation and awareness."
   },
   {
-   "id": "b403",
+   "id": "b405",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3235,7 +3251,7 @@
    "directed": "Not merely decorative goddesses."
   },
   {
-   "id": "b404",
+   "id": "b406",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3243,7 +3259,7 @@
    "directed": "The very dynamic expressions through which consciousness knows and manifests itself."
   },
   {
-   "id": "b405",
+   "id": "b407",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3251,7 +3267,7 @@
    "directed": "And now we’re approaching the final part of our chapter."
   },
   {
-   "id": "b406",
+   "id": "b408",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3259,7 +3275,7 @@
    "directed": "9. How divine consciousness becomes ordinary language\nWe’ve discussed the pure powers of consciousness."
   },
   {
-   "id": "b407",
+   "id": "b409",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3267,7 +3283,7 @@
    "directed": "[short pause] But you’re probably wondering:"
   },
   {
-   "id": "b408",
+   "id": "b410",
    "section": "Tantrasāra — Chapter 3",
    "type": "dialogue",
    "voice": "man",
@@ -3275,7 +3291,7 @@
    "directed": "[short pause] “Right, how does all this turn into me saying ‘pass the tea’?”"
   },
   {
-   "id": "b409",
+   "id": "b411",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3283,7 +3299,7 @@
    "directed": "Well."
   },
   {
-   "id": "b410",
+   "id": "b412",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3291,7 +3307,7 @@
    "directed": "The powers don’t just suddenly jump from absolute consciousness into audible speech."
   },
   {
-   "id": "b411",
+   "id": "b413",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3299,7 +3315,7 @@
    "directed": "There are degrees of manifestation."
   },
   {
-   "id": "b412",
+   "id": "b414",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3307,7 +3323,7 @@
    "directed": "At the pure level, the phonemic expressions are powers of Śakti herself."
   },
   {
-   "id": "b413",
+   "id": "b415",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3315,7 +3331,7 @@
    "directed": "As differentiation begins, they assume forms associated with śuddhavidyā."
   },
   {
-   "id": "b414",
+   "id": "b416",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3323,7 +3339,7 @@
    "directed": "Pure knowledge."
   },
   {
-   "id": "b415",
+   "id": "b417",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3331,7 +3347,7 @@
    "directed": "Here, we’re dealing with mantras and the lords of mantras."
   },
   {
-   "id": "b416",
+   "id": "b418",
    "section": "Tantrasāra — Chapter 3",
    "type": "verse",
    "voice": "verse",
@@ -3339,7 +3355,7 @@
    "directed": "[slowly] Vidyā."
   },
   {
-   "id": "b417",
+   "id": "b419",
    "section": "Tantrasāra — Chapter 3",
    "type": "verse",
    "voice": "verse",
@@ -3347,7 +3363,7 @@
    "directed": "[slowly] Vidyeśvara."
   },
   {
-   "id": "b418",
+   "id": "b420",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3355,7 +3371,7 @@
    "directed": "But as the power of māyā develops, differentiation becomes more pronounced."
   },
   {
-   "id": "b419",
+   "id": "b421",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3363,7 +3379,7 @@
    "directed": "The unified powers begin to appear as distinct expressions."
   },
   {
-   "id": "b420",
+   "id": "b422",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3371,7 +3387,7 @@
    "directed": "They take on the forms of articulated language."
   },
   {
-   "id": "b421",
+   "id": "b423",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3379,7 +3395,7 @@
    "directed": "And here we encounter three important levels of speech."
   },
   {
-   "id": "b422",
+   "id": "b424",
    "section": "Tantrasāra — Chapter 3",
    "type": "verse",
    "voice": "verse",
@@ -3387,7 +3403,7 @@
    "directed": "[slowly] Paśyantī."
   },
   {
-   "id": "b423",
+   "id": "b425",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3395,7 +3411,7 @@
    "directed": "The visionary level."
   },
   {
-   "id": "b424",
+   "id": "b426",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3403,7 +3419,7 @@
    "directed": "Speech before its full internal differentiation."
   },
   {
-   "id": "b425",
+   "id": "b427",
    "section": "Tantrasāra — Chapter 3",
    "type": "verse",
    "voice": "verse",
@@ -3411,7 +3427,7 @@
    "directed": "[slowly] Madhyamā."
   },
   {
-   "id": "b426",
+   "id": "b428",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3419,7 +3435,7 @@
    "directed": "The intermediate level."
   },
   {
-   "id": "b427",
+   "id": "b429",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3427,7 +3443,7 @@
    "directed": "Inner, mentally articulated language."
   },
   {
-   "id": "b428",
+   "id": "b430",
    "section": "Tantrasāra — Chapter 3",
    "type": "verse",
    "voice": "verse",
@@ -3435,7 +3451,7 @@
    "directed": "[slowly] Vaikharī."
   },
   {
-   "id": "b429",
+   "id": "b431",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3443,7 +3459,7 @@
    "directed": "The external, audible expression of speech."
   },
   {
-   "id": "b430",
+   "id": "b432",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3451,7 +3467,7 @@
    "directed": "The words coming out of your mouth."
   },
   {
-   "id": "b431",
+   "id": "b433",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3459,7 +3475,7 @@
    "directed": "So when you open your mouth and say something absolutely ridiculous, that audible expression belongs to the outermost level of a much deeper process of manifestation."
   },
   {
-   "id": "b432",
+   "id": "b434",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3467,7 +3483,7 @@
    "directed": "The divine power of expression has taken on a highly differentiated form."
   },
   {
-   "id": "b433",
+   "id": "b435",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3475,7 +3491,7 @@
    "directed": "And at the furthest reach of this development, the same powers are understood in relation to the externally manifest tattvas."
   },
   {
-   "id": "b434",
+   "id": "b436",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3483,7 +3499,7 @@
    "directed": "The principles of the experienced world."
   },
   {
-   "id": "b435",
+   "id": "b437",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3491,7 +3507,7 @@
    "directed": "[short pause] Now."
   },
   {
-   "id": "b436",
+   "id": "b438",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3499,7 +3515,7 @@
    "directed": "Here’s something important about mantras."
   },
   {
-   "id": "b437",
+   "id": "b439",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3507,7 +3523,7 @@
    "directed": "[short pause] 10. Why a mantra isn’t just a magic word\nYou might think:"
   },
   {
-   "id": "b438",
+   "id": "b440",
    "section": "Tantrasāra — Chapter 3",
    "type": "dialogue",
    "voice": "man",
@@ -3515,7 +3531,7 @@
    "directed": "[short pause] “Brilliant. So if I learn all these letters, I can just assemble some sounds and become Śiva.”"
   },
   {
-   "id": "b439",
+   "id": "b441",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3523,7 +3539,7 @@
    "directed": "Not quite, mate."
   },
   {
-   "id": "b440",
+   "id": "b442",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3531,7 +3547,7 @@
    "directed": "Because the letters, in their ordinary differentiated condition, belong to the domain of māyā."
   },
   {
-   "id": "b441",
+   "id": "b443",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3539,7 +3555,7 @@
    "directed": "They’re like bodies."
   },
   {
-   "id": "b442",
+   "id": "b444",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3547,7 +3563,7 @@
    "directed": "Forms."
   },
   {
-   "id": "b443",
+   "id": "b445",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3555,7 +3571,7 @@
    "directed": "Structures."
   },
   {
-   "id": "b444",
+   "id": "b446",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3563,7 +3579,7 @@
    "directed": "A body without animating consciousness isn’t going to do much."
   },
   {
-   "id": "b445",
+   "id": "b447",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3571,7 +3587,7 @@
    "directed": "And similarly, a mantra isn’t fully understood merely by its visible letters or audible syllables."
   },
   {
-   "id": "b446",
+   "id": "b448",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3579,7 +3595,7 @@
    "directed": "It must be enlivened by the pure powers of awareness."
   },
   {
-   "id": "b447",
+   "id": "b449",
    "section": "Tantrasāra — Chapter 3",
    "type": "verse",
    "voice": "verse",
@@ -3587,7 +3603,7 @@
    "directed": "[slowly] Śuddha-parāmarśa."
   },
   {
-   "id": "b448",
+   "id": "b450",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3595,7 +3611,7 @@
    "directed": "Those powers are like the life-breath entering a body."
   },
   {
-   "id": "b449",
+   "id": "b451",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3603,7 +3619,7 @@
    "directed": "[short pause] When the mantra is awakened through them, it becomes:"
   },
   {
-   "id": "b450",
+   "id": "b452",
    "section": "Tantrasāra — Chapter 3",
    "type": "verse",
    "voice": "verse",
@@ -3611,7 +3627,7 @@
    "directed": "[slowly] Savīrya."
   },
   {
-   "id": "b451",
+   "id": "b453",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3619,7 +3635,7 @@
    "directed": "Possessing potency."
   },
   {
-   "id": "b452",
+   "id": "b454",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3627,7 +3643,7 @@
    "directed": "[short pause] And such an enlivened mantra can bestow both:"
   },
   {
-   "id": "b453",
+   "id": "b455",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3635,7 +3651,7 @@
    "directed": "Bhoga — experience or enjoyment."
   },
   {
-   "id": "b454",
+   "id": "b456",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3643,7 +3659,7 @@
    "directed": "[short pause] And:"
   },
   {
-   "id": "b455",
+   "id": "b457",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3651,7 +3667,7 @@
    "directed": "Mokṣa — liberation."
   },
   {
-   "id": "b456",
+   "id": "b458",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3659,7 +3675,7 @@
    "directed": "Do you see the distinction?"
   },
   {
-   "id": "b457",
+   "id": "b459",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3667,7 +3683,7 @@
    "directed": "The efficacy of mantra, within this teaching, isn’t simply a property of mechanically repeating a sequence of sounds."
   },
   {
-   "id": "b458",
+   "id": "b460",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3675,7 +3691,7 @@
    "directed": "It’s intimately connected with the consciousness and powers those sounds express."
   },
   {
-   "id": "b459",
+   "id": "b461",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3683,7 +3699,7 @@
    "directed": "And now — after all this business with mirrors, vowels, consonants, divine emissions and cosmic goddesses — we’re finally ready to return to the original question."
   },
   {
-   "id": "b460",
+   "id": "b462",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3691,7 +3707,7 @@
    "directed": "How does any of this liberate you?"
   },
   {
-   "id": "b461",
+   "id": "b463",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3699,7 +3715,7 @@
    "directed": "11. The actual Śāmbhava recognition\nRight."
   },
   {
-   "id": "b462",
+   "id": "b464",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3707,7 +3723,7 @@
    "directed": "Forget the alphabet for a moment."
   },
   {
-   "id": "b463",
+   "id": "b465",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3715,7 +3731,7 @@
    "directed": "Not because it was pointless."
   },
   {
-   "id": "b464",
+   "id": "b466",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3723,7 +3739,7 @@
    "directed": "Quite the opposite."
   },
   {
-   "id": "b465",
+   "id": "b467",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3731,7 +3747,7 @@
    "directed": "Because now you’ve seen the structure."
   },
   {
-   "id": "b466",
+   "id": "b468",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3739,7 +3755,7 @@
    "directed": "The whole multiplicity of existence."
   },
   {
-   "id": "b467",
+   "id": "b469",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3747,7 +3763,7 @@
    "directed": "Every category."
   },
   {
-   "id": "b468",
+   "id": "b470",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3755,7 +3771,7 @@
    "directed": "Every principle."
   },
   {
-   "id": "b469",
+   "id": "b471",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3763,7 +3779,7 @@
    "directed": "Every living being."
   },
   {
-   "id": "b470",
+   "id": "b472",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3771,7 +3787,7 @@
    "directed": "Every world."
   },
   {
-   "id": "b471",
+   "id": "b473",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3779,7 +3795,7 @@
    "directed": "Every form of experience."
   },
   {
-   "id": "b472",
+   "id": "b474",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3787,7 +3803,7 @@
    "directed": "All of it has been understood as the differentiated manifestation of one supreme consciousness."
   },
   {
-   "id": "b473",
+   "id": "b475",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3795,7 +3811,7 @@
    "directed": "And what’s required now isn’t another complicated conceptual performance."
   },
   {
-   "id": "b474",
+   "id": "b476",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3803,7 +3819,7 @@
    "directed": "It’s an immediate, nonconceptual recognition."
   },
   {
-   "id": "b475",
+   "id": "b477",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3811,7 +3827,7 @@
    "directed": "I am the very ground in which all these reflections appear and come to rest."
   },
   {
-   "id": "b476",
+   "id": "b478",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3819,7 +3835,7 @@
    "directed": "Not this particular body alone."
   },
   {
-   "id": "b477",
+   "id": "b479",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3827,7 +3843,7 @@
    "directed": "Not merely my thoughts."
   },
   {
-   "id": "b478",
+   "id": "b480",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3835,7 +3851,7 @@
    "directed": "Not my memories."
   },
   {
-   "id": "b479",
+   "id": "b481",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3843,7 +3859,7 @@
    "directed": "Not the limited identity I’ve constructed around myself."
   },
   {
-   "id": "b480",
+   "id": "b482",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3851,7 +3867,7 @@
    "directed": "The very reality within which all these distinctions arise."
   },
   {
-   "id": "b481",
+   "id": "b483",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3859,7 +3875,7 @@
    "directed": "That’s Śāmbhava-samāveśa."
   },
   {
-   "id": "b482",
+   "id": "b484",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3867,7 +3883,7 @@
    "directed": "Immersion through the divine approach."
   },
   {
-   "id": "b483",
+   "id": "b485",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3875,7 +3891,7 @@
    "directed": "And when this recognition is complete, the person is liberated while living."
   },
   {
-   "id": "b484",
+   "id": "b486",
    "section": "Tantrasāra — Chapter 3",
    "type": "verse",
    "voice": "verse",
@@ -3883,7 +3899,7 @@
    "directed": "[slowly] Jīvanmukta."
   },
   {
-   "id": "b485",
+   "id": "b487",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3891,7 +3907,7 @@
    "directed": "Not because the universe has disappeared."
   },
   {
-   "id": "b486",
+   "id": "b488",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3899,7 +3915,7 @@
    "directed": "Not because the body has evaporated."
   },
   {
-   "id": "b487",
+   "id": "b489",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3907,7 +3923,7 @@
    "directed": "Not because the person has become incapable of seeing distinctions."
   },
   {
-   "id": "b488",
+   "id": "b490",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3915,7 +3931,7 @@
    "directed": "But because those distinctions are no longer apprehended as realities separate from the supreme consciousness."
   },
   {
-   "id": "b489",
+   "id": "b491",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3923,7 +3939,7 @@
    "directed": "They are recognised as its own manifestations."
   },
   {
-   "id": "b490",
+   "id": "b492",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3931,7 +3947,7 @@
    "directed": "And just as I told you in the previous chapter, at this level there is no necessity for being constrained by mantra repetition or similar techniques."
   },
   {
-   "id": "b491",
+   "id": "b493",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3939,7 +3955,7 @@
    "directed": "Because the recognition itself is immediate."
   },
   {
-   "id": "b492",
+   "id": "b494",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3947,7 +3963,7 @@
    "directed": "The entire universe, with all its categories, beings, and worlds, rests in that one supreme consciousness."
   },
   {
-   "id": "b493",
+   "id": "b495",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3955,7 +3971,7 @@
    "directed": "Which brings us to my closing verse."
   },
   {
-   "id": "b494",
+   "id": "b496",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3963,7 +3979,7 @@
    "directed": "12. The final verse\nORIGINAL SANSKRIT"
   },
   {
-   "id": "b495",
+   "id": "b497",
    "section": "Tantrasāra — Chapter 3",
    "type": "verse",
    "voice": "verse",
@@ -3971,7 +3987,7 @@
    "directed": "[slowly] अन्तर्विभाति सकलं जगदात्मनीहयद्वद्विचित्ररचना मुकुरान्तराले।बोधः परं निजविमर्शरसानुवृत्त्याविश्वं परामृशति नो मुकुरस्तथा तु॥\nMY SLANG RENDERING"
   },
   {
-   "id": "b496",
+   "id": "b498",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3979,7 +3995,7 @@
    "directed": "Look."
   },
   {
-   "id": "b497",
+   "id": "b499",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3987,7 +4003,7 @@
    "directed": "The entire universe shines within the Self."
   },
   {
-   "id": "b498",
+   "id": "b500",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -3995,7 +4011,7 @@
    "directed": "Just as a fantastically intricate world might appear within a mirror."
   },
   {
-   "id": "b499",
+   "id": "b501",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -4003,7 +4019,7 @@
    "directed": "But here’s the difference."
   },
   {
-   "id": "b500",
+   "id": "b502",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -4011,7 +4027,7 @@
    "directed": "The mirror doesn’t know a bloody thing about what it’s reflecting."
   },
   {
-   "id": "b501",
+   "id": "b503",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -4019,7 +4035,7 @@
    "directed": "Consciousness does."
   },
   {
-   "id": "b502",
+   "id": "b504",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -4027,7 +4043,7 @@
    "directed": "Consciousness apprehends the entire universe through the very delight of its own self-awareness."
   },
   {
-   "id": "b503",
+   "id": "b505",
    "section": "Tantrasāra — Chapter 3",
    "type": "verse",
    "voice": "verse",
@@ -4035,7 +4051,7 @@
    "directed": "[slowly] Vimarśa-rasa."
   },
   {
-   "id": "b504",
+   "id": "b506",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -4043,7 +4059,7 @@
    "directed": "The flavour of knowing itself."
   },
   {
-   "id": "b505",
+   "id": "b507",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -4051,7 +4067,7 @@
    "directed": "And that is something no ordinary mirror can ever do."
   },
   {
-   "id": "b506",
+   "id": "b508",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -4059,7 +4075,7 @@
    "directed": "So the universe isn’t simply an image appearing in a dead reflective surface."
   },
   {
-   "id": "b507",
+   "id": "b509",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -4067,7 +4083,7 @@
    "directed": "It is an appearance within a living, self-aware, utterly free consciousness."
   },
   {
-   "id": "b508",
+   "id": "b510",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -4075,7 +4091,7 @@
    "directed": "And the fundamental reality of that consciousness?"
   },
   {
-   "id": "b509",
+   "id": "b511",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -4083,7 +4099,7 @@
    "directed": "Śiva."
   },
   {
-   "id": "b510",
+   "id": "b512",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -4091,7 +4107,7 @@
    "directed": "End of Chapter Three — Śāmbhavopāya."
   },
   {
-   "id": "b511",
+   "id": "b513",
    "section": "Tantrasāra — Chapter 3",
    "type": "meta",
    "voice": "none",
@@ -4099,7 +4115,7 @@
    "directed": "Source: Abhinavagupta’s complete Sanskrit Tantrasāra (GRETIL)⁠Attachment.png, cross-checked against the Devanāgarī Chapter 3⁠Attachment.png. This is a creative adaptation of the original, not a reproduction of Christopher Wallis’s copyrighted English translation."
   },
   {
-   "id": "b512",
+   "id": "b514",
    "section": "Tantrasāra — Chapter 3",
    "type": "narration",
    "voice": "granny",
@@ -4108,18 +4124,18 @@
   }
  ],
  "totals": {
-  "blocks": 513,
+  "blocks": 515,
   "words_per_voice": {
    "none": 32,
-   "granny": 2954,
+   "granny": 2961,
    "man": 64,
-   "verse": 162
+   "verse": 155
   },
   "est_min": {
    "none": 0.2,
    "granny": 19.7,
    "man": 0.4,
-   "verse": 1.1
+   "verse": 1.0
   }
  },
  "validation": {

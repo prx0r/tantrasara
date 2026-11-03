@@ -1,0 +1,174 @@
+{
+ "agama": {
+  "gloss": "scripture; revealed teaching",
+  "note": "draft final for owner confirm; b179 teacher explains the āgama"
+ },
+ "apara": {
+  "gloss": "the lower goddess",
+  "note": "draft final for owner confirm; b506 Aparā vs Parā context"
+ },
+ "atmanam": {
+  "gloss": "the bound self",
+  "note": "draft final for owner confirm; b22 \"Baddham ātmānam abhimanyante\""
+ },
+ "bhutiraja": {
+  "gloss": "Abhinavagupta's teacher",
+  "note": "draft final for owner confirm; b391 quoted text; proper name"
+ },
+ "caham": {
+  "gloss": "and I",
+  "note": "draft final for owner confirm; b98-pattern; \"Tad eva cāham\" (b74)"
+ },
+ "dharana": {
+  "gloss": "concentration; holding",
+  "note": "draft final for owner confirm; b224 triad with dhyāna samādhi"
+ },
+ "dhyana": {
+  "gloss": "meditation",
+  "note": "draft final for owner confirm; verbatim list (b224)"
+ },
+ "jado": {
+  "gloss": "I am inert; insentient",
+  "note": "draft final for owner confirm; b748 \"Jaḍo’smi\""
+ },
+ "kali": {
+  "gloss": "Kālī, the dark goddess",
+  "note": "draft final for owner confirm; b654 \"why Kālī?\""
+ },
+ "kalis": {
+  "gloss": "the twelve Kālīs",
+  "note": "draft final for owner confirm; verbatim (b546)"
+ },
+ "karana-cakra": {
+  "gloss": "the wheel of the instruments (senses)",
+  "note": "draft final for owner confirm; b603"
+ },
+ "karma-sampasito": {
+  "gloss": "fettered by karma",
+  "note": "draft final for owner confirm; b750 \"Karma-sampāśito’smi\""
+ },
+ "maya": {
+  "gloss": "delusion; differentiation",
+  "note": "draft final for owner confirm; b618 conditions of māyā"
+ },
+ "mayiya": {
+  "gloss": "made of māyā; the māyā-bound knower",
+  "note": "draft final for owner confirm; b617 māyīya pramātṛ"
+ },
+ "namah": {
+  "gloss": "homage; salutation",
+  "note": "draft final for owner confirm; b368 Om namaḥ śivāya chant"
+ },
+ "nandisikha": {
+  "gloss": "the Nandiśikhā (scripture)",
+  "note": "draft final for owner confirm; b391 states a quoted text"
+ },
+ "para": {
+  "gloss": "the supreme goddess",
+  "note": "draft final for owner confirm; b480 \"This is Parā\""
+ },
+ "paramarsa": {
+  "gloss": "inward reflective awareness",
+  "note": "draft final for owner confirm; b370 \"an inward parāmarśa\""
+ },
+ "paramesvara": {
+  "gloss": "the supreme Lord",
+  "note": "draft final for owner confirm; b301 offering to Parameśvara"
+ },
+ "parapara": {
+  "gloss": "the intermediate (between supreme and lower)",
+  "note": "draft final for owner confirm; b493 intermediate relationship"
+ },
+ "pasu": {
+  "gloss": "the bound soul; the ordinary individual",
+  "note": "draft final for owner confirm; b756 ordinary condition"
+ },
+ "pramatr": {
+  "gloss": "the knower; the subject",
+  "note": "draft final for owner confirm; b617 māyīya pramātṛ"
+ },
+ "pranayama": {
+  "gloss": "breath regulation",
+  "note": "draft final for owner confirm; b216 practice list"
+ },
+ "pratyahara": {
+  "gloss": "sense withdrawal",
+  "note": "draft final for owner confirm; b222 practice list"
+ },
+ "saiva": {
+  "gloss": "Śaiva; of Śiva’s tradition",
+  "note": "draft final for owner confirm; b105 Śaiva scripture"
+ },
+ "saktipata": {
+  "gloss": "descent of power; grace (degrees deferred)",
+  "note": "draft final for owner confirm; b177 deferred to later chapter"
+ },
+ "saktopaya": {
+  "gloss": "the method of power",
+  "note": "draft final for owner confirm; b800 \"that’s Śāktopāya\""
+ },
+ "samadhi": {
+  "gloss": "absorption",
+  "note": "draft final for owner confirm; verbatim list (b224)"
+ },
+ "sambhavopaya": {
+  "gloss": "the method of Śambhu",
+  "note": "draft final for owner confirm; ch03 pattern; b5 recap"
+ },
+ "samsara": {
+  "gloss": "the cycle of transmigration",
+  "note": "draft final for owner confirm; b40 shatters conceptual understanding"
+ },
+ "samsara-hetum": {
+  "gloss": "that which causes transmigration",
+  "note": "draft final for owner confirm; b41 vikalpa as cause"
+ },
+ "sarvajnanottara": {
+  "gloss": "the Sarvajñānottara (scripture)",
+  "note": "draft final for owner confirm; b727 Śiva’s injunction text"
+ },
+ "siddhanta": {
+  "gloss": "settled doctrine; prescription",
+  "note": "draft final for owner confirm; b737 prescriptions and prohibitions"
+ },
+ "sivaya": {
+  "gloss": "to Śiva (dative)",
+  "note": "draft final for owner confirm; b368 Om namaḥ śivāya chant"
+ },
+ "svaprakasa": {
+  "gloss": "self-luminous",
+  "note": "draft final for owner confirm; b145 highest reality"
+ },
+ "svara": {
+  "gloss": "vowel-sound; phoneme; one’s own tone",
+  "note": "draft final for owner confirm; b682 relation to Mahēśvara"
+ },
+ "svarupakhyati": {
+  "gloss": "the recognition of one’s own nature",
+  "note": "draft final for owner confirm; b273 \"It’s svarūpākhyāti\""
+ },
+ "urmi": {
+  "gloss": "wave; upsurge",
+  "note": "draft final for owner confirm; b425 single-word chant; ch03 pattern"
+ },
+ "vaisnava": {
+  "gloss": "Vaiṣṇava; of Viṣṇu’s tradition",
+  "note": "draft final for owner confirm; b104 criticism of traditions"
+ },
+ "vidyadhipati": {
+  "gloss": "Vidyādhipati (predecessor; author of Anubhavastotra)",
+  "note": "draft final for owner confirm; b691 proper name"
+ },
+ "vikalpam": {
+  "gloss": "thought-construct (accusative)",
+  "note": "draft final for owner confirm; b41 vikalpaṃ dalayati — shattered"
+ },
+ "visnu": {
+  "gloss": "Viṣṇu",
+  "note": "draft final for owner confirm; b686 divine principles range"
+ },
+ "yaga": {
+  "gloss": "worship; ritual offering",
+  "note": "draft final for owner confirm; b296 \"What worship actually means\""
+ }
+}

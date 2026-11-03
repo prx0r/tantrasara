@@ -13,7 +13,7 @@
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
-   "b347"
+   "b349"
   ],
   "note": "auto-mined; needs Deva + gloss review"
  },
@@ -31,7 +31,7 @@
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
-   "b285"
+   "b286"
   ],
   "note": "auto-mined; needs Deva + gloss review"
  },
@@ -40,7 +40,7 @@
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
-   "b305"
+   "b306"
   ],
   "note": "auto-mined; needs Deva + gloss review"
  },
@@ -58,7 +58,7 @@
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
-   "b400"
+   "b402"
   ],
   "note": "auto-mined; needs Deva + gloss review"
  },
@@ -67,7 +67,7 @@
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
-   "b336"
+   "b338"
   ],
   "note": "auto-mined; needs Deva + gloss review"
  },
@@ -76,7 +76,7 @@
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
-   "b418"
+   "b420"
   ],
   "note": "auto-mined; needs Deva + gloss review"
  },
@@ -85,7 +85,7 @@
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
-   "b455"
+   "b457"
   ],
   "note": "auto-mined; needs Deva + gloss review"
  },
@@ -112,7 +112,7 @@
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
-   "b352"
+   "b354"
   ],
   "note": "auto-mined; needs Deva + gloss review"
  },
@@ -121,7 +121,7 @@
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
-   "b461"
+   "b463"
   ],
   "note": "auto-mined; needs Deva + gloss review"
  },
@@ -130,7 +130,7 @@
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
-   "b481"
+   "b483"
   ],
   "note": "auto-mined; needs Deva + gloss review"
  },
@@ -139,7 +139,7 @@
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
-   "b357"
+   "b359"
   ],
   "note": "auto-mined; needs Deva + gloss review"
  },
@@ -151,6 +151,17 @@
    "b15"
   ],
   "note": "auto-mined; needs Deva + gloss review"
+ },
+ "sambhavopayaprakasanam": {
+  "deva": "शाम्भवोपायप्रकाशनम्",
+  "literal": "sāmbhava [of Śambhu] + upāya [means] + prakāśana [exposition]",
+  "gloss": "The Divine Method",
+  "status": "proposed",
+  "literal_status": "proposed",
+  "note": "chapter-title entry; drives the canonical intro title stack",
+  "cue_blocks": [
+   "b2"
+  ]
  },
  "sambhu": {
   "deva": "सम्भु",
@@ -166,7 +177,7 @@
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
-   "b413"
+   "b415"
   ],
   "note": "auto-mined; needs Deva + gloss review"
  },
@@ -175,7 +186,7 @@
   "gloss": "",
   "status": "proposed",
   "cue_blocks": [
-   "b311"
+   "b312"
   ],
   "note": "auto-mined; needs Deva + gloss review"
  },
@@ -196,13 +207,5 @@
    "b138"
   ],
   "note": "auto-mined; needs Deva + gloss review"
- },
- "sambhavopayaprakasanam": {
-  "deva": "शाम्भवोपायप्रकाशनम्",
-  "literal": "sāmbhava [of Śambhu] + upāya [means] + prakāśana [exposition]",
-  "gloss": "The Divine Method",
-  "status": "proposed",
-  "literal_status": "proposed",
-  "note": "chapter-title entry; drives the canonical intro title stack"
  }
 }
