@@ -376,5 +376,13 @@
    "b238"
   ],
   "note": "auto-mined; needs Deva + gloss review"
+ },
+ "pancadasamahnikam": {
+  "deva": "पञ्चदशम् आह्निकम्",
+  "literal": "pañcadaśa [fifteenth] + āhnika [day-chapter]",
+  "gloss": "The Deathbed Initiation",
+  "status": "proposed",
+  "literal_status": "proposed",
+  "note": "chapter-title entry; drives the canonical intro title stack"
  }
 }

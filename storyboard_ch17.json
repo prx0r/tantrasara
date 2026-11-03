@@ -21,10 +21,10 @@
   {
    "id": "b2",
    "section": "Tantrasāra — Chapter 17",
-   "type": "verse",
-   "voice": "verse",
+   "type": "narration",
+   "voice": "granny",
    "text": "सप्तदशमाह्निकम् — Saptadaśam Āhnikam",
-   "directed": "[slowly] सप्तदशमाह्निकम् — Saptadaśam Āhnikam"
+   "directed": "सप्तदशमाह्निकम् — Saptadaśam Āhnikam"
   },
   {
    "id": "b3",
@@ -5222,7 +5222,7 @@
    "id": "b652",
    "section": "Tantrasāra — Chapter 17",
    "type": "dialogue",
-   "voice": "man",
+   "voice": "granny",
    "text": "“Abhinava, I’ve been worshipping the wrong deity.”",
    "directed": "[short pause] “Abhinava, I’ve been worshipping the wrong deity.”"
   },
@@ -5535,15 +5535,15 @@
   "blocks": 691,
   "words_per_voice": {
    "none": 81,
-   "granny": 4675,
-   "verse": 84,
-   "man": 42
+   "granny": 4686,
+   "verse": 80,
+   "man": 35
   },
   "est_min": {
    "none": 0.5,
    "granny": 31.2,
-   "verse": 0.6,
-   "man": 0.3
+   "verse": 0.5,
+   "man": 0.2
   }
  },
  "validation": {

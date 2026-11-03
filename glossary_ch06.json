@@ -655,5 +655,13 @@
    "b945"
   ],
   "note": "auto-mined"
+ },
+ "kaladhvaprakasanam": {
+  "deva": "कालाध्वप्रकाशनम्",
+  "literal": "kāla [time] + adhvan [path] + prakāśana [exposition]",
+  "gloss": "The Path of Time",
+  "status": "proposed",
+  "literal_status": "proposed",
+  "note": "chapter-title entry; drives the canonical intro title stack"
  }
 }

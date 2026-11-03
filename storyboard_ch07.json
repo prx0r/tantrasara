@@ -21,10 +21,10 @@
   {
    "id": "b2",
    "section": "Tantrasāra — Chapter 7",
-   "type": "verse",
-   "voice": "verse",
+   "type": "narration",
+   "voice": "granny",
    "text": "सप्तममाह्निकम् — Deśādhvaprakāśanam",
-   "directed": "[slowly] सप्तममाह्निकम् — Deśādhvaprakāśanam"
+   "directed": "सप्तममाह्निकम् — Deśādhvaprakāśanam"
   },
   {
    "id": "b3",
@@ -6743,8 +6743,8 @@
   "blocks": 842,
   "words_per_voice": {
    "none": 46,
-   "granny": 4669,
-   "verse": 153,
+   "granny": 4672,
+   "verse": 150,
    "man": 27
   },
   "est_min": {

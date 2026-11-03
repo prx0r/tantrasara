@@ -21,10 +21,10 @@
   {
    "id": "b2",
    "section": "Tantrasāra — Chapter 8",
-   "type": "verse",
-   "voice": "verse",
+   "type": "narration",
+   "voice": "granny",
    "text": "अष्टममाह्निकम् — Tattvasvarūpaprakāśanam",
-   "directed": "[slowly] अष्टममाह्निकम् — Tattvasvarūpaprakāśanam"
+   "directed": "अष्टममाह्निकम् — Tattvasvarūpaprakāśanam"
   },
   {
    "id": "b3",
@@ -11975,14 +11975,14 @@
   "blocks": 1496,
   "words_per_voice": {
    "none": 73,
-   "granny": 8449,
-   "verse": 159,
+   "granny": 8452,
+   "verse": 156,
    "man": 50
   },
   "est_min": {
    "none": 0.5,
    "granny": 56.3,
-   "verse": 1.1,
+   "verse": 1.0,
    "man": 0.3
   }
  },

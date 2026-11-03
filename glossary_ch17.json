@@ -583,5 +583,13 @@
    "b105"
   ],
   "note": "auto-mined; needs Deva + gloss review"
+ },
+ "saptadasamahnikam": {
+  "deva": "सप्तदशम् आह्निकम्",
+  "literal": "saptadaśa [seventeenth] + āhnika [day-chapter]",
+  "gloss": "Liṅgoddhāra",
+  "status": "proposed",
+  "literal_status": "proposed",
+  "note": "chapter-title entry; drives the canonical intro title stack"
  }
 }

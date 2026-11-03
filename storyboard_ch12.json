@@ -21,10 +21,10 @@
   {
    "id": "b2",
    "section": "Tantrasāra — Chapter 12",
-   "type": "verse",
-   "voice": "verse",
+   "type": "narration",
+   "voice": "granny",
    "text": "द्वादशमाह्निकम् — Snānaprakāśanam",
-   "directed": "[slowly] द्वादशमाह्निकम् — Snānaprakāśanam"
+   "directed": "द्वादशमाह्निकम् — Snānaprakāśanam"
   },
   {
    "id": "b3",
@@ -5647,8 +5647,8 @@
   "blocks": 705,
   "words_per_voice": {
    "none": 90,
-   "granny": 4149,
-   "verse": 117,
+   "granny": 4152,
+   "verse": 114,
    "man": 63
   },
   "est_min": {

@@ -475,5 +475,13 @@
    "b492"
   ],
   "note": "auto-mined; needs Deva + gloss review"
+ },
+ "anavaprakasanam": {
+  "deva": "आणवप्रकाशनम्",
+  "literal": "āṇava [of the individual] + prakāśana [exposition]",
+  "gloss": "The Method of the Individual",
+  "status": "proposed",
+  "literal_status": "proposed",
+  "note": "chapter-title entry; drives the canonical intro title stack"
  }
 }

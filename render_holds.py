@@ -14,7 +14,7 @@ def main():
     out = sys.argv[2]
     os.makedirs(out, exist_ok=True)
     # chapter glossary for term layers (review mode: proposed shown as-is,
-    # video mode filters to confirmed in build_clip)
+    # video gates on confirmed)
     import glob as _g, re as _re
     gl, m = {}, _re.search(r'ch(\d+)', sys.argv[1])
     if m:
@@ -26,12 +26,25 @@ def main():
     flat = sb['blocks']
     idx = {b['id']: i for i, b in enumerate(flat)}
     files = []
+    _ch = m.group(1) if m else '01'
+    _title = H.chapter_title(sb['blocks'], gl)
     for hi, h in enumerate(groups):
         last_id = h[-1]['id']
+        if h[0].get('id') == 'b_opener':
+            # sheets show the same intro bug the video burns
+            _ih = H.intro_hold(_ch, _title)
+            im = _ih if _ih is not None else H.render_hold(h, None, gl)
+            fn = f'{out}/hold{hi:03d}.png'
+            im.save(fn)
+            files.append(fn)
+            continue
         sub = ''
         for b in flat[idx[last_id] + 1:idx[last_id] + 6]:
             if b.get('type') in ('narration', 'dialogue') and b.get('voice') in ('granny', 'man'):
-                sub = b['text'][:140]
+                # sheets share the subtitle face: Deva words go IAST (M3)
+                import re as _re
+                sub = ' '.join(H.to_iast(w) if _re.search(r'[\u0900-\u097F]', w) else w
+                               for w in b['text'][:140].split())
                 break
         im = H.render_hold(h, sub if sub else None, gl)
         fn = f'{out}/hold{hi:03d}.png'

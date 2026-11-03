@@ -21,10 +21,10 @@
   {
    "id": "b2",
    "section": "Tantrasāra — Chapter 13",
-   "type": "verse",
-   "voice": "verse",
+   "type": "narration",
+   "voice": "granny",
    "text": "त्रयोदशमाह्निकम् — Trayodaśam Āhnikam",
-   "directed": "[slowly] त्रयोदशमाह्निकम् — Trayodaśam Āhnikam"
+   "directed": "त्रयोदशमाह्निकम् — Trayodaśam Āhnikam"
   },
   {
    "id": "b3",
@@ -12503,14 +12503,14 @@
   "blocks": 1562,
   "words_per_voice": {
    "none": 111,
-   "granny": 9302,
-   "verse": 263,
+   "granny": 9306,
+   "verse": 259,
    "man": 44
   },
   "est_min": {
    "none": 0.7,
    "granny": 62.0,
-   "verse": 1.8,
+   "verse": 1.7,
    "man": 0.3
   }
  },

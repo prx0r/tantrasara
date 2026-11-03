@@ -260,6 +260,17 @@ def build(md_path, overrides=None):
             continue
         blocks.append({'id': f'b{bid}', 'section': section, 'type': 'narration', 'voice': 'granny', 'text': text})
         bid += 1
+    for b in blocks:
+        if b['id'] in overrides and b['id'] != 'b_opener':
+            v = overrides[b['id']]
+            assert v in ('granny', 'man', 'verse'), f"override {b['id']}: bad voice {v}"
+            # explicit owner call wins (even over the Abhinav-man convention).
+            # retype verse<->non-verse so cards follow the voice: the verse
+            # seat chants verses; everything granny/man speaks is narration
+            # (or dialogue when quote-led).
+            if b['type'] == 'verse' and v != 'verse' and not QUOTED.match(b['text'].strip()):
+                b['type'] = 'narration'
+            b['voice'] = v
     return {'title': title, 'blocks': blocks}
 
 def validate(sb):

@@ -21,10 +21,10 @@
   {
    "id": "b2",
    "section": "Tantrasāra — Chapter 21",
-   "type": "verse",
-   "voice": "verse",
+   "type": "narration",
+   "voice": "granny",
    "text": "एकविंशमाह्निकम् — Āgamaprāmāṇyaprakāśanam",
-   "directed": "[slowly] एकविंशमाह्निकम् — Āgamaprāmāṇyaprakāśanam"
+   "directed": "एकविंशमाह्निकम् — Āgamaprāmāṇyaprakāśanam"
   },
   {
    "id": "b3",
@@ -230,7 +230,7 @@
    "id": "b28",
    "section": "Tantrasāra — Chapter 21",
    "type": "dialogue",
-   "voice": "man",
+   "voice": "granny",
    "text": "“Excuse me, Abhinavagupta.”",
    "directed": "[short pause] “Excuse me, Abhinavagupta.”"
   },
@@ -10479,9 +10479,9 @@
   "blocks": 1309,
   "words_per_voice": {
    "none": 78,
-   "granny": 8307,
-   "verse": 182,
-   "man": 93
+   "granny": 8313,
+   "verse": 179,
+   "man": 90
   },
   "est_min": {
    "none": 0.5,

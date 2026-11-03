@@ -21,10 +21,10 @@
   {
    "id": "b2",
    "section": "Tantrasāra — Chapter 18",
-   "type": "verse",
-   "voice": "verse",
+   "type": "narration",
+   "voice": "granny",
    "text": "अष्टादशमाह्निकम् — Abhiṣekaprakāśanam",
-   "directed": "[slowly] अष्टादशमाह्निकम् — Abhiṣekaprakāśanam"
+   "directed": "अष्टादशमाह्निकम् — Abhiṣekaprakāśanam"
   },
   {
    "id": "b3",
@@ -6791,8 +6791,8 @@
   "blocks": 848,
   "words_per_voice": {
    "none": 136,
-   "granny": 5173,
-   "verse": 146,
+   "granny": 5176,
+   "verse": 143,
    "man": 85
   },
   "est_min": {

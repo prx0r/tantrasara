@@ -21,10 +21,10 @@
   {
    "id": "b2",
    "section": "Tantrasāra — Chapter 10",
-   "type": "verse",
-   "voice": "verse",
+   "type": "narration",
+   "voice": "granny",
    "text": "दशममाह्निकम् — Kalādyadhvaprakāśanam",
-   "directed": "[slowly] दशममाह्निकम् — Kalādyadhvaprakāśanam"
+   "directed": "दशममाह्निकम् — Kalādyadhvaprakāśanam"
   },
   {
    "id": "b3",
@@ -6783,8 +6783,8 @@
   "blocks": 847,
   "words_per_voice": {
    "none": 62,
-   "granny": 4546,
-   "verse": 125,
+   "granny": 4549,
+   "verse": 122,
    "man": 38
   },
   "est_min": {

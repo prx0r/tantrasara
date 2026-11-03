@@ -1,4 +1,8 @@
 # SPEAKER RULES — v0 (2026-10-29, intake: cast TBD by owner ear)
+# SUPERSEDED 2026-11-04 for voice casting: seats locked in STANDARD.md §2
+# (granny / man 75% / verse, Fish s2.1-pro-free) and implemented in
+# `build_storyboard.py` + the `tantrasara-storyboard` skill. Kept for the
+# ritual shape (§Per-section order, bells) which still applies.
 
 The archive voice (whoever reads + explains this text) is BOTH voices
 already: readings AND explanations.

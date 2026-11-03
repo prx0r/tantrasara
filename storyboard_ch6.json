@@ -21,10 +21,10 @@
   {
    "id": "b2",
    "section": "Tantrasāra — Chapter 6",
-   "type": "verse",
-   "voice": "verse",
+   "type": "narration",
+   "voice": "granny",
    "text": "षष्ठमाह्निकम् — Kālādhvaprakāśanam",
-   "directed": "[slowly] षष्ठमाह्निकम् — Kālādhvaprakāśanam"
+   "directed": "षष्ठमाह्निकम् — Kālādhvaprakāśanam"
   },
   {
    "id": "b3",
@@ -8567,15 +8567,15 @@
   "blocks": 1070,
   "words_per_voice": {
    "none": 64,
-   "granny": 6109,
-   "verse": 124,
-   "man": 58
+   "granny": 6112,
+   "man": 58,
+   "verse": 121
   },
   "est_min": {
    "none": 0.4,
    "granny": 40.7,
-   "verse": 0.8,
-   "man": 0.4
+   "man": 0.4,
+   "verse": 0.8
   }
  },
  "validation": {

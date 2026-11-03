@@ -87,12 +87,17 @@ writes to the volume mount never local disk, preflight local 1G volume 4G,
 transient frames cleaned. Git commits chapters scripts storyboards
 overrides glossaries sheets docs, never audio frames caches keys.
 
-## Open deltas to fold into law
+## Open deltas to fold into law (2026-11-04 refresh)
 
-Beds in `assemble_chapter.py` still read 0.4 and 1.0, canonical is the clip
-rhythm table above. STANDARD section 3 still names ch1-13, code and batch
-cover 22. Next and Keep reading kept versus stripped needs one owner line.
-Dialogue with verse voice in ch04 and ch13 needs a name or reclassify.
-Duplicate storyboard files without extension and ch6 versus ch06 naming
-need one cleanup pass. `review` packs versus `reviews` frozen listener
-reviews need distinct names in the tree.
+- DONE: duplicate extensionless storyboards deleted; `assets/thumbnail/`
+  canonical with ch01 rainbow (rest fall back to legacy art — wrong art,
+  flagged below); STANDARD §3 now names all 22.
+- STILL OPEN: beds in `assemble_chapter.py` read 0.4/1.0 vs clip rhythm
+  table above (mp3 mixes vs video mixes diverge). Next/Keep reading kept
+  versus stripped needs one owner line. Dialogue with verse voice in ch04
+  and ch13 needs a name or reclassify. Thumbnails ch02–22 missing (fallback
+  shows ch01 art). One cue per block fires (second mention in the same
+  block never cards). `verse_gloss_chNN.json` (T1 literal + L3 final per
+  chant, `mine_verse_gloss.py`) parked proposed after a same-day revert —
+  verses render Deva + IAST until re-blessed. `review/` packs versus
+  `reviews/` frozen listener reviews need distinct names in the tree.

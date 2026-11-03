@@ -196,5 +196,13 @@
    "b138"
   ],
   "note": "auto-mined; needs Deva + gloss review"
+ },
+ "sambhavopayaprakasanam": {
+  "deva": "शाम्भवोपायप्रकाशनम्",
+  "literal": "sāmbhava [of Śambhu] + upāya [means] + prakāśana [exposition]",
+  "gloss": "The Divine Method",
+  "status": "proposed",
+  "literal_status": "proposed",
+  "note": "chapter-title entry; drives the canonical intro title stack"
  }
 }

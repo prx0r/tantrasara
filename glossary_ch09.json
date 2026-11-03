@@ -342,13 +342,12 @@
   "note": "auto-mined; needs Deva + gloss review"
  },
  "tattvabhedaprakasanam": {
-  "deva": "तत्त्वभेदप्रकसनम्",
-  "gloss": "",
+  "deva": "तत्त्वभेदप्रकाशनम्",
+  "literal": "tattva [reality] + bheda [division] + prakāśana [exposition]",
+  "gloss": "The Divisions of Reality",
   "status": "proposed",
-  "cue_blocks": [
-   "b1042"
-  ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "literal_status": "proposed",
+  "note": "chapter-title entry; drives the canonical intro title stack"
  },
  "tattvanam": {
   "deva": "तत्त्वनम्",

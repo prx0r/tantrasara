@@ -1,0 +1,62 @@
+{
+ "abhts_20.1": {
+  "bids": [
+   "b61"
+  ],
+  "match_key": "tatrayadiksasamskarasiddhyaijnanayogyanpratiyacatadasaktanpratimoksadiksasabijatasyamkrtayamajivamsesavartanamgururupadiset",
+  "match_score": 0.94,
+  "literal": "Now (atra) twentieth-ahnika (viṃśam āhnikam): initiation (yā dīkṣā) for-skill-success (saṃskārasiddhyai) for-knowledge-fit (jñānayogyān prati) what (yā ca) for-those-unable (tadaśaktān prati) liberation-initiation (mokṣadīkṣā) with-seed (sabījā) — in-it (tasyām) done (kṛtāyām) for-life (ājīvam) remaining-conduct (śeṣavartanam) teacher (guruḥ) should-teach (upadiśet)",
+  "final": "",
+  "final_source": "none",
+  "l4": null,
+  "status": "proposed"
+ },
+ "abhts_20.12": {
+  "bids": [
+   "b527"
+  ],
+  "match_key": "adhisayyaparamarthikabhavaprasaramprakasamullasatiyaparamamrtadrktvamtayarcayanterahasyavidahadhisayyaparamarthikabhavaprasaramprakasamullasatiya",
+  "match_score": 0.53,
+  "literal": "Abiding-upon (adhiśayya) paramārthika (pāramārthikaḥ) thing-flow (bhāvaprasaraṃ) shines (prakāśam ullasati) which (yā)",
+  "final": "",
+  "final_source": "none",
+  "l4": null,
+  "status": "proposed"
+ },
+ "abhts_20.13": {
+  "bids": [
+   "b528"
+  ],
+  "match_key": "paramamrtadrktvamtayarcayanterahasyavidah",
+  "match_score": 0.99,
+  "literal": "Supreme- nectar-sight (paramāmṛtadṛktvaṃ) by-it (tayā) worship (arcayante) secret- knowers (rahasyavidaḥ)",
+  "final": "",
+  "final_source": "none",
+  "l4": null,
+  "status": "proposed"
+ },
+ "abhts_20.24": {
+  "bids": [
+   "b809"
+  ],
+  "match_key": "sarvatraparamesvarabhedabhimanaevaparamahsamskarahsarvatraparamesvarabhedabhimanaevaparamahsamskarah",
+  "match_score": 0.66,
+  "literal": "Everywhere (sarvatra) Lord-nondifference-conceit (parameśvarābhedābhimānaḥ eva) supreme (paramaḥ) sacrament (saṃskāraḥ)",
+  "final": "",
+  "final_source": "none",
+  "l4": null,
+  "status": "proposed"
+ },
+ "abhts_20.39": {
+  "bids": [
+   "b1299"
+  ],
+  "match_key": "vinapavitrakenasarvamnisphalam",
+  "match_score": 0.53,
+  "literal": "Now (atha) pavitra-course (pavitrakavidhiḥ)",
+  "final": "",
+  "final_source": "none",
+  "l4": null,
+  "status": "proposed"
+ }
+}

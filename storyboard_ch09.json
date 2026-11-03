@@ -21,10 +21,10 @@
   {
    "id": "b2",
    "section": "Tantrasāra — Chapter 9",
-   "type": "verse",
-   "voice": "verse",
+   "type": "narration",
+   "voice": "granny",
    "text": "नवममाह्निकम् — Tattvabhedaprakāśanam",
-   "directed": "[slowly] नवममाह्निकम् — Tattvabhedaprakāśanam"
+   "directed": "नवममाह्निकम् — Tattvabhedaprakāśanam"
   },
   {
    "id": "b3",
@@ -8367,15 +8367,15 @@
   "blocks": 1045,
   "words_per_voice": {
    "none": 63,
-   "granny": 6537,
-   "verse": 130,
-   "man": 63
+   "granny": 6540,
+   "man": 63,
+   "verse": 127
   },
   "est_min": {
    "none": 0.4,
    "granny": 43.6,
-   "verse": 0.9,
-   "man": 0.4
+   "man": 0.4,
+   "verse": 0.8
   }
  },
  "validation": {

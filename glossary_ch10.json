@@ -126,13 +126,12 @@
   "note": "auto-mined; needs Deva + gloss review"
  },
  "kaladyadhvaprakasanam": {
-  "deva": "कलद्यध्वप्रकसनम्",
-  "gloss": "",
+  "deva": "कलाद्यध्वप्रकाशनम्",
+  "literal": "kalā [part] + ādi [and the rest] + adhvan [path] + prakāśana [exposition]",
+  "gloss": "The Five Great Kalās",
   "status": "proposed",
-  "cue_blocks": [
-   "b817"
-  ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "literal_status": "proposed",
+  "note": "chapter-title entry; drives the canonical intro title stack"
  },
  "kalas": {
   "deva": "कलस्",

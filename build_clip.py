@@ -65,9 +65,14 @@ def main():
         wpath = f'/tmp/mmsclip/cw{i}.json'
         opath = f'/tmp/mmsclip/ct{i}.json'
         # sa-IN wants Devanagari (its romanizer rejects IAST diacritics);
-        # display/subtitle mapping stays 1:1 either way
+        # en-IN wants roman (its romanizer rejects Devanagari script —
+        # granny speaking inline Sanskrit, e.g. ch02 b2). Aligner input is
+        # folded only; display text and 1:1 word mapping stay untouched.
         from indic_transliteration.sanscript import transliterate as _tr, IAST as _IA, DEVANAGARI as _DV
-        ali = [(_tr(w, _IA, _DV) if not re.search(r'[\u0900-\u097F]', w) else w) for w in disp] if lang == 'sa-IN' else disp
+        if lang == 'sa-IN':
+            ali = [(_tr(w, _IA, _DV) if not re.search(r'[\u0900-\u097F]', w) else w) for w in disp]
+        else:
+            ali = [(_tr(w, _DV, _IA) if re.search(r'[\u0900-\u097F]', w) else w) for w in disp]
         json.dump(ali, open(wpath, 'w'), ensure_ascii=False)
         r = subprocess.run(['node', ALIGN, f, wpath, opath, lang],
                            capture_output=True, text=True, env={**os.environ, 'NODE_PATH': NODE_MOD})
@@ -118,14 +123,32 @@ def main():
             sw = [w for w in b['text'].strip().split() if re.search(r'\w', w, re.U)]
             seg = rows[wi:wi + len(sw)]
             assert len(seg) == len(sw), f"{b['id']}: {len(sw)} vs {len(seg)}"
-            # subtitle display: IAST for verse blocks (Devanagari has no
-            # glyphs in the subtitle face — bare boxes otherwise)
-            sub = [to_iast(w) if b['type'] == 'verse' else w for w in sw]
+            # subtitle display: Devanagari has no glyphs in the subtitle
+            # face (tofu — M3), so Deva-script words render as IAST for
+            # EVERY voice; all else verbatim. Mixed Deva+roman lines split
+            # first (M4): when the roman half duplicates the chant, the
+            # Deva words blank and the author's own romanisation carries
+            # the karaoke — never both (karaoke indices remap to visible
+            # words below). Counts stay 1:1 with sw throughout.
+            import unicodedata as _ud2
+            _dt = [_w for _w in sw if re.search(r'[\u0900-\u097F]', _w)]
+            _rt = [_w for _w in sw if not re.search(r'[\u0900-\u097F]', _w) and re.search(r'\w', _w, re.U)]
+            _f2 = lambda s: ''.join(c for c in _ud2.normalize('NFD', s.lower()) if _ud2.category(c) != 'Mn')
+            _dup = bool(_dt and _rt and _f2(' '.join(_rt)) == _f2(to_iast(' '.join(_dt))))
+            sub = ['' if (_dup and re.search(r'[\u0900-\u097F]', w) is not None) else (to_iast(w) if re.search(r'[\u0900-\u097F]', w) else w) for w in sw]
             for j, r in enumerate(seg):
                 flat.append((b, j, r['t_on'] + off, sw, sub, r['t_off'] + off))
             wi += len(sw)
         off += durs[gi] + (beds[gi] if gi < len(beds) else 0)
-    # glossary: confirmed terms only (proposed terms play over white).
+    # subtitle word dump for the gate (H5/H6): every spoken word with its
+    # displayed form and onset — the gate scans for Devanagari leaks and
+    # asserts display-word counts match spoken-word counts per block.
+    _subs = []
+    for (b, k, t_on, sw, sub, t_off) in flat:
+        _subs.append({'bid': b['id'], 't': round(t_on, 2), 'w': sw[k] if k < len(sw) else '',
+                      's': sub[k] if k < len(sub) else ''})
+    json.dump(_subs, open(os.path.splitext(out)[0] + '.subs.json', 'w', encoding='utf-8'),
+              ensure_ascii=False)
     # entries carry citation Deva + T1 literal + final gloss; video shows
     # the literal only once its own literal_status is confirmed.
     import glob as _gg
@@ -141,6 +164,8 @@ def main():
                 _gl[k] = {'deva': v.get('deva', ''), 'gloss': v.get('gloss', ''),
                           'literal': v.get('literal', '') if v.get('literal_status') == 'confirmed' else ''}
     print(f'confirmed glossary terms: {len(_gl)}', flush=True)
+    # verse cards: Deva + IAST (plus full term layers on glossed singles
+    # via _gl). Whole-chant T1/L3 layers parked — see BUILD-NOTES.
     # holds: verse cards while chanting, clean white once speech starts.
     # (owner: no title cards shown; Sanskrit clears when granny takes over)
     import sys as _sys
@@ -158,27 +183,20 @@ def main():
     shutil.rmtree(fdir, ignore_errors=True)
     os.makedirs(fdir)
     entries, idx = [], 0
-    # opener: thumbnail if it exists, else first verse hold (verse up fast)
-    # thumbnails live in assets/thumbnail/chNN.png (ch01 rainbow emblem law)
+    # opener: intro bug (thumbnail; ch02+ carry the chapter numeral
+    # top-right, ch01 blessed reference stays clean), else first verse hold
     import re as _re2
-    _first_verse = next(b for b in blocks if b['type'] == 'verse')
+    _first_verse = next((b for b in blocks if b['type'] == 'verse'), None)
     _m = _re2.search(r'ch(\d+)', sys.argv[1])
     _ch = _m.group(1) if _m else '01'
-    _THUMB = os.path.expanduser(f'~/tantrasara/assets/thumbnail/ch{_ch}.png')
-    if not os.path.exists(_THUMB):
-        _THUMB = os.path.expanduser('~/tantrasara/assets/thumb_ch1.png')  # legacy fallback
-    if os.path.exists(_THUMB):
-        _tb = Image.open(_THUMB).convert('RGB')
-        _tb.thumbnail((1400, 730), Image.LANCZOS)
-        _HOLD0 = Image.new('RGB', (W, H), LIGHT)
-        _HOLD0.paste(_tb, ((W - _tb.width) // 2, 50))
-    else:
-        _HOLD0 = hold_for.get(_first_verse['id'], _blank)
+    _HOLD0 = _H.intro_hold(_ch, _H.chapter_title(blocks, _gl))
+    if _HOLD0 is None:
+        _HOLD0 = hold_for.get(_first_verse['id'], _blank) if _first_verse else _blank
     _HOLD0.save(f'{fdir}/00000.png')
     entries.append((0, max(0.05, flat[0][2] if flat else off), 'thumbnail'))
     idx = 1
-    _first_verse_hold = hold_for.get(_first_verse['id'], _blank)
-    _first_verse_fi = next(i for i, (b, *_r) in enumerate(flat) if b['type'] == 'verse')
+    _first_verse_fi = next((i for i, (b, *_r) in enumerate(flat) if b['type'] == 'verse'),
+                           len(flat))  # no chant in range: thumbnail holds throughout
     # term cues: (start, end, image) from confirmed glossary mentions
     import unicodedata as _ud
     _fold = lambda s: ''.join(c for c in _ud.normalize('NFD', s.lower()) if _ud.category(c) != 'Mn')
@@ -292,10 +310,14 @@ def main():
     for fi, (b, k, t_on, sw, sub, t_off) in enumerate(flat):
         im = hold_img(b, fi).copy()
         d = ImageDraw.Draw(im)
+        # subtitle karaoke, wrapped <=2 lines. blank words (deduped
+        # duplicates) collapse for display; k maps to the visible index.
+        vis = [w for w in sub if w.strip()]
+        vk = sum(1 for x in sub[:k + 1] if x.strip()) - 1
         # subtitle karaoke, wrapped <=2 lines
         fnt = F(FE, 46)
         lines, cur = [], ''
-        for w_ in sub:
+        for w_ in vis:
             t_ = (cur + ' ' + w_).strip()
             if d.textlength(t_, font=fnt) > 1750 and cur:
                 lines.append(cur); cur = w_
@@ -306,7 +328,7 @@ def main():
         if len(lines) > 2:
             fnt = F(FE, 40)
             lines, cur = [], ''
-            for w_ in sub:
+            for w_ in vis:
                 t_ = (cur + ' ' + w_).strip()
                 if d.textlength(t_, font=fnt) > 1750 and cur:
                     lines.append(cur); cur = w_
@@ -318,8 +340,8 @@ def main():
         counts, acc = [], 0
         for ln in lines:
             counts.append(acc); acc += len(ln.split())
-        li = next((i for i in range(len(lines)) if k < counts[i] + len(lines[i].split())), len(lines) - 1)
-        rel = k - counts[li]
+        li = next((i for i in range(len(lines)) if vk < counts[i] + len(lines[i].split())), len(lines) - 1)
+        rel = vk - counts[li]
         for j, ln in enumerate(lines):
             wl = ln.split()
             if j < li:
@@ -370,7 +392,8 @@ def main():
     _json.dump({'cuts': idx, 'duration': round(_dur, 2),
                 'white_pct': round(100 * _cov.get('white', 0) / _tot),
                 'coverage': {k: round(v) for k, v in sorted(_cov.items())},
-                'cues': [{'t': round(s, 2), 'key': k} for s, e, k in _cues]},
+                'cues': [{'t': round(s, 2), 'key': k} for s, e, k in _cues],
+                'bids': bids},
                open(os.path.splitext(sys.argv[3])[0] + '.render_meta.json', 'w'))
 
 

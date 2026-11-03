@@ -736,5 +736,13 @@
    "b316"
   ],
   "note": "auto-mined; needs Deva + gloss review"
+ },
+ "paroksadiksaprakasanam": {
+  "deva": "परोक्षदीक्षाप्रकाशनम्",
+  "literal": "parokṣa [unseen, remote] + dīkṣā [initiation] + prakāśana [exposition]",
+  "gloss": "Initiation from a Distance",
+  "status": "proposed",
+  "literal_status": "proposed",
+  "note": "chapter-title entry; drives the canonical intro title stack"
  }
 }

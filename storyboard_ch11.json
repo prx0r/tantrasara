@@ -21,10 +21,10 @@
   {
    "id": "b2",
    "section": "Tantrasāra — Chapter 11",
-   "type": "verse",
-   "voice": "verse",
+   "type": "narration",
+   "voice": "granny",
    "text": "एकादशमाह्निकम् — Śaktipātaprakāśanam",
-   "directed": "[slowly] एकादशमाह्निकम् — Śaktipātaprakāśanam"
+   "directed": "एकादशमाह्निकम् — Śaktipātaprakāśanam"
   },
   {
    "id": "b3",
@@ -9535,8 +9535,8 @@
   "blocks": 1191,
   "words_per_voice": {
    "none": 80,
-   "granny": 7377,
-   "verse": 121,
+   "granny": 7380,
+   "verse": 118,
    "man": 144
   },
   "est_min": {

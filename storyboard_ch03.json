@@ -21,10 +21,10 @@
   {
    "id": "b2",
    "section": "Tantrasāra — Chapter 3",
-   "type": "verse",
-   "voice": "verse",
+   "type": "narration",
+   "voice": "granny",
    "text": "शाम्भवोपायप्रकाशनम् — Śāmbhavopāyaprakāśanam",
-   "directed": "[slowly] शाम्भवोपायप्रकाशनम् — Śāmbhavopāyaprakāśanam"
+   "directed": "शाम्भवोपायप्रकाशनम् — Śāmbhavopāyaprakāśanam"
   },
   {
    "id": "b3",
@@ -4111,15 +4111,15 @@
   "blocks": 513,
   "words_per_voice": {
    "none": 32,
-   "granny": 2951,
-   "verse": 165,
-   "man": 64
+   "granny": 2954,
+   "man": 64,
+   "verse": 162
   },
   "est_min": {
    "none": 0.2,
    "granny": 19.7,
-   "verse": 1.1,
-   "man": 0.4
+   "man": 0.4,
+   "verse": 1.1
   }
  },
  "validation": {

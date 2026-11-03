@@ -21,10 +21,10 @@
   {
    "id": "b2",
    "section": "Tantrasāra — Chapter 14",
-   "type": "verse",
-   "voice": "verse",
+   "type": "narration",
+   "voice": "granny",
    "text": "चतुर्दशमाह्निकम् — Putrakadīkṣāprakāśanam",
-   "directed": "[slowly] चतुर्दशमाह्निकम् — Putrakadīkṣāprakāśanam"
+   "directed": "चतुर्दशमाह्निकम् — Putrakadīkṣāprakāśanam"
   },
   {
    "id": "b3",
@@ -2118,7 +2118,7 @@
    "id": "b264",
    "section": "Tantrasāra — Chapter 14",
    "type": "dialogue",
-   "voice": "man",
+   "voice": "granny",
    "text": "“Abhinava, haven’t we already worshipped some of these elsewhere?”",
    "directed": "[short pause] “Abhinava, haven’t we already worshipped some of these elsewhere?”"
   },
@@ -8503,9 +8503,9 @@
   "blocks": 1062,
   "words_per_voice": {
    "none": 88,
-   "granny": 6505,
-   "verse": 169,
-   "man": 96
+   "granny": 6517,
+   "verse": 166,
+   "man": 87
   },
   "est_min": {
    "none": 0.6,

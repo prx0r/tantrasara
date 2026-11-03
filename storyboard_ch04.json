@@ -21,10 +21,10 @@
   {
    "id": "b2",
    "section": "Tantrasāra — Chapter 4",
-   "type": "verse",
-   "voice": "verse",
+   "type": "narration",
+   "voice": "granny",
    "text": "शाक्तोपायप्रकाशनम् — Śāktopāyaprakāśanam",
-   "directed": "[slowly] शाक्तोपायप्रकाशनम् — Śāktopāyaprakāśanam"
+   "directed": "शाक्तोपायप्रकाशनम् — Śāktopāyaprakāśanam"
   },
   {
    "id": "b3",
@@ -6463,14 +6463,14 @@
   "blocks": 807,
   "words_per_voice": {
    "none": 54,
-   "granny": 4845,
-   "verse": 69,
+   "granny": 4848,
+   "verse": 66,
    "man": 74
   },
   "est_min": {
    "none": 0.4,
    "granny": 32.3,
-   "verse": 0.5,
+   "verse": 0.4,
    "man": 0.5
   }
  },

@@ -371,3 +371,122 @@ layers for review; video gates literal on `literal_status == confirmed`
 (gloss gate unchanged). M15 filed: cards used to rebuild Deva from folded
 keys (चित्-सक्ति with स) — now always glossary citation (चित्शक्तिः).
 Single-word chants and persist spans inherit the layers automatically.
+
+## 2026-11-04 — four layers on ALL verses (IAST + T1 literal + L4/L3 final)
+Owner: every chant gets Deva, romanised in time, intermediary literal, and
+the L4 final when it lands (L3 meanwhile, translation-work ongoing).
+`mine_verse_gloss.py` (new) matches storyboard chant blocks to frozen T1
+verses by normalized similarity (score recorded) and pulls finals from L3
+data where present (only a01 so far — 5 verses); entries land in
+`verse_gloss_chNN.json`, all proposed, video gates on confirmed like
+glossaries. Render prefers `l4` over `final` per entry, so the L4 upgrade
+is a data fill, never a code change. Matching is by `verse_match_key`
+(content hash, M12-proof). Proven on ch01 b8: Deva + IAST + T1 literal +
+L3 final on one card, asserts green.
+
+## 2026-11-04 — docs swept, engine stress-tested (no renders but sheets)
+Owner: complete documentation, update all stale docs, hunt visual-engine
+edge cases. STANDARD (22 chapters, four layers, list engine, persist, IAST
+law, thumbnail dir), HANDOVER + READINESS (current state), PROCESS open
+deltas, PROCESS_NOTES (list engine + verse revert), BLOCKS (clip rhythm +
+four layers), SPEAKER-RULES (superseded for casting), tantrasara-holds
+skill (count engine, four layers, centered, brackets, no-romanisation
+amended), VISUAL (four layers, list engine). Stress results: ch20 sheets
+208 holds green; 7-key window slides green; unbreakable 50-char Deva in a
+narrow corner now fails loud (column assert added) instead of overflowing
+silently; no confirmed term lacks a Deva citation. Open and noted:
+assemble beds diverge from clip beds; thumbnails ch02–22 missing; one cue
+per block only; dialogue+verse voice unnamed; review/ vs reviews/ naming;
+verse T1/L3 parked proposed.
+
+## 2026-11-04 — ch02 intro (thumbnail + 02) + mixed-script split fix
+Owner: chapter-two intro mirrors the thumbnail with a 02 top-right.
+`holds.intro_hold(ch)` is the single code path (ch01 returns clean
+thumbnail; ch02+ add the numeral in FE 150). Caught live on ch02 b2:
+mixed Deva+roman lines rendered the roman half twice (big in Deva face,
+again small as IAST, same in subtitles). Fix: M4 `split_scripts` promoted
+from the pilot builder to shared law — the author's own roman half IS the
+IAST line, transliteration only where no roman exists; verse subtitles
+blank the Deva words when the roman duplicates them (karaoke indices
+remapped to visible words). Proven on fresh b1+b2 render: 4s thumbnail+2,
+verse card Deva + single IAST, subtitle single form. Old R2 links to
+ch02 pieces (if any) are stale.
+
+## 2026-11-04 — ch02 intro numeral 02 + b2 voice question
+Numeral fixed to zero-padded `02` per spec. Open: b2 (chapter-name chant)
+fires ~4s in, before any of her intro patter — owner asks why it barges
+into chant instead of being her intro. Probe rendered: granny reading b2
+verbatim (`review/granny_probe_b2.wav`, 4.2s); whisper garbles Sanskrit by
+design so transcript proves nothing — owner ears dispose. Calls: (A) flip
+b2 to granny by override — title, name, tagline, recap all hers over
+thumbnail+02, first verse card at first body chant; (B) keep the chanted
+name-anchor and let her patter play over white/cards after it.
+
+## 2026-11-04 — ch02 intro bug + mixed-script split + docs sweep
+Intro: `holds.intro_hold(ch)` shared by sheets and video (ch01 clean,
+ch02+ numeral top-right in FE 150, zero-padded). ch02 b1+b2 proof rendered
+fresh (thumbnail+02, then clean verse card). Caught live: b2's mixed line
+duplicated its roman half on card and subtitles — M16 filed, `split_scripts`
+promoted to shared law with subtitle blanking + karaoke remap, re-render
+clean. Open owner call: b2 chants ~4s in before her intro patter; probe of
+granny reading b2 rendered for ear-check, flip needs per-bid voice forcing
+(first-minute render queued behind it + local disk). Docs swept: STANDARD
+(22 chapters, four layers, list engine, persist, IAST law, thumbnail dir),
+VISUAL (four layers, list engine, persist, intro bug, M15/M16 posture),
+PROCESS open deltas refreshed, BLOCKS (clip rhythm canonical, four layers),
+HANDOVER + READINESS (current state), PROCESS_NOTES (chain rewritten to
+today's behavior, conveyor lock, ch02 intro), both skills, SPEAKER-RULES
+superseded for casting. Engine stress: ch20 208 holds green, 7-window
+slides, unbreakable-column assert added (fails loud), zero confirmed terms
+lack citation Deva. Still open: assemble beds diverge, ch02–22 thumbs
+missing, one cue per block, dialogue+verse unnamed, review/ vs reviews/,
+verse T1/L3 parked, approvals none, disk 0.5G vs 1G, golden empty.
+
+## 2026-11-04 — ch02 b2 flips to granny (her intro, verse keeps chants)
+Owner: verse voice does verses and longer chants; she speaks the name line.
+Builder now honors per-bid voice forcing in overrides (any block type;
+verse-type forced off-seat retypes to narration for non-quotes; owner call
+beats the Abhinav-man convention; unknown bids fail closed). ch02 b2 is
+narration/granny, green 0/0, first verse now b82 — thumbnail+02 holds her
+whole intro. Two build fixes fell out: MMS en-IN gets Deva tokens folded
+to IAST for the aligner only (was 42-vs-3 row collapse; means 0.946 now),
+and clips with no verse block in range no longer StopIteration (thumbnail
+holds throughout). ch02 b1–b9 proof rendered fresh (29s, 50 cuts, all
+thumbnail, MMS 0.95) + review pack published. ch01 untouched.
+
+## 2026-11-04 — narration subtitles go IAST-per-word (M16 second half)
+Flipping b2 to granny moved Devanagari into the verbatim narration
+subtitle path — tofu boxes on screen (M3 class, new route). Fix: every
+voice now renders Deva-script words as IAST in subtitles, all else
+verbatim, 1:1 counts kept so karaoke holds; mixed lines dedup first
+(Deva blanks when the author's roman duplicates it). Sheets' sub-lines
+fixed the same way. ch02 b1–b9 re-rendered clean (single IAST subtitle,
+thumbnail held). Rule: no Devanagari glyph may reach the subtitle face
+from any path — cards (Tiro) and subtitles (Cormorant) stay script-pure.
+
+## 2026-11-04 — canonical chapter title (numeral + name stack, top-right)
+Owner: standardize per-chapter titles — numeral up top (moved 90→60 for
+proportion), chapter name beneath with full layers (Deva, romanised,
+literal, meaning). `holds.chapter_title` resolves the name from the first
+granny narration carrying Deva (ch02 b2); `intro_hold(ch, title)` draws
+thumbnail + numeral + right-aligned title stack clearing the mandala
+(ink right of x=1340 above y=780, asserted) and frame edges. ch02 title
+entry drafted proposed in glossary (`anupayaprakasanam`: literal + "The
+Exposition of the Pathless"). Sheets show the same intro bug the video
+burns. ch01 untouched. First implementation ran all title ink off the
+right edge (wrap computed but never applied) — caught on the proof PNG,
+fixed with real wrapping + asserts.
+
+## 2026-11-04 — title stack centered, final reads The Pathless Path
+Owner: layers centered under the Sanskrit (not right-aligned), final line
+is the familiar tagline. Title stack now centers every layer on cx=1570
+(max half-width 230, mandala clearance asserted); ch02 final set to "The
+Pathless Path" (proposed, glossary entry). Proof PNG re-rendered clean.
+
+## 2026-11-04 — canonical header: title top-left, numeral top-right
+Owner: title top-left exactly in line with the number, saved canonical for
+all chapters. Title Deva at x=120 y=60 (same baseline as 02), every layer
+centered under the Sanskrit, Deva wrap threshold 520 (stays 84 wherever it
+fits the mandala bound), English wraps to the Deva width. Asserts: subtitle
+zone, mandala clearance (ink right of x=1340 above y=780 no longer
+applies — now ink left of x=640). ch01 untouched.

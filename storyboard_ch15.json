@@ -21,10 +21,10 @@
   {
    "id": "b2",
    "section": "Tantrasāra — Chapter 15",
-   "type": "verse",
-   "voice": "verse",
+   "type": "narration",
+   "voice": "granny",
    "text": "पञ्चदशमाह्निकम् — Pañcadaśam Āhnikam",
-   "directed": "[slowly] पञ्चदशमाह्निकम् — Pañcadaśam Āhnikam"
+   "directed": "पञ्चदशमाह्निकम् — Pañcadaśam Āhnikam"
   },
   {
    "id": "b3",
@@ -4903,8 +4903,8 @@
   "blocks": 612,
   "words_per_voice": {
    "none": 58,
-   "granny": 4045,
-   "verse": 122,
+   "granny": 4049,
+   "verse": 118,
    "man": 33
   },
   "est_min": {

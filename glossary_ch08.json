@@ -531,13 +531,12 @@
   "note": "auto-mined; needs Deva + gloss review"
  },
  "tattvasvarupaprakasanam": {
-  "deva": "तत्त्वस्वरुपप्रकसनम्",
-  "gloss": "",
+  "deva": "तत्त्वस्वरूपप्रकाशनम्",
+  "literal": "tattva [reality] + svarūpa [own-nature] + prakāśana [exposition]",
+  "gloss": "The Nature of Reality",
   "status": "proposed",
-  "cue_blocks": [
-   "b1493"
-  ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "literal_status": "proposed",
+  "note": "chapter-title entry; drives the canonical intro title stack"
  },
  "upadana-karana": {
   "deva": "उपदन करन",

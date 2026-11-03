@@ -279,13 +279,12 @@
   "note": "auto-mined; needs Deva + gloss review"
  },
  "snanaprakasanam": {
-  "deva": "स्ननप्रकसनम्",
-  "gloss": "",
+  "deva": "स्नानप्रकाशनम्",
+  "literal": "snāna [bathing]",
+  "gloss": "The Sacred Bath",
   "status": "proposed",
-  "cue_blocks": [
-   "b701"
-  ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "literal_status": "proposed",
+  "note": "chapter-title entry; drives the canonical intro title stack"
  },
  "srsti-samarthya": {
   "deva": "स्र्स्ति समर्थ्य",

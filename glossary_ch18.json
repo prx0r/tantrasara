@@ -9,13 +9,12 @@
   "note": "auto-mined; needs Deva + gloss review"
  },
  "abhisekaprakasanam": {
-  "deva": "",
-  "gloss": "",
+  "deva": "अभिषेकप्रकाशनम्",
+  "literal": "abhiṣeka [consecration] + prakāśana [exposition]",
+  "gloss": "The Consecration of the Guru",
   "status": "proposed",
-  "cue_blocks": [
-   "b844"
-  ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "literal_status": "proposed",
+  "note": "chapter-title entry; drives the canonical intro title stack"
  },
  "abhisikto": {
   "deva": "",

@@ -369,13 +369,12 @@
   "note": "auto-mined; needs Deva + gloss review"
  },
  "kulayagaprakasanam": {
-  "deva": "",
-  "gloss": "",
+  "deva": "कुलयागप्रकाशनम्",
+  "literal": "kula [Kaula clan] + yāga [sacrifice] + prakāśana [exposition]",
+  "gloss": "The Great Kaula Ritual",
   "status": "proposed",
-  "cue_blocks": [
-   "b1956"
-  ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "literal_status": "proposed",
+  "note": "chapter-title entry; drives the canonical intro title stack"
  },
  "laksanam": {
   "deva": "",

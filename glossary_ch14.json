@@ -826,5 +826,13 @@
    "b124"
   ],
   "note": "auto-mined; needs Deva + gloss review"
+ },
+ "putrakadiksaprakasanam": {
+  "deva": "पुत्रकदीक्षाप्रकाशनम्",
+  "literal": "putraka [spiritual son] + dīkṣā [initiation] + prakāśana [exposition]",
+  "gloss": "The Initiation of the Spiritual Son",
+  "status": "proposed",
+  "literal_status": "proposed",
+  "note": "chapter-title entry; drives the canonical intro title stack"
  }
 }

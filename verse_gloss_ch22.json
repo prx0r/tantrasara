@@ -1,0 +1,38 @@
+{
+ "abhts_22.12": {
+  "bids": [
+   "b1028"
+  ],
+  "match_key": "saktihsrstimpusnati",
+  "match_score": 0.56,
+  "literal": "As- stated (tad uktam): \"creation (sṛṣṭiṃ tu) having-containerized (saṃpuṭīkṛtya)\" (iti)",
+  "final": "",
+  "final_source": "none",
+  "l4": null,
+  "status": "proposed"
+ },
+ "abhts_22.17": {
+  "bids": [
+   "b727"
+  ],
+  "match_key": "sakterlaksanametattadvadabhedastatonapeksyavayahjatyadimscasangalloketarayugalajamhitadatmyamsakterlaksanametattadvadabhedastatonapeksyavayah",
+  "match_score": 0.75,
+  "literal": "Now (atha) in-couple (yāmale): of-power (śakter) mark (lakṣaṇam) this (etat) — like-it (tadvad) nondifference (abhedas) then (tato) without-regard (anapekṣya) age-and-the-rest (vayaḥ jātyādīṃś ca) non-attachment (asaṅgāt); of-other-than-world-couple-born (loketarayugalajaṃ hi) identity (tādātmyam)",
+  "final": "",
+  "final_source": "none",
+  "l4": null,
+  "status": "proposed"
+ },
+ "abhts_22.21": {
+  "bids": [
+   "b808"
+  ],
+  "match_key": "nijanijabhogabhogapravikasamayasvarupaparimarsekramasonucakradevyahsamviccakramhimadhyamamyantinijanijabhogabhogapravikasamayasvarupaparimarse",
+  "match_score": 0.79,
+  "literal": "By-each-own-enjoyment-non-enjoyment-variety (nijanijabhogābhogapravikāsa- mayasvarūpaparimarśe); gradually (kramaśaḥ) subcircle-goddesses (anucakradevyaḥ) consciousness-circle (saṃviccakraṃ hi) middle (madhyamaṃ) go (yānti)",
+  "final": "",
+  "final_source": "none",
+  "l4": null,
+  "status": "proposed"
+ }
+}

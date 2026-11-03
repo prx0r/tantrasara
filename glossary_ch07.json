@@ -529,5 +529,13 @@
    "b383"
   ],
   "note": "auto-mined; needs Deva + gloss review"
+ },
+ "desadhvaprakasanam": {
+  "deva": "देशाध्वप्रकाशनम्",
+  "literal": "deśa [space] + adhvan [path] + prakāśana [exposition]",
+  "gloss": "The Path of Space",
+  "status": "proposed",
+  "literal_status": "proposed",
+  "note": "chapter-title entry; drives the canonical intro title stack"
  }
 }

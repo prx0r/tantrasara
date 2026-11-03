@@ -3,14 +3,18 @@
 22 chapters, one chain. Storyboard is the render. Publish is a view of the
 same file. Anything that changes the picture changes the storyboard first.
 
-## Read order
+## Read order (every agent, no skipping)
 
-PROCESS.md first, it is the canonical chain. Then BUILD-NOTES.md, the log,
+0. `RUNTIME.md` — the owner's verbatim gospel and northstar. The routine:
+   blocks → edits → storyboard PNG proofs → perfect mp4 → Qwen final pass.
+1. `GATES.md` — the binary gate list. Every rule pass/fail, no cheating.
+2. `PROCESS.md` — the canonical chain. Then `BUILD-NOTES.md`, the log,
 which wins on conflict with anything except PROCESS open deltas. Then
-HANDOVER.md for current state, VISION.md for taste, MISTAKES.md for the
-fourteen traps, VISUAL.md for the screen law. BLOCKS.md, INTRO_BLOCKS.md,
-READINESS.md and PROVISIONAL_CASTING_14-22.md are working notes folded into
-PROCESS.md already.
+`HANDOVER.md` for current state, `VISION.md` for taste, `MISTAKES.md` for
+the traps, `VISUAL.md` for the screen law, `LAYERS.md` for every layer's
+source and gate. `BLOCKS.md`, `INTRO_BLOCKS.md`,
+`READINESS.md`, `CHAPTER_PREP.md` and `PROVISIONAL_CASTING_14-22.md` are
+working notes folded into PROCESS.md already.
 
 ## Factory layout
 

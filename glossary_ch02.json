@@ -106,5 +106,13 @@
    "b104"
   ],
   "note": "auto-mined; needs Deva + gloss review"
+ },
+ "anupayaprakasanam": {
+  "deva": "अनुपायप्रकाशनम्",
+  "literal": "an [without] + upāya [means] + prakāśana [exposition]",
+  "gloss": "The Pathless Path",
+  "status": "proposed",
+  "literal_status": "proposed",
+  "note": "chapter-title entry; drives the canonical intro title stack"
  }
 }

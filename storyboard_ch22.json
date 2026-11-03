@@ -21,10 +21,10 @@
   {
    "id": "b2",
    "section": "Tantrasāra — Chapter 22",
-   "type": "verse",
-   "voice": "verse",
+   "type": "narration",
+   "voice": "granny",
    "text": "द्वाविंशमाह्निकम् — Kulayāgaprakāśanam",
-   "directed": "[slowly] द्वाविंशमाह्निकम् — Kulayāgaprakāśanam"
+   "directed": "द्वाविंशमाह्निकम् — Kulayāgaprakāśanam"
   },
   {
    "id": "b3",
@@ -15711,8 +15711,8 @@
   "blocks": 1963,
   "words_per_voice": {
    "none": 59,
-   "granny": 11445,
-   "verse": 349,
+   "granny": 11448,
+   "verse": 346,
    "man": 180
   },
   "est_min": {

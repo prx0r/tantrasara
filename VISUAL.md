@@ -18,18 +18,23 @@ implements. Change only by owner call, same commit as the code.
   (the face owns no Devanagari glyphs); narration subtitles verbatim.
 
 ## Cards (owner-confirmed 2026-11-03: term cards as now, ~20% white target)
-1. **Thumbnail** — frame 0 until first chant. Fitted above subtitle zone,
-   never fullscreen-bleed.
-2. **Verse** — Devanagari plus small IAST beneath each line (no other
-   romanisation ever lives on cards — IAST survives in full only in
-   subtitles, where the Latin face can actually render it). Up the moment
-   chanting starts, clears the instant speech resumes. Max 3 Deva
-   line-pairs per hold. Single-word glossed chants carry all four term
+1. **Thumbnail + chapter numeral** — frame 0 until first chant. Fitted above
+   subtitle zone, never fullscreen-bleed. ch01 shows the thumbnail alone
+   (blessed reference, never touched); ch02+ carry the chapter numeral
+   top-right in house figure type (shared `intro_hold`, one code path for
+   sheets and video).
+2. **Verse** — Devanagari plus small IAST beneath each line (per-term IAST
+   lines allowed since 2026-11-04, owner call; full transliteration blocks
+   live in subtitles only). Whole-chant T1 literal + L3 final tried and
+   reverted same day — verses stay Deva + IAST until re-blessed
+   (`mine_verse_gloss.py` output parked proposed in `verse_gloss_chNN.json`).
+   Up the moment chanting starts, clears the instant speech resumes. Max 3
+   Deva line-pairs per hold. Single-word glossed chants carry all four term
    layers (see 5).
 3. **Term** — four layers, closest to furthest from the Sanskrit: Devanagari
    headword (ink, citation form from the glossary — never rebuilt from the
    folded key) + IAST romanised (lightest grey, same onset) + intermediary
-   T1-style literal gloss (mid grey, e.g. cit (consciousness) + śakti
+   T1-style literal gloss (mid grey, e.g. cit [consciousness] + śakti
    (power)) + final English gloss (darkest grey). Pops the instant she says
    the word; holds until the next cue or tone break (newer cue always
    supersedes). Only `confirmed` glossary terms render — `proposed` plays

@@ -58,10 +58,13 @@ duration. Voice audio -21dB mean, man attenuated.
   align per group (en-IN narration, sa-IN chant, folding plus number spelling
   for the aligner only, 1:1 word map asserted, mean 0.85 minimum). Flat word
   timeline with absolute onsets, beds included. Holds from `holds.py`:
-  thumbnail to first chant, verse cards while chanting, term cards on
-  confirmed glossary cues clamped at next cue so newer wins, white otherwise.
-  Subtitles verbatim except verse in IAST. Beds 0.8 titles dialogue section
-  ends and long-pause beats, 0.6 verse, 0.3 flow. Prints COVERAGE, fails
+  thumbnail to first chant, verse cards (Deva + IAST) while chanting, term
+  cards in four layers on confirmed glossary cues, list runs accumulated by
+  the count engine, single-word chants persisting one block, white
+  otherwise. Subtitles verbatim except verse in IAST. Beds 0.8 titles
+  dialogue section ends and long-pause beats, 0.6 verse, 0.3 flow (clip
+  rhythm is canonical; `assemble_chapter.py` mp3 beds still read 0.4/1.0 —
+  open delta). Prints COVERAGE, fails
   over 85 percent white past 60s. Writes `render_meta.json` with cuts,
   duration, coverage, cues.
 - Full chapter is the degenerate case: bids equals every block except

@@ -21,10 +21,10 @@
   {
    "id": "b2",
    "section": "Tantrasāra — Chapter 20",
-   "type": "verse",
-   "voice": "verse",
+   "type": "narration",
+   "voice": "granny",
    "text": "विंशमाह्निकम् — Viṃśam Āhnikam",
-   "directed": "[slowly] विंशमाह्निकम् — Viṃśam Āhnikam"
+   "directed": "विंशमाह्निकम् — Viṃśam Āhnikam"
   },
   {
    "id": "b3",
@@ -16855,8 +16855,8 @@
   "blocks": 2106,
   "words_per_voice": {
    "none": 100,
-   "granny": 12086,
-   "verse": 289,
+   "granny": 12090,
+   "verse": 285,
    "man": 156
   },
   "est_min": {

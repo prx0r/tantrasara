@@ -1,14 +1,18 @@
 # TANTRASARA EXPLAINED — production standard (all videos, all chapters)
 
-Locked 2026-11-02. This document is law for every chapter. Change it only
-by owner call, same commit as the code that implements the change.
+Locked 2026-11-02, amended by owner call 2026-11-04 (four-layer cards, list
+engine, persist, IAST-on-cards, 22-chapter set, thumbnail dir). This document
+is law for every chapter. Change it only by owner call, same commit as the
+code that implements the change.
 
 ## 1. The format in one paragraph
 
 Bell and thumbnail open. Granny speaks the title, declares the role, cold
-opens. The Sanskrit verse goes up the moment chanting starts and clears the
-moment speech resumes. Terms appear in Sanskrit with an English gloss the
-instant she says them. Everything else plays over clean white, which returns
+opens. The Sanskrit verse goes up with romanisation, literal and final the
+moment chanting starts; a lone chant stays up with its layers through the
+following beat. Terms appear in four layers — Devanagari, IAST, T1 literal,
+final English — the instant she says them; lists accumulate into one
+count-shaped card. Everything else plays over clean white, which returns
 at every tone break. No title cards are ever shown. Subtitles carry every
 spoken word with karaoke lighting, timed by forced alignment, never by guess.
 
@@ -25,12 +29,14 @@ never printed. Full audition trail: `liked_voices.md` (9 candidates tested).
 
 ## 3. Chapter source prep (`cleanup_chapters.py`, `split_chapters.py`)
 
-Canonical set: ch1–2 from `tantrasara1/2`, ch3–5, ch7–8, ch9–13 from the
-ranged dumps. `tantrasara3` (gmail-chrome dump) is IGNORED forever.
+Canonical set: all 22 chapters, `chapters/chNN.md` (ch06 file is
+`ch06-kaladhva.md`). `tantrasara3` (gmail-chrome dump) is IGNORED forever.
 Per file, in order: drop jacket-copy blurbs (slang-retelling paragraphs),
-drop duplicate H1 titles, drop `Keep reading`/`Next:` trailers are KEPT as
-spoken outros, strip ` <source> +N` citation tails, strip GRETIL `/` `//`
-danda markers, drop Devanagari file-level duplication. Rerun is idempotent.
+drop duplicate H1 titles, `Keep reading`/`Next:` trailers stay spoken where
+present (owner ruling pending — ch06 keeps its Next pointer; ch01/02 end on
+the body), strip ` <source> +N` citation tails, strip GRETIL `/` `//`
+danda markers, drop Devanagari file-level duplication. Rerun is idempotent
+(scoped with `--only` so frozen chapters are never touched).
 
 ## 4. Storyboard (`build_storyboard.py` + `overrides_chNN.json`)
 
@@ -53,20 +59,30 @@ verse→`[slowly]`, titles→`[long pause]`, dialogue→`[short pause]`, granny
 beats→`[short pause]` only for `BEAT_LEXICON` catchwords and colon-ender
 lead-ins. Short sentences are NOT beats. Tag cap 3/sentence.
 
-## 6. Glossary (`glossary_chNN.json`)
+## 6. Glossary (`glossary_chNN.json` + T1 literals)
 
-Term cards need Devanagari + English gloss. Glosses drafted from the
-author's own surrounding words, every one `proposed` until the owner
-confirms. Unconfirmed terms play over white — never on cards. Keys are
-folded ASCII (diacritics stripped, lowercase). Owner confirms in bulk;
-engineer flips status, never edits glosses silently.
+Term cards need four layers: citation Devanagari (never rebuilt from the
+folded key — M15) + IAST romanised in lightest grey + T1 intermediary
+literal in mid grey, square brackets (e.g. `cit [consciousness] + śakti
+[power]`) + final English in darkest grey. Glosses and literals drafted
+from the author's own surroundings (literals T1-style morpheme breakdowns),
+every one `proposed` until the owner confirms in bulk — video shows the
+literal only once its own `literal_status` is confirmed. Unconfirmed terms
+play over white — never on cards. Keys are folded ASCII (diacritics
+stripped, lowercase). Owner confirms in bulk; engineer flips status, never
+edits glosses silently.
 
 ## 7. Holds and cards (`holds.py` — single source for sheets AND video)
 
-Types: thumbnail opener (fits above subtitle zone, never fullscreen-bleed),
-verse (Devanagari only, wrapped to fit, auto-fit floor, assert no overflow),
-term (Deva + confirmed gloss in grey, no romanisation anywhere), title,
-figure. White is the default hold; cards interrupt at cues; white returns
+Types: thumbnail opener (`assets/thumbnail/chNN.png`, ch01 rainbow emblem
+law, fits above subtitle zone, never fullscreen-bleed), verse (Devanagari
++ IAST, wrapped to fit, auto-fit floor, assert no overflow), term (four
+layers, centered under the Sanskrit, brackets not parens), list (count
+decides the shape: 1 centered, 2 side by side, 3 row-or-triangle, 4
+corners, 5 corners + middle, window slides past five), title, figure.
+Lone glossed chants persist with layers through the following block; cues
+win over persist. White is the default hold; cards interrupt at cues;
+white returns
 at section breaks, long-pause beats, dialogue entries. Every card asserts
 stack clears subtitle zone and frame edges — collisions fail the render.
 Subtitles: FE 46→40, y=860 safe zone, max 2 lines, ink lit / grey unlit.
@@ -154,9 +170,11 @@ commit, push same day.
 
 ## 16. Standing owner calls (decided once, recorded here)
 
-- No romanisation on cards, ever. IAST lives in subtitles only.
+- IAST on term and verse cards as a light-grey second line; full IAST
+  transliteration blocks live in subtitles only.
+- All Sanskrit one standard Deva size (84); only assignment moves.
 - No title cards shown in video (spoken titles stay).
-- Verse holds clear the instant speech narration begins.
+- Lone glossed chants persist through the following block.
 - Thumbnail holds from frame 0 until first chant (per-chapter art).
 - Man at 75%. Bell ding +6dB. Free Fish only, always.
 - Unconfirmed glosses never render. UNCAST never defaults.

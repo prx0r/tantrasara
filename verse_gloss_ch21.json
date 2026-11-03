@@ -1,0 +1,50 @@
+{
+ "abhts_21.1": {
+  "bids": [
+   "b101"
+  ],
+  "match_key": "evamsamastamnityamnaimittikamkarmanirupitam",
+  "match_score": 0.96,
+  "literal": "Thus (evam) all (samastaṃ) this (iyam) fixed (nityaṃ) occasional (naimittikaṃ) conduct (karma) stated (nirūpitam)",
+  "final": "",
+  "final_source": "none",
+  "l4": null,
+  "status": "proposed"
+ },
+ "abhts_21.7": {
+  "bids": [
+   "b930"
+  ],
+  "match_key": "tasamkamcanaprasiddhimpramanikurvatabhyupagantavyamevagamapramanyam",
+  "match_score": 0.59,
+  "literal": "Thus (iti) of-empty (riktasya) of-being (jantoḥ) excess (atiriktā) [is] word-logic (vācoyuktiḥ); to-those (tāsāṃ) some (kāṃcana) custom (prasiddhiṃ) making-authority (pramāṇīkurvatā) to-be-admitted (abhyupagantavyam eva) is (āgamaprāmāṇyam) thus (iti). That (saḥ) āgama (āgamaḥ) [is] to-be-resorted (āśrayaṇīyaḥ) where (yatra) highest (utkṛṣṭaṃ) fruit (phalam) — thus (iti) enough (alam) of-other (anyena)",
+  "final": "",
+  "final_source": "none",
+  "l4": null,
+  "status": "proposed"
+ },
+ "abhts_21.8": {
+  "bids": [
+   "b998"
+  ],
+  "match_key": "samvitprakasaparamarthatayayathaivabhatyamrsatyapitathetivivecayantahsantahsamastamayacitpratibhavimarsasaramsamasrayatasastramanuttaratmasamvitprakasaparamarthatayayathaiva",
+  "match_score": 0.55,
+  "literal": "As (saṃvitprakāśaparamārthatayā) as (yathaiva) shines (bhāti) grasps (āmṛśati) too (api) thus (tatheti) discriminating (vivecayantaḥ)",
+  "final": "",
+  "final_source": "none",
+  "l4": null,
+  "status": "proposed"
+ },
+ "abhts_21.9": {
+  "bids": [
+   "b1001"
+  ],
+  "match_key": "saramsamasrayatasastramanuttaratma",
+  "match_score": 0.66,
+  "literal": "Good (santaḥ) all-made-consciousness- grasping-essence (samastamayacitpratibhāvimarśasāram) resort (samāśrayata) scripture (śāstram) unsurpassed-self (anuttarātma)",
+  "final": "",
+  "final_source": "none",
+  "l4": null,
+  "status": "proposed"
+ }
+}

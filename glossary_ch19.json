@@ -486,13 +486,12 @@
   "note": "auto-mined; needs Deva + gloss review"
  },
  "sraddhadiksaprakasanam": {
-  "deva": "",
-  "gloss": "",
+  "deva": "श्राद्धदीक्षाप्रकाशनम्",
+  "literal": "śrāddha [funerary rite] + dīkṣā [initiation] + prakāśana [exposition]",
+  "gloss": "The Funeral of the Enlightened",
   "status": "proposed",
-  "cue_blocks": [
-   "b911"
-  ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "literal_status": "proposed",
+  "note": "chapter-title entry; drives the canonical intro title stack"
  },
  "sthana": {
   "deva": "",

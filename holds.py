@@ -27,6 +27,122 @@ def ct(d, y, s, font, fill=INK):
     d.text(((W - d.textlength(s, font=font)) / 2, y), s, font=font, fill=fill)
 
 
+def chapter_title(blocks, glossary=None):
+    """Canonical title source: first granny narration block carrying
+    Devanagari (the chapter-name line). Display Deva is the prakāśana
+    name (roman half transliterated) so every chapter titles by name,
+    not by ordinal — ch02's Deva already is the name, others normalize
+    to it. Lookup key follows the display Deva. Layers from the glossary
+    entry when present — Deva+IAST minimum, always."""
+    import unicodedata
+    for b in blocks:
+        if b.get('id') == 'b_opener':
+            continue
+        if b.get('type') != 'narration' or b.get('voice') != 'granny':
+            continue
+        deva_part, roman_part = split_scripts(b['text'])
+        if not deva_part:
+            continue
+        try:
+            name_deva = to_deva(roman_part) if roman_part else deva_part
+        except Exception:
+            name_deva = deva_part
+        v = (glossary or {}).get(verse_match_key(name_deva), '')
+        literal = final = ''
+        if isinstance(v, dict):
+            literal, final = v.get('literal', ''), v.get('gloss', '')
+            if isinstance(final, dict):
+                final = final.get('gloss', '')
+        try:
+            iast = to_iast(name_deva)
+        except Exception:
+            iast = roman_part
+        return {'deva': name_deva, 'iast': iast, 'literal': literal,
+                'final': final if isinstance(final, str) else ''}
+    return None
+
+
+def intro_hold(ch, title=None):
+    """Intro bug shared by sheets and video: per-chapter thumbnail fitted
+    above the subtitle zone; ch02+ carry the chapter numeral top-right plus
+    the canonical title stack beneath it (Deva 84 + IAST/literal/final in
+    corner sizes, right-aligned, clearing the mandala). ch01 blessed
+    reference: thumbnail alone, never touched. Returns None when no
+    thumbnail art exists -- caller falls back to first verse hold."""
+    import os
+    base = os.path.dirname(os.path.abspath(__file__))
+    tb = os.path.join(base, 'assets', 'thumbnail', 'ch' + ch + '.png')
+    if not os.path.exists(tb):
+        tb = os.path.join(base, 'assets', 'thumb_ch1.png')  # legacy fallback
+    if not os.path.exists(tb):
+        return None
+    _tb = Image.open(tb).convert('RGB')
+    _tb.thumbnail((1400, 730), Image.LANCZOS)
+    im = Image.new('RGB', (W, H), LIGHT)
+    im.paste(_tb, ((W - _tb.width) // 2, 50))
+    # mandala clearance, measured from the art itself before any ink lands:
+    # saturated pixels only (the paste rect is white-margined). Each ink
+    # box is checked against the art rows it actually occupies.
+    from PIL import ImageChops
+    _sat = im.crop((0, 0, W, H)).convert('HSV').split()[1]
+    _mask = _sat.point(lambda v: 255 if v > 30 else 0)
+    if ch != '01':
+        d = ImageDraw.Draw(im)
+        fnt = F(FE, 150)
+        num = ch.zfill(2)
+        d.text((W - 120 - d.textlength(num, font=fnt), 60), num, font=fnt, fill=INK)
+        if title:
+            # canonical header: title top-left, numeral top-right, same
+            # baseline (y=60). Deva 84 at x=120, every layer centered under
+            # the Sanskrit; mandala clearance asserted on the left.
+            y = 60
+            dlines = [title['deva']]
+            df = F(FD, 84)
+            if d.textlength(title['deva'], font=df) > 520:
+                df = F(FD, 64)
+                parts, cur = [], ''
+                for w_ in title['deva'].split():
+                    t = (cur + ' ' + w_).strip()
+                    if d.textlength(t, font=df) > 520 and cur:
+                        parts.append(cur)
+                        cur = w_
+                    else:
+                        cur = t
+                if cur:
+                    parts.append(cur)
+                dlines = parts
+            boxes = []
+            cx = 120 + max(d.textlength(ln, font=df) for ln in dlines) / 2
+            for ln in dlines:
+                d.text((120, y), ln, font=df, fill=INK)
+                boxes.append((120, y, 120 + d.textlength(ln, font=df),
+                              y + int(df.size * 1.35)))
+                y += int(df.size * 1.35)
+            engw = max(d.textlength(ln, font=df) for ln in dlines)
+            for txt, fp, fsz, fill in ((title.get('iast', ''), FE, 28, ROMAN_FILL),
+                                      (title.get('literal', ''), FR, 24, LIT_FILL),
+                                      (title.get('final', ''), FR, 36, FINAL_FILL)):
+                if not txt:
+                    continue
+                gf = F(fp, fsz)
+                for gln in wrap_lines(d, txt, gf, engw):
+                    lx = cx - d.textlength(gln, font=gf) / 2
+                    d.text((lx, y), gln, font=gf, fill=fill)
+                    boxes.append((lx, y, lx + d.textlength(gln, font=gf),
+                                  y + int(fsz * 1.35)))
+                    y += int(fsz * 1.35)
+            # mandala clearance, measured from the art itself: leftmost
+            # non-white pixel over the title band rows is the hard bound.
+            for (x0, y0, x1, y1) in boxes:
+                assert y1 <= SUB_Y, 'title stack collides with subtitle zone'
+                if y0 < 780:
+                    _rows = _mask.crop((0, max(0, int(y0)), W, min(H, int(y1) + 1)))
+                    _bb = _rows.getbbox()
+                    if _bb is not None:
+                        assert x1 <= _bb[0], f'title ink over the mandala ({x1:.0f} vs art {_bb[0]})'
+    return im
+
+
 def build_holds(blocks):
     """Group verse blocks (max 3 Deva lines per hold); titles/figures solo."""
     def npairs(b):
@@ -114,7 +230,8 @@ def render_list(keys, glossary):
     def _col(cx, y, deva, iast, literal, gloss, maxw,
              DSZ=84, ISZ=32, LSZ=28, FSZ=40):
         # centered column: every layer centered under the Sanskrit above it.
-        # Deva steps one size down if it cannot fit the column (verse rule).
+        # Deva steps one size down if it cannot fit the column (verse rule);
+        # anything still wider fails loud (owner restyles, never ships tofu).
         sz = DSZ
         lines = wrap_lines(d, deva, F(FD, sz), maxw) or [deva]
         if max(d.textlength(ln, font=F(FD, sz)) for ln in lines) > maxw:
@@ -124,6 +241,7 @@ def render_list(keys, glossary):
             for ln in raw:
                 lines.extend(wrap_lines(d, ln, F(FD, sz), maxw) or [ln])
         w = max(d.textlength(ln, font=F(FD, sz)) for ln in lines)
+        assert w <= maxw + 2, f'column overflow ({w:.0f}px > {maxw}px) — split or restyle the list'
         x = cx - w / 2
         for ln in lines:
             lx = cx - d.textlength(ln, font=F(FD, sz)) / 2
@@ -189,12 +307,38 @@ def to_deva(s):
     return transliterate(s, IAST, DEVANAGARI)
 
 
+def split_scripts(t):
+    """Devanagari tokens vs roman tokens — never mix scripts on one line
+    (M4, promoted from the pilot builder to shared law)."""
+    deva, roman = [], []
+    for w in t.strip().split():
+        c = w.strip('—.,!?;:')
+        if not c:
+            continue
+        (deva if any('\u0900' <= ch <= '\u097f' for ch in c) else roman).append(w.strip('—.,!?;:'))
+    return ' '.join(deva), ' '.join(roman)
+
+
 def to_iast(s):
     import re as _re
     if not _re.search(r'[\u0900-\u097F]', s):
         return s  # already roman
     from indic_transliteration.sanscript import transliterate, DEVANAGARI, IAST
     return transliterate(s, DEVANAGARI, IAST)
+
+
+def verse_match_key(devanagari_text):
+    """Canonical key for a verse block: IAST, folded, alphanumeric only.
+    Deterministic across storyboard rebuilds (no positional overrides)."""
+    import re as _re, unicodedata
+    s = _re.sub(r'\s+', ' ', devanagari_text.strip())
+    try:
+        s = to_iast(s)
+    except Exception:
+        pass
+    return _re.sub(r'[^a-z]', '', ''.join(
+        c for c in unicodedata.normalize('NFD', s.lower())
+        if unicodedata.category(c) != 'Mn'))
 
 
 def render_term_card(deva, iast, literal, final, DSZ=84, ISZ=32, LSZ=28,
@@ -245,14 +389,10 @@ def wrap_lines(draw, text, font, maxw=1750):
     return lines
 
 
-def render_hold(hold, sub_text=None, glossary=None, compact=False):
-    """Render one hold card. glossary: {folded_term: {'gloss': ...}} —
-    matched terms get their English gloss in grey beneath the Devanagari.
-    (Contact sheets show proposed glosses for review; video gates on
-    confirmed status separately.)
-    compact: list-stack cards — smaller stack type so accumulated members
-    still clear the subtitle zone."""
-    """Render one hold card. sub_text: optional single-line subtitle (ink)."""
+def render_hold(hold, sub_text=None, glossary=None):
+    """Verse cards: Deva + IAST per line; single-word glossed chants resolve
+    via glossary to the full four term layers. Callers gate: sheets pass
+    proposed for review, video passes confirmed only."""
     first = hold[0]
     im = Image.new('RGB', (W, H), LIGHT)
     d = ImageDraw.Draw(im)
@@ -277,40 +417,46 @@ def render_hold(hold, sub_text=None, glossary=None, compact=False):
             while d.textlength(t, font=fnt) > 1750 and fnt.size > 40:
                 fnt = F(FE, fnt.size - 4)
             ct(d, 430, t, fnt)
-    else:  # verse: Deva + IAST + literal + final gloss, grey ramp down
+    else:  # verse: Deva + IAST + T1 literal + L4-or-L3 final, grey ramp down
         import unicodedata
         fold = lambda s: ''.join(c for c in unicodedata.normalize('NFD', s.lower()) if unicodedata.category(c) != 'Mn')
-        raw = []
-        for b in hold:
-            for ln in b['text'].strip().splitlines():
-                s = ln.strip().rstrip('.')
-                if s:
-                    raw.append(s)
         dl = []
-        for s in raw:
-            v = (glossary or {}).get(fold(s.strip('.,!?')), '')
-            if isinstance(v, dict) and (v.get('deva') or v.get('gloss') or v.get('literal')):
-                deva = v.get('deva') or to_deva(s)
-                gloss = v.get('gloss', '')
-                literal = v.get('literal', '')
-                if isinstance(gloss, dict):
-                    gloss = gloss.get('gloss', '')
-            else:
-                try:
-                    deva = to_deva(s)
-                except Exception:
-                    deva = s
-                gloss = (v or '') if isinstance(v, str) else ''
-                literal = ''
-            try:
-                iast = to_iast(deva)
-            except Exception:
-                iast = ''
-            if d.textlength(deva, font=F(FD, 84)) <= 1700:
-                dl.append(([deva], iast, literal, gloss, 84))
-            else:
-                # greedy wrap one step down (Sanskrit compounds can need 3+ lines)
-                fsmall, ssmall = F(FD, 64), 64
+        for b in hold:
+            lines = [ln.strip().rstrip('.') for ln in b['text'].strip().splitlines()]
+            lines = [s for s in lines if s]
+            if not lines:
+                continue
+            # per-line: term singles via glossary, else Deva + IAST.
+            # Mixed-script lines split first (M4): the author's own roman
+            # half is the IAST line, never a transliteration duplicate.
+            for s in lines:
+                deva_part, roman_part = split_scripts(s)
+                v = (glossary or {}).get(fold(s.strip('.,!?')), '')
+                if isinstance(v, dict) and (v.get('deva') or v.get('gloss') or v.get('literal')):
+                    deva = v.get('deva') or to_deva(deva_part or s)
+                    gloss = v.get('gloss', '')
+                    literal = v.get('literal', '')
+                    if isinstance(gloss, dict):
+                        gloss = gloss.get('gloss', '')
+                else:
+                    try:
+                        deva = to_deva(deva_part or s)
+                    except Exception:
+                        deva = deva_part or s
+                    gloss = (v or '') if isinstance(v, str) else ''
+                    literal = ''
+                if roman_part and not gloss and not literal:
+                    iast = roman_part
+                else:
+                    try:
+                        iast = to_iast(deva)
+                    except Exception:
+                        iast = ''
+                if d.textlength(deva, font=F(FD, 84)) <= 1700:
+                    dl.append({'deva': [(deva, 84)] if deva.strip() else [], 'iast': [iast] if iast else [],
+                               'literal': [literal] if literal else [], 'final': [gloss] if gloss else []})
+                    continue
+                fsmall = F(FD, 64)
                 parts, cur = [], ''
                 for w_ in deva.split():
                     t = (cur + ' ' + w_).strip()
@@ -323,28 +469,38 @@ def render_hold(hold, sub_text=None, glossary=None, compact=False):
                     parts.append(cur)
                 for ln in parts:
                     assert d.textlength(ln, font=fsmall) <= 1780, f'verse overflow: {ln[:40]}'
-                dl.append((parts, iast, literal, gloss, ssmall))
+                dl.append({'deva': [(ln, 64) for ln in parts] if deva.strip() else [], 'iast': [iast] if iast else [],
+                           'literal': [literal] if literal else [], 'final': [gloss] if gloss else []})
         lh = lambda sz: int(sz * 1.35)
-        total = sum(lh(sz) * len(lines)
-                    + (lh(32) if iast else 0) + (lh(28) if literal else 0)
-                    + (lh(40) if gloss else 0) + 26
-                    for lines, iast, literal, gloss, sz in dl) - 26
+        total = 0
+        for e in dl:
+            for _, sz in e['deva']:
+                total += lh(sz)
+            for _ln in e['iast']:
+                total += sum(lh(32) for _ in wrap_lines(d, _ln, F(FE, 32), 1750) or [0])
+            for _ln in e['literal']:
+                total += sum(lh(28) for _ in wrap_lines(d, _ln, F(FR, 28), 1750) or [0])
+            for _ln in e['final']:
+                total += sum(lh(40) for _ in wrap_lines(d, _ln, F(FR, 40), 1750) or [0])
+            total += 26
+        total -= 26
         y = max(90, 540 - total // 2 - 40)
-        for lines, iast, literal, gloss, sz in dl:
-            fnt = F(FD, sz)
-            for ln in lines:
+        for e in dl:
+            for ln, sz in e['deva']:
+                fnt = F(FD, sz)
                 assert d.textlength(ln, font=fnt) <= 1780, f'verse overflow: {ln[:40]}'
                 d.text(((W - d.textlength(ln, font=fnt)) / 2, y), ln, font=fnt, fill=INK)
                 y += lh(sz)
-            for txt, fp, fsz, fill in ((iast, FE, 32, ROMAN_FILL),
-                                      (literal, FR, 28, LIT_FILL),
-                                      (gloss, FR, 40, FINAL_FILL)):
-                if not txt:
-                    continue
-                for gln in wrap_lines(d, txt, F(fp, fsz), 1750):
-                    lx = (W - d.textlength(gln, font=F(fp, fsz))) / 2
-                    d.text((lx, y), gln, font=F(fp, fsz), fill=fill)
-                    y += lh(fsz)
+            for txts, fp, fsz, fill in ((e['iast'], FE, 32, ROMAN_FILL),
+                                       (e['literal'], FR, 28, LIT_FILL),
+                                       (e['final'], FR, 40, FINAL_FILL)):
+                for t0 in txts:
+                    if not t0:
+                        continue
+                    for gln in wrap_lines(d, t0, F(fp, fsz), 1750):
+                        lx = (W - d.textlength(gln, font=F(fp, fsz))) / 2
+                        d.text((lx, y), gln, font=F(fp, fsz), fill=fill)
+                        y += lh(fsz)
             y += 26
         assert y - 26 <= SUB_Y, 'card collides with subtitle zone — split the stack'
     if sub_text:

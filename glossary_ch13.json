@@ -637,5 +637,13 @@
    "b40"
   ],
   "note": "auto-mined; needs Deva + gloss review"
+ },
+ "trayodasamahnikam": {
+  "deva": "त्रयोदशम् आह्निकम्",
+  "literal": "trayodaśa [thirteenth] + āhnika [day-chapter]",
+  "gloss": "The Great Ritual",
+  "status": "proposed",
+  "literal_status": "proposed",
+  "note": "chapter-title entry; drives the canonical intro title stack"
  }
 }

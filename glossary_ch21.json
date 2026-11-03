@@ -63,13 +63,12 @@
   "note": "auto-mined; needs Deva + gloss review"
  },
  "agamapramanyaprakasanam": {
-  "deva": "",
-  "gloss": "",
+  "deva": "आगमप्रामाण्यप्रकाशनम्",
+  "literal": "āgama [scripture] + prāmāṇya [authority] + prakāśana [exposition]",
+  "gloss": "The Authority of Scripture",
   "status": "proposed",
-  "cue_blocks": [
-   "b1304"
-  ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "literal_status": "proposed",
+  "note": "chapter-title entry; drives the canonical intro title stack"
  },
  "agamas": {
   "deva": "",

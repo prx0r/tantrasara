@@ -100,3 +100,13 @@ Cause: display text derived from the lookup key instead of the glossary's
 citation Deva. Fix: term cards always render `glossary.deva`, IAST derived
 from that Deva; folded keys used for lookup only. Sheets and video share
 the rule via `holds.term layers`.
+
+## M16. Mixed-script line rendered its roman half twice (2026-11-04)
+ch02 b2 ("... — Anupāyaprakāśanam") drew the roman half big in the Deva
+face and again small as IAST, and the subtitle karaoke lit both copies in
+turn. Cause: verse cards transliterated the whole mixed line instead of
+splitting scripts first (M4 existed only in the pilot builder, never
+promoted). Fix: `split_scripts` is shared law in `holds.py` — author's
+roman half IS the IAST line, transliteration only where no roman exists;
+subtitle Deva words blank when the roman duplicates them, karaoke indices
+remapped to visible words.

@@ -432,13 +432,12 @@
   "note": "auto-mined; needs Deva + gloss review"
  },
  "saktipataprakasanam": {
-  "deva": "सक्तिपतप्रकसनम्",
-  "gloss": "",
+  "deva": "शक्तिपातप्रकाशनम्",
+  "literal": "śakti [power] + pāta [descent]",
+  "gloss": "The Descent of Grace",
   "status": "proposed",
-  "cue_blocks": [
-   "b1157"
-  ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "literal_status": "proposed",
+  "note": "chapter-title entry; drives the canonical intro title stack"
  },
  "saktipato": {
   "deva": "सक्तिपतो",

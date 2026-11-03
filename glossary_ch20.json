@@ -1393,5 +1393,13 @@
    "b203"
   ],
   "note": "auto-mined; needs Deva + gloss review"
+ },
+ "vimsamahnikam": {
+  "deva": "विंशम् आह्निकम्",
+  "literal": "viṃśa [twentieth] + āhnika [day-chapter]",
+  "gloss": "The Rest of Your Life",
+  "status": "proposed",
+  "literal_status": "proposed",
+  "note": "chapter-title entry; drives the canonical intro title stack"
  }
 }
