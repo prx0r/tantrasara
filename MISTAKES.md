@@ -261,3 +261,28 @@ absence. Fix: normalize to two digits at the single source
 wires approved/glossary through the same normalization. Rule:
 filename quirks resolve in exactly one place, and gates never
 pass on empty inputs.
+
+## M31. sa-IN aligner crashes on bare numerals (2026-11-04, ch07)
+First verse-voice number-cards in the whole series ("16\nPratiṣṭhā",
+b704/b706/b708: counts 16/56/28) hit a path ch01-06 never exercised:
+build_clip folds IAST->Devanagari for sa-IN, Latin "16" passes through,
+then the MMS romanizer folds it to "१६" and cleanNativeWord throws
+("has no alphabetic content"), killing the whole run_blocks range.
+Ch07 failed VIDEO at 18:46/19:47 on group 19 of range b627+ with
+`RomanizeError: cleanNativeWord: "१६"`. Fix: pure-digit tokens are
+spelled as single hyphen-joined Devanagari words before MMS
+(16->सोलह, 56->छप्पन, 118->सौ-अट्ठारह; full 0-100 map + सौ-compose,
+>999->संख्या), 1:1 mapping preserved. en-IN path already spelled via
+spoken(). Log: /tmp/video_ch07.log. Commit 7100c3f.
+
+## M32. MMS dies silent with empty stderr (2026-11-04, ch08/ch09 OPEN)
+Ch08 VIDEO failed 19:52 (group 30, range b824+), ch09 VIDEO failed
+20:13 (group 20, range b539+): `MMS failed group N:` with EMPTY
+stderr tail and no output rows. Neither chapter has digit tokens, so
+not M31. No OOM-killer trace in dmesg; RAM 11G, disk 98% (2.3G free)
+at the time — full-disk frame staging is a suspect. Fix so far:
+per-chapter logs (/tmp/video_chNN.log via sh_log), no more `rm -rf`
+of outdir (resume keeps finished parts), 4-pass retry in overnight
+runner instead of one-shot skip. Next: read pass-2 logs; suspect
+transient resource flake. Logs: /tmp/video_ch08.log, /tmp/video_ch09.log.
+Ch08 has 1496 blocks + a 'none' voice (first of series) — also suspect.
