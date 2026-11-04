@@ -23,7 +23,7 @@ def main():
     sb_path = a[0]
     opt = dict(zip(a[1::2], a[2::2]))
     sb = json.load(open(sb_path, encoding='utf-8'))
-    ch = (re.search(r'ch(\d+)', sb_path) or [None, '01'])[1]
+    ch = (re.search(r'ch(\d+)', sb_path) or [None, '01'])[1].zfill(2)
 
     # D1 storyboard green
     v = sb.get('validation', {})
