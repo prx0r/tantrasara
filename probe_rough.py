@@ -46,6 +46,14 @@ def rough_score(block):
 
 def main():
     sb_path, outdir = sys.argv[1], sys.argv[2]
+    from factory_contract import require_current_review_pack, require_free_tier, require_storyboard_gate, validate_bundle, verify_storyboard_source
+    from run_all import storage_preflight
+    validate_bundle(sb_path, require_approval=True)
+    require_current_review_pack(sb_path)
+    storage_preflight()
+    verify_storyboard_source(sb_path)
+    require_storyboard_gate(sb_path)
+    print(f'fish model: {require_free_tier()}')
     lim = int(sys.argv[sys.argv.index('--limit') + 1]) if '--limit' in sys.argv else 25
     sb = json.load(open(sb_path, encoding='utf-8'))
     os.makedirs(outdir, exist_ok=True)
@@ -111,6 +119,8 @@ def main():
     print(f'suspects={len(suspects)} earlist={len(earlist)} -> {outdir}/rough.md')
     for r in suspects:
         print(f"  SUSPECT {r['bid']} {r['roundtrip']}: {r['text'][:80]}")
+    if any(row.get('status') == 'TTS-FAIL' for row in report):
+        raise SystemExit('rough probes incomplete: one or more TTS calls failed')
 
 
 if __name__ == '__main__':

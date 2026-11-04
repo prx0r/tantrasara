@@ -22,8 +22,19 @@ def main():
     a = sys.argv[1:]
     sb_path = a[0]
     opt = dict(zip(a[1::2], a[2::2]))
-    sb = json.load(open(sb_path, encoding='utf-8'))
     ch = (re.search(r'ch(\d+)', sb_path) or [None, '01'])[1]
+
+    from factory_contract import (ContractError, read_json, sha256, validate_bundle,
+                                  validate_clip_artifacts, validate_schema)
+    try:
+        bundle = validate_bundle(sb_path, require_approval=True)
+        if ('--approved' not in opt or os.path.realpath(opt['--approved']) != str(bundle['paths']['approval'])
+                or '--glossary' not in opt or os.path.realpath(opt['--glossary']) != str(bundle['paths']['glossary'])):
+            raise ContractError('the canonical approval and glossary must both be supplied for this lane')
+    except ContractError as exc:
+        print(f'FAIL data/approval contract — {exc}\nGATE RED')
+        sys.exit(1)
+    sb = bundle['storyboard']
 
     # D1 storyboard green
     v = sb.get('validation', {})
@@ -31,26 +42,13 @@ def main():
           f"{len(v.get('errors', []))}e {len(v.get('warnings', []))}w")
 
     # D2 approval SHAs
-    if '--approved' in opt:
-        import hashlib
-        ap = json.load(open(opt['--approved'], encoding='utf-8'))
-        ok = True
-        for key, path in (('storyboard_sha', sb_path),):
-            h = hashlib.sha256(open(path, 'rb').read()).hexdigest()
-            ok = ok and h == ap.get(key)
-        glp = os.path.join(os.path.dirname(os.path.abspath(sb_path)), f'glossary_ch{ch}.json')
-        if os.path.exists(glp):
-            h = hashlib.sha256(open(glp, 'rb').read()).hexdigest()
-            ok = ok and h == ap.get('glossary_sha')
-        check('D2 approval SHAs match', ok)
-    else:
-        check('D2 approval present', False, 'no --approved given (render gate closed)')
+    check('D2 approval SHAs match', True)
 
     # D3 + V5 + V7 glossary discipline (missing glossary fails —
     # a render with no glossary shows no term cards at all)
     gl = {}
     if '--glossary' in opt:
-        gl = json.load(open(opt['--glossary'], encoding='utf-8'))
+        gl = bundle['glossary']
         bad_key = [k for k in gl if k != fold(k)]
         check('D3 keys folded ASCII', not bad_key, str(bad_key[:3]))
         conf = [k for k, vv in gl.items() if isinstance(vv, dict) and vv.get('status') == 'confirmed']
@@ -63,7 +61,16 @@ def main():
 
     # H3 render_meta cues match storyboard run scan
     if '--meta' in opt:
-        m = json.load(open(opt['--meta'], encoding='utf-8'))
+        try:
+            if '--mp4' not in opt or '--subs' not in opt:
+                raise ContractError('the actual video and subtitles are required')
+            if (os.path.realpath(opt['--meta']) != os.path.splitext(os.path.realpath(opt['--mp4']))[0] + '.render_meta.json'
+                    or os.path.realpath(opt['--subs']) != os.path.splitext(os.path.realpath(opt['--mp4']))[0] + '.subs.json'):
+                raise ContractError('metadata and subtitles must be the video\'s own sidecars')
+            m = validate_clip_artifacts(sb_path, opt['--mp4'])
+        except (ContractError, OSError, ValueError, KeyError, TypeError) as exc:
+            print(f'FAIL render provenance — {exc}\nGATE RED')
+            sys.exit(1)
         check('H4 white within band', m.get('white_pct', 0) <= 85 or m.get('duration', 0) <= 60,
               f"white {m.get('white_pct')}%")
         _starts_top = not m.get('bids') or m['bids'][0] == 'b1'
@@ -98,50 +105,56 @@ def main():
         check('H3 cue order matches storyboard', mcues == exp, f'{len(mcues)} cues')
         # drops: every filed drop applied in the render (lane/ch-specific
         # file — never any drops_*.json that happens to sort last)
-        import glob as _gg2
-        _dp = None
-        _lane_ch = re.search(r'ch(\d+)', sb_path)
-        _lane_ch = _lane_ch.group(1).zfill(2) if _lane_ch else None
-        _wanted = f'drops_ch{_lane_ch}.json' if _lane_ch else None
-        for _cand in glob.glob(os.path.join(os.path.dirname(os.path.abspath(sb_path)), 'drops_*.json')):
-            if _wanted is None or os.path.basename(_cand) == _wanted:
-                _dp = _cand
-                break
-        if _dp is None:
-            _cands = glob.glob(os.path.join(os.path.dirname(os.path.abspath(sb_path)), 'drops_*.json'))
-            _dp = _cands[0] if _cands else None
-        if _dp:
-            _dfile = json.load(open(_dp, encoding='utf-8'))
-            _dmeta = m.get('drops', {})
-            # chunk-scoped: only drops rendered in this range's bids
-            # can apply here; the rest belong to sibling chunks.
-            _rbids = set(m.get('bids', []))
-            _in_range = {k for k in _dfile if not _rbids or k in _rbids}
-            check('H7 drops applied', _in_range <= set(_dmeta),
-                  f'file={sorted(_in_range)} meta={sorted(_dmeta)}')
-            check('H7 every drop justified', all(
-                isinstance(v, dict) and v.get('pause', 0) > 0 and (v.get('why') or '').strip()
-                for v in _dfile.values()), 'pause>0 + non-empty why required')
+        _dfile, _dmeta = bundle['drops'], m['drops']
+        _rbids = set(m['bids'])
+        _in_range = {k for k in _dfile if k in _rbids}
+        check('H7 drops and pause lengths match', set(_dmeta) == _in_range and all(
+            _dmeta[k]['pause'] == _dfile[k]['pause'] for k in _in_range),
+            f'file={sorted(_in_range)} meta={sorted(_dmeta)}')
     else:
         check('H3/H4 render_meta present', False, 'no --meta given')
 
     # H5/H6 subtitle dump scan
-    if '--subs' in opt:
-        subs = json.load(open(opt['--subs'], encoding='utf-8'))
+    if '--subs' in opt and '--meta' in opt:
+        subs = read_json(opt['--subs'])
+        try:
+            validate_schema('subtitles', subs, opt['--subs'])
+        except ContractError as exc:
+            print(f'FAIL subtitle contract — {exc}\nGATE RED')
+            sys.exit(1)
         deva_leak = [s for s in subs if re.search(r'[\u0900-\u097F]', s.get('s', ''))]
         check('H5 no Devanagari in subtitles', not deva_leak, f'{len(deva_leak)} leaks')
+        selected = set(m['bids'])
+        expected_words = [(b['id'], w) for b in sb['blocks']
+                          if b['id'] in selected and b['voice'] != 'none'
+                          for w in b['text'].strip().split() if re.search(r'\w', w, re.U)]
+        actual_words = [(row['bid'], row['w']) for row in subs]
+        times = [row['t'] for row in subs]
+        check('H6 subtitles cover spoken words in order', actual_words == expected_words
+              and times == sorted(times) and times[-1] <= m['duration'] + 0.1,
+              f'{len(actual_words)}/{len(expected_words)} word rows')
     else:
         check('H5/H6 subs dump present', False, 'no --subs given')
 
     # V1/A2 streams via verify report or ffprobe
     if '--verify' in opt:
         vr = json.load(open(opt['--verify'], encoding='utf-8'))
-        check('V1/A2 verify PASS', bool(vr.get('pass')), ','.join(vr.get('fails', [])[:3]))
+        check('V1/A2 verify PASS for these exact files', vr.get('pass') is True
+              and vr.get('video_sha256') == sha256(opt['--mp4'])
+              and vr.get('storyboard_sha256') == sha256(sb_path), ','.join(vr.get('fails', [])[:3]))
     elif '--mp4' in opt:
-        r = subprocess.run(['ffprobe', '-v', 'error', '-show_entries', 'stream=width,height,codec_type',
-                            '-of', 'csv', opt['--mp4']], capture_output=True, text=True)
-        check('V1 geometry+audio', '1920' in r.stdout and '1080' in r.stdout and 'audio' in r.stdout,
-              r.stdout.strip().splitlines()[0][:80] if r.stdout.strip() else 'no streams')
+        r = subprocess.run(['ffprobe', '-v', 'error', '-show_entries', 'stream=width,height,codec_type,avg_frame_rate',
+                            '-of', 'json', opt['--mp4']], capture_output=True, text=True)
+        try:
+            streams = json.loads(r.stdout)['streams'] if r.returncode == 0 else []
+            video = [s for s in streams if s.get('codec_type') == 'video']
+            audio = [s for s in streams if s.get('codec_type') == 'audio']
+            rate = video[0].get('avg_frame_rate', '').split('/') if len(video) == 1 else []
+            fps = int(rate[0]) / int(rate[1]) if len(rate) == 2 and int(rate[1]) else 0
+            ok = len(video) == 1 and len(audio) == 1 and video[0].get('width') == 1920 and video[0].get('height') == 1080 and abs(fps - 30) < 0.01
+        except (ValueError, KeyError, IndexError, TypeError, ZeroDivisionError):
+            ok = False
+        check('V1 geometry, frame rate and streams', ok, '1920x1080, 30fps, one video + one audio')
     else:
         check('V1/A2 streams checked', False, 'no --mp4 or --verify given')
 

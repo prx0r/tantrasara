@@ -1,5 +1,9 @@
 # START-HERE — the whole factory on one page (2026-11-04)
 
+> Current executable handoff: `AUTONOMY-HANDOVER.md`. The status claims
+> below are historical snapshots; run `python3 factory_contract.py --all`
+> and inspect current artifacts before claiming readiness or approval.
+
 One index. Every essential doc, its status, and the exact process that
 made ch01. Read top to bottom; nothing else needed before acting.
 No renders touched to write this.

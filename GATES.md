@@ -66,7 +66,8 @@ rule — same commit as the code, never a wave-through.
 
 ## Audio and delivery (machine)
 
-- A1 MMS mean ≥ 0.85 per group, zero non-monotonic, row counts match.
+- A1 MMS mean ≥ 0.85 per group, zero non-monotonic, finite timings and
+  scores, row counts match. Enforced for chunked and ordinary alignment.
 - A2 assembly duration equals sum of parts; no uncomposed silence past
   10s (deliberate holds exempt by design); levels
   in band (mean -32..-12dB, peak > -8dB); motion ≥ 70% distinct frames.
@@ -82,6 +83,11 @@ rule — same commit as the code, never a wave-through.
   render runs.
 - D3 glossary keys are folded ASCII; confirmed terms carry deva + gloss;
   video literal requires its own confirmed status.
+
+The V4/D3 literal-display conflict is unresolved: a confirmed literal blocks
+the production data contract until the owner resolves it. Machine gates and
+the evidence-bound proof/review sequence are detailed in
+`AUTONOMY-HANDOVER.md`; a model verdict is never sufficient by itself.
 
 ## The routine (self-review loop)
 

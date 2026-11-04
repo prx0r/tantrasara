@@ -261,3 +261,68 @@ absence. Fix: normalize to two digits at the single source
 wires approved/glossary through the same normalization. Rule:
 filename quirks resolve in exactly one place, and gates never
 pass on empty inputs.
+
+## M31. Unknown storage was treated as sufficient (2026-11-04)
+Both storage checks accepted an SSH/df failure as a pass. A disconnected
+volume could therefore look ready. Fix: unknown and unparseable space fail
+closed; real production entry points repeat the storage check.
+
+## M32. A saved part was treated as current because it existed (2026-11-04)
+`run_blocks.py` reused any large mp4 with a metadata file, even after the
+storyboard, drops, audio, art or builder changed. Fix: hash the actual
+inputs and output bytes, refuse old unproven metadata, and link each part's
+machine proof and per-frame observations to those exact bytes.
+
+## M33. Alignment printed a score without enforcing A1 (2026-11-04)
+Ordinary groups had no minimum-score check; chunked groups accepted 0.60
+against the 0.85 law. Fix: both paths require the documented mean, finite
+row values, the expected word count and monotonic onsets.
+
+## M34. Chunk joins repeated the opening bell (2026-11-04)
+Every part mixed in the chapter bell, erased the inter-group bed at its
+end, and could restart on white in the middle of a held card. Fix: bell
+only at the chapter start, preserve the boundary bed, and split only where
+a chant or tone break can clear the previous hold. Parts may exceed 600s.
+
+## M35. Review views silently omitted most of a long chapter (2026-11-04)
+Published storyboard paragraphs were truncated at 220 characters, the
+holds timeline stopped after 400 blocks, and Qwen saw only 400 beats and
+6,000 transcript characters. Fix: emit complete review inputs, preserve
+repeated mentions, and invalidate Qwen results with out-of-range times.
+Previously published packs need republishing.
+
+## M36. A proof could fail and still return success (2026-11-04)
+Frame extraction and the visual gate could fail while `prove_clip.py`
+returned zero; repeated cue names also overwrote earlier frames. Fix:
+unique names, fail on any missing frame or red gate, and require an
+explicit evidence-bound review of every frame before assembly.
+
+## M37. The voice-energy check mixed timings from other videos (2026-11-04)
+It globbed all subtitle dumps in the directory and called volume at those
+times a voice-identity check. Fix: use only the video's own hash-pinned
+subtitles. Energy can detect silence at sample times, not identify a
+speaker or prove pronunciation; those claims require listening.
+
+## M38. A frozen storyboard was rebuilt in place before approval checks (2026-11-04)
+The batch `board` stage could change a blessed file simply by adding
+generated totals or re-running a new builder. Fix: rebuild to a temporary
+file, compare title and blocks against source/overrides, and never rewrite
+the frozen input as part of a run.
+
+## M39. Unknown jobs and missing goldens looked successful (2026-11-04)
+The watcher called an exited process done without a completion marker;
+`golden check` called a missing reference PASS. Fix: explicit OK, FAILED,
+PENDING_REVIEW and UNKNOWN states; an unsealed golden stays pending until
+the owner's listening decision is recorded for the exact video.
+
+## M40. A forced blank could move chunk subtitles out of sync (2026-11-04)
+Every clip had at least 50ms of opening image even when a mid-chapter
+clip's audio began at t=0; repeated minimum frame durations could also
+accumulate drift. Fix: no artificial prefix at zero, and reject a visual
+timeline whose summed durations drift from the audio timeline by >80ms.
+
+## M41. The intro mask hid cards at the start of body chunks (2026-11-04)
+The thumbnail-intro mask also applied to mid-chapter clips. A chunk starting
+with a chant could therefore show white until a later break. Fix: the intro
+mask ends immediately for every mid-chapter part; its verse and cue logic
+starts with the first spoken word.

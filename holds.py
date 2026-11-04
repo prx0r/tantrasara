@@ -138,7 +138,7 @@ def lane_for(sb_path):
     stay clean instead of borrowing the wrong series' art)."""
     import os, re
     base = os.path.dirname(os.path.abspath(__file__))
-    if '/shiva/' in sb_path:
+    if '/shiva/' in os.path.abspath(sb_path):
         m = re.search(r's(\d+)\.json$', sb_path)
         ch = m.group(1).zfill(2) if m else '00'
         return {'lane': 'shiva', 'ch': ch,

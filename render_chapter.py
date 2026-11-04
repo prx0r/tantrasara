@@ -30,6 +30,14 @@ def main():
     dry = '--dry-run' in args
     force = '--force' in args
     limit = int(args[args.index('--limit') + 1]) if '--limit' in args else 0
+    from factory_contract import require_current_review_pack, require_storyboard_gate, validate_bundle, verify_storyboard_source
+    validate_bundle(sb_path, require_approval=not dry)
+    if not dry:
+        require_current_review_pack(sb_path)
+        from run_all import storage_preflight
+        storage_preflight()
+        verify_storyboard_source(sb_path)
+        require_storyboard_gate(sb_path)
     sb = json.load(open(sb_path, encoding='utf-8'))
     ch = slug(sb.get('title', 'chapter')) or 'chapter'
     groups, cur = [], []
@@ -82,7 +90,7 @@ def main():
         # shift every downstream index, so an index-path hit check would
         # re-render the world. Glob the hash like every other builder.
         import glob as _gg
-        _hit = [f for f in _gg.glob(f'{gdir}/*_{voice}_{h}.wav')
+        _hit = [f for f in sorted(_gg.glob(f'{gdir}/*_{voice}_{h}.wav'))
                 if os.path.getsize(f) > 1000]
         exists = bool(_hit)
         if exists:
@@ -122,6 +130,9 @@ def main():
     if dry:
         print(f'DRY RUN — no API calls, est. {total_chars} Fish chars (~${total_chars * 0:.2f} on free tier)')
         return
+    if any(p['kind'] == 'render' for p in plan):
+        from factory_contract import require_free_tier
+        print(f'fish model: {require_free_tier()}', flush=True)
     # real render: one Fish call per uncached group, receipts appended, failures logged
     VOICES = {'granny': '614f8afd83f841048c040b2c6234d2c1',
               'man': 'fcfd5ebf496949ed9f76b3a533ee4738',
@@ -197,6 +208,8 @@ def main():
     print(f'rendered={done} failed={len(failed)}')
     for f in failed:
         print('FAILED:', f)
+    if failed:
+        raise SystemExit(1)
 
 if __name__ == '__main__':
     main()

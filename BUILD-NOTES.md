@@ -856,3 +856,19 @@ IAST losslessness (ISO 15919/Geneva 1894), but T1 lemmas are
 inflected — candidates carry the case caveat, owner picks citation
 forms. `preflight.py` now gates every batch (disk, lock, SHAs, V5,
 audio, keys, models); PLAYBOOK §0b.
+
+## 2026-11-04 — evidence-bound handoffs and source audit
+
+Audited master `8d2f9ea`: all 100 storyboards/glossaries pass the new
+schemas and their source/override rebuilds match the frozen title+blocks
+(local comparison excluded missing external kit assets). Tantrasāra
+ch01–13 approval hashes match; ch14–22 are stale; Śiva has no render
+approvals. These counts are a snapshot, not a new blessing.
+
+Added executable input, clip, proof, assembly, verification, Qwen and
+owner-ear contracts; corrected the repeated chunk bell, boundary beds,
+alignment threshold, partial review views, fail-open storage and false
+voice-identity claim (M31–M39). `AUTONOMY-HANDOVER.md` is the continuation
+path. Tests use synthetic media; no production render, API call, upload,
+owner decision, or golden seal was performed. Legacy audio provenance and
+the literal/white-rule conflicts remain open there.

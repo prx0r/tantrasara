@@ -6,7 +6,7 @@ Usage: from events import log_event
 """
 import json, os, time
 
-BASE = os.path.expanduser('~/tantrasara')
+BASE = os.path.dirname(os.path.abspath(__file__))
 LOG = os.path.join(BASE, 'EVENTS.jsonl')
 
 

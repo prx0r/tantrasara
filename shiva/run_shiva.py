@@ -7,7 +7,7 @@ builders stay single-copy; only lane paths live here.
 """
 import json, os, subprocess, sys, shutil
 
-BASE = os.path.expanduser('~/tantrasara')
+BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SHIVA = os.path.join(BASE, 'shiva')
 CHAPTERS = [f's{i:02d}' for i in range(78)]
 STAGES = ['preflight', 'board', 'cast-check', 'publish', 'cleanup']
@@ -30,19 +30,20 @@ def stage_preflight(_ch):
 
 
 def stage_board(ch):
-    sb = f'{SHIVA}/storyboards/storyboard_{ch}.json'
-    ov = f'{SHIVA}/overrides_{ch}.json'
-    cmd = ['python3', f'{BASE}/build_storyboard.py', f'{SHIVA}/chapters/{ch}.md', sb]
-    if os.path.exists(ov):
-        cmd.append(ov)
-    return sh(*cmd)
+    sys.path.insert(0, BASE)
+    from factory_contract import validate_bundle, verify_storyboard_source
+    validate_bundle(f'{SHIVA}/storyboards/storyboard_{ch}.json')
+    verify_storyboard_source(f'{SHIVA}/storyboards/storyboard_{ch}.json')
+    print(f'  | {ch}: frozen storyboard loaded without rewriting it', flush=True)
+    return True
 
 
 def stage_cast_check(ch):
-    sb = json.load(open(f'{SHIVA}/storyboards/storyboard_{ch}.json'))
-    errs = sb.get('validation', {}).get('errors', [])
-    print(f"  | {ch}: {len(errs)} validation errors", flush=True)
-    return not errs
+    sys.path.insert(0, BASE)
+    from factory_contract import validate_bundle
+    validate_bundle(f'{SHIVA}/storyboards/storyboard_{ch}.json')
+    print(f'  | {ch}: storyboard and glossary validated', flush=True)
+    return True
 
 
 def stage_publish(ch):
@@ -92,7 +93,8 @@ def main():
             if not ok:
                 break
     print(json.dumps(report, indent=1))
+    return 1 if any('FAIL' in stages.values() for stages in report.values()) else 0
 
 
 if __name__ == '__main__':
-    main()
+    sys.exit(main())

@@ -46,6 +46,8 @@ runs, do light prep (gates, sheets, publishes, docs, the shiva lane).
 
 ## Read order (every agent, no skipping)
 
+- Read `AUTONOMY-HANDOVER.md` for the current executable contracts,
+  stop states, evidence formats and limitations before launching work.
 - New here? Read `START-HERE.md` first (one-page index: status of
   every doc, the ch01 process, stale list, open questions), then
   `PROCESS-NOTES2.md` (session record: chunk method, gates added,

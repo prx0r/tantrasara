@@ -32,6 +32,14 @@ def main():
         if os.path.exists(_alt):
             sb_path = _alt
     opt = dict(zip(a[1::2], a[2::2]))
+    from factory_contract import ContractError, validate_bundle
+    try:
+        bundle = validate_bundle(sb_path)
+        if '--glossary' in opt and os.path.realpath(opt['--glossary']) != str(bundle['paths']['glossary']):
+            raise ContractError('the supplied glossary does not belong to this storyboard')
+    except ContractError as exc:
+        print(f'FAIL data contract — {exc}\nGATE RED')
+        sys.exit(1)
     sb = json.load(open(sb_path, encoding='utf-8'))
     ch = (re.search(r'ch(\d+)', sb_path) or [None, '01'])[1].zfill(2)
 
@@ -56,7 +64,7 @@ def main():
 
     # drops: exist, justified, group-final (M6 computable without audio)
     import glob as _gg
-    dp = os.path.join(os.path.dirname(os.path.abspath(sb_path)), f'drops_ch{ch}.json')
+    dp = str(bundle['paths']['drops'])
     if os.path.exists(dp):
         d = json.load(open(dp, encoding='utf-8'))
         have = {b['id'] for g in groups for b in g}
@@ -72,8 +80,7 @@ def main():
 
     # glossary discipline
     gl = {}
-    glp = opt.get('--glossary') or os.path.join(
-        os.path.dirname(os.path.abspath(sb_path)), f'glossary_ch{ch}.json')
+    glp = opt.get('--glossary') or str(bundle['paths']['glossary'])
     if os.path.exists(glp):
         gl = json.load(open(glp, encoding='utf-8'))
         bad_key = [k for k in gl if k != fold(k)]

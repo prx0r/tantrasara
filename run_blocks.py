@@ -6,63 +6,38 @@ re-renders); chunks are ranges of whole groups only (M6). Ranges never end
 on an owner drop group (the pause bed needs the next group in range).
 Writes <outdir>/pN.mp4 + concat.txt. Verify the ASSEMBLED chapter after.
 """
-import json, os, re, subprocess, sys, hashlib, glob
+import argparse, json, os, re, subprocess, sys, hashlib, glob
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, BASE)
 import holds as H
 
-LOCK = '/tmp/video_build.lock'
-
-
-def _holder_alive(pid):
-    try:
-        with open(f'/proc/{pid}/cmdline', 'rb') as f:
-            cmd = f.read().replace(b'\0', b' ').decode()
-        return ('build_clip.py' in cmd or 'run_blocks.py' in cmd
-                or 'overnight.py' in cmd)
-    except (OSError, ValueError):
-        return False
-
-
-def claim_lock():
-    me = str(os.getpid())
-    try:
-        with open(LOCK) as f:
-            holder = f.read().strip()
-        if holder and holder != me and _holder_alive(holder):
-            sys.exit(f'video lock held by pid {holder} — one build at a time (M21)')
-    except OSError:
-        pass
-    with open(LOCK, 'w') as f:
-        f.write(me)
-    import atexit
-
-    def _release():
-        try:
-            with open(LOCK) as f:
-                if f.read().strip() == me:
-                    os.remove(LOCK)
-        except OSError:
-            pass
-    atexit.register(_release)
-
-
 def slug(s):
     return re.sub(r'[^a-z0-9]+', '-', s.lower()).strip('-')[:40]
 
 
-def main():
+def _main():
     # no lock here: build_clip claims per range (parent must never hold
     # what its child checks — it would refuse its own parent).
-    sb_path, outdir = sys.argv[1], sys.argv[2]
-    cap = float(sys.argv[3]) if len(sys.argv) > 3 else 600.0
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('storyboard')
+    parser.add_argument('outdir')
+    parser.add_argument('max_secs', nargs='?', type=float, default=600.0)
+    parser.add_argument('--finalize', action='store_true', help='write concat.txt only after every part has a current proof and review')
+    args = parser.parse_args()
+    sb_path, outdir, cap = args.storyboard, args.outdir, args.max_secs
+    if cap <= 0:
+        parser.error('max_secs must be positive')
+    from factory_contract import (ContractError, chunk_boundary_clears, read_json, require_current_review_pack, require_storyboard_gate,
+                                  sha256, validate_bundle, validate_clip_artifacts, validate_schema)
+    from proof_contract import require_reviewed_proof
+    validate_bundle(sb_path, require_approval=True)
+    require_current_review_pack(sb_path)
+    require_storyboard_gate(sb_path)
     sb = json.load(open(sb_path, encoding='utf-8'))
     byid = {b['id']: b for b in sb['blocks']}
     ch = slug(sb.get('title', 'chapter')) or 'chapter'
     lane = H.lane_for(sb_path)
-    gl = json.load(open(lane['glossary'], encoding='utf-8')) if os.path.exists(lane['glossary']) else {}
-    gl = {k: v for k, v in gl.items() if isinstance(v, dict) and v.get('status') == 'confirmed'}
     groups, cur = [], []
     for b in sb['blocks']:
         if b['id'] == 'b_opener':
@@ -98,7 +73,8 @@ def main():
     ranges, cur_r, cur_d = [], [], 0.0
     for g in groups:
         d = gdur(g)
-        if cur_r and cur_d + d > cap and not ends_on_drop(cur_r):
+        if (cur_r and cur_d + d > cap and not ends_on_drop(cur_r)
+                and chunk_boundary_clears(cur_r[-1], g)):
             ranges.append(cur_r)
             cur_r, cur_d = [], 0.0
         cur_r.append(g)
@@ -107,26 +83,97 @@ def main():
         ranges.append(cur_r)
     print(f'chapter={ch} groups={len(groups)} ranges={len(ranges)}')
     os.makedirs(outdir, exist_ok=True)
+    concat = os.path.join(outdir, 'concat.txt')
+    if os.path.exists(concat):
+        import time
+        previous = os.path.join(outdir, f'concat.unverified.{time.time_ns()}.txt')
+        os.replace(concat, previous)
+        print(f'previous concat list preserved as {previous}; current parts need proof')
     parts = []
     for i, rg in enumerate(ranges):
         bids = [b['id'] for g in rg for b in g]
         out = os.path.join(outdir, f'p{i:02d}.mp4')
-        # resume: a part with its render meta already built is finished —
-        # never rebuild finished work (M28: lost ch06 parts to a restart).
-        if (os.path.exists(out) and os.path.exists(os.path.splitext(out)[0] + '.render_meta.json')
-                and os.path.getsize(out) > 1000000):
+        audio = []
+        for g in rg:
+            text = ' '.join(b.get('directed', b['text']) for b in g)
+            digest = hashlib.sha1(f"{g[0]['voice']}|{text}".encode()).hexdigest()[:12]
+            matches = sorted(glob.glob(f'{vols}/{ch}/groups/{sec_slug[g[0]["section"]]}/*_{g[0]["voice"]}_{digest}.wav'))
+            if not matches:
+                audio = []
+                break
+            audio.append(matches[0])
+        try:
+            if not audio:
+                raise ContractError('a required audio group is missing')
+            validate_clip_artifacts(sb_path, out, expected_bids=bids, expected_audio=audio)
+            cached = True
+        except (ContractError, OSError, ValueError) as exc:
+            cached = False
+            print(f'range {i}: no reusable provenanced part ({exc})', flush=True)
+        if cached:
             print(f'range {i}: {bids[0]}..{bids[-1]} ({len(bids)} blocks) -> {out} CACHED', flush=True)
-            parts.append(out)
-            continue
-        print(f'range {i}: {bids[0]}..{bids[-1]} ({len(bids)} blocks) -> {out}', flush=True)
-        subprocess.run(['python3', f'{BASE}/build_clip.py', sb_path, ','.join(bids), out], check=True)
+        elif args.finalize:
+            raise SystemExit(f'cannot finalize: range {i} is missing or stale')
+        else:
+            print(f'range {i}: {bids[0]}..{bids[-1]} ({len(bids)} blocks) -> {out}', flush=True)
+            subprocess.run(['python3', f'{BASE}/build_clip.py', sb_path, ','.join(bids), out], check=True)
         parts.append(out)
-    with open(os.path.join(outdir, 'concat.txt'), 'w') as f:
+        if not args.finalize:
+            proof_dir = os.path.join(outdir, 'proofs', f'p{i:02d}')
+            try:
+                manifest_path = os.path.join(proof_dir, 'proof_manifest.json')
+                manifest = read_json(manifest_path)
+                validate_schema('proof-manifest', manifest, manifest_path)
+                current = (manifest['machine_passed'] and manifest['video_sha256'] == sha256(out)
+                           and manifest['meta_sha256'] == sha256(os.path.splitext(out)[0] + '.render_meta.json')
+                           and manifest['subs_sha256'] == sha256(os.path.splitext(out)[0] + '.subs.json')
+                           and manifest['gate_sha256'] == sha256(os.path.join(proof_dir, 'gate.txt'))
+                           and all(sha256(os.path.join(proof_dir, item['file'])) == item['sha256']
+                                   for item in manifest['frames']))
+            except (ContractError, OSError):
+                current = False
+            if not current:
+                subprocess.run(['python3', f'{BASE}/prove_clip.py', sb_path, out, proof_dir], check=True)
+            try:
+                require_reviewed_proof(sb_path, out, proof_dir)
+            except (ContractError, OSError) as exc:
+                print(f'PENDING_REVIEW: {proof_dir} — inspect each frame, complete review.json, then rerun. {exc}', flush=True)
+                return 2
+    if args.finalize:
+        for i, part in enumerate(parts):
+            require_reviewed_proof(sb_path, part, os.path.join(outdir, 'proofs', f'p{i:02d}'))
+        list_path = concat
+    else:
+        list_path = os.path.join(outdir, 'concat.pending.txt')
+    with open(list_path, 'w') as f:
         for p in parts:
-            f.write(f"file '{p}'\n")
-    print(f'parts={len(parts)} concat-list ready (concat + verify as assembly)')
+            absolute = os.path.abspath(p)
+            if '\n' in absolute or '\r' in absolute:
+                raise ValueError('concat paths may not contain newlines')
+            escaped = absolute.replace("'", "'\\''")
+            f.write(f"file '{escaped}'\n")
+    if args.finalize:
+        print(f'parts={len(parts)} reviewed; concat.txt ready (verify the assembled chapter)')
+    else:
+        print(f'parts={len(parts)} reviewed; run --finalize before assembly')
     print(json.dumps({'chapter': ch, 'ranges': len(ranges), 'parts': parts}))
 
 
+def main():
+    if len(sys.argv) < 3 or sys.argv[1].startswith('-'):
+        return _main()  # let argparse print usage
+    from factory_contract import require_current_review_pack, require_volume_output, validate_bundle, video_build_lock
+    from run_all import storage_preflight
+    outdir = sys.argv[2]
+    require_volume_output(outdir)
+    validate_bundle(sys.argv[1], require_approval=True)
+    require_current_review_pack(sys.argv[1])
+    storage_preflight()
+    os.makedirs(outdir, exist_ok=True)
+    # Separate per-output lock: the child still claims the global video lock.
+    with video_build_lock(os.path.join(outdir, '.parts.lock')):
+        return _main()
+
+
 if __name__ == '__main__':
-    main()
+    sys.exit(main())

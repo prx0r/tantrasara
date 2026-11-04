@@ -9,7 +9,8 @@ silently dropped).
 """
 import json, os, subprocess, sys, zipfile, datetime
 
-BASE = os.path.expanduser('~/tantrasara')
+BASE = os.path.dirname(os.path.abspath(__file__))
+VOL = os.path.expanduser('~/vol/tantrasara/renders')
 GAP = 5.0
 W, H = 1920, 1080
 
@@ -22,28 +23,40 @@ def main():
     gap = float(args[args.index('--gap') + 1]) if '--gap' in args else GAP
     ready, skipped = [], []
     for ch in chs:
-        mp4 = f'/tmp/ch{ch}_full.mp4'
+        mp4 = f'{VOL}/finals/ch{ch}_full.mp4'
         ver = mp4 + '.verify.json'
-        ok = os.path.exists(mp4) and os.path.exists(ver) and json.load(open(ver)).get('pass')
+        from factory_contract import ContractError, require_owner_ears, require_verified_video, require_voice_energy, validate_bundle
+        sb = os.path.join(BASE, 'storyboard_ch6.json' if ch == '06' else f'storyboard_ch{ch}.json')
+        try:
+            from proof_contract import require_reviewed_assembly
+            from qwen_review import require_disposition
+            validate_bundle(sb, require_approval=True)
+            require_reviewed_assembly(sb, mp4)
+            require_verified_video(sb, mp4)
+            require_voice_energy(sb, mp4)
+            require_disposition(sb, mp4)
+            require_owner_ears(sb, mp4)
+            ok = True
+        except (OSError, ContractError):
+            ok = False
         (ready if ok else skipped).append(ch)
     print(f'ready: {ready}')
     print(f'skipped (no verified mp4): {skipped}')
-    if not ready:
-        print('nothing to release')
-        return
+    if skipped or not ready:
+        raise SystemExit('release blocked: every requested chapter needs reviewed parts, verification, Qwen disposition and owner ears')
     date = datetime.date.today().isoformat()
-    outdir = f'/tmp/release_{date}'
-    os.makedirs(outdir, exist_ok=True)
+    outdir = f'{VOL}/release_{date}'
     if dry:
         print(f'DRY RUN — would combine {len(ready)} chapters with {gap}s blanks + zip')
         return
+    os.makedirs(outdir, exist_ok=True)
     # 5s (or --gap) clean white + silence between chapters. Inputs lay out
     # as ch0, blankV, blankA, ch1, blankV, blankA, ... (mono throughout,
     # matching every bed the pipeline ever made).
     n = len(ready)
     segs = []
     for i, ch in enumerate(ready):
-        segs += ['-i', f'/tmp/ch{ch}_full.mp4']
+        segs += ['-i', f'{VOL}/finals/ch{ch}_full.mp4']
         if i < len(ready) - 1:
             segs += ['-f', 'lavfi', '-i', f'color=white:s={W}x{H}:r=30:d={gap}',
                      '-f', 'lavfi', '-i', f'anullsrc=r=44100:cl=mono:d={gap}']
@@ -65,7 +78,7 @@ def main():
         z.write(combined, os.path.basename(combined))
         z.write(f'{outdir}/manifest.json', 'manifest.json')
         for ch in ready:
-            z.write(f'/tmp/ch{ch}_full.mp4', f'ch{ch}_full.mp4')
+            z.write(f'{VOL}/finals/ch{ch}_full.mp4', f'ch{ch}_full.mp4')
     print(f'OK: {combined} + {zp}')
 
 

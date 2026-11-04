@@ -1,5 +1,9 @@
 # PIPELINE — the complete operating manual (2026-11-04)
 
+> For the current machine-enforced handoffs and pending-review states, see
+> `AUTONOMY-HANDOVER.md`. Several details below are historical and should
+> not override the current code or the owner's remaining decisions.
+
 One chain, two lanes, zero decisions at render time. This is the document
 an agent reads to run the whole factory. Law lives in STANDARD.md and
 GATES.md; this explains it. RUNTIME.md is the gospel; PROCESS.md is the

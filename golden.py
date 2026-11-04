@@ -12,7 +12,7 @@ change and must be re-approved, never auto-accepted.
 """
 import json, os, subprocess, sys, hashlib
 
-BASE = os.path.expanduser('~/tantrasara')
+BASE = os.path.dirname(os.path.abspath(__file__))
 GOLD = f'{BASE}/golden'
 os.makedirs(GOLD, exist_ok=True)
 
@@ -34,8 +34,18 @@ def metrics(video):
             'cues': m['cues']}
 
 def seal(ch, video):
+    from factory_contract import require_owner_ears, require_verified_video, require_voice_energy
+    from proof_contract import require_reviewed_assembly
+    from qwen_review import require_disposition
+    sb = os.path.join(BASE, 'storyboard_ch6.json' if ch == '06' else f'storyboard_ch{ch}.json')
+    require_reviewed_assembly(sb, video)
+    require_verified_video(sb, video)
+    require_voice_energy(sb, video)
+    require_disposition(sb, video)
+    ears = require_owner_ears(sb, video)
     g = metrics(video)
     g['video'] = os.path.basename(video)
+    g['owner_reviewed_on'] = ears['reviewed_on']
     json.dump(g, open(f'{GOLD}/ch{ch}.json', 'w'), indent=1)
     print(f'sealed golden/ch{ch}.json: {g["duration"]}s, {g["cuts"]} cuts, white {g["white_pct"]}%')
     print('commit it — the golden is law until the owner re-blesses.')
@@ -43,8 +53,8 @@ def seal(ch, video):
 def check(ch, video):
     gp = f'{GOLD}/ch{ch}.json'
     if not os.path.exists(gp):
-        print(f'no golden for ch{ch} — first approved render will seal it (PASS by default)')
-        return
+        print(f'GOLDEN UNSEALED: ch{ch} has no reference; owner ears are pending')
+        raise SystemExit(2)
     g = json.load(open(gp))
     m = metrics(video)
     fails = []

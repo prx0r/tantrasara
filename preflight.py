@@ -14,7 +14,7 @@ import shutil
 import subprocess
 import sys
 
-BASE = os.path.expanduser('~/tantrasara')
+BASE = os.path.dirname(os.path.abspath(__file__))
 VOL = os.path.expanduser('~/vol/tantrasara/renders')
 FAIL, PASS = [], []
 
@@ -47,29 +47,22 @@ def main():
         vol = float(r.stdout.split()[3].rstrip('G')) if r.returncode == 0 else -1
     except Exception:
         vol = -1
-    check('volume >=4G', vol < 0 or vol >= 4, 'ship finals + clear volume')
-    holder, alive = '', False
-    try:
-        holder = open('/tmp/video_build.lock').read().strip()
-        if holder:
-            with open(f'/proc/{holder}/cmdline', 'rb') as f:
-                cmd = f.read().replace(b'\0', b' ').decode()
-            alive = 'build_clip.py' in cmd or 'run_blocks.py' in cmd
-    except (OSError, ValueError):
-        pass
-    check('no live video build', not alive, f'pid {holder} holds the lock')
+    check('volume >=4G', vol >= 4, 'restore volume access or clear space; unknown is not a pass')
+    from factory_contract import video_lock_holder
+    holder = video_lock_holder()
+    check('no live video build', holder is None, f'{holder} holds the lock')
     for ch in chs:
         ap = f'{BASE}/approved_ch{ch}.json'
         if not os.path.exists(ap):
             check(f'ch{ch} approval present', False, 'owner bless + record SHAs')
             continue
-        a = json.load(open(ap, encoding='utf-8'))
         try:
-            ok = (sha(sb_of(ch)) == a.get('storyboard_sha')
-                  and sha(f'{BASE}/glossary_ch{ch}.json') == a.get('glossary_sha'))
-        except OSError:
+            from factory_contract import validate_bundle
+            validate_bundle(sb_of(ch), require_approval=True)
+            ok = True
+        except (OSError, ValueError):
             ok = False
-        check(f'ch{ch} approval SHAs match', ok, 'republish + re-bless')
+        check(f'ch{ch} data contract and approval match', ok, 'fix data or republish + re-bless')
     # V5 across lanes (scoped to requested chapters)
     import glob as _g
     for gp in sorted(_g.glob(f'{BASE}/glossary_ch*.json')):

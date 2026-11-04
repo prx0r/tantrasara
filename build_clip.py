@@ -22,7 +22,7 @@ def F(p, s): return ImageFont.truetype(p, s)
 def slug(s): return re.sub(r'[^a-z0-9]+', '-', s.lower()).strip('-')[:40]
 def group_wav(ch, sec_slug, voice, text):
     h = hashlib.sha1(f'{voice}|{text}'.encode()).hexdigest()[:12]
-    found = glob.glob(f'{VOL}/{ch}/groups/{sec_slug}/*_{voice}_{h}.wav')
+    found = sorted(glob.glob(f'{VOL}/{ch}/groups/{sec_slug}/*_{voice}_{h}.wav'))
     return found[0] if found else None
 def to_deva(s):
     from indic_transliteration.sanscript import transliterate, IAST, DEVANAGARI
@@ -33,40 +33,76 @@ def to_iast(s):
     return ' '.join(transliterate(w, DEVANAGARI, IAST) if re.search(r'[\u0900-\u097F]', w) else w
                     for w in s.split())
 
+
+def bed_after(group, following):
+    text = ' '.join(block.get('directed', block['text']) for block in group)
+    if group[0]['type'] == 'title' or (following and following[0]['section'] != group[0]['section']):
+        return 0.8
+    if any(block['type'] == 'dialogue' for block in group):
+        return 0.8
+    if group[0]['voice'] == 'verse':
+        return 2.8 if any(block['type'] == 'verse' and len(block['text'].split()) > 3 for block in group) else 0.6
+    if '[long pause]' in text:
+        return 0.8
+    return 0.3
+
+
+def audio_mix_plan(wavs, all_spoken, drops, bell=BELL):
+    """Build the same transitions inside parts and across safe boundaries."""
+    if not wavs or not all_spoken:
+        raise ValueError('cannot mix an empty clip')
+    starts_at_top = wavs[0][1][0]['id'] == all_spoken[0]['id']
+    last_pos = next(i for i, b in enumerate(all_spoken) if b['id'] == wavs[-1][1][-1]['id'])
+    next_block = all_spoken[last_pos + 1] if last_pos + 1 < len(all_spoken) else None
+    inputs = ['-i', bell] if starts_at_top else []
+    count, beds, drop_at = (1 if starts_at_top else 0), [], {}
+    for bid, spec in drops.items():
+        gi = next((i for i, (_, group) in enumerate(wavs) if any(b['id'] == bid for b in group)), None)
+        if gi is None or wavs[gi][1][-1]['id'] != bid or gi >= len(wavs) - 1:
+            raise ValueError(f'drop {bid} must end a group with a following group in this part')
+        drop_at[gi] = float(spec['pause'])
+    for i, (path, group) in enumerate(wavs):
+        inputs += ['-i', path]
+        count += 1
+        following = wavs[i + 1][1] if i < len(wavs) - 1 else ([next_block] if next_block else None)
+        if following is not None:
+            bed = bed_after(group, following) + drop_at.get(i, 0.0)
+            beds.append(bed)
+            inputs += ['-f', 'lavfi', '-i', f'anullsrc=r=44100:cl=mono:d={bed}']
+            count += 1
+    streams = (('[0:a]volume=6dB[z0];[z0]' + ''.join(f'[{j}:a]' for j in range(1, count)))
+               if starts_at_top else ''.join(f'[{j}:a]' for j in range(count)))
+    return inputs, streams + f'concat=n={count}:v=0:a=1', beds, drop_at, starts_at_top
+
+
+def validate_visual_duration(entries, audio_end):
+    """Do not silently stretch many short word intervals out of sync."""
+    visual_end = sum(entry[1] for entry in entries)
+    if not entries or abs(visual_end - audio_end) > 0.08:
+        raise RuntimeError(f'visual timeline {visual_end:.3f}s drifts from audio {audio_end:.3f}s')
+
+
+def intro_end_index(starts_at_top, flat, break_bid):
+    if not starts_at_top:
+        return 0
+    return next((i for i, (block, *_rest) in enumerate(flat) if block['id'] == break_bid), len(flat))
+
 def main():
     # one video build at a time (M21/M28): fixed /tmp paths clobber
     # across concurrent builds. run_blocks also claims; this covers
     # direct invocations too.
-    _me = str(os.getpid())
-    _holder = None
-    try:
-        with open('/tmp/video_build.lock') as _f:
-            _holder = _f.read().strip()
-    except OSError:
-        pass
-    if _holder and _holder != _me:
-        try:
-            with open(f'/proc/{_holder}/cmdline', 'rb') as _f:
-                _hcmd = _f.read().replace(b'\0', b' ').decode()
-            if not ('build_clip.py' in _hcmd or 'run_blocks.py' in _hcmd
-                    or 'overnight.py' in _hcmd):
-                _holder = None
-        except (OSError, ValueError):
-            _holder = None
-    if _holder and _holder != _me:
-        sys.exit(f'video lock held by pid {_holder} — one build at a time')
-    with open('/tmp/video_build.lock', 'w') as _f:
-        _f.write(_me)
-    try:
+    from factory_contract import (require_current_review_pack, require_storyboard_gate, require_volume_output, validate_bundle, validate_clip_range,
+                                  verify_storyboard_source, video_build_lock)
+    from run_all import storage_preflight
+    require_volume_output(sys.argv[3])
+    bundle = validate_bundle(sys.argv[1], require_approval=True)
+    require_current_review_pack(sys.argv[1])
+    verify_storyboard_source(sys.argv[1])
+    require_storyboard_gate(sys.argv[1])
+    validate_clip_range(bundle, sys.argv[2].split(','))
+    storage_preflight()
+    with video_build_lock():
         _main_inner()
-    finally:
-        try:
-            with open('/tmp/video_build.lock') as _f:
-                _mine = _f.read().strip() == _me
-            if _mine:
-                os.remove('/tmp/video_build.lock')
-        except OSError:
-            pass
 
 
 def _main_inner():
@@ -110,8 +146,12 @@ def _main_inner():
     for g in groups:
         text = ' '.join(x.get('directed', x['text']) for x in g)
         f = group_wav(ch, _sec_slug[g[0]['section']], g[0]['voice'], text)
-        assert f, f"missing render for {g[0]['id']}..{g[-1]['id']}"
+        if not f:
+            raise RuntimeError(f"missing render for {g[0]['id']}..{g[-1]['id']}")
         wavs.append((f, g))
+    from factory_contract import clip_inputs, sha256, validate_alignment
+    _source_wavs = [f for f, _ in wavs]
+    _provenance = clip_inputs(sys.argv[1], bids, _source_wavs)
     # Stage wavs to local disk with retries (M21 kin): the volume mount
     # flakes reads under load ("Impossible to open" / I/O error), which
     # crashes node with empty stderr — indistinguishable from data bugs.
@@ -135,12 +175,13 @@ def _main_inner():
                     _st.sleep(2 * (_try + 1))
                     continue
                 shutil.copyfile(f, _dst)
-                if os.path.getsize(_dst) == _s1:
+                if (os.path.getsize(_dst) == _s1 and sha256(f) == sha256(_dst)):
                     _ok = True
                     break
             except OSError:
                 _st.sleep(2 * (_try + 1))
-        assert _ok, f'unreadable wav after retries (mount flake): {f} [{g[0]["id"]}]'
+        if not _ok:
+            raise RuntimeError(f'unreadable or unequal wav after retries: {f} [{g[0]["id"]}]')
         _staged.append((_dst, g))
     wavs = _staged
     print(f'staged {len(wavs)} wavs -> {_stage}', flush=True)
@@ -157,7 +198,8 @@ def _main_inner():
         _r = subprocess.run(['node', ALIGN, wav, _wp, _op, lang],
                             capture_output=True, text=True,
                             env={**os.environ, 'NODE_PATH': NODE_MOD})
-        assert os.path.exists(_op), f'MMS failed {tag}: {_r.stderr[-300:]}'
+        if _r.returncode != 0 or not os.path.exists(_op):
+            raise RuntimeError(f'MMS failed {tag} (exit {_r.returncode}): {_r.stderr[-300:]}')
         return json.load(open(_op, encoding='utf-8'))
 
     def _chunked_align(f, disp, ali, lang, gi, g):
@@ -233,18 +275,16 @@ def _main_inner():
             os.remove(opath)
         if len(disp) > 300:
             rows = _chunked_align(f, disp, ali, lang, i, g)
-            assert len(rows) == len(disp), f'{g[0]["id"]}: {len(disp)} vs {len(rows)}'
-            mean = sum(x['mms'] for x in rows) / len(rows)
-            assert mean >= 0.6, f'{g[0]["id"]}: chunked align garbage (mean {mean:.3f})'
+            mean = validate_alignment(rows, len(disp), g[0]['id'])
             print(f'group {i}: n={len(rows)} mean={mean:.3f} CHUNKED', flush=True)
             al.append((g, rows))
             continue
         r = subprocess.run(['node', ALIGN, f, wpath, opath, lang],
                            capture_output=True, text=True, env={**os.environ, 'NODE_PATH': NODE_MOD})
-        assert os.path.exists(opath), f'MMS failed group {i}: {r.stderr[-300:]}'
+        if r.returncode != 0 or not os.path.exists(opath):
+            raise RuntimeError(f'MMS failed group {i} (exit {r.returncode}): {r.stderr[-300:]}')
         rows = json.load(open(opath, encoding='utf-8'))
-        assert len(rows) == len(disp), f'{g[0]["id"]}: {len(disp)} vs {len(rows)}'
-        mean = sum(x['mms'] for x in rows) / len(rows)
+        mean = validate_alignment(rows, len(disp), g[0]['id'])
         print(f'group {i}: n={len(rows)} mean={mean:.3f}', flush=True)
         al.append((g, rows))
     # assembly: bell(+6dB) + groups with rhythm beds by boundary —
@@ -257,50 +297,20 @@ def _main_inner():
     # hold clears at that block's group end and the bed grows by pause.
     # Audio pauses only exist at group boundaries (M6: groups are atomic);
     # a non-final bid fails loud. Displayed in render_meta under 'drops'.
-    CRISP_BED = 2.8
-    def bed_after(g, nxt):
-        txt = ' '.join(x.get('directed', x['text']) for x in g)
-        if g[0]['type'] == 'title' or (nxt and nxt[0]['section'] != g[0]['section']):
-            return 0.8
-        if any(x['type'] == 'dialogue' for x in g):
-            return 0.8
-        if g[0]['voice'] == 'verse':
-            if any(x['type'] == 'verse' and len(x['text'].split()) > 3 for x in g):
-                return CRISP_BED
-            return 0.6
-        if '[long pause]' in txt:
-            return 0.8
-        return 0.3
-    beds = []
-    final_inputs = ['-i', BELL]
-    _drop_at = {}  # group index -> pause seconds (owner-called crisp drops)
-    for _bid, _spec in _drops.items():
-        _gi = next((i for i, (_f, _g) in enumerate(wavs) if any(x['id'] == _bid for x in _g)), None)
-        assert _gi is not None, f"drop {_bid}: block not in this render"
-        _gg = wavs[_gi][1]
-        assert _gg[-1]['id'] == _bid, f"drop {_bid}: not group-final — audio pauses only exist at group boundaries (M6)"
-        assert _gi < len(wavs) - 1, f"drop {_bid}: nothing after it to pause before"
-        assert isinstance(_spec, dict) and _spec.get('pause', 0) > 0, f"drop {_bid}: needs {{pause: seconds}}"
-        _drop_at[_gi] = float(_spec['pause'])
-    for i, (f, g) in enumerate(wavs):
-        final_inputs += ['-i', f]
-        if i < len(wavs) - 1:
-            bd = bed_after(g, wavs[i + 1][1]) + _drop_at.get(i, 0.0)
-            beds.append(bd)
-            final_inputs += ['-f', 'lavfi', '-i', f'anullsrc=r=44100:cl=mono:d={bd}']
-    nAud = 1 + len(wavs) + max(0, len(wavs) - 1)
+    _all_spoken = [b for b in sb['blocks'] if b['id'] != 'b_opener' and b['voice'] != 'none']
+    final_inputs, audio_filter, beds, _drop_at, _starts_at_top = audio_mix_plan(wavs, _all_spoken, _drops)
     mix = '/tmp/clip_mix.mp3'
     subprocess.run(['ffmpeg', '-y', '-v', 'error'] + final_inputs +
-                   ['-filter_complex',
-                    '[0:a]volume=6dB[z0];[z0]' + ''.join(f'[{j}]' for j in range(1, nAud)) +
-                    f'concat=n={nAud}:v=0:a=1',
+                   ['-filter_complex', audio_filter,
                     '-c:a', 'libmp3lame', '-b:a', '192k', mix], check=True)
     # flat word timeline with absolute onsets (beds included via group durations)
     durs = [float(subprocess.run(['ffprobe', '-v', 'error', '-show_entries', 'format=duration',
                                   '-of', 'default=nw=1:nk=1', f], capture_output=True, text=True).stdout.strip())
             for (f, g) in wavs]
     flat = []
-    off = 0.99
+    off = (float(subprocess.run(['ffprobe', '-v', 'error', '-show_entries', 'format=duration',
+                                '-of', 'default=nw=1:nk=1', BELL], capture_output=True,
+                               text=True, check=True).stdout.strip()) if _starts_at_top else 0.0)
     _grp_start = {}
     for gi, ((f, g), rows) in enumerate(zip(wavs, [r for _, r in al])):
         _grp_start[gi] = off
@@ -386,7 +396,6 @@ def _main_inner():
     # white instead of the thumbnail: a mid-chapter segment must never
     # re-show the intro bug. Full-chapter runs always start at b1, so their
     # behavior is unchanged.
-    _starts_at_top = bool(blocks) and blocks[0]['id'] == 'b1'
     # Mid-chapter ranges never show the intro: skip its render entirely
     # (a body chant resolved as "title" can never fit the header and
     # the image is discarded anyway).
@@ -397,9 +406,14 @@ def _main_inner():
         _HOLD0 = hold_for.get(_first_verse['id'], _blank) if _first_verse else _blank
     _PRE_IMG = _HOLD0 if _starts_at_top else _blank
     _PRE_KIND = 'thumbnail' if _starts_at_top else 'white'
-    _PRE_IMG.save(f'{fdir}/00000.png')
-    entries.append((0, max(0.05, flat[0][2] if flat else off), _PRE_KIND))
-    idx = 1
+    # A mid-chapter part can start at t=0. A forced 50ms blank would shift
+    # every following subtitle/card relative to the audio at each join.
+    prefix = flat[0][2] if flat else off
+    idx = 0
+    if prefix > 0:
+        _PRE_IMG.save(f'{fdir}/00000.png')
+        entries.append((0, prefix, _PRE_KIND))
+        idx = 1
     # Intro scope (owner call 2026-11-04): the thumbnail holds the intro
     # only — through the first tone break (section change, long-pause
     # beat, dialogue entry) or the first chant, whichever comes first.
@@ -413,8 +427,7 @@ def _main_inner():
             return True
         return prev is not None and b['section'] != prev['section']
     _ib = next((b for b in blocks[1:] if _is_break(b, blocks[0])), None)
-    _intro_end_fi = next((i for i, (b, *_r) in enumerate(flat) if b['id'] == (_ib['id'] if _ib else None)),
-                         len(flat))
+    _intro_end_fi = intro_end_index(_starts_at_top, flat, _ib['id'] if _ib else None)
     _first_verse_fi = next((i for i, (b, *_r) in enumerate(flat) if b['type'] == 'verse'),
                            len(flat))  # no chant in range: verse holds never fire
     # term cues: (start, end, image) from confirmed glossary mentions
@@ -659,6 +672,7 @@ def _main_inner():
             continue
         entries.append((idx, max(0.03, nxt - t_on), hold_kind(b, fi)))
         idx += 1
+    validate_visual_duration(entries, off)
     # coverage: seconds per hold kind (white = clean default, not content).
     # opener frame has no kind yet — classify it as thumbnail.
     from collections import defaultdict as _dd
@@ -695,12 +709,16 @@ def _main_inner():
         _bid = flat[_fi][0]['id']
         _meta_drops[_bid] = {'pause': _drops.get(_bid, {}).get('pause'),
                              'at': round(_tend, 2)}
+    if clip_inputs(sys.argv[1], bids, _source_wavs)['inputs_sha256'] != _provenance['inputs_sha256']:
+        raise RuntimeError('render inputs changed during the build; output is not proven')
+    _provenance['video_sha256'] = sha256(sys.argv[3])
+    _provenance['subs_sha256'] = sha256(os.path.splitext(sys.argv[3])[0] + '.subs.json')
     _json.dump({'cuts': idx, 'duration': round(_dur, 2),
                 'white_pct': round(100 * _cov.get('white', 0) / _tot),
                 'coverage': {k: round(v) for k, v in sorted(_cov.items())},
                 'cues': [{'t': round(s, 2), 'key': k} for s, e, k in _cues],
                 'bids': bids,
-                'drops': _meta_drops},
+                'drops': _meta_drops, 'provenance': _provenance},
                open(os.path.splitext(sys.argv[3])[0] + '.render_meta.json', 'w'))
 
 

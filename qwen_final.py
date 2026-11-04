@@ -5,7 +5,8 @@ Taste NEVER gates alone — every finding needs transcript/waveform
 corroboration or a machine check before action. Timestamps past file
 length void the pass.
 """
-import base64, json, sys, urllib.request, os, re
+import base64, json, sys, urllib.request, os, re, subprocess
+from pathlib import Path
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
@@ -45,11 +46,19 @@ Return STRICT JSON ONLY (no fences, no prose):
 
 def beats_summary(sb, cues):
     lines = []
-    for b in sb['blocks'][:400]:
-        t = b['text'].replace('\n', ' / ')[:90]
-        cue = next((c['t'] for c in (cues or []) if c.get('key') and c['key'] in b['text'][:60]), None)
-        lines.append(f"{b['id']} [{b['type']}/{b['voice']}] cue={cue}: {t}")
+    for b in sb['blocks']:
+        t = b['text'].replace('\n', ' / ')
+        lines.append(f"{b['id']} [{b['type']}/{b['voice']}]: {t}")
     return '\n'.join(lines)
+
+
+def validate_timestamps(answer, duration):
+    from factory_contract import ContractError
+    for section in ('beats', 'timings', 'audio', 'script', 'niggles'):
+        for item in answer[section]:
+            for field in ('t', 'expected', 'seen'):
+                if field in item and not 0 <= item[field] <= duration:
+                    raise ContractError(f'Qwen {section}.{field} is outside the video')
 
 
 def main():
@@ -59,10 +68,18 @@ def main():
         if a == '--cues':
             cues = json.load(open(sys.argv[sys.argv.index(a) + 1], encoding='utf-8'))
     sb = json.load(open(sbp, encoding='utf-8'))
-    tr = open(trp, encoding='utf-8').read()[:6000]
-    beats = beats_summary(sb, cues if isinstance(cues, list) else cues.get('cues', cues))
+    meta_path = Path(mp4).with_suffix('.render_meta.json')
+    if meta_path.is_file():
+        from factory_contract import validate_clip_artifacts
+        selected = set(validate_clip_artifacts(sbp, mp4)['bids'])
+        sb = dict(sb, blocks=[b for b in sb['blocks'] if b['id'] in selected])
+    tr = open(trp, encoding='utf-8').read()
+    cues = cues if isinstance(cues, list) else cues.get('cues', [])
+    beats = beats_summary(sb, cues)
     b64 = base64.b64encode(open(mp4, 'rb').read()).decode()
-    brief = BRIEF + f"\n\nBEATS:\n{beats}\n\nTRANSCRIPT:\n{tr}"
+    # Cues are recorded by time and key, not block ID. Do not invent a
+    # block association by searching for folded ASCII inside IAST prose.
+    brief = BRIEF + f"\n\nBEATS:\n{beats}\n\nCUES:\n{json.dumps(cues, ensure_ascii=False)}\n\nTRANSCRIPT:\n{tr}"
     body = json.dumps({'model': MODEL, 'modalities': ['text'],
                        'messages': [{'role': 'user', 'content': [
                            {'type': 'video_url', 'video_url': {'url': f'data:video/mp4;base64,{b64}'}},
@@ -78,7 +95,17 @@ def main():
         t = t.split('```')[1]
         t = t[4:] if t.startswith('json') else t
     i, j = t.find('{'), t.rfind('}')
-    print(json.dumps(json.loads(t[i:j + 1]), indent=1, ensure_ascii=False))
+    answer = json.loads(t[i:j + 1])
+    from factory_contract import sha256, validate_schema
+    validate_schema('qwen-review', answer, 'Qwen response')
+    duration = float(subprocess.run(['ffprobe', '-v', 'error', '-show_entries', 'format=duration',
+                                    '-of', 'default=nw=1:nk=1', mp4], capture_output=True,
+                                   text=True, check=True).stdout.strip())
+    validate_timestamps(answer, duration)
+    answer['provenance'] = {'video_sha256': sha256(mp4), 'storyboard_sha256': sha256(sbp),
+                            'transcript_sha256': sha256(trp), 'transcript_path': str(Path(trp).resolve()),
+                            'reviewer_sha256': sha256(__file__), 'model': MODEL}
+    print(json.dumps(answer, indent=1, ensure_ascii=False))
 
 
 if __name__ == '__main__':

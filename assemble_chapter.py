@@ -15,7 +15,7 @@ from holds import drops_for, split_after, split_phoneme_groups
 def group_file(ch, sec, voice, text):
     h = _hl.sha1(f'{voice}|{text}'.encode()).hexdigest()[:12]
     pat = f'{VOL}/{ch}/groups/{sec}/*_{voice}_{h}.wav'
-    found = _glob.glob(pat)
+    found = sorted(_glob.glob(pat))
     return found[0] if found else None
 
 VOL = os.path.expanduser('~/vol/tantrasara/renders')
@@ -25,8 +25,16 @@ def slug(s):
     return re.sub(r'[^a-z0-9]+', '-', s.lower()).strip('-')[:40] or 'sec'
 
 def main():
-    sb = json.load(open(sys.argv[1], encoding='utf-8'))
     out, dry = sys.argv[2], '--dry-run' in sys.argv
+    from factory_contract import require_current_review_pack, require_storyboard_gate, require_volume_output, validate_bundle
+    validate_bundle(sys.argv[1], require_approval=not dry)
+    if not dry:
+        require_current_review_pack(sys.argv[1])
+        from run_all import storage_preflight
+        require_volume_output(out)
+        storage_preflight()
+        require_storyboard_gate(sys.argv[1])
+    sb = json.load(open(sys.argv[1], encoding='utf-8'))
     ch = slug(sb.get('title', 'chapter')) or 'chapter'
     recs = {}
     rpath = f'{VOL}/{ch}/receipts/calls.jsonl'
