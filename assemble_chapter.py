@@ -10,7 +10,7 @@ import glob as _glob
 import hashlib as _hl
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from holds import drops_for, split_after
+from holds import drops_for, split_after, split_phoneme_groups
 
 def group_file(ch, sec, voice, text):
     h = _hl.sha1(f'{voice}|{text}'.encode()).hexdigest()[:12]
@@ -58,7 +58,7 @@ def main():
         cur.append(b)
     if cur:
         groups.append(cur)
-    groups = split_after(groups, set(drops_for(sys.argv[1])))
+    groups = split_after(split_phoneme_groups(groups), set(drops_for(sys.argv[1])))
     # resolve each group to its content-hashed wav (never trust stale bids)
     resolved, missing = [], 0
     for g in groups:

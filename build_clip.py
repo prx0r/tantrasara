@@ -34,6 +34,42 @@ def to_iast(s):
                     for w in s.split())
 
 def main():
+    # one video build at a time (M21/M28): fixed /tmp paths clobber
+    # across concurrent builds. run_blocks also claims; this covers
+    # direct invocations too.
+    _me = str(os.getpid())
+    _holder = None
+    try:
+        with open('/tmp/video_build.lock') as _f:
+            _holder = _f.read().strip()
+    except OSError:
+        pass
+    if _holder and _holder != _me:
+        try:
+            with open(f'/proc/{_holder}/cmdline', 'rb') as _f:
+                _hcmd = _f.read().replace(b'\0', b' ').decode()
+            if not ('build_clip.py' in _hcmd or 'run_blocks.py' in _hcmd
+                    or 'overnight.py' in _hcmd):
+                _holder = None
+        except (OSError, ValueError):
+            _holder = None
+    if _holder and _holder != _me:
+        sys.exit(f'video lock held by pid {_holder} — one build at a time')
+    with open('/tmp/video_build.lock', 'w') as _f:
+        _f.write(_me)
+    try:
+        _main_inner()
+    finally:
+        try:
+            with open('/tmp/video_build.lock') as _f:
+                _mine = _f.read().strip() == _me
+            if _mine:
+                os.remove('/tmp/video_build.lock')
+        except OSError:
+            pass
+
+
+def _main_inner():
     sb = json.load(open(sys.argv[1], encoding='utf-8'))
     bids = sys.argv[2].split(',')
     out = sys.argv[3]
@@ -51,14 +87,19 @@ def main():
             groups[-1].append(b)
         else:
             groups.append([b])
-    # impact drops split groups identically in every builder (shared rule)
+    # impact drops split groups identically in every builder (shared rule).
+    # Phoneme singletons split first (same shared rule as render), then
+    # drops. Chunk-scoped: ranges without the drop bid render clean
+    # (full-chapter behavior unchanged — every drop sits in exactly
+    # one chunk).
+    groups = _H.split_phoneme_groups(groups)
     _drops = _H.drops_for(sys.argv[1])
     if _drops:
         _have = {b['id'] for g in groups for b in g}
-        for _bid in _drops:
-            assert _bid in _have, f"drop {_bid}: block not in this render"
-        groups = _H.split_after(groups, set(_drops))
-        print(f'impact splits at: {sorted(set(_drops))}', flush=True)
+        _drops = {k: v for k, v in _drops.items() if k in _have}
+        if _drops:
+            groups = _H.split_after(groups, set(_drops))
+            print(f'impact splits at: {sorted(set(_drops))}', flush=True)
     # section dir scheme mirrors render_chapter exactly (indexed fallback)
     _sec_seen = {}
     for b in sb['blocks']:
@@ -71,8 +112,103 @@ def main():
         f = group_wav(ch, _sec_slug[g[0]['section']], g[0]['voice'], text)
         assert f, f"missing render for {g[0]['id']}..{g[-1]['id']}"
         wavs.append((f, g))
+    # Stage wavs to local disk with retries (M21 kin): the volume mount
+    # flakes reads under load ("Impossible to open" / I/O error), which
+    # crashes node with empty stderr — indistinguishable from data bugs.
+    # Every hot read below (align, mux, durations) uses staged copies.
+    import hashlib as _hh2
+    _stage = '/tmp/stage_' + re.sub(r'[^a-zA-Z0-9]+', '_', os.path.splitext(out)[0])[:60].strip('_')
+    shutil.rmtree(_stage, ignore_errors=True)
+    os.makedirs(_stage)
+    _staged = []
+    import time as _st
+    for (f, g) in wavs:
+        _dst = os.path.join(_stage, os.path.basename(f))
+        _ok = False
+        for _try in range(5):
+            try:
+                # source size must read stable twice (mount flakes lie)
+                _s1 = os.path.getsize(f)
+                _st.sleep(1)
+                _s2 = os.path.getsize(f)
+                if _s1 != _s2 or _s1 <= 1000:
+                    _st.sleep(2 * (_try + 1))
+                    continue
+                shutil.copyfile(f, _dst)
+                if os.path.getsize(_dst) == _s1:
+                    _ok = True
+                    break
+            except OSError:
+                _st.sleep(2 * (_try + 1))
+        assert _ok, f'unreadable wav after retries (mount flake): {f} [{g[0]["id"]}]'
+        _staged.append((_dst, g))
+    wavs = _staged
+    print(f'staged {len(wavs)} wavs -> {_stage}', flush=True)
     # MMS align each group
     os.makedirs('/tmp/mmsclip', exist_ok=True)
+
+    def _align_one(wav, ali_words, lang, tag):
+        _wp, _op = f'/tmp/mmsclip/cw{tag}.json', f'/tmp/mmsclip/ct{tag}.json'
+        json.dump(ali_words, open(_wp, 'w'), ensure_ascii=False)
+        # delete any stale output first: a crashed align must fail LOUD
+        # here, never silently validate the previous chapter's rows (M21)
+        if os.path.exists(_op):
+            os.remove(_op)
+        _r = subprocess.run(['node', ALIGN, wav, _wp, _op, lang],
+                            capture_output=True, text=True,
+                            env={**os.environ, 'NODE_PATH': NODE_MOD})
+        assert os.path.exists(_op), f'MMS failed {tag}: {_r.stderr[-300:]}'
+        return json.load(open(_op, encoding='utf-8'))
+
+    def _chunked_align(f, disp, ali, lang, gi, g):
+        # Oversized groups (>300 words) OOM-kill the aligner (proven:
+        # 200 words pass, 412 die) — split at a measured silence near
+        # the block boundary closest to the middle, align halves,
+        # offset the second. Audio, groups, hashes untouched.
+        if len(disp) <= 300:
+            return _align_one(f, ali, lang, gi)
+        _dur = float(subprocess.run(
+            ['ffprobe', '-v', 'error', '-show_entries', 'format=duration',
+             '-of', 'default=nw=1:nk=1', f],
+            capture_output=True, text=True).stdout.strip())
+        _sil = subprocess.run(
+            ['ffmpeg', '-v', 'info', '-i', f,
+             '-af', 'silencedetect=noise=-35dB:d=0.4', '-f', 'null', '-'],
+            capture_output=True, text=True).stderr
+        _gaps = re.findall(r'silence_start: ([\d.]+)\nsilence_end: ([\d.]+)', _sil)
+        _mids = sorted((float(a) + float(b)) / 2 for a, b in _gaps)
+        _cut = _dur / 2
+        if _mids:
+            _cut = min(_mids, key=lambda m: abs(m - _dur / 2))
+        # word index nearest the cut, snapped to a block boundary so no
+        # block's words ever split across chunks
+        _counts, _acc = [], 0
+        for _b in g:
+            _n = len([w for w in _b['text'].strip().split() if re.search(r'\w', w, re.U)])
+            _counts.append(_n)
+            _acc += _n
+        _frac = _cut / _dur if _dur > 0 else 0.5
+        _at = int(len(disp) * _frac)
+        _run, _best, _bestd = 0, 0, None
+        for _bi, _n in enumerate(_counts):
+            _run += _n
+            _dd = abs(_run - _at)
+            if _bestd is None or _dd < _bestd:
+                _bestd, _best = _dd, _run
+        _at = min(max(_best, 1), len(disp) - 1)
+        print(f'group {gi}: chunked align at {_cut:.1f}s (silence-measured)', flush=True)
+        _lo, _hi = f'/tmp/mmsclip/ch{gi}a.wav', f'/tmp/mmsclip/ch{gi}b.wav'
+        subprocess.run(['ffmpeg', '-y', '-v', 'error', '-i', f,
+                        '-t', str(_cut), _lo], check=True)
+        subprocess.run(['ffmpeg', '-y', '-v', 'error', '-ss', str(_cut), '-i', f,
+                        _hi], check=True)
+        _r1 = _align_one(_lo, ali[:_at] or ali[:1], lang, f'{gi}a')
+        _r2 = _align_one(_hi, ali[_at:] or ali[-1:], lang, f'{gi}b')
+        for _r in _r2:
+            _r['t_on'] = round(_r['t_on'] + _cut, 3)
+            _r['t_off'] = round(_r['t_off'] + _cut, 3)
+        return _r1 + _r2
+
     al = []
     for i, (f, g) in enumerate(wavs):
         disp = []
@@ -95,6 +231,14 @@ def main():
         # never silently validate the previous chapter's rows (M21)
         if os.path.exists(opath):
             os.remove(opath)
+        if len(disp) > 300:
+            rows = _chunked_align(f, disp, ali, lang, i, g)
+            assert len(rows) == len(disp), f'{g[0]["id"]}: {len(disp)} vs {len(rows)}'
+            mean = sum(x['mms'] for x in rows) / len(rows)
+            assert mean >= 0.6, f'{g[0]["id"]}: chunked align garbage (mean {mean:.3f})'
+            print(f'group {i}: n={len(rows)} mean={mean:.3f} CHUNKED', flush=True)
+            al.append((g, rows))
+            continue
         r = subprocess.run(['node', ALIGN, f, wpath, opath, lang],
                            capture_output=True, text=True, env={**os.environ, 'NODE_PATH': NODE_MOD})
         assert os.path.exists(opath), f'MMS failed group {i}: {r.stderr[-300:]}'
@@ -238,14 +382,41 @@ def main():
     # top-right, ch01 blessed reference stays clean), else first verse hold
     _first_verse = next((b for b in blocks if b['type'] == 'verse'), None)
     _ch = _lane['ch']
-    _HOLD0 = _H.intro_hold(_ch, _H.chapter_title(blocks, _gl), _lane['assets'], _lane['thumbbox'], _lane['numeral'], _lane['art_center'], _H.shiva_header(blocks) if _lane['lane'] == 'shiva' else None)
+    # Block ranges that do NOT start at the chapter top (b1) open on clean
+    # white instead of the thumbnail: a mid-chapter segment must never
+    # re-show the intro bug. Full-chapter runs always start at b1, so their
+    # behavior is unchanged.
+    _starts_at_top = bool(blocks) and blocks[0]['id'] == 'b1'
+    # Mid-chapter ranges never show the intro: skip its render entirely
+    # (a body chant resolved as "title" can never fit the header and
+    # the image is discarded anyway).
+    _HOLD0 = None
+    if _starts_at_top:
+        _HOLD0 = _H.intro_hold(_ch, _H.chapter_title(blocks, _gl), _lane['assets'], _lane['thumbbox'], _lane['numeral'], _lane['art_center'], _H.shiva_header(blocks) if _lane['lane'] == 'shiva' else None)
     if _HOLD0 is None:
         _HOLD0 = hold_for.get(_first_verse['id'], _blank) if _first_verse else _blank
-    _HOLD0.save(f'{fdir}/00000.png')
-    entries.append((0, max(0.05, flat[0][2] if flat else off), 'thumbnail'))
+    _PRE_IMG = _HOLD0 if _starts_at_top else _blank
+    _PRE_KIND = 'thumbnail' if _starts_at_top else 'white'
+    _PRE_IMG.save(f'{fdir}/00000.png')
+    entries.append((0, max(0.05, flat[0][2] if flat else off), _PRE_KIND))
     idx = 1
+    # Intro scope (owner call 2026-11-04): the thumbnail holds the intro
+    # only — through the first tone break (section change, long-pause
+    # beat, dialogue entry) or the first chant, whichever comes first.
+    # Never the whole road to a late first verse.
+    def _is_break(b, prev):
+        if b['type'] == 'verse':
+            return True
+        if b['type'] == 'dialogue':
+            return True
+        if b.get('directed', '').startswith('[long pause]'):
+            return True
+        return prev is not None and b['section'] != prev['section']
+    _ib = next((b for b in blocks[1:] if _is_break(b, blocks[0])), None)
+    _intro_end_fi = next((i for i, (b, *_r) in enumerate(flat) if b['id'] == (_ib['id'] if _ib else None)),
+                         len(flat))
     _first_verse_fi = next((i for i, (b, *_r) in enumerate(flat) if b['type'] == 'verse'),
-                           len(flat))  # no chant in range: thumbnail holds throughout
+                           len(flat))  # no chant in range: verse holds never fire
     # term cues: (start, end, image) from confirmed glossary mentions
     import unicodedata as _ud
     _fold = lambda s: ''.join(c for c in _ud.normalize('NFD', s.lower()) if _ud.category(c) != 'Mn')
@@ -309,20 +480,38 @@ def main():
     for _ri, _keys in _run_keys.items():
         for _p in range(1, len(_keys) + 1):
             _term_imgs[('stack', _ri, _p)] = _stack_img(_keys[:_p])
-    # persist: a single-word glossed chant stays up with its gloss through
-    # the directly following block (e.g. "Aṇu." -> "That's you."), then
-    # white. Cues always win over persist. Multi-line chant runs clear.
-    _persists = []
+    # persist (owner call 2026-11-04, extended same day): EVERY verse hold
+    # stays up UNTIL THE NEXT SANSKRIT WORD — the next cue onset, the
+    # next chant onset, or the next tone break (dialogue / long-pause /
+    # section change returns white by law), whichever comes first; to
+    # the range end if none follows. Verse cards hold as standard so no
+    # chant ever dies into dead air. Cues always win over persist.
+    # Tone-break onsets per flat row:
+    _brk = []
+    _psec = None
+    for _fi2, (_bb, _kk, _tt, _sww, _ssb, _te) in enumerate(flat):
+        if _bb['type'] == 'dialogue' or _bb.get('directed', '').startswith('[long pause]'):
+            _brk.append(_tt)
+        elif _psec is not None and _bb['section'] != _psec and _kk == 0:
+            _brk.append(_tt)
+        if _kk == 0:
+            _psec = _bb['section']
+    _brk = sorted(set(_brk))
+    _cue_times = sorted(set(s for s, e, k in _cues))
+    _persists, _persist_seen = [], set()
     for _fi, (b, _k, _ton, _sw, _sub, _toff) in enumerate(flat):
-        if b['type'] == 'verse' and _is_single_glossed_verse(b):
-            _nxt = next((_gj for _gj in range(_fi + 1, len(flat))
-                         if flat[_gj][0]['id'] != b['id']), None)
-            if _nxt is not None and flat[_nxt][0]['type'] != 'verse':
-                _end = next((_gk for _gk in range(_nxt + 1, len(flat))
-                             if flat[_gk][0]['id'] != flat[_nxt][0]['id']),
-                            len(flat))
-                _term_imgs[('persist', b['id'])] = hold_for.get(b['id'], _blank)
-                _persists.append((_ton, flat[_end - 1][5], b['id']))
+        if b['type'] == 'verse' and b['id'] not in _persist_seen:
+            _persist_seen.add(b['id'])
+            _after = [t for t in _cue_times if t > _ton + 0.05]
+            _after += [t for t in _brk if t > _ton + 0.05]
+            _end_t = min(_after) if _after else off
+            _end = next((j for j in range(_fi + 1, len(flat) + 1)
+                         if j >= len(flat) or flat[j][2] >= _end_t - 1e-6),
+                        len(flat))
+            if _end <= _fi + 1:
+                continue
+            _term_imgs[('persist', b['id'])] = hold_for.get(b['id'], _blank)
+            _persists.append((_ton, flat[_end - 1][5], b['id']))
     print(f'term cues: {[(k, round(s)) for s, e, k in _cues]}', flush=True)
     print(f'list runs: {[(_keys) for _keys in _run_keys.values()]}', flush=True)
     print(f'persists: {[(bid, round(s)) for s, e, bid in _persists]}', flush=True)
@@ -341,8 +530,8 @@ def main():
         print(f'drops: {[(round(s, 1), round(e, 1)) for s, e in _drop_last.values()]}', flush=True)
     def hold_img(b, fi):
         t = flat[fi][2]
-        if fi < _first_verse_fi:
-            return _HOLD0  # thumbnail holds from frame 0 until chanting starts
+        if fi < _intro_end_fi:
+            return _PRE_IMG  # thumbnail for the intro only; white for mid-chapter ranges
         if b['type'] == 'verse':
             return hold_for.get(b['id'], _blank)
         for _n, (s, e, key) in enumerate(_cues):
@@ -357,8 +546,8 @@ def main():
         return _blank
     def hold_kind(b, fi):
         t = flat[fi][2]
-        if fi < _first_verse_fi:
-            return 'thumbnail'
+        if fi < _intro_end_fi:
+            return _PRE_KIND
         if b['type'] == 'verse':
             return 'verse'
         for _n, (s, e, key) in enumerate(_cues):
@@ -399,11 +588,48 @@ def main():
                     cur = t_
             if cur:
                 lines.append(cur)
-        assert len(lines) <= 2, 'subtitle too long'
+        for _sz in (36, 32):
+            if len(lines) <= 2:
+                break
+            fnt = F(FE, _sz)
+            lines, cur = [], ''
+            for w_ in vis:
+                t_ = (cur + ' ' + w_).strip()
+                if d.textlength(t_, font=fnt) > 1750 and cur:
+                    lines.append(cur); cur = w_
+                else:
+                    cur = t_
+            if cur:
+                lines.append(cur)
+        # windowed karaoke (owner call 2026-11-04): blocks that cannot
+        # fit two lines at any readable size show a two-line window
+        # around the spoken word (current line + next, last two at the
+        # end) instead of shrinking to dust. Every word still appears
+        # with karaoke over time; short blocks behave exactly as before.
+        _win = False
+        if len(lines) > 2:
+            _win = True
+            fnt = F(FE, 40)
+            lines, cur = [], ''
+            for w_ in vis:
+                t_ = (cur + ' ' + w_).strip()
+                if d.textlength(t_, font=fnt) > 1750 and cur:
+                    lines.append(cur); cur = w_
+                else:
+                    cur = t_
+            if cur:
+                lines.append(cur)
         counts, acc = [], 0
         for ln in lines:
             counts.append(acc); acc += len(ln.split())
         li = next((i for i in range(len(lines)) if vk < counts[i] + len(lines[i].split())), len(lines) - 1)
+        if _win:
+            _lo = li if li < len(lines) - 1 else max(0, len(lines) - 2)
+            lines = lines[_lo:_lo + 2]
+            counts, acc = [], 0
+            for ln in lines:
+                counts.append(acc); acc += len(ln.split())
+            li = next((i for i in range(len(lines)) if vk < counts[i] + len(lines[i].split())), len(lines) - 1)
         rel = vk - counts[li]
         for j, ln in enumerate(lines):
             wl = ln.split()
@@ -421,7 +647,7 @@ def main():
                    rest, font=fnt, fill=FADE)
         im.save(f'{fdir}/{idx:05d}.png')
         nxt = flat[fi + 1][2] if fi + 1 < len(flat) else off
-        if fi in _drop_last and fi >= _first_verse_fi:
+        if fi in _drop_last and fi >= _intro_end_fi:
             # crisp drop: card holds through the last spoken word, then a
             # clean white frame (no subtitle) across the pause to next onset
             _tend, _tnext = _drop_last[fi]

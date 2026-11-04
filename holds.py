@@ -28,17 +28,17 @@ def ct(d, y, s, font, fill=INK):
 
 
 def chapter_title(blocks, glossary=None):
-    """Canonical title source: first granny narration block carrying
-    Devanagari (the chapter-name line). Display Deva is the prakāśana
-    name (roman half transliterated) so every chapter titles by name,
-    not by ordinal — ch02's Deva already is the name, others normalize
-    to it. Lookup key follows the display Deva. Layers from the glossary
-    entry when present — Deva+IAST minimum, always."""
+    """Canonical title source: first block carrying Devanagari (the
+    chapter-name line, b2 in every chapter — any voice, since b2 chants).
+    Display Deva is the prakāśana name (roman half transliterated) so every
+    chapter titles by name, not by ordinal. Lookup key follows the display
+    Deva. Layers from the glossary entry when present — Deva+IAST minimum,
+    always."""
     import unicodedata
     for b in blocks:
         if b.get('id') == 'b_opener':
             continue
-        if b.get('type') != 'narration' or b.get('voice') != 'granny':
+        if b.get('voice') == 'none':
             continue
         deva_part, roman_part = split_scripts(b['text'])
         if not deva_part:
@@ -62,6 +62,75 @@ def chapter_title(blocks, glossary=None):
     return None
 
 
+PHONEME_DIR = '/home/ubuntu/deitybody/site/audio/phonemes'
+VOICE_DB = -21.0      # house voice norm, all seats incl. human clips
+# Human phoneme clips (owner call 2026-11-04): sounded single phonemes
+# use these exact human recordings, never Fish/granny. Verses stay Fish.
+# Only certain 1:1 mappings listed — ambiguous clips (retroflex
+# da1/tha1/na1, na_j/na_k, sha/shha, lr/lrr) fall back to Fish.
+PHONEMES = {
+    'a': 'a.ogg', 'ā': 'aa.ogg', 'i': 'i.ogg', 'ī': 'ii.ogg',
+    'u': 'u.ogg', 'ū': 'uu.ogg', 'ṛ': 'r.ogg', 'ṝ': 'rr.ogg',
+    'e': 'e.ogg', 'ai': 'ai.ogg', 'o': 'o.ogg', 'au': 'au.ogg',
+    'ṃ': 'anusvara.ogg', 'ḥ': 'visarga.ogg',
+    'ka': 'ka.ogg', 'kha': 'kha.ogg', 'ga': 'ga.ogg', 'gha': 'gha.ogg',
+    'ca': 'ca.ogg', 'cha': 'cha.ogg', 'ja': 'ja.ogg', 'jha': 'jha.ogg',
+    'ta': 'ta.ogg', 'tha': 'tha.ogg', 'da': 'da.ogg', 'dha': 'dha.ogg',
+    'na': 'na.ogg', 'pa': 'pa.ogg', 'pha': 'pha.ogg', 'ba': 'ba.ogg',
+    'bha': 'bha.ogg', 'ma': 'ma.ogg', 'ya': 'ya.ogg', 'ra': 'ra.ogg',
+    'la': 'la.ogg', 'va': 'va.ogg', 'sa': 'sa.ogg', 'ha': 'ha.ogg',
+}
+
+
+def human_phoneme_key(block):
+    """IAST key if this block is one sounded phoneme, else None."""
+    from indic_transliteration.sanscript import transliterate, DEVANAGARI, IAST
+    toks = [w.strip('—.,!?;:—-') for w in block['text'].strip().split()]
+    toks = [t for t in toks if t]
+    if not toks:
+        return None
+    try:
+        conv = [transliterate(t, DEVANAGARI, IAST) if re.search(r'[\u0900-\u097F]', t) else t
+                for t in toks]
+    except Exception:
+        return None
+    if len(set(conv)) == 1 and conv[0] in PHONEMES:
+        return conv[0]
+    return None
+
+
+def is_phoneme_block(block):
+    """A verse block sounding one mapped phoneme: always its own group
+    (owner call 2026-11-04), so the human clip carries it alone."""
+    return (block.get('voice') == 'verse' and block.get('type') == 'verse'
+            and human_phoneme_key(block) is not None)
+
+
+def split_phoneme_groups(groups):
+    """Carve lone-phoneme verse blocks out of merged groups. Same
+    everywhere (render, assemble, video, gates) — one rule."""
+    out = []
+    for g in groups:
+        if g and g[0].get('group_kind') == 'opener':
+            out.append(g)
+            continue
+        cur = []
+        for b in g:
+            if is_phoneme_block(b):
+                if cur:
+                    out.append(cur)
+                    cur = []
+                out.append([b])
+            else:
+                if cur and (cur[0]['section'], cur[0]['voice']) != (b['section'], b['voice']):
+                    out.append(cur)
+                    cur = []
+                cur.append(b)
+        if cur:
+            out.append(cur)
+    return out
+
+
 def lane_for(sb_path):
     """Lane routing shared by sheets and video: tantrasara chapters resolve
     tantrasara glossaries/art; shiva storyboards resolve the shiva lane
@@ -79,7 +148,7 @@ def lane_for(sb_path):
                 'thumbbox': (760, 760), 'numeral': False, 'art_center': True,
                 'drops': os.path.join(base, 'shiva', f'drops_s{ch}.json')}
     m = re.search(r'ch(\d+)', sb_path)
-    ch = m.group(1) if m else '01'
+    ch = m.group(1).zfill(2) if m else '01'
     return {'lane': 'tantrasara', 'ch': ch,
             'glossary': os.path.join(base, f'glossary_ch{ch}.json'),
             'verse': os.path.join(base, f'verse_gloss_ch{ch}.json'),
@@ -181,51 +250,90 @@ def intro_hold(ch, title=None, asset_dir=None, maxbox=(1400, 730), numeral=None,
         num = ch.zfill(2)
         d.text((W - 120 - d.textlength(num, font=fnt), 60), num, font=fnt, fill=INK)
         if title:
-            # canonical header: title top-left, numeral top-right, same
-            # baseline (y=60). Deva 84 at x=120, every layer centered under
-            # the Sanskrit; mandala clearance asserted on the left.
-            y = 60
-            dlines = [title['deva']]
-            df = F(FD, 84)
-            if d.textlength(title['deva'], font=df) > 520:
-                df = F(FD, 64)
-                parts, cur = [], ''
-                for w_ in title['deva'].split():
-                    t = (cur + ' ' + w_).strip()
-                    if d.textlength(t, font=df) > 520 and cur:
-                        parts.append(cur)
-                        cur = w_
-                    else:
-                        cur = t
-                if cur:
-                    parts.append(cur)
-                dlines = parts
+            # canonical header: title top-left + numeral top-right,
+            # optically level ink tops (not draw parity): measured off a
+            # temp raster of the actual glyphs (deterministic — same
+            # fonts in, same pixels out). Deva bearings vary per word;
+            # font tables alone cannot level them (ch21 proved it).
+            _probe_n = Image.new('RGB', (W, H), LIGHT)
+            ImageDraw.Draw(_probe_n).text((0, 0), num, font=fnt, fill=INK)
+            _ntop = _probe_n.convert('L').point(lambda v: 0 if v > 200 else 255).getbbox()[1]
+            _d0 = F(FD, 84)
+            if d.textlength(title['deva'], font=_d0) > 520:
+                _d0 = F(FD, 64)
+            _probe_d = Image.new('RGB', (W, H), LIGHT)
+            ImageDraw.Draw(_probe_d).text((0, 0), title['deva'].split()[0], font=_d0, fill=INK)
+            _dtop = _probe_d.convert('L').point(lambda v: 0 if v > 200 else 255).getbbox()[1]
+            _gap = max(0, _ntop - _dtop)
+            y = 60 + _gap
+            y0 = y
+            # column width retries: 520 first, then narrower until the
+            # stack clears the mandala (law: Deva 84 wherever it fits
+            # the mandala bound, 64 as the wrap-down step). Deterministic;
+            # the asserts still fail loud if nothing fits.
+            _plan = None
+            for _maxw in (520, 500, 480, 460):
+                _dlines = [title['deva']]
+                _df = F(FD, 84)
+                if d.textlength(title['deva'], font=_df) > _maxw:
+                    _df = F(FD, 64)
+                    _parts, _cur = [], ''
+                    for w_ in title['deva'].split():
+                        _t = (_cur + ' ' + w_).strip()
+                        if d.textlength(_t, font=_df) > _maxw and _cur:
+                            _parts.append(_cur)
+                            _cur = w_
+                        else:
+                            _cur = _t
+                    if _cur:
+                        _parts.append(_cur)
+                    _dlines = _parts
+                _yy, _boxes, _ops = y0, [], []
+                _cx = 120 + max(d.textlength(ln, font=_df) for ln in _dlines) / 2
+                for ln in _dlines:
+                    _ops.append((ln, 120, _yy, _df, INK))
+                    _boxes.append((120, _yy, 120 + d.textlength(ln, font=_df),
+                                    _yy + int(_df.size * 1.35)))
+                    _yy += int(_df.size * 1.35)
+                _engw = max(d.textlength(ln, font=_df) for ln in _dlines)
+                for txt, fp, fsz, fill in ((title.get('iast', ''), FE, 28, ROMAN_FILL),
+                                           (title.get('literal', ''), FR, 24, LIT_FILL),
+                                           (title.get('final', ''), FR, 36, FINAL_FILL)):
+                    if not txt:
+                        continue
+                    _gf = F(fp, fsz)
+                    for gln in wrap_lines(d, txt, _gf, min(_engw, _maxw)):
+                        _lx = _cx - d.textlength(gln, font=_gf) / 2
+                        _ops.append((gln, _lx, _yy, _gf, fill))
+                        _boxes.append((_lx, _yy, _lx + d.textlength(gln, font=_gf),
+                                      _yy + int(fsz * 1.35)))
+                        _yy += int(fsz * 1.35)
+                _ok = True
+                for (x0, y0b, x1, y1) in _boxes:
+                    if y1 > SUB_Y:
+                        _ok = False
+                        break
+                    if y0b < 780:
+                        _rows = _mask.crop((0, max(0, int(y0b)), W, min(H, int(y1) + 1)))
+                        _bb = _rows.getbbox()
+                        if _bb is not None and x1 > _bb[0]:
+                            _ok = False
+                            break
+                if _ok:
+                    _plan = (_ops, _boxes, _yy)
+                    break
+            assert _plan is not None, 'title stack fits no column — restyle the title'
             boxes = []
-            cx = 120 + max(d.textlength(ln, font=df) for ln in dlines) / 2
-            for ln in dlines:
-                d.text((120, y), ln, font=df, fill=INK)
-                boxes.append((120, y, 120 + d.textlength(ln, font=df),
-                              y + int(df.size * 1.35)))
-                y += int(df.size * 1.35)
-            engw = max(d.textlength(ln, font=df) for ln in dlines)
-            for txt, fp, fsz, fill in ((title.get('iast', ''), FE, 28, ROMAN_FILL),
-                                      (title.get('literal', ''), FR, 24, LIT_FILL),
-                                      (title.get('final', ''), FR, 36, FINAL_FILL)):
-                if not txt:
-                    continue
-                gf = F(fp, fsz)
-                for gln in wrap_lines(d, txt, gf, engw):
-                    lx = cx - d.textlength(gln, font=gf) / 2
-                    d.text((lx, y), gln, font=gf, fill=fill)
-                    boxes.append((lx, y, lx + d.textlength(gln, font=gf),
-                                  y + int(fsz * 1.35)))
-                    y += int(fsz * 1.35)
+            for (ln, lx, ly, fnt_, fill) in _plan[0]:
+                d.text((lx, ly), ln, font=fnt_, fill=fill)
+            boxes = _plan[1]
+            y = _plan[2]
             # mandala clearance, measured from the art itself: leftmost
             # non-white pixel over the title band rows is the hard bound.
-            for (x0, y0, x1, y1) in boxes:
+            for (x0, y0b, x1, y1) in boxes:
                 assert y1 <= SUB_Y, 'title stack collides with subtitle zone'
-                if y0 < 780:
-                    _rows = _mask.crop((0, max(0, int(y0)), W, min(H, int(y1) + 1)))
+                if y0b < 780:
+                    _rows = _mask.crop((0, max(0, int(y0b)), W, min(H, int(y1) + 1)))
                     _bb = _rows.getbbox()
                     if _bb is not None:
                         assert x1 <= _bb[0], f'title ink over the mandala ({x1:.0f} vs art {_bb[0]})'
@@ -268,33 +376,20 @@ def intro_hold(ch, title=None, asset_dir=None, maxbox=(1400, 730), numeral=None,
 
 
 def build_holds(blocks):
-    """Group verse blocks (max 3 Deva lines per hold); titles/figures solo."""
-    def npairs(b):
-        return sum(1 for ln in b['text'].strip().splitlines() if ln.strip())
-    holds, cur, cur_n = [], None, 0
+    """One hold per verse-voiced block (owner call 2026-11-04 — every
+    chant gets its own card, including verse-voiced dialogue mantra
+    lines that used to play over white); titles/figures solo.
+    MAX_PAIRS caps Deva line-pairs rendered per card face."""
+    holds = []
     for b in blocks:
         if b['id'] == 'b_opener':
             holds.append([b])
             continue
-        if b['type'] == 'verse':
-            if cur is None:
-                cur, cur_n = [], 0
-            if cur and cur_n + npairs(b) > MAX_PAIRS:
-                holds.append(cur)
-                cur, cur_n = [], 0
-            cur.append(b)
-            cur_n += npairs(b)
-            if cur_n >= MAX_PAIRS:
-                holds.append(cur)
-                cur, cur_n = None, 0
-        else:
-            if cur:
-                holds.append(cur)
-                cur, cur_n = None, 0
-            if b['type'] in ('title', 'figure'):
-                holds.append([b])
-    if cur:
-        holds.append(cur)
+        if b.get('voice') == 'verse':
+            holds.append([b])
+            continue
+        if b['type'] in ('title', 'figure'):
+            holds.append([b])
     return holds
 
 
@@ -555,7 +650,11 @@ def render_hold(hold, sub_text=None, glossary=None):
             # carry the romanised (owner call 2026-11-04).
             for s in lines:
                 deva_part, roman_part = split_scripts(s)
-                v = (glossary or {}).get(fold(s.strip('.,!?')), '')
+                # lookup by content hash of the Sanskrit half (M12-proof):
+                # the author's roman half IS the IAST key; transliterate
+                # only where no roman exists. Whole mixed lines never
+                # match a folded key (M4 class) — halves do.
+                v = (glossary or {}).get(verse_match_key(roman_part or deva_part or s), '')
                 single = len(s.split()) <= 3
                 if single and isinstance(v, dict) and (v.get('deva') or v.get('gloss') or v.get('literal')):
                     deva = v.get('deva') or to_deva(deva_part or s)

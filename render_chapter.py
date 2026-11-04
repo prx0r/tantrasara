@@ -15,7 +15,7 @@ unless --force. --dry-run prints the plan + char usage, calls nothing.
 import json, os, re, sys, hashlib, subprocess
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from holds import drops_for, split_after
+from holds import drops_for, split_after, split_phoneme_groups, human_phoneme_key, PHONEMES, PHONEME_DIR, VOICE_DB
 
 VOL = os.path.expanduser('~/vol/tantrasara/renders')
 SECTION_GAP_S = 1.0   # silence between sections (ear review)
@@ -50,6 +50,7 @@ def main():
             flush()
         cur.append(b)
     flush()
+    groups = split_phoneme_groups(groups)
     # impact drops split groups so pauses land anywhere (re-rendered halves
     # are content-hash cache misses — automatic, prosody-safe by bed)
     _drops = drops_for(sb_path)
@@ -77,7 +78,26 @@ def main():
         h = hashlib.sha1(f'{voice}|{text}'.encode()).hexdigest()[:12]
         gdir = f'{VOL}/{ch}/groups/{sec_slug[sec]}'
         fn = f'{gdir}/g{i:03d}_{voice}_{h}.wav'
-        exists = os.path.exists(fn) and os.path.getsize(fn) > 1000
+        # cache by content hash, never by positional index: drop splits
+        # shift every downstream index, so an index-path hit check would
+        # re-render the world. Glob the hash like every other builder.
+        import glob as _gg
+        _hit = [f for f in _gg.glob(f'{gdir}/*_{voice}_{h}.wav')
+                if os.path.getsize(f) > 1000]
+        exists = bool(_hit)
+        if exists:
+            fn = _hit[0]
+        # human phonemes (owner call 2026-11-04): a singleton verse
+        # group sounding one mapped phoneme uses the human clip, always
+        # (re)writes its file (replacing any Fish cache), never the API.
+        _human = (len(g) == 1 and g[0]['voice'] == 'verse' and
+                  human_phoneme_key(g[0]))
+        if _human:
+            n_calls += 1
+            plan.append({'kind': 'human', 'file': fn, 'voice': voice,
+                         'chars': len(text), 'bids': [b['id'] for b in g],
+                         'text': text, 'phoneme': _human})
+            continue
         total_chars += len(text)
         if exists and not force:
             skipped += 1
@@ -91,7 +111,9 @@ def main():
             break
     print(f'tts calls: {n_calls} new, {skipped} cached, {total_chars} chars total')
     for p in plan:
-        if p['kind'] == 'render':
+        if p['kind'] == 'human':
+            print(f"  HUMAN {p['file']} [{p['phoneme']}] {p['bids'][0]}")
+        elif p['kind'] == 'render':
             print(f"  RENDER {p['file']} [{p['voice']}] {p['chars']}ch {p['bids'][0]}..{p['bids'][-1]}")
         elif p['kind'] == 'cached':
             print(f"  cached {p['file']}")
@@ -110,6 +132,45 @@ def main():
     log = open(f'{rdir}/calls.jsonl', 'a', encoding='utf-8')
     done, failed = 0, []
     for p in plan:
+        if p['kind'] == 'human':
+            os.makedirs(os.path.dirname(p['file']), exist_ok=True)
+            _clip = os.path.join(PHONEME_DIR, PHONEMES[p['phoneme']])
+            assert os.path.exists(_clip), f'human clip missing: {_clip}'
+            _det = subprocess.run(
+                ['ffmpeg', '-nostats', '-v', 'info', '-i', _clip,
+                 '-af', 'volumedetect', '-f', 'null', '-'],
+                capture_output=True, text=True)
+            import re as _re2
+            _me = _re2.search(r'mean_volume: ([\-\d.]+) dB', _det.stderr)
+            _mx = _re2.search(r'max_volume: ([\-\d.]+) dB', _det.stderr)
+            _gain = 10 ** ((VOICE_DB - float(_me.group(1))) / 20) if _me else 1.0
+            if _mx:
+                _peak = float(_mx.group(1)) + 20 * __import__('math').log10(_gain)
+                if _peak > -1.0:
+                    _gain *= 10 ** ((-1.0 - _peak) / 20)
+            r = subprocess.run(
+                ['ffmpeg', '-y', '-v', 'error', '-i', _clip,
+                 '-ar', '44100', '-ac', '1', '-af', f'volume={_gain:.4f}',
+                 p['file']], capture_output=True, text=True)
+            if r.returncode == 0 and os.path.exists(p['file']):
+                dur = subprocess.run(
+                    ['ffprobe', '-v', 'error', '-show_entries', 'format=duration',
+                     '-of', 'default=nw=1:nk=1', p['file']],
+                    capture_output=True, text=True).stdout.strip()
+                log.write(json.dumps({'file': p['file'], 'voice': p['voice'],
+                                      'chars': p['chars'], 'bids': p['bids'],
+                                      'sha': _hl.sha256(open(p['file'], 'rb').read()).hexdigest()[:16],
+                                      'dur': dur, 'src': 'human',
+                                      'phoneme': p['phoneme'],
+                                      'clip': PHONEMES[p['phoneme']],
+                                      'gain_db': round(20 * __import__('math').log10(_gain), 1) if _gain > 0 else 0}) + '\n')
+                log.flush()
+                done += 1
+                print(f'human {done} {p["file"]} [{p["phoneme"]}] {dur}s', flush=True)
+            else:
+                failed.append(p['file'])
+                print(f'FAIL {p["file"]}: {r.stderr[-300:]}', flush=True)
+            continue
         if p['kind'] != 'render':
             continue
         os.makedirs(os.path.dirname(p['file']), exist_ok=True)
@@ -123,9 +184,9 @@ def main():
                  '-of', 'default=nw=1:nk=1', p['file']],
                 capture_output=True, text=True).stdout.strip()
             rec = {'file': p['file'], 'voice': p['voice'], 'chars': p['chars'],
-                   'bids': p['bids'],
-                   'sha': _hl.sha256(open(p['file'], 'rb').read()).hexdigest()[:16],
-                   'dur': dur}
+                    'bids': p['bids'], 'src': 'fish',
+                    'sha': _hl.sha256(open(p['file'], 'rb').read()).hexdigest()[:16],
+                    'dur': dur}
             log.write(json.dumps(rec) + '\n')
             log.flush()
             done += 1

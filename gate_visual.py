@@ -4,7 +4,7 @@ exit 1 with FAIL lines otherwise. Eye lines are read off proof PNGs.
 Usage: gate_visual.py <storyboard.json> [--glossary g.json] [--meta render_meta.json]
   [--mp4 clip.mp4] [--subs subs.json] [--verify verify.json] [--approved approved.json]
 """
-import json, os, re, subprocess, sys, unicodedata
+import json, os, re, subprocess, sys, unicodedata, glob
 
 FAIL = []
 PASS = []
@@ -46,7 +46,8 @@ def main():
     else:
         check('D2 approval present', False, 'no --approved given (render gate closed)')
 
-    # D3 + V5 + V7 glossary discipline
+    # D3 + V5 + V7 glossary discipline (missing glossary fails —
+    # a render with no glossary shows no term cards at all)
     gl = {}
     if '--glossary' in opt:
         gl = json.load(open(opt['--glossary'], encoding='utf-8'))
@@ -57,13 +58,20 @@ def main():
         check('V5 confirmed terms carry citation Deva', not nodeva, str(nodeva[:3]))
         paren = [k for k in conf if isinstance(gl[k], dict) and ('(' in gl[k].get('literal', '') or ')' in gl[k].get('literal', ''))]
         check('V7 literals use square brackets', not paren, str(paren[:3]))
+    else:
+        check('glossary resolved (no term cards without it)', False, 'no --glossary given')
 
     # H3 render_meta cues match storyboard run scan
     if '--meta' in opt:
         m = json.load(open(opt['--meta'], encoding='utf-8'))
         check('H4 white within band', m.get('white_pct', 0) <= 85 or m.get('duration', 0) <= 60,
               f"white {m.get('white_pct')}%")
-        check('H1 thumbnail opens', m.get('coverage', {}).get('thumbnail', 0) > 0)
+        _starts_top = not m.get('bids') or m['bids'][0] == 'b1'
+        if _starts_top:
+            check('H1 thumbnail opens', m.get('coverage', {}).get('thumbnail', 0) > 0)
+        else:
+            check('H1 mid-chapter opens white (no intro re-show)', True,
+                  'starts at ' + (m.get('bids', ['?'])[0]))
         mcues = [c['key'] for c in m.get('cues', [])]
         # recompute expected cue order from storyboard + confirmed glossary,
         # restricted to the rendered bid range when the meta records it
@@ -73,27 +81,44 @@ def main():
             have = set(m['bids'])
             sb_blocks = [b for b in sb_blocks if b['id'] in have or b['id'] == 'b_opener']
         terms = {k for k, vv in gl.items() if isinstance(vv, dict) and vv.get('status') == 'confirmed'} if gl else set()
-        exp, shown = [], set()
+        # builder rule: EVERY term mention fires at its own word onset
+        # (one flat row yields one new cue; re-mentions re-fire).
+        exp = []
         for b in sb_blocks:
-            if b.get('type') not in ('narration', 'dialogue') or b.get('voice') not in ('granny', 'man'):
+            if b.get('type') not in ('narration', 'dialogue'):
                 continue
-            for w in re.findall(r"[\w·-]+", b['text'], re.UNICODE):
-                c = fold(w.strip('.,!?;:\'"-'))
-                if c in terms and c not in shown:
-                    shown.add(c)
+            # builder-exact tokenization: whitespace split, \w filter
+            # (glued em-dash pairs do NOT split — matches build_clip).
+            for w in b['text'].strip().split():
+                if not re.search(r'\w', w, re.U):
+                    continue
+                c = fold(w.strip('.,!?;:\'"—-'))
+                if c in terms:
                     exp.append(c)
-                    break
         check('H3 cue order matches storyboard', mcues == exp, f'{len(mcues)} cues')
-        # drops: every filed drop applied in the render
+        # drops: every filed drop applied in the render (lane/ch-specific
+        # file — never any drops_*.json that happens to sort last)
         import glob as _gg2
         _dp = None
+        _lane_ch = re.search(r'ch(\d+)', sb_path)
+        _lane_ch = _lane_ch.group(1).zfill(2) if _lane_ch else None
+        _wanted = f'drops_ch{_lane_ch}.json' if _lane_ch else None
         for _cand in glob.glob(os.path.join(os.path.dirname(os.path.abspath(sb_path)), 'drops_*.json')):
-            _dp = _cand
+            if _wanted is None or os.path.basename(_cand) == _wanted:
+                _dp = _cand
+                break
+        if _dp is None:
+            _cands = glob.glob(os.path.join(os.path.dirname(os.path.abspath(sb_path)), 'drops_*.json'))
+            _dp = _cands[0] if _cands else None
         if _dp:
             _dfile = json.load(open(_dp, encoding='utf-8'))
             _dmeta = m.get('drops', {})
-            check('H7 drops applied', set(_dfile) <= set(_dmeta),
-                  f'file={sorted(_dfile)} meta={sorted(_dmeta)}')
+            # chunk-scoped: only drops rendered in this range's bids
+            # can apply here; the rest belong to sibling chunks.
+            _rbids = set(m.get('bids', []))
+            _in_range = {k for k in _dfile if not _rbids or k in _rbids}
+            check('H7 drops applied', _in_range <= set(_dmeta),
+                  f'file={sorted(_in_range)} meta={sorted(_dmeta)}')
             check('H7 every drop justified', all(
                 isinstance(v, dict) and v.get('pause', 0) > 0 and (v.get('why') or '').strip()
                 for v in _dfile.values()), 'pause>0 + non-empty why required')
