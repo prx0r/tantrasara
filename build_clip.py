@@ -270,7 +270,15 @@ def _main_inner():
             continue
         r = subprocess.run(['node', ALIGN, f, wpath, opath, lang],
                            capture_output=True, text=True, env={**os.environ, 'NODE_PATH': NODE_MOD})
-        assert os.path.exists(opath), f'MMS failed group {i}: {r.stderr[-300:]}'
+        if not os.path.exists(opath):
+            # M32: record the FULL stderr — the assert truncation was
+            # hiding silent MMS deaths (empty [-300:] tells nothing).
+            with open('/tmp/mms_fail.log', 'a') as _lf:
+                _lf.write(f'--- {sb.get("title")} group {i} {g[0]["id"]} lang={lang} n={len(disp)}\n')
+                _lf.write(f'words: {json.dumps(ali[:12], ensure_ascii=False)}\n')
+                _lf.write(f'rc={r.returncode} stderr_len={len(r.stderr)} stdout_len={len(r.stdout)}\n')
+                _lf.write((r.stderr or '')[-4000:] + '\n' + (r.stdout or '')[-1000:] + '\n')
+            assert os.path.exists(opath), f'MMS failed group {i}: {r.stderr[-300:]}'
         rows = json.load(open(opath, encoding='utf-8'))
         assert len(rows) == len(disp), f'{g[0]["id"]}: {len(disp)} vs {len(rows)}'
         mean = sum(x['mms'] for x in rows) / len(rows)
