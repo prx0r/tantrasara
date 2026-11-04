@@ -12,10 +12,10 @@ handoff, opener excluded. It is conventional, measured, never composed.
 - ch02-22: b1 spoken number granny, b2 Sanskrit name verse, b3 English
   tagline granny, b4 beat Right then, b5 onward recap Last chapter plus
   2-4 beats. Twelve-block sample runs 70-101 words. Visual thumbnail from
-  frame 0. b2 currently triggers a verse card because it carries Devanagari
-  letters — this slot is amendable per chapter: keep as chant, or force to
-  granny plus thumbnail with no card. Machine never decides, owner marks
-  the exception in overrides and the builder respects it.
+  frame 0 through the intro (first tone break — GATES H1, owner call
+  2026-11-04). b2 chants as standard since 2026-11-04 (overrides
+  cleared all 21; ch01 b2 stays granny English). Forcing b2 to granny
+  remains available per chapter by override. Machine never decides.
 
 ## Budget
 

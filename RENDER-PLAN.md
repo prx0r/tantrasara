@@ -1,5 +1,9 @@
 # RENDER PLAN — all 22 Tantrasara + 78 Shiva Sutras, fastest path (2026-11-04)
 
+> STALE: the Nov-03 batch failed (see EVENTS FAILs + M21). Current
+> pipeline is PLAYBOOK.md: bless → audio → chunks → prove → verify
+> → ship, one video at a time, this box. Fleet sharding on hold.
+
 Goal: every chapter a verified mp4, goldens sealed, R2 shipped, one film + zip.
 Two boxes: opencode3 (here, 6c) runs the main line; opencode2 (4c, volume host)
 takes re-runs, then shiva shards. opencode1 joins when reachable.

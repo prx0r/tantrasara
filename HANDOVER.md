@@ -1,5 +1,9 @@
 # HANDOVER — next agent starts here (2026-11-04)
 
+> New agents: read START-HERE.md + PROCESS-NOTES2.md first — they
+> supersede this file's state section. Live truth is REGISTRY.json
+> + manifests + PLAYBOOK.md.
+
 Goal: render each Tantrasara chapter validated exactly the known way;
 shiva lane follows the same routine. Read AGENTS.md order first
 (RUNTIME → PIPELINE → GATES), then this file, then REGISTRY.json.

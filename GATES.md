@@ -31,14 +31,18 @@ rule — same commit as the code, never a wave-through.
 
 ## Holds and timing (machine + eye)
 
-- H1 thumbnail frame 0 to first chant. ch01 clean; ch02+ numeral (zero
-  padded) + canonical title. [machine: coverage thumbnail > 0] [eye]
-- H2 verse cards only while chanting, plus a 2.8s crisp linger after
-  multi-line chants, then boom white (singles persist instead — no white,
-  0.6 bed). Lone glossed chants persist exactly
-  one following block, then white; cues always win over persist. [machine:
-  persist spans in build log match single-glossed verse count] [eye: linger
-  frame holds the card, next frame is clean white]
+- H1 thumbnail frame 0 through intro end (first tone break: section
+  break, long-pause beat, or dialogue entry — never the first chant).
+  ch01 clean; ch02+ numeral (zero padded) + canonical title, title ink
+  optically level with the numeral. [machine: coverage thumbnail > 0]
+  [eye]
+- H2 verse cards while chanting and held until the next Sanskrit
+  word (next cue or chant onset) or the next tone break, whichever
+  comes first — no chant dies into dead air; the 2.8s crisp bed
+  still breathes under multi-line chants, 0.6 after singles. Lone
+  glossed chants keep all term layers. Cues always win over
+  persist. [machine: persist spans in build log match verse-block
+  count] [eye: card holds to the next Sanskrit, then clean white]
 - H3 list runs are 2+ cues with no event gap; shape follows count
   (1 centered, 2 side by side, 3 row-or-triangle, 4 corners, 5 corners +
   middle, window slides past five). [machine: render_meta cues order
@@ -51,6 +55,14 @@ rule — same commit as the code, never a wave-through.
 - H6 karaoke lights the spoken word at its onset; gaps belong to the
   prior word; 1:1 word mapping asserted at build. [machine: build assert
   + whisper subsequence ≥ 0.35 per block] [eye: two mid-speech frames]
+- H7 every filed drop applied in the render with its pause, every one
+  justified (pause > 0, non-empty why). Unjustified silence never
+  renders. [machine: filed-vs-meta diff]
+- H8 no visual static past 60s (advisory, never alone fails the render):
+  a hold change, cue, break, or chant lands within 60s of the last,
+  every minute of every chapter — where no Sanskrit is spoken, none
+  can show. Estimates at the storyboard gate, measured onsets at the
+  video gate. [machine: report gaps] [eye]
 
 ## Audio and delivery (machine)
 

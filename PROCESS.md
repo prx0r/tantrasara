@@ -67,7 +67,10 @@ no tokens.
 `render_chapter.py` groups consecutive same-voice same-section blocks, one
 Fish s2.1-pro-free call each, filename carries sha1 of voice plus directed
 text, receipts map bids to files with chars hash duration. Voice minus 21dB
-mean. Assembly bell ding plus 6dB opens, beds deterministic from the clip
+mean. Singleton sounded phonemes take human clips (same hash path).
+Before rendering: `probe_rough.py` voices the mangle-prone blocks;
+English round-trips by whisper, Sanskrit and punctuation by owner
+ears — nothing renders until suspects are heard. Assembly bell ding plus 6dB opens, beds deterministic from the clip
 rhythm table: 0.8 structural dialogue section-end and long-pause, 0.6
 verse, 0.3 flow. Duration asserted against sum of parts. Missing groups
 block loudly. Tuning pauses is re-assemble and re-mux, never re-render.
@@ -96,8 +99,9 @@ overrides glossaries sheets docs, never audio frames caches keys.
   table above (mp3 mixes vs video mixes diverge). Next/Keep reading kept
   versus stripped needs one owner line. Dialogue with verse voice in ch04
   and ch13 needs a name or reclassify. Thumbnails ch02–22 missing (fallback
-  shows ch01 art). One cue per block fires (second mention in the same
-  block never cards). `verse_gloss_chNN.json` (T1 literal + L3 final per
+  shows ch01 art). Every term mention fires its own cue at its word
+  onset (proven: b37 fires x3 — the old "one cue per block" note was
+  wrong). `verse_gloss_chNN.json` (T1 literal + L3 final per
   chant, `mine_verse_gloss.py`) parked proposed after a same-day revert —
   verses render Deva + IAST until re-blessed. `review/` packs versus
   `reviews/` frozen listener reviews need distinct names in the tree.

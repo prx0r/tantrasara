@@ -26,7 +26,8 @@ estimated, nothing is decided at render time. Storyboard is the render.
    top-right in FE 150) / verse (Deva + IAST, M4 split) / term (four
    layers: Deva citation form + IAST + T1 literal + final gloss, grey ramp
    down, brackets not parens) / list (count decides the shape, window of
-   five slides) / single-word persist (stays one following block) /
+   five   slides) / verse persist (every verse hold stays one following block
+  as standard, owner call 2026-11-04) /
    title / figure / white (the default hold, used as dramatic effect —
    never filler). Every card asserts subtitle zone, frame edges, pairwise
    non-overlap, column width — collisions fail loud.

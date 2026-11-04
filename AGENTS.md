@@ -46,6 +46,10 @@ runs, do light prep (gates, sheets, publishes, docs, the shiva lane).
 
 ## Read order (every agent, no skipping)
 
+- New here? Read `START-HERE.md` first (one-page index: status of
+  every doc, the ch01 process, stale list, open questions), then
+  `PROCESS-NOTES2.md` (session record: chunk method, gates added,
+  audit findings, what's golden/missing/stale), then below.
 0. `RUNTIME.md` — the owner's verbatim gospel and northstar. The routine:
    blocks → edits → storyboard PNG proofs → perfect mp4 → Qwen final pass.
    `PIPELINE.md` is the complete operating manual with readings — read it
@@ -76,7 +80,8 @@ run_all.py drives everything: preflight board cast-check publish render mms
 assemble holds video verify golden-check review-pack cleanup. Single
 chapter dry run first, then overnight batch. build_storyboard,
 render_chapter, assemble_chapter, holds_timeline, render_holds, build_clip,
-verify_clip, publish_review, golden and holds are the line. Pilot,
+verify_clip, publish_review, golden, holds, probe_rough, run_blocks and
+prove_clip are the line. Pilot,
 firstmin, board, make_card and audit scripts are legacy experiments, read
 only, never build from them.
 

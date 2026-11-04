@@ -36,8 +36,11 @@ and it may only PASS or FAIL — never decide, never improvise, never "fix".
 
 **Then, mechanically, in order:** publish review pack (storyboard + timeline
 + sheets to R2) → owner approves (`approved_chNN.json`, SHAs pinned;
-render REFUSES without it) → render → align (means ≥0.85) → assemble
-(duration == sum of parts) → holds sheets → video →
+render REFUSES without it) → rough probes (`probe_rough.py`: the
+Fish-mangle-prone blocks voiced cheaply, whisper round-trip on
+English, Sanskrit-dominant + punctuation-heavy to owner ears and
+Qwen — nothing renders until suspects are heard) → render → align
+(means ≥0.85) → assemble (duration == sum of parts) → holds sheets → video →
 COVERAGE printed (white target ≈20%, fail >85%) → verify_clip PASS →
 Whisper head-check → Qwen taste-only → golden-check vs the blessed render
 (duration ±2s, same cue order, cue times ±3s, white ±5pp) → upload +

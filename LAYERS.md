@@ -1,7 +1,10 @@
 # LAYERS — every layer documented, sourced, gated (2026-11-04)
 
 Two stacks feed the screen. Translation layers live in
-`prx0r/translation-work/tantrasara-aNN/` (frozen T1 batch 2026-10-30).
+`/tmp/translation-work/tantrasara-aNN/` (frozen T1 batch 2026-10-30;
+FLAG: tmpfs, not durable — needs an R2 tarball like the MMS deps
+before anything depends on it blindly). Owner rule 2026-11-04:
+scholarship questions go to these translations first.
 Card layers live in `glossary_chNN.json` + `verse_gloss_chNN.json` and
 render from `holds.py`. Nothing floats: each layer points at its source.
 
@@ -41,9 +44,10 @@ Per Sanskrit display, top to bottom, closest to furthest:
 
 - ch01: T1+L3 present; 16/16 terms confirmed; 16 literals proposed;
   3 verse entries proposed (parked).
-- ch02–22: T1 present; L3 absent (a01 only); L4 absent everywhere;
-  glossaries proposed (title entries proposed); verse entries proposed
-  where chants matched, else Deva+IAST automatic.
+- ch02–22: T1 present; L3 absent (a01 only); L4 absent everywhere.
+  Bulk-confirmed 2026-11-04 (1368/1447; 79 uncertain held proposed —
+  cards stay white there). Verse entries proposed where chants
+  matched, else Deva+IAST automatic.
 - Thumbnails: ch01 rainbow only; ch02+ fall back (wrong art, flagged).
 
 ## Autonomy contract

@@ -665,3 +665,194 @@ pauses stage his entrances. Files are new (no SHA impact); they take
 effect on the next video build of each chapter (03/04/05 post-batch
 re-runs; 06 on its next build). Pauses stay proposed until heard — white
 holds with silence, never decoration.
+
+## 2026-11-04 — bulk confirm (owner blanket order) + block rendering adopted
+Owner confirmed all cues; 1368/1447 terms confirmed (my draft finals merged
+as the confirmed gloss, note cites provenance). 79 genuinely uncertain
+terms held proposed (verse compounds, terse singletons, unclear contexts —
+list in the confirm log; cards stay white there, never guessed). Deva
+column untouched by the confirm (citation = separate owner pass; M15/M23
+stand). Fresh approvals recorded for all 22 on current SHAs. Rendering
+switches to ~10-minute group-aligned blocks (concat per chapter, verify
+the assembly) — a failed 40-minute video costs hours, a failed 10-minute
+block costs minutes. Driver lives in /tmp (operational, never a repo
+change): same frozen builders, group-boundary ranges only (M6).
+
+## 2026-11-04 — chunk method canonical (audio once, visuals early, autonomous proof)
+
+Owner: split every chapter into ~10-minute group-aligned chunks; audio
+renders once per group (content-hash cache — re-runs are hits, never
+re-renders); video builds per chunk and concats; visual mistakes get
+caught early on chunk proofs, never on full renders. Aim: minimise
+repeated work, surface every visual decision where it is cheapest.
+- Groups are the audio atoms (same-section same-voice, sha1 filenames).
+  Chunks are ranges of whole groups only (M6) — bids never split groups.
+- Per chunk, in order: storyboard gate (green + intro thumbnail + 60s
+  visual rule + drops group-final, estimates) → audio cached check
+  (render missing groups first, Fish free) → build chunk → proof pack
+  (hold-boundary frames + mid-speech frames + subs + meta + gate) →
+  eye read (frames against storyboard beats) + Qwen taste (transcript
+  corroborated) → notes filed → fix → re-proof. Full chapter only
+  concats proven chunks, then verify + golden-check + review-pack.
+- `run_blocks.py` (repo): chapter -> group-aligned mp4 parts + concat
+  list, frozen builders only. `prove_clip.py` (repo): part mp4 ->
+  proof pack (boundary frames, contact sheet, gate run, notes
+  template). The autonomous loop runs these two and stops at red.
+
+## 2026-11-04 — storyboard routine complete, all 22 (no video)
+
+Owner: forget rendering, storyboard first. Ran the full routine per
+chapter from frozen storyboards: gate_storyboard (new repo gate:
+green, intro thumbnail, H8 advisory, drops+M6, Deva) → sheets
+rebuilt on final code → every contact sheet + intro/verse holds
+read by eye → proof notes filed per chapter
+(`review/chNN/storyboard_proof.md`) → fixes same-day (header
+optics 137v138 measured, verse_match_key glossary lookup, title
+resolver any-voice, column retry + review-layer wrap, subtitle
+36/32 step-down with bid, scoped drops, intro-end holds).
+- ch01–13 gate fully GREEN. ch14–22 RED only on V5 (confirmed
+  terms without Deva citations — owner pass, M15/M23).
+- b2 chant flip landed all 21 (ch01 English, stays granny);
+  storyboards green, packs republished 22/22 to R2, approvals
+  stale (SHA table in session record — ch01 MATCH, rest RE-BLESS).
+- Impact flow filed (`IMPACT-FLOW.md`): one proposed drop per
+  60s+ static gap with pause + written why; 14 NO-GROUPFINAL
+  gaps need owner calls; white-without-Sanskrit listed not
+  proposed (ch02 b52–b82 verified term-by-term).
+- Golden errata filed (`review/ch01/notes_round2.md`): no anyam
+  in ch01 data (timestamp asked), paurusa gloss verbatim unedited.
+
+## What's next (in order, each needs its gate)
+
+1. Owner disposes: re-bless 21 storyboards, Deva citations
+   (ch14–22), impact proposals + 14 calls, paurusa gloss +
+   anyam timestamp, per-chapter art, ch01 ears (seals golden).
+2. File disposed drops into `drops_chNN.json` (republish packs;
+   drops don't touch SHAs — approvals stand).
+3. Render missing audio only (`render_chapter.py` — b2 groups
+   re-voiced verse, ch08's 53 outstanding, ch20–22 b1 ranges
+   per EVENTS misses; everything else cache hits, Fish free).
+4. Chunk video per chapter (`run_blocks.py`) → proof pack
+   (`prove_clip.py`) → eye + Qwen → notes → fix → re-proof.
+5. Concat proven chunks → verify → golden-check → review-pack
+   → upload `copyto` + HEAD → ears → seal → commit one concern
+   + push. Stop rule holds throughout.
+
+## 2026-11-04 — pipeline running: ch02 shipped, ch03 proving (blessed ch02–13)
+
+Owner delegated bounded blessing; blessed ch02–ch13 (approvals with
+new b2-flip SHAs, drops M6-validated each; b784 + no-groupfinal
+points refused with reasons). ch14–22 held (Deva + provisional
+casting = owner scholarship).
+- ch02 full 423s 866 cuts shipped (R2 + finals): b2 chant opens,
+  header level, row cards + karaoke proven on frames, drop holds
+  clean white. Verify: b69 whisper-drift only (MMS 0.955 + slice
+  15/15 prove presence); ears dispose.
+- ch03 p00/p01 prove GREEN (drop-b23/b381 + pairs on frames).
+- Builder fixes ported: render_chapter cache by content hash
+  (drop splits shifted indices → 113 phantom re-renders, now 3);
+  gate H1/H7 range-scoped for chunks; gate glob import;
+  cue model corrected — EVERY mention fires at its onset
+  (PROCESS "one cue per block" delta was wrong; b37 fires x3).
+- Gate catch: ch14–22 V5 RED (confirmed terms minus Deva).
+- Storage: local 99% pre-existing (not ours to purge); /tmp
+  working set ~50M, cleaned per chapter after ship; volume 12G
+  free, finals 80M; R2 review packs + sealed videos only.
+
+## 2026-11-04 — verse holds persist as standard + human phonemes (owner calls)
+
+Voice direction: (1) every verse card holds through the following
+block as standard — no chant dies into dead air (GATES H2, VISUAL
+§2; crisp 2.8s bed stays audio-only). (2) Sounded single phonemes
+(A E I…) use the exact human .ogg clips from
+`~/deitybody/site/audio/phonemes/` (53 files, practice-grade),
+never Fish/granny; multi-line verses stay Fish. Only certain 1:1
+mappings (vowels, anusvara/visarga, plain ka–ha set, ṛ/ṝ);
+retroflex/na_j/na_k/sha/shha/lr/lrr fall back to Fish, logged.
+Implemented in `render_chapter.py` (singleton verse groups only
+— no grouping changes anywhere; merged alphabet runs stay Fish,
+listed): human wavs written to the same content-hash path so all
+downstream builders resolve untouched; receipts carry src/gain;
+-21dB mean with -1dB peak ceiling. Proven ch03: 4 human groups
+(a ā ī ū ~1.2s each). ch03 videos from Fish phonemes are stale —
+re-render queued.
+
+## 2026-11-04 — staging verification + OOM disambiguation (ch04 p00/p01)
+
+Two empty-stderr MMS deaths, two different causes — proven apart,
+not guessed. p00 group b3..b63 (412 words/184s): node OOM-killed
+(rc=137) reproduced by hand; halves align 0.964 in 21s. Fix in
+`build_clip.py`: groups over 300 words split on measured silence
+near the middle sharing a block boundary, halves aligned, second
+offset; assert means (garbage fails loud). Audio/groups/hashes
+untouched; 299-word proven groups never trip it.
+p01 group b192..b254 (273 words): wav intact on volume (two
+independent copies, identical md5, full decode clean) — the staged
+copy had truncated mid-flake while size>1000 still passed. Fix:
+staging verifies source size stable-twice + byte-equal copy,
+5 tries, then asserts. Lesson: size>0 proves nothing on a
+flaky mount; stability + equality or fail loud.
+
+## 2026-11-04 — no RED: 625 Deva-less confirmed flipped to proposed
+
+Owner: no red anywhere. Audit found 625 confirmed terms ch14–22
+with empty citation Deva (bulk-confirm merged finals, Deva column
+never filled). Translation-work is IAST-only (T1 lemmas, GRETIL
+SOURCE.txt) — no Devanagari source exists on this box, so machine
+Deva is banned outright (M23). Resolution: status back to proposed
+(gloss/literal/data intact + provenance note), rendering white by
+design until the owner Deva pass flips them back. All 22 chapters
+gate GREEN.
+
+## 2026-11-04 — near-miss: auto-queue ran two videos at once (M28 filed below)
+
+An autonomous queue script launched ch06 video while ch05 was
+mid-mux; both share /tmp/mmsclip + /tmp/clip_frames. ch05 p01.mp4
+came out corrupt (moov atom not found). Caught by prove-before-ship:
+no meta, no ship. Fix: `run_blocks.py` claims `/tmp/video_build.lock`
+(pid-checked, self-releasing) and refuses when another build lives —
+the one-video law is now code, not discipline. ch05 video rebuilding
+cleanly from scratch.
+
+## 2026-11-04 — persist extended: holds to the next Sanskrit word
+
+Owner: chanted Sanskrit was clearing after one block even when
+nothing Sanskrit followed — cards flashed for a frame. Now every
+verse hold persists until the next cue onset, next chant onset,
+or next tone break (dialogue / long-pause / section change),
+whichever comes first; to range end if none follows. Cues still
+win over persist; verse branch still wins during chants. GATES H2
++ VISUAL §2 updated same commit. Implemented in `build_clip.py`
+only (sheets are static holds, unaffected). ch06 p04/p05 built
+under the old one-block rule — noted, not re-rendered without
+owner word.
+
+## 2026-11-04 — lock discipline, learned twice in one hour
+Lock lives in `build_clip.py` (the unit holding fixed /tmp paths),
+verified by /proc cmdline (PID reuse defeats kill-checks). Never in
+`run_blocks.py`: a parent holding what its child checks refuses its
+own family. run_blocks stays lock-free; ranges serialize through the
+child's claim. Stale locks from kill -9 are inert (dead holder =
+free). M30 extended.
+
+## 2026-11-04 — one hold per verse-voiced block (owner call)
+Every chant gets its own card, including verse-voiced dialogue
+mantra lines that used to play over white. build_holds groups by
+voice now, not type; max 3 pairs stays as the per-card cap (no
+single verse block exceeds it lane-wide, verified). Sheets +
+video share it via holds.py as always.
+
+## 2026-11-04 — Deva evidence bundles + preflight guard (owner: no red)
+
+625 Deva-less confirmed (ch14–22) had no Devanagari source on this
+box (translations are IAST-only) — machine Deva stays banned (M23),
+so statuses flipped to proposed with data intact. Then went further:
+T1 lemma_iast (diacritics intact) transliterated per distinct form
+with round-trip asserts, stored as `deva_candidates` (never `deva`,
+never rendered) on ch14–22 only — ch01–13 untouched (blessed +
+shipped; their 80 T1-disagreements likeiteksुद्धविद्य vs शुद्धविद्या
+are logged for the owner Deva pass, not auto-fixed). Web confirms
+IAST losslessness (ISO 15919/Geneva 1894), but T1 lemmas are
+inflected — candidates carry the case caveat, owner picks citation
+forms. `preflight.py` now gates every batch (disk, lock, SHAs, V5,
+audio, keys, models); PLAYBOOK §0b.

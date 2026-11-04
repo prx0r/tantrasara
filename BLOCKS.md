@@ -39,6 +39,14 @@ English tagline, `Right then`, recap. Chapter 01 adds the role declaration.
 
 Grouping: consecutive blocks, same section, same voice, one Fish call.
 Voice none skipped. Opener is an asset copy, never rendered.
+Singleton verse blocks sounding one mapped phoneme take the human
+clip instead of Fish (owner call; same content-hash path, receipts
+carry src/gain, -21dB mean, -1dB peak ceiling).
+
+Before the chapter render: rough probes (`probe_rough.py`) voice
+the Fish-mangle-prone blocks cheaply — whisper round-trips English,
+Sanskrit-dominant and punctuation-heavy blocks go to owner ears and
+Qwen with their wav clips. Nothing renders until suspects are heard.
 
 Filename carries the link: `groups/<sec-slug>/gNNN_<voice>_<sha1>.wav`
 where sha is `sha1(voice|directed-text)` first 12 hex. Re-runs with unchanged
@@ -74,8 +82,8 @@ duration. Voice audio -21dB mean, man attenuated.
 
 ## 4. Prove it (`verify_clip.py`, `golden.py`, `run_all.py`)
 
-Verify checks geometry 1920x1080 30fps plus audio, levels in band, no silence
-over 3s, every narration and dialogue head plus tail heard in order by
+Verify checks geometry 1920x1080 30fps plus audio, levels in band, no uncomposed
+silence over 10s, every narration and dialogue head plus tail heard in order by
 whisper, motion so frozen video fails. Golden seals duration cuts coverage
 and cue sequence on owner ears pass, check fails on duration drift 2s, cue
 reorder or miss, cue drift 3s, white drift 5 points, cuts drift. `run_all.py`

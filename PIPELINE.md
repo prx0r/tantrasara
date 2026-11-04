@@ -81,6 +81,9 @@ Consecutive same-section same-voice blocks merge into one TTS call
 re-runs are cache hits; receipts log every call. `--dry-run` plans,
 `--limit` caps, `--force` re-renders. Free-tier law: dry-run must print
 ~$0.00 and the model string must read `-free`. Voice −21dB mean, man 75%.
+Singleton sounded phonemes take human clips (same hash path). Before
+any chapter render, `probe_rough.py` voices the mangle-prone blocks:
+English round-trips by whisper, Sanskrit + punctuation to owner ears.
 
 ### 2.6 Align (`align_group.js`, MMS forced align)
 

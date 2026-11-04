@@ -110,8 +110,8 @@ block IDs. Duration asserted against sum of parts.
 
 ## 11. Video (`build_clip.py`)
 
-Thumbnail from frame 0 until first chant; verse cards while chanting;
-term/title/figure cards at cues; clean white otherwise. Subtitles:
+Thumbnail from frame 0 through the intro (first tone break); verse cards
+while chanting; term/title/figure cards at cues; clean white otherwise. Subtitles:
 IAST transliteration for verse blocks (Devanagari has no glyphs in the
 subtitle face — bare boxes otherwise), verbatim otherwise. 30fps,
 libx264, AAC. Frames verified by eye before upload (tofu, overflow,
@@ -173,6 +173,6 @@ commit, push same day.
 - All Sanskrit one standard Deva size (84); only assignment moves.
 - No title cards shown in video (spoken titles stay).
 - Lone glossed chants persist through the following block.
-- Thumbnail holds from frame 0 until first chant (per-chapter art).
+- Thumbnail holds from frame 0 through the intro (per-chapter art).
 - Man at 75%. Bell ding +6dB. Free Fish only, always.
 - Unconfirmed glosses never render. UNCAST never defaults.

@@ -1,5 +1,9 @@
 # CHAPTER PREP - all 22 ready-to-render rundown (2026-11-04)
 
+> STALE snapshot: b2 intros are verse chants now (not granny), and
+> glossaries bulk-confirmed (not all-proposed). Trust storyboards +
+> manifests, not the counts below.
+
 Green storyboards, b2 granny intros, proposed title entries, planned
 list runs (shapes when glossaries confirm), sheets proven. Render gate
 still closed: no approvals, glossaries unconfirmed, disk under preflight.

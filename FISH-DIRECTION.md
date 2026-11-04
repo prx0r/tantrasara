@@ -53,7 +53,14 @@ Source: https://docs.fish.audio/developer-guide/core-features/emotions.md
 - Never: paid models, drama-3 tags, `(parens)` S1 syntax, tags on verse
   chants, emotion on every sentence.
 
-## Prove it (every direction change)
+## Prove it (every direction change) + rough probes (every chapter)
+
+`probe_rough.py` voices the Fish-mangle-prone blocks before any
+chapter render: IAST/digits/punctuation/short-fragment scoring,
+whisper round-trip on English-dominant blocks, Sanskrit-dominant
+and punctuation-heavy always to owner ears with wav clips
+(whisper garbles short Sanskrit by design — scores there prove
+nothing). Nothing renders until suspects are heard.
 
 1. Rebuild green, 0/0. Diff same-text voices (only intended changes).
 2. Re-voice affected groups only (content-hash cache proves the rest).

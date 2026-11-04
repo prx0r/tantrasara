@@ -14,19 +14,28 @@ implements. Change only by owner call, same commit as the code.
 - Devanagari: Tiro Devanagari Sanskrit Regular. Verse 84pt, wrapped 64pt.
 - Gloss: Cormorant Garamond Italic 40, grey. One line under the Deva.
 - Subtitles: Cormorant Garamond Medium 46 → 40 if 3 lines threaten.
+   Blocks that cannot fit two lines at any readable size show a
+   two-line window around the spoken word instead (owner call
+   2026-11-04) — every word still appears with karaoke over time.
+   Ink = lit (spoken), grey = unlit. Verse subtitles in IAST transliteration
   Ink = lit (spoken), grey = unlit. Verse subtitles in IAST transliteration
   (the face owns no Devanagari glyphs); narration subtitles verbatim.
 
 ## Cards (owner-confirmed 2026-11-03: term cards as now, ~20% white target)
-1. **Thumbnail + chapter numeral** — frame 0 until first chant. Fitted above
+1. **Thumbnail + chapter numeral** — frame 0 through the intro, clearing
+   at the first tone break (section break, long-pause beat, dialogue
+   entry). Verse cards take over at chants whenever they come. Fitted above
    subtitle zone, never fullscreen-bleed. ch01 shows the thumbnail alone
    (blessed reference, never touched); ch02+ carry the chapter numeral
    top-right in house figure type (shared `intro_hold`, one code path for
    sheets and video).
 2. **Verse** — Devanagari ONLY (subtitles already carry the romanised —
-   owner call 2026-11-04). Up the moment chanting starts; multi-line chants
-   linger through a 2.8s crisp bed, then boom white (2.8 not 3.0: our own
-   dead-air tripwire fires past 3.0s). Whole-chant T1 literal + L3 final
+   owner call 2026-11-04). Up the moment chanting starts and held
+   until the next Sanskrit word (next cue or chant) or the next tone
+   break, whichever comes first (owner call 2026-11-04 — no chant
+   dies into dead air); then boom white.
+   The 2.8s crisp bed still breathes under multi-line chants
+   (2.8 not 3.0: our own dead-air tripwire fires past 3.0s). Whole-chant T1 literal + L3 final
    tried and reverted same day (`mine_verse_gloss.py` output parked proposed
    in `verse_gloss_chNN.json`). Max 3 Deva line-pairs per hold. Single-word
    glossed chants     carry all three term layers (see 5).
