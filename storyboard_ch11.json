@@ -21,10 +21,10 @@
   {
    "id": "b2",
    "section": "Tantrasāra — Chapter 11",
-   "type": "narration",
-   "voice": "granny",
+   "type": "verse",
+   "voice": "verse",
    "text": "एकादशमाह्निकम् — Śaktipātaprakāśanam",
-   "directed": "एकादशमाह्निकम् — Śaktipātaprakāśanam"
+   "directed": "[slowly] एकादशमाह्निकम् — Śaktipātaprakāśanam"
   },
   {
    "id": "b3",
@@ -9531,21 +9531,6 @@
    "directed": "Sacred bathing and purification: why washing your body isn’t the same as removing impurity, and how the eight forms of Śiva become instruments of initiation."
   }
  ],
- "totals": {
-  "blocks": 1191,
-  "words_per_voice": {
-   "none": 80,
-   "granny": 7380,
-   "verse": 118,
-   "man": 144
-  },
-  "est_min": {
-   "none": 0.5,
-   "granny": 49.2,
-   "verse": 0.8,
-   "man": 1.0
-  }
- },
  "validation": {
   "errors": [],
   "warnings": []

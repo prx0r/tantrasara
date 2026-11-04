@@ -1,9 +1,23 @@
 {
  "chapter": "02",
- "date": "2026-11-03",
+ "date": "2026-11-04",
  "blocks": 133,
- "storyboard_sha": "e8911e62991ae990ccfaef201527cfa80d29829fcd65cd3a2aae013e305c6f32",
- "glossary_sha": "d2c7cb1ec9033d64ffae82104006bcbdc75057c73c18adda29f5011d29d72df6",
- "confirmed_terms": [],
+ "storyboard_sha": "6c0aa3bbf6cc50088138f681979d848e848d30e409fe2ca8c8a62cbde2f1607a",
+ "glossary_sha": "8abde8647e733f0a2678d7b0e22898beadb97342e68b35a9b0ec3574d8b531b9",
+ "confirmed_terms": [
+  "ananda-ghana",
+  "anupaya",
+  "anupayaprakasanam",
+  "caham",
+  "kundalini",
+  "paramesvara",
+  "puja",
+  "saktipata",
+  "samavesa",
+  "svaprakasa",
+  "svatma",
+  "upaya",
+  "visvam"
+ ],
  "approved": false
 }

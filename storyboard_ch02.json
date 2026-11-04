@@ -21,10 +21,10 @@
   {
    "id": "b2",
    "section": "Tantrasāra — Chapter 2",
-   "type": "narration",
-   "voice": "granny",
+   "type": "verse",
+   "voice": "verse",
    "text": "अनुपायप्रकाशनम् — Anupāyaprakāśanam",
-   "directed": "अनुपायप्रकाशनम् — Anupāyaprakāśanam"
+   "directed": "[slowly] अनुपायप्रकाशनम् — Anupāyaprakāśanam"
   },
   {
    "id": "b3",
@@ -1067,21 +1067,6 @@
    "directed": "But that there was never any distance to travel."
   }
  ],
- "totals": {
-  "blocks": 133,
-  "words_per_voice": {
-   "none": 1,
-   "granny": 821,
-   "man": 46,
-   "verse": 3
-  },
-  "est_min": {
-   "none": 0.0,
-   "granny": 5.5,
-   "man": 0.3,
-   "verse": 0.0
-  }
- },
  "validation": {
   "errors": [],
   "warnings": []

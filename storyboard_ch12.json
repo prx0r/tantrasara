@@ -21,10 +21,10 @@
   {
    "id": "b2",
    "section": "Tantrasāra — Chapter 12",
-   "type": "narration",
-   "voice": "granny",
+   "type": "verse",
+   "voice": "verse",
    "text": "द्वादशमाह्निकम् — Snānaprakāśanam",
-   "directed": "द्वादशमाह्निकम् — Snānaprakāśanam"
+   "directed": "[slowly] द्वादशमाह्निकम् — Snānaprakāśanam"
   },
   {
    "id": "b3",
@@ -5659,21 +5659,6 @@
    "directed": "Choosing a sacred place, installing the Mālinī mantras, transforming the body and ritual implements into Śiva, and performing worship as a living enactment of nonduality."
   }
  ],
- "totals": {
-  "blocks": 707,
-  "words_per_voice": {
-   "none": 90,
-   "granny": 4158,
-   "verse": 108,
-   "man": 63
-  },
-  "est_min": {
-   "none": 0.6,
-   "granny": 27.7,
-   "verse": 0.7,
-   "man": 0.4
-  }
- },
  "validation": {
   "errors": [],
   "warnings": []

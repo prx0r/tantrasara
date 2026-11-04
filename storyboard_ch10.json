@@ -21,10 +21,10 @@
   {
    "id": "b2",
    "section": "Tantrasāra — Chapter 10",
-   "type": "narration",
-   "voice": "granny",
+   "type": "verse",
+   "voice": "verse",
    "text": "दशममाह्निकम् — Kalādyadhvaprakāśanam",
-   "directed": "दशममाह्निकम् — Kalādyadhvaprakāśanam"
+   "directed": "[slowly] दशममाह्निकम् — Kalādyadhvaprakāśanam"
   },
   {
    "id": "b3",
@@ -6779,21 +6779,6 @@
    "directed": "The Descent of Grace: why Śiva chooses to awaken, why karma cannot explain liberation, and what distinguishes a genuine guru."
   }
  ],
- "totals": {
-  "blocks": 847,
-  "words_per_voice": {
-   "none": 62,
-   "granny": 4549,
-   "verse": 122,
-   "man": 38
-  },
-  "est_min": {
-   "none": 0.4,
-   "granny": 30.3,
-   "verse": 0.8,
-   "man": 0.3
-  }
- },
  "validation": {
   "errors": [],
   "warnings": []

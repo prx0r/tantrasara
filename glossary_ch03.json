@@ -1,211 +1,211 @@
 {
  "ananda": {
   "deva": "अनन्द",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "bliss; self-delight",
+  "status": "confirmed",
   "cue_blocks": [
    "b181"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b181 manifests as ānanda"
  },
  "anava-visarga": {
   "deva": "अनव विसर्ग",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "the emission of the limited individual",
+  "status": "confirmed",
   "cue_blocks": [
    "b349"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; first of three visargas (b349)"
  },
  "anupaya": {
   "deva": "अनुपय",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "the pathless path",
+  "status": "confirmed",
   "cue_blocks": [
    "b5"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; ch01 pattern; b5 recap"
  },
  "bija": {
   "deva": "बिज",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "seed syllables; seed sounds",
+  "status": "confirmed",
   "cue_blocks": [
    "b286"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b286 sixteen bīja forms"
  },
  "iccha": {
   "deva": "इच्छ",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "pure will",
+  "status": "confirmed",
   "cue_blocks": [
    "b306"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; verbatim appositive (b306)"
  },
  "isana": {
   "deva": "इसन",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "will at rest; the quiescent power",
+  "status": "confirmed",
   "cue_blocks": [
    "b185"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b185 \"Will resting in itself expresses īśana\""
  },
  "kalis": {
   "deva": "कलिस्",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "the Ka-family goddesses; letter-powers",
+  "status": "confirmed",
   "cue_blocks": [
    "b402"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b402 blessed Kālīs"
  },
  "kulesvara": {
   "deva": "कुलेस्वर",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "the Lord of the Kula (the Whole)",
+  "status": "confirmed",
   "cue_blocks": [
    "b338"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b338 possesses his own power of emission"
  },
  "maya": {
   "deva": "मय",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "delusion; the power of differentiation",
+  "status": "confirmed",
   "cue_blocks": [
    "b420"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b420 differentiation becomes pronounced"
  },
  "moksa": {
   "deva": "मोक्स",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "liberation",
+  "status": "confirmed",
   "cue_blocks": [
    "b457"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; verbatim appositive (b457)"
  },
  "paramarsa": {
   "deva": "परमर्स",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "reflective awareness; seizing hold of itself",
+  "status": "confirmed",
   "cue_blocks": [
    "b140"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b140 \"immediate apprehension of its...\""
  },
  "prakasa": {
   "deva": "प्रकस",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "illumination; luminous manifestation",
+  "status": "confirmed",
   "cue_blocks": [
    "b199"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b199 \"illumination, prakāśa, predominates\""
  },
  "sakta-visarga": {
   "deva": "सक्त विसर्ग",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "the emission of power",
+  "status": "confirmed",
   "cue_blocks": [
    "b354"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; second visarga (b354)"
  },
  "sambhava": {
   "deva": "सम्भव",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "born of Śambhu; the Śāmbhava recognition",
+  "status": "confirmed",
   "cue_blocks": [
    "b463"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b463 \"the actual Śāmbhava recognition\""
  },
  "sambhava-samavesa": {
   "deva": "सम्भव समवेस",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "the absorption proper to Śambhu",
+  "status": "confirmed",
   "cue_blocks": [
    "b483"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b483 \"That’s Śāmbhava-samāveśa\""
  },
  "sambhava-visarga": {
   "deva": "सम्भव विसर्ग",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "the emission of Śambhu",
+  "status": "confirmed",
   "cue_blocks": [
    "b359"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; third visarga (b359)"
  },
  "sambhavopaya": {
   "deva": "सम्भवोपय",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "the method of Śambhu",
+  "status": "confirmed",
   "cue_blocks": [
    "b15"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b15 chapter topic"
  },
  "sambhavopayaprakasanam": {
   "deva": "शाम्भवोपायप्रकाशनम्",
   "literal": "sāmbhava [of Śambhu] + upāya [means] + prakāśana [exposition]",
-  "gloss": "The Divine Method",
-  "status": "proposed",
+  "gloss": "the exposition of Śambhu’s method",
+  "status": "confirmed",
   "literal_status": "proposed",
-  "note": "chapter-title entry; drives the canonical intro title stack",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; chapter title entry (b2)",
   "cue_blocks": [
    "b2"
   ]
  },
  "sambhu": {
   "deva": "सम्भु",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "the benign one; Śiva",
+  "status": "confirmed",
   "cue_blocks": [
    "b16"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b16 \"The method belonging to Śambhu\""
  },
  "suddhavidya": {
   "deva": "सुद्धविद्य",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "pure knowledge; stainless wisdom",
+  "status": "confirmed",
   "cue_blocks": [
    "b415"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b415 forms associated with śuddhavidyā"
  },
  "unmesa": {
   "deva": "उन्मेस",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "unfolding; emergence",
+  "status": "confirmed",
   "cue_blocks": [
    "b312"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; verbatim appositive (b312)"
  },
  "urmi": {
   "deva": "उर्मि",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "wave; upsurge of emergence",
+  "status": "confirmed",
   "cue_blocks": [
    "b188"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b188 expresses ūrmi"
  },
  "vimarsa": {
   "deva": "विमर्स",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "reflective awareness; self-apprehension",
+  "status": "confirmed",
   "cue_blocks": [
    "b138"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b138 \"This is vimarśa\""
  }
 }

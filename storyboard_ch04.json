@@ -21,10 +21,10 @@
   {
    "id": "b2",
    "section": "Tantrasāra — Chapter 4",
-   "type": "narration",
-   "voice": "granny",
+   "type": "verse",
+   "voice": "verse",
    "text": "शाक्तोपायप्रकाशनम् — Śāktopāyaprakāśanam",
-   "directed": "शाक्तोपायप्रकाशनम् — Śāktopāyaprakāśanam"
+   "directed": "[slowly] शाक्तोपायप्रकाशनम् — Śāktopāyaprakāśanam"
   },
   {
    "id": "b3",
@@ -6459,21 +6459,6 @@
    "directed": "The method of the limited individual: meditation, breath, subtle sound, and the actual yogic techniques."
   }
  ],
- "totals": {
-  "blocks": 807,
-  "words_per_voice": {
-   "none": 54,
-   "granny": 4848,
-   "verse": 66,
-   "man": 74
-  },
-  "est_min": {
-   "none": 0.4,
-   "granny": 32.3,
-   "verse": 0.4,
-   "man": 0.5
-  }
- },
  "validation": {
   "errors": [],
   "warnings": []

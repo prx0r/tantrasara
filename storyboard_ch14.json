@@ -21,10 +21,10 @@
   {
    "id": "b2",
    "section": "Tantrasāra — Chapter 14",
-   "type": "narration",
-   "voice": "granny",
+   "type": "verse",
+   "voice": "verse",
    "text": "चतुर्दशमाह्निकम् — Putrakadīkṣāprakāśanam",
-   "directed": "चतुर्दशमाह्निकम् — Putrakadīkṣāprakāśanam"
+   "directed": "[slowly] चतुर्दशमाह्निकम् — Putrakadīkṣāprakāśanam"
   },
   {
    "id": "b3",
@@ -8499,21 +8499,6 @@
    "directed": "Initiation at the approach of death: the goddess Kālarātrī, the cutting of subtle bonds, the passage of consciousness and the extraordinary role of the Brahmavidyā mantra."
   }
  ],
- "totals": {
-  "blocks": 1062,
-  "words_per_voice": {
-   "none": 88,
-   "granny": 6517,
-   "verse": 166,
-   "man": 87
-  },
-  "est_min": {
-   "none": 0.6,
-   "granny": 43.4,
-   "verse": 1.1,
-   "man": 0.6
-  }
- },
  "validation": {
   "errors": [],
   "warnings": []

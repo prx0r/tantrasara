@@ -21,10 +21,10 @@
   {
    "id": "b2",
    "section": "Tantrasāra — Chapter 16",
-   "type": "narration",
-   "voice": "granny",
+   "type": "verse",
+   "voice": "verse",
    "text": "षोडशमाह्निकम् — Parokṣadīkṣāprakāśanam",
-   "directed": "षोडशमाह्निकम् — Parokṣadīkṣāprakāśanam"
+   "directed": "[slowly] षोडशमाह्निकम् — Parokṣadīkṣāprakāśanam"
   },
   {
    "id": "b3",
@@ -7587,21 +7587,6 @@
    "directed": "The rite of release from a previous religious commitment: how someone initiated into another tradition can enter the higher Śaiva teaching, what happens to their former vows, and why Abhinavagupta is rather uncompromising about competing religious authorities."
   }
  ],
- "totals": {
-  "blocks": 948,
-  "words_per_voice": {
-   "none": 83,
-   "granny": 6092,
-   "verse": 155,
-   "man": 153
-  },
-  "est_min": {
-   "none": 0.6,
-   "granny": 40.6,
-   "verse": 1.0,
-   "man": 1.0
-  }
- },
  "validation": {
   "errors": [],
   "warnings": []

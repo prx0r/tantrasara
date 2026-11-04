@@ -1,0 +1,25 @@
+{
+ "pass": true,
+ "score": 4,
+ "beats": [],
+ "timings": [],
+ "audio": [],
+ "script": [],
+ "niggles": [
+  {
+   "t": 2,
+   "defect": "Karaoke highlight runs ahead of voice: at line start (~2s, also ~17s, ~95s) 80-90% of the sentence is already darkened while the narrator has spoken only the first few words; the tail word ('granny', 'yet', 'absolutely not') catches up only at line end.",
+   "fix": "Drive per-word darkening off the speech timeline (word timestamps) instead of a fixed reveal spread across the subtitle's display window."
+  },
+  {
+   "t": 273,
+   "defect": "Subtitle 'It is svatantra independent, sovereign, free.' drops the dash/comma after 'svatantra', reading as a run-on versus the script's 'svatantra — independent, sovereign, free.'",
+   "fix": "Insert the em-dash (or comma) after 'svatantra' in the b62 cue card."
+  },
+  {
+   "t": 67,
+   "defect": "Verse b9 romanization 'rjuvacanaviracitam' omits the ṛ diacritic that the Devanagari on the same card shows (ऋजुवचनविरचितम्).",
+   "fix": "Correct the transliteration line to 'ṛjūvacanaviracitam'."
+  }
+ ]
+}

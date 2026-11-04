@@ -21,10 +21,10 @@
   {
    "id": "b2",
    "section": "Tantrasāra — Chapter 19",
-   "type": "narration",
-   "voice": "granny",
+   "type": "verse",
+   "voice": "verse",
    "text": "एकोनविंशमाह्निकम् — Śrāddhadīkṣāprakāśanam",
-   "directed": "एकोनविंशमाह्निकम् — Śrāddhadīkṣāprakāśanam"
+   "directed": "[slowly] एकोनविंशमाह्निकम् — Śrāddhadīkṣāprakāśanam"
   },
   {
    "id": "b3",
@@ -7963,21 +7963,6 @@
    "directed": "How an initiated practitioner should actually live: daily worship, the sacred junctions of the day, mantra, the mirror of consciousness, and the remarkable claim that the real altar is your own Heart."
   }
  ],
- "totals": {
-  "blocks": 995,
-  "words_per_voice": {
-   "none": 27,
-   "granny": 6637,
-   "verse": 165,
-   "man": 169
-  },
-  "est_min": {
-   "none": 0.2,
-   "granny": 44.2,
-   "verse": 1.1,
-   "man": 1.1
-  }
- },
  "validation": {
   "errors": [],
   "warnings": []

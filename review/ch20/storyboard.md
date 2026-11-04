@@ -1,7 +1,7 @@
 # Review — chapter 20
 
 2106 blocks. Voices: granny=1832, man=45, none=10, verse=219.
-Confirmed glossary terms (0): none.
+Confirmed glossary terms (138): abhimana, acirena, acirenaiva, adarsa, adarse, adhikya, aham, amrta, aruna, asankitam, asava, asvayuja, atman, avalokayatah, bana-linga, bhava, bhava-prasara, cakrayaga, camatkara, carya-matrena, catra, citra, devanagari, devarcaye, devya, diksa, ganapati, ghatayitva, gurupuja, gurupujavidhih, jala, jnana, jnana-yogabhyam, jnanayogyan, kalanka, kalas, kamya, karttika, kascit, kimcit, kramah, krsna-paksa, kurvan, kusa, linga, lingam, magha, malini, mandala, moksadiksa, mudra, mula, murtiyaga, naimittikam, nirbija, niskrti, nitya, nityam, nityatantra, nivrtta, niyata-puja, paramarthika, paramesvara, parvapuja, pasa, pasu, patra, pradhanam, prakasa, pratyabhijna, praveso, prayascittadi, puja, purvapaksa, purvaphalguni, pusya, ratnamala, rohini, rupam, sabija, sadadhvan, sadasiva, sadhaka, saiva, saivism, saktipata, saktis, samayi, samhara, samskara, samskarasiddhyai, samvid, samvitti, sandhya, sandhyopasa, sara, satabhisaj, sathya, sathya-vivarjitah, sesavartana, sesavartanam, sesavartanaprakasanam, siddhamata, siras, siva-nature, sivah, sodha, sphurana, sravana, srsti, sukla-paksa, svabhava, svam, svarupa-nisciti, svatmanam, tanmayibhava, tanmayibhavam, tanmayibhavat, tantrasadbhava, tatsvarupaniscitih, tisya, trisiromata, tvam, ullasa, upadeyam, vaktragamenaiva, varsad, vasana, vela, vimsamahnikam, vina, vinapi, vira, virya, visakha, vyakhya, yaga, yoginis.
 
 ## b_opener · opener · none · [opener]
 

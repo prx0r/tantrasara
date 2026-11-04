@@ -21,10 +21,10 @@
   {
    "id": "b2",
    "section": "Tantrasāra — Chapter 3",
-   "type": "narration",
-   "voice": "granny",
+   "type": "verse",
+   "voice": "verse",
    "text": "शाम्भवोपायप्रकाशनम् — Śāmbhavopāyaprakāśanam",
-   "directed": "शाम्भवोपायप्रकाशनम् — Śāmbhavopāyaprakāśanam"
+   "directed": "[slowly] शाम्भवोपायप्रकाशनम् — Śāmbhavopāyaprakāśanam"
   },
   {
    "id": "b3",
@@ -4123,21 +4123,6 @@
    "directed": "The method of Śakti: how thought itself can become the instrument of liberation."
   }
  ],
- "totals": {
-  "blocks": 515,
-  "words_per_voice": {
-   "none": 32,
-   "granny": 2961,
-   "man": 64,
-   "verse": 155
-  },
-  "est_min": {
-   "none": 0.2,
-   "granny": 19.7,
-   "man": 0.4,
-   "verse": 1.0
-  }
- },
  "validation": {
   "errors": [],
   "warnings": []

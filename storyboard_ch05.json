@@ -21,10 +21,10 @@
   {
    "id": "b2",
    "section": "Tantrasāra — Chapter 5",
-   "type": "narration",
-   "voice": "granny",
+   "type": "verse",
+   "voice": "verse",
    "text": "पञ्चममाह्निकम् — Āṇavaprakāśanam",
-   "directed": "पञ्चममाह्निकम् — Āṇavaprakāśanam"
+   "directed": "[slowly] पञ्चममाह्निकम् — Āṇavaprakāśanam"
   },
   {
    "id": "b3",
@@ -6283,21 +6283,6 @@
    "directed": "The Path of Time: how Śiva manages to fit days, months, years and cosmic time into the movement of your breath."
   }
  ],
- "totals": {
-  "blocks": 785,
-  "words_per_voice": {
-   "none": 57,
-   "granny": 4906,
-   "man": 95,
-   "verse": 95
-  },
-  "est_min": {
-   "none": 0.4,
-   "granny": 32.7,
-   "man": 0.6,
-   "verse": 0.6
-  }
- },
  "validation": {
   "errors": [],
   "warnings": []

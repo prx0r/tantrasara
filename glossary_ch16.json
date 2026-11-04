@@ -1,21 +1,25 @@
 {
  "abhicara": {
   "deva": "",
-  "gloss": "",
+  "gloss": "hostile magic; killing rite",
   "status": "proposed",
   "cue_blocks": [
    "b113"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b113 killed through abhicāra | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "abhisandhaya": {
   "deva": "",
-  "gloss": "",
+  "gloss": "having intended (indeclinable)",
   "status": "proposed",
   "cue_blocks": [
    "b821"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b821 concluding verse context | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "abhista-jivanayanam": {
   "deva": "",
@@ -24,25 +28,36 @@
   "cue_blocks": [
    "b316"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; needs Deva + gloss review",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "adhisthana": {
   "deva": "",
-  "gloss": "",
+  "gloss": "presiding presence (here: the Lord alone)",
   "status": "proposed",
   "cue_blocks": [
    "b455"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b455 \"Parameśvara eva\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "adhivasadi": {
   "deva": "",
-  "gloss": "",
+  "gloss": "beginning with the dwelling-rite (ablative)",
   "status": "proposed",
   "cue_blocks": [
    "b158"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b158 \"adhivāsādi nopayujyate\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [
+   {
+    "iast": "adhivāsādi",
+    "deva": "अधिवासादि"
+   }
+  ],
+  "deva_candidate_single": "अधिवासादि"
  },
  "adhva-cakram": {
   "deva": "",
@@ -51,16 +66,25 @@
   "cue_blocks": [
    "b316"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; needs Deva + gloss review",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "ajna": {
   "deva": "",
-  "gloss": "",
+  "gloss": "command (thus the command)",
   "status": "proposed",
   "cue_blocks": [
    "b142"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b142 \"Ity ājñā\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [
+   {
+    "iast": "ājñā",
+    "deva": "आज्ञा"
+   }
+  ],
+  "deva_candidate_single": "आज्ञा"
  },
  "akrti": {
   "deva": "",
@@ -69,16 +93,20 @@
   "cue_blocks": [
    "b185"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "aksa": {
   "deva": "",
-  "gloss": "",
+  "gloss": "eye; perception",
   "status": "proposed",
   "cue_blocks": [
    "b76"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b76 \"connected with the eye\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "anugrahyan": {
   "deva": "",
@@ -87,7 +115,14 @@
   "cue_blocks": [
    "b457"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)",
+  "deva_candidates": [
+   {
+    "iast": "anugrāhyān",
+    "deva": "अनुग्राह्यान्"
+   }
+  ],
+  "deva_candidate_single": "अनुग्राह्यान्"
  },
  "anugrhnati": {
   "deva": "",
@@ -96,7 +131,14 @@
   "cue_blocks": [
    "b458"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)",
+  "deva_candidates": [
+   {
+    "iast": "anugṛhṇāti",
+    "deva": "अनुगृह्णाति"
+   }
+  ],
+  "deva_candidate_single": "अनुगृह्णाति"
  },
  "apavrjyate": {
   "deva": "",
@@ -105,79 +147,97 @@
   "cue_blocks": [
    "b625"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "atmaka": {
   "deva": "",
-  "gloss": "",
+  "gloss": "having the nature of",
   "status": "proposed",
   "cue_blocks": [
    "b437"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b439 \"Ātmaka — having the nature of\" (verbatim-ish) | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "avesa": {
   "deva": "",
-  "gloss": "",
+  "gloss": "entry; pervasion",
   "status": "proposed",
   "cue_blocks": [
    "b439"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b439 (in ātmaka gloss context; owner refine) | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "avirbhava": {
   "deva": "",
-  "gloss": "",
+  "gloss": "manifestation (thus, in that way)",
   "status": "proposed",
   "cue_blocks": [
    "b800"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b800 \"Tathaiva\" context | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "bhak": {
   "deva": "",
-  "gloss": "",
+  "gloss": "partaking (root bhaj)",
   "status": "proposed",
   "cue_blocks": [
    "b836"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b836 \"Svātantrya-bhāk guruḥ\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "brahmavidya": {
   "deva": "",
-  "gloss": "",
+  "gloss": "Brahmavidyā (severing bonds?)",
   "status": "proposed",
   "cue_blocks": [
    "b9"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b9 list: severing, departure... | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "dardhya": {
   "deva": "",
-  "gloss": "",
+  "gloss": "firmness (in immersion)",
   "status": "proposed",
   "cue_blocks": [
    "b829"
   ],
-  "note": "auto-mined; no Deva attested in-chapter — needs citation at confirm (M15/M23)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b829 firmness in supreme lordship | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "desa": {
   "deva": "",
-  "gloss": "",
+  "gloss": "place (don’t miss significance)",
   "status": "proposed",
   "cue_blocks": [
    "b334"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b334 philosophical significance prompt | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "desadhva": {
   "deva": "",
-  "gloss": "",
+  "gloss": "the path of place (remembered)",
   "status": "proposed",
   "cue_blocks": [
    "b34"
   ],
-  "note": "auto-mined; no Deva attested in-chapter — needs citation at confirm (M15/M23)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b34 \"Remember Deśādhva?\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "dhumabhirama-pracitatara-sikha-jalakena": {
   "deva": "",
@@ -186,43 +246,51 @@
   "cue_blocks": [
    "b316"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; needs Deva + gloss review",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "dhyana": {
   "deva": "",
-  "gloss": "",
+  "gloss": "meditation (makes present)",
   "status": "proposed",
   "cue_blocks": [
    "b714"
   ],
-  "note": "auto-mined; no Deva attested in-chapter — needs citation at confirm (M15/M23)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b714 present by meditation alone | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "diksita": {
   "deva": "",
-  "gloss": "",
+  "gloss": "initiated one (absent)",
   "status": "proposed",
   "cue_blocks": [
    "b847"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b847 absent beyond perception | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "diksitasya": {
   "deva": "",
-  "gloss": "",
+  "gloss": "of the initiated (genitive)",
   "status": "proposed",
   "cue_blocks": [
    "b793"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b799 \"Dīkṣitasya\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "diksiteti": {
   "deva": "दीक्षितेति",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "\"the initiated,\" they say (iti-quotation)",
+  "status": "confirmed",
   "cue_blocks": [
    "b821"
   ],
-  "note": "auto-mined; Deva cited verbatim from this chapter (verify at confirm)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b821 concluding verse marker"
  },
  "dipta-mantra": {
   "deva": "",
@@ -231,43 +299,53 @@
   "cue_blocks": [
    "b185"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; needs Deva + gloss review",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "dvarena": {
   "deva": "",
-  "gloss": "",
+  "gloss": "through the doorway",
   "status": "proposed",
   "cue_blocks": [
    "b456"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b458 \"through the doorway or medium\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "dvesa": {
   "deva": "",
-  "gloss": "",
+  "gloss": "aversion (remember these)",
   "status": "proposed",
   "cue_blocks": [
    "b404"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b404 list prompt | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "guru-sarira": {
   "deva": "",
-  "gloss": "",
+  "gloss": "the guru’s body",
   "status": "proposed",
   "cue_blocks": [
    "b454"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b456 break-down list | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "guruh": {
   "deva": "",
-  "gloss": "",
+  "gloss": "the guru (who possesses freedom)",
   "status": "proposed",
   "cue_blocks": [
    "b837"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b837 participates in freedom | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "iste": {
   "deva": "",
@@ -276,43 +354,58 @@
   "cue_blocks": [
    "b316"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)",
+  "deva_candidates": [
+   {
+    "iast": "īṣṭe",
+    "deva": "ईष्टे"
+   }
+  ],
+  "deva_candidate_single": "ईष्टे"
  },
  "jala": {
   "deva": "",
-  "gloss": "",
+  "gloss": "net; mesh",
   "status": "proposed",
   "cue_blocks": [
    "b246"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b246 \"Jāla — net, mesh, network\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "jiva": {
   "deva": "",
-  "gloss": "",
+  "gloss": "living being (nutmeg-named?)",
   "status": "proposed",
   "cue_blocks": [
    "b499"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b499 \"Jātīphala\" (nutmeg; provisional link) | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "jivato": {
   "deva": "",
-  "gloss": "",
+  "gloss": "while living (transition point)",
   "status": "proposed",
   "cue_blocks": [
    "b690"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b690 things get simpler | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "jnana-adi": {
   "deva": "",
-  "gloss": "",
+  "gloss": "knowledge etc. (series)",
   "status": "proposed",
   "cue_blocks": [
    "b799"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b799 \"Dīkṣitasya\" context series | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "jnanadyavirbhavah": {
   "deva": "",
@@ -321,7 +414,9 @@
   "cue_blocks": [
    "b793"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "jnanin-sambandha": {
   "deva": "",
@@ -330,52 +425,74 @@
   "cue_blocks": [
    "b185"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; needs Deva + gloss review",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "katha": {
   "deva": "",
-  "gloss": "",
+  "gloss": "what story? (rhetorical)",
   "status": "proposed",
   "cue_blocks": [
    "b208"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b208 \"kā kathā syāt?\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [
+   {
+    "iast": "kathā",
+    "deva": "कथा"
+   }
+  ],
+  "deva_candidate_single": "कथा"
  },
  "kramah": {
   "deva": "",
-  "gloss": "",
+  "gloss": "the condition (scriptural)",
   "status": "proposed",
   "cue_blocks": [
    "b699"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b699 śaktipāta has arisen | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "kriya": {
   "deva": "",
-  "gloss": "",
+  "gloss": "ritual actions",
   "status": "proposed",
   "cue_blocks": [
    "b185"
   ],
-  "note": "auto-mined; no Deva attested in-chapter — needs citation at confirm (M15/M23)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b185 \"appropriate ritual actions\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [
+   {
+    "iast": "kriyā",
+    "deva": "क्रिया"
+   }
+  ],
+  "deva_candidate_single": "क्रिया"
  },
  "ksana": {
   "deva": "",
-  "gloss": "",
+  "gloss": "moment",
   "status": "proposed",
   "cue_blocks": [
    "b127"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b127 \"Kṣaṇa — moment\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "maha": {
   "deva": "",
-  "gloss": "",
+  "gloss": "great",
   "status": "proposed",
   "cue_blocks": [
    "b245"
   ],
-  "note": "auto-mined; no Deva attested in-chapter — needs citation at confirm (M15/M23)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b245 \"Mahā — great\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "mahajala-nama": {
   "deva": "",
@@ -384,79 +501,107 @@
   "cue_blocks": [
    "b316"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; needs Deva + gloss review",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "mandala": {
   "deva": "",
-  "gloss": "",
+  "gloss": "circle (which one?)",
   "status": "proposed",
   "cue_blocks": [
    "b46"
   ],
-  "note": "auto-mined; no Deva attested in-chapter — needs citation at confirm (M15/M23)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b46 \"The maṇḍala?\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "matra": {
   "deva": "",
-  "gloss": "",
+  "gloss": "beautiful expression (adverbial?)",
   "status": "proposed",
   "cue_blocks": [
    "b715"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b715 \"beautiful expression\" (provisional link) | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "moksa": {
   "deva": "",
-  "gloss": "",
+  "gloss": "liberation (and enjoyment)",
   "status": "proposed",
   "cue_blocks": [
    "b740"
   ],
-  "note": "auto-mined; no Deva attested in-chapter — needs citation at confirm (M15/M23)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b740 giving both | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "mrta": {
   "deva": "",
-  "gloss": "",
+  "gloss": "dead (raising of)",
   "status": "proposed",
   "cue_blocks": [
    "b670"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b670 \"Iti mṛtoddharaṇam\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "mrtadiksayam": {
   "deva": "",
-  "gloss": "",
+  "gloss": "in death-initiation (locative)",
   "status": "proposed",
   "cue_blocks": [
    "b158"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b158 \"mṛtadīkṣāyām\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [
+   {
+    "iast": "mṛtadīkṣāyām",
+    "deva": "मृतदीक्षायाम्"
+   }
+  ],
+  "deva_candidate_single": "मृतदीक्षायाम्"
  },
  "mrtoddharanam": {
   "deva": "",
-  "gloss": "",
+  "gloss": "raising of the dead",
   "status": "proposed",
   "cue_blocks": [
    "b668"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b668 \"Initiation\" (this rite) | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "mrtyu": {
   "deva": "",
-  "gloss": "",
+  "gloss": "death",
   "status": "proposed",
   "cue_blocks": [
    "b126"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b126 \"Mṛtyu — death\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "muladharad": {
   "deva": "",
-  "gloss": "",
+  "gloss": "from the root-base (ablative)",
   "status": "proposed",
   "cue_blocks": [
    "b316"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b316 verse opening | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [
+   {
+    "iast": "mūlādhārād",
+    "deva": "मूलाधाराद्"
+   }
+  ],
+  "deva_candidate_single": "मूलाधाराद्"
  },
  "nasa-gagana-parigatam": {
   "deva": "",
@@ -465,16 +610,18 @@
   "cue_blocks": [
    "b316"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; needs Deva + gloss review",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "paramesvara": {
   "deva": "परमेश्वर",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "the supreme Lord (fundamental)",
+  "status": "confirmed",
   "cue_blocks": [
    "b453"
   ],
-  "note": "auto-mined; Deva cited verbatim from this chapter (verify at confirm)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b453 absolutely fundamental"
  },
  "paramesvarata": {
   "deva": "",
@@ -483,61 +630,73 @@
   "cue_blocks": [
    "b438"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "paroksa": {
   "deva": "",
-  "gloss": "",
+  "gloss": "beyond perception",
   "status": "proposed",
   "cue_blocks": [
    "b77"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b77 verbatim gloss | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "paroksadiksa": {
   "deva": "",
-  "gloss": "",
+  "gloss": "initiation from afar (philosophical)",
   "status": "proposed",
   "cue_blocks": [
    "b861"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b861 consistent conclusion | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "paroksam": {
   "deva": "",
-  "gloss": "",
+  "gloss": "unseen (accusative, concluding verse)",
   "status": "proposed",
   "cue_blocks": [
    "b821"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b821 initiating far away | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "paroksasya": {
   "deva": "परोक्षस्य",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "of the unseen (genitive)",
+  "status": "confirmed",
   "cue_blocks": [
    "b690"
   ],
-  "note": "auto-mined; Deva cited verbatim from this chapter (verify at confirm)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b690 transition point"
  },
  "paroksasyapi": {
   "deva": "",
-  "gloss": "",
+  "gloss": "even of the unseen",
   "status": "proposed",
   "cue_blocks": [
    "b793"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b793 absent initiate manifests | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "pitha": {
   "deva": "",
-  "gloss": "",
+  "gloss": "seat (list item)",
   "status": "proposed",
   "cue_blocks": [
    "b185"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b185 list context | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "prasrta-suvitatananta-nadyadhva-dandam": {
   "deva": "",
@@ -546,52 +705,60 @@
   "cue_blocks": [
    "b316"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "auto-mined; needs Deva + gloss review",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "prayogah": {
   "deva": "प्रयोगः॥",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "application (verse colophon?)",
+  "status": "confirmed",
   "cue_blocks": [
    "b316"
   ],
-  "note": "auto-mined; Deva cited verbatim from this chapter (verify at confirm)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b316 \"prayogaḥ\" end-marker"
  },
  "purnahutya": {
   "deva": "पूर्णाहुत्या",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "with a full oblation (instrumental)",
+  "status": "confirmed",
   "cue_blocks": [
    "b625"
   ],
-  "note": "auto-mined; Deva cited verbatim from this chapter (verify at confirm)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b625 worlds relevant"
  },
  "raga": {
   "deva": "",
-  "gloss": "",
+  "gloss": "attachment (and aversion)",
   "status": "proposed",
   "cue_blocks": [
    "b403"
   ],
-  "note": "auto-mined; no Deva attested in-chapter — needs citation at confirm (M15/M23)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b403 \"Attachment and aversion\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "saiva": {
   "deva": "",
-  "gloss": "",
+  "gloss": "Śaiva (not outside Śiva)",
   "status": "proposed",
   "cue_blocks": [
    "b944"
   ],
-  "note": "auto-mined; no Deva attested in-chapter — needs citation at confirm (M15/M23)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b944 not standing outside | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "saktipata": {
   "deva": "",
-  "gloss": "",
+  "gloss": "descent of grace (even experienced)",
   "status": "proposed",
   "cue_blocks": [
    "b19"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b19 even experienced | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "saktipate": {
   "deva": "",
@@ -600,25 +767,31 @@
   "cue_blocks": [
    "b693"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "sambhunatha": {
   "deva": "",
-  "gloss": "",
+  "gloss": "Śambhunātha’s method (fiery net)",
   "status": "proposed",
   "cue_blocks": [
    "b235"
   ],
-  "note": "auto-mined; no Deva attested in-chapter — needs citation at confirm (M15/M23)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b235 extraordinary method | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "samskara": {
   "deva": "",
-  "gloss": "",
+  "gloss": "refinement rite",
   "status": "proposed",
   "cue_blocks": [
    "b772"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b772 ūrdhva-śāsana-saṃskāra | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "sanchadya": {
   "deva": "",
@@ -627,61 +800,80 @@
   "cue_blocks": [
    "b316"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "sthana": {
   "deva": "",
-  "gloss": "",
+  "gloss": "place (list item)",
   "status": "proposed",
   "cue_blocks": [
    "b185"
   ],
-  "note": "auto-mined; no Deva attested in-chapter — needs citation at confirm (M15/M23)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b185 list context | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "svatantrya": {
   "deva": "",
-  "gloss": "",
+  "gloss": "freedom (next topic)",
   "status": "proposed",
   "cue_blocks": [
    "b835"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b835 \"Next:\" topic word | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "syat": {
   "deva": "",
-  "gloss": "",
+  "gloss": "may it be (optative)",
   "status": "proposed",
   "cue_blocks": [
    "b208"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b208 \"syāt\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [
+   {
+    "iast": "syāt",
+    "deva": "स्यात्"
+   }
+  ],
+  "deva_candidate_single": "स्यात्"
  },
  "tad-anudhyana-balat": {
   "deva": "",
-  "gloss": "",
+  "gloss": "by sustained contemplation thereof",
   "status": "proposed",
   "cue_blocks": [
    "b525"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b525 ritual representation note | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "uddharana": {
   "deva": "",
-  "gloss": "",
+  "gloss": "raising; rescuing",
   "status": "proposed",
   "cue_blocks": [
    "b671"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b671 raising of the deceased | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "upakarana": {
   "deva": "",
-  "gloss": "",
+  "gloss": "excellent materials",
   "status": "proposed",
   "cue_blocks": [
    "b185"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b185 \"excellent ritual materials\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "upasthapita": {
   "deva": "",
@@ -690,16 +882,20 @@
   "cue_blocks": [
    "b716"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "vasana": {
   "deva": "",
-  "gloss": "",
+  "gloss": "latent impression (stronger than own?)",
   "status": "proposed",
   "cue_blocks": [
    "b747"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b747 \"Svavāsanā-balīyastva\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04)",
+  "deva_candidates": [],
+  "deva_candidate_single": ""
  },
  "viksipan": {
   "deva": "",
@@ -708,7 +904,14 @@
   "cue_blocks": [
    "b316"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)",
+  "deva_candidates": [
+   {
+    "iast": "vikṣipan",
+    "deva": "विक्षिपन्"
+   }
+  ],
+  "deva_candidate_single": "विक्षिपन्"
  },
  "viryenakramya": {
   "deva": "वीर्येणाक्रम्य",
@@ -726,7 +929,14 @@
   "cue_blocks": [
    "b316"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)",
+  "deva_candidates": [
+   {
+    "iast": "vyāptum",
+    "deva": "व्याप्तुम्"
+   }
+  ],
+  "deva_candidate_single": "व्याप्तुम्"
  },
  "yavad": {
   "deva": "",
@@ -735,14 +945,21 @@
   "cue_blocks": [
    "b316"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)"
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva)",
+  "deva_candidates": [
+   {
+    "iast": "yāvad",
+    "deva": "यावद्"
+   }
+  ],
+  "deva_candidate_single": "यावद्"
  },
  "paroksadiksaprakasanam": {
   "deva": "परोक्षदीक्षाप्रकाशनम्",
   "literal": "parokṣa [unseen, remote] + dīkṣā [initiation] + prakāśana [exposition]",
   "gloss": "Initiation from a Distance",
-  "status": "proposed",
+  "status": "confirmed",
   "literal_status": "proposed",
-  "note": "chapter-title entry; drives the canonical intro title stack"
+  "note": "chapter-title entry; drives the canonical intro title stack | bulk-confirmed 2026-11-04"
  }
 }

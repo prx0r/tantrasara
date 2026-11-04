@@ -21,10 +21,10 @@
   {
    "id": "b2",
    "section": "Tantrasāra — Chapter 20",
-   "type": "narration",
-   "voice": "granny",
+   "type": "verse",
+   "voice": "verse",
    "text": "विंशमाह्निकम् — Viṃśam Āhnikam",
-   "directed": "विंशमाह्निकम् — Viṃśam Āhnikam"
+   "directed": "[slowly] विंशमाह्निकम् — Viṃśam Āhnikam"
   },
   {
    "id": "b3",
@@ -16851,21 +16851,6 @@
    "directed": "Why scripture has authority, how Abhinavagupta reconciles apparently contradictory revelations, why people become convinced by different traditions, and his extraordinary argument that every system of knowledge ultimately rests upon consciousness."
   }
  ],
- "totals": {
-  "blocks": 2106,
-  "words_per_voice": {
-   "none": 100,
-   "granny": 12090,
-   "verse": 285,
-   "man": 156
-  },
-  "est_min": {
-   "none": 0.7,
-   "granny": 80.6,
-   "verse": 1.9,
-   "man": 1.0
-  }
- },
  "validation": {
   "errors": [],
   "warnings": []

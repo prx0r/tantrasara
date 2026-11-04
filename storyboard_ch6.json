@@ -21,10 +21,10 @@
   {
    "id": "b2",
    "section": "Tantrasāra — Chapter 6",
-   "type": "narration",
-   "voice": "granny",
+   "type": "verse",
+   "voice": "verse",
    "text": "षष्ठमाह्निकम् — Kālādhvaprakāśanam",
-   "directed": "षष्ठमाह्निकम् — Kālādhvaprakāśanam"
+   "directed": "[slowly] षष्ठमाह्निकम् — Kālādhvaprakāśanam"
   },
   {
    "id": "b3",
@@ -8563,21 +8563,6 @@
    "directed": "The Path of Space: how the 36 tattvas, entire worlds, and cosmic geography are contained within Śiva."
   }
  ],
- "totals": {
-  "blocks": 1070,
-  "words_per_voice": {
-   "none": 64,
-   "granny": 6112,
-   "man": 58,
-   "verse": 121
-  },
-  "est_min": {
-   "none": 0.4,
-   "granny": 40.7,
-   "man": 0.4,
-   "verse": 0.8
-  }
- },
  "validation": {
   "errors": [],
   "warnings": []

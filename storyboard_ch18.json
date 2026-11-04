@@ -21,10 +21,10 @@
   {
    "id": "b2",
    "section": "Tantrasāra — Chapter 18",
-   "type": "narration",
-   "voice": "granny",
+   "type": "verse",
+   "voice": "verse",
    "text": "अष्टादशमाह्निकम् — Abhiṣekaprakāśanam",
-   "directed": "अष्टादशमाह्निकम् — Abhiṣekaprakāśanam"
+   "directed": "[slowly] अष्टादशमाह्निकम् — Abhiṣekaprakāśanam"
   },
   {
    "id": "b3",
@@ -6787,21 +6787,6 @@
    "directed": "The final rites for the dead: how funeral ceremonies become initiations, the extraordinary claims about awakening the corpse, the annual rites for departed beings, and why Abhinavagupta says a genuine knower needs none of it."
   }
  ],
- "totals": {
-  "blocks": 848,
-  "words_per_voice": {
-   "none": 136,
-   "granny": 5176,
-   "verse": 143,
-   "man": 85
-  },
-  "est_min": {
-   "none": 0.9,
-   "granny": 34.5,
-   "verse": 1.0,
-   "man": 0.6
-  }
- },
  "validation": {
   "errors": [],
   "warnings": []

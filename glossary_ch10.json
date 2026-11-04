@@ -1,532 +1,532 @@
 {
  "adhikya": {
   "deva": "अधिक्य",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "predominance",
+  "status": "confirmed",
   "cue_blocks": [
    "b198"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; verbatim (b198)"
  },
  "agninayanam": {
   "deva": "अग्निनयनम्",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "fire-leading (mantra name)",
+  "status": "confirmed",
   "cue_blocks": [
    "b765"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b765 mantra-name string"
  },
  "agnyarnatattvam": {
   "deva": "अग्न्यर्नतत्त्वम्",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "the fire-letter principle",
+  "status": "confirmed",
   "cue_blocks": [
    "b784"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b784 mantra-name string"
  },
  "anavastha": {
   "deva": "अनवस्थ",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "no regress (denial)",
+  "status": "confirmed",
   "cue_blocks": [
    "b501"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b501 \"Na ca anavasthā\""
  },
  "anya": {
   "deva": "अन्य",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "other (feminine, in mantra string)",
+  "status": "confirmed",
   "cue_blocks": [
    "b765"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b765 \"anyā\""
  },
  "arya": {
   "deva": "अर्य",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "noble verse (Āryā metre)",
+  "status": "confirmed",
   "cue_blocks": [
    "b758"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b758 \"In the Āryā metre\""
  },
  "aryatrayam": {
   "deva": "अर्यत्रयम्",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "the trio of Āryās",
+  "status": "confirmed",
   "cue_blocks": [
    "b808"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b808 \"āryātrayam uktam\""
  },
  "atita": {
   "deva": "अतित",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "gone beyond",
+  "status": "confirmed",
   "cue_blocks": [
    "b352"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b352 \"Atīta — gone beyond, transcended\" (verbatim-ish)"
  },
  "brahma": {
   "deva": "ब्रह्म",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "Brahmā (egg image)",
+  "status": "confirmed",
   "cue_blocks": [
    "b127"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b127 cosmic egg of Brahmā"
  },
  "ekakapadamantram": {
   "deva": "एककपदमन्त्रम्",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "one-word mantra (in string)",
+  "status": "confirmed",
   "cue_blocks": [
    "b784"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b784 mantra-name string"
  },
  "ekam": {
   "deva": "एकम्",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "one (accusative)",
+  "status": "confirmed",
   "cue_blocks": [
    "b764"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b764 \"ekaṃ puraṣoḍaśakaṃ\""
  },
  "evam": {
   "deva": "एवम्",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "thus; in this way",
+  "status": "confirmed",
   "cue_blocks": [
    "b555"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b555 \"Evaṃ ... ūhayet\""
  },
  "isvara": {
   "deva": "इस्वर",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "the Lord (ascent endpoint here)",
+  "status": "confirmed",
   "cue_blocks": [
    "b541"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b541 extending up to Īśvara"
  },
  "kala": {
   "deva": "कल",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "part (kalā question opener)",
+  "status": "confirmed",
   "cue_blocks": [
    "b38"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b38 \"What exactly is a kalā?\""
  },
  "kaladyadhvaprakasanam": {
   "deva": "कलाद्यध्वप्रकाशनम्",
   "literal": "kalā [part] + ādi [and the rest] + adhvan [path] + prakāśana [exposition]",
   "gloss": "The Five Great Kalās",
-  "status": "proposed",
+  "status": "confirmed",
   "literal_status": "proposed",
-  "note": "chapter-title entry; drives the canonical intro title stack"
+  "note": "chapter-title entry; drives the canonical intro title stack | bulk-confirmed 2026-11-04"
  },
  "kalas": {
   "deva": "कलस्",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "the five great Kalās",
+  "status": "confirmed",
   "cue_blocks": [
    "b3"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b3 chapter title line"
  },
  "kancukas": {
   "deva": "कन्चुकस्",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "coverings",
+  "status": "confirmed",
   "cue_blocks": [
    "b256"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b256 \"Remember the kañcukas?\""
  },
  "maya": {
   "deva": "मय",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "delusion (limiting cover)",
+  "status": "confirmed",
   "cue_blocks": [
    "b64"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b64 limiting coverings of Māyā"
  },
  "navatattvady": {
   "deva": "नवतत्त्वद्य्",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "the nine principles etc.",
+  "status": "confirmed",
   "cue_blocks": [
    "b555"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b555 \"navatattvādy api\""
  },
  "nivrtti": {
   "deva": "निव्र्त्ति",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "withdrawal (division where manifestation limits)",
+  "status": "confirmed",
   "cue_blocks": [
    "b88"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b88 division gloss"
  },
  "nivrttih": {
   "deva": "निव्र्त्तिह्",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "withdrawal (nominative, in mantra string)",
+  "status": "confirmed",
   "cue_blocks": [
    "b764"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b764 mantra string"
  },
  "padamantravarnam": {
   "deva": "पदमन्त्रवर्नम्",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "word-mantra-letter (in string)",
+  "status": "confirmed",
   "cue_blocks": [
    "b764"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b764 mantra string"
  },
  "param": {
   "deva": "परम्",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "supreme (accusative)",
+  "status": "confirmed",
   "cue_blocks": [
    "b379"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b379 \"Svatantraṃ paraṃ tattvam\""
  },
  "prakrti": {
   "deva": "प्रक्र्ति",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "primordial matter (ladder rung)",
+  "status": "confirmed",
   "cue_blocks": [
    "b141"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b141 water up to Prakṛti"
  },
  "pratistha": {
   "deva": "प्रतिस्थ",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "establishment",
+  "status": "confirmed",
   "cue_blocks": [
    "b134"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b134 \"gets itself established\""
  },
  "purasodasakam": {
   "deva": "पुरसोदसकम्",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "sixteenfold city (in string)",
+  "status": "confirmed",
   "cue_blocks": [
    "b764"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b764 \"puraṣoḍaśakaṃ\""
  },
  "purusa": {
   "deva": "पुरुस",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "the person (ladder rung)",
+  "status": "confirmed",
   "cue_blocks": [
    "b177"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b177 Puruṣa up to Māyā"
  },
  "rasasarap": {
   "deva": "रससरप्",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "taste-arrow (in mantra string)",
+  "status": "confirmed",
   "cue_blocks": [
    "b765"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b765 mantra string"
  },
  "sadvidhatvam": {
   "deva": "सद्विधत्वम्",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "sixfoldness",
+  "status": "confirmed",
   "cue_blocks": [
    "b729"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b729 \"Ekasyaiva ṣaḍvidhatvaṃ\""
  },
  "saiva": {
   "deva": "सैव",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "Śaiva (classifications debated)",
+  "status": "confirmed",
   "cue_blocks": [
    "b563"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b563 Śaiva classifications"
  },
  "sakti-tattva": {
   "deva": "सक्ति तत्त्व",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "the Śakti-principle (contact via powers)",
+  "status": "confirmed",
   "cue_blocks": [
    "b337"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b337 contact remains"
  },
  "saktopaya": {
   "deva": "सक्तोपय",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "the method of power (correct vs mistaken concepts)",
+  "status": "confirmed",
   "cue_blocks": [
    "b513"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b513 Śāktopāya use"
  },
  "samvid": {
   "deva": "सम्विद्",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "consciousness",
+  "status": "confirmed",
   "cue_blocks": [
    "b197"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; verbatim (b197)"
  },
  "sangrahaya": {
   "deva": "सन्ग्रहय",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "for the compendium (dative of purpose)",
+  "status": "confirmed",
   "cue_blocks": [
    "b808"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b808 \"saṅgrahāya śiṣyebhyaḥ\""
  },
  "santa": {
   "deva": "सन्त",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "calm (coverings calm down)",
+  "status": "confirmed",
   "cue_blocks": [
    "b229"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b229 \"coverings finally calm down\""
  },
  "santatita": {
   "deva": "सन्ततित",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "beyond peace",
+  "status": "confirmed",
   "cue_blocks": [
    "b349"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b349 \"beyond even peace\""
  },
  "santatita-kala": {
   "deva": "सन्ततित कल",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "the beyond-peace kalā",
+  "status": "confirmed",
   "cue_blocks": [
    "b349"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b349 kalā name"
  },
  "santyatiteyam": {
   "deva": "सन्त्यतितेयम्",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "in the beyond-peace (locative, in string)",
+  "status": "confirmed",
   "cue_blocks": [
    "b798"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b798 mantra string"
  },
  "sara": {
   "deva": "सर",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "arrow; (here: number five)",
+  "status": "confirmed",
   "cue_blocks": [
    "b775"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b775 \"śara — five\""
  },
  "sisyebhyah": {
   "deva": "सिस्येभ्यह्",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "to/for disciples (dative plural)",
+  "status": "confirmed",
   "cue_blocks": [
    "b808"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b808 \"śiṣyebhyaḥ\""
  },
  "siva-tattva": {
   "deva": "सिव तत्त्व",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "the supreme Śiva-principle",
+  "status": "confirmed",
   "cue_blocks": [
    "b347"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b347 supreme Śiva-tattva"
  },
  "sodasa": {
   "deva": "सोदस",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "sixteen (in string)",
+  "status": "confirmed",
   "cue_blocks": [
    "b798"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b798 \"Ṣoḍaśa varṇāḥ\""
  },
  "sparsa": {
   "deva": "स्पर्स",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "contact (subtle argument)",
+  "status": "confirmed",
   "cue_blocks": [
    "b335"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b335 argument involving sparśa"
  },
  "sthula": {
   "deva": "स्थुल",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "gross",
+  "status": "confirmed",
   "cue_blocks": [
    "b413"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; verbatim (b413)"
  },
  "suddha": {
   "deva": "सुद्ध",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "pure (correct vs mistaken)",
+  "status": "confirmed",
   "cue_blocks": [
    "b422"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b422 \"Śuddha\""
  },
  "suddhavidya": {
   "deva": "सुद्धविद्य",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "pure knowledge (ladder rung)",
+  "status": "confirmed",
   "cue_blocks": [
    "b237"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b237 Śuddhavidyā to Śakti"
  },
  "suksma": {
   "deva": "सुक्स्म",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "subtle",
+  "status": "confirmed",
   "cue_blocks": [
    "b413"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; verbatim (b413)"
  },
  "svatantram": {
   "deva": "स्वतन्त्रम्",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "free; independent (accusative)",
+  "status": "confirmed",
   "cue_blocks": [
    "b379"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b379 \"Svatantraṃ paraṃ tattvam\""
  },
  "tattvarnam": {
   "deva": "तत्त्वर्नम्",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "letter-principle (in string)",
+  "status": "confirmed",
   "cue_blocks": [
    "b765"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b765 mantra string"
  },
  "tattvasargah": {
   "deva": "तत्त्वसर्गह्",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "the emanation of tattvas",
+  "status": "confirmed",
   "cue_blocks": [
    "b103"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b103 \"yatas tattvasargaḥ\""
  },
  "tirobhava": {
   "deva": "तिरोभव",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "concealment",
+  "status": "confirmed",
   "cue_blocks": [
    "b196"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; verbatim (b196)"
  },
  "turya": {
   "deva": "तुर्य",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "the fourth (in string)",
+  "status": "confirmed",
   "cue_blocks": [
    "b784"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b784 \"iti turyā\""
  },
  "uhayet": {
   "deva": "उहयेत्",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "one should infer",
+  "status": "confirmed",
   "cue_blocks": [
    "b555"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b555 \"api ūhayet\""
  },
  "varna": {
   "deva": "वर्न",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "letter; the knower (adhvan sense)",
+  "status": "confirmed",
   "cue_blocks": [
    "b680"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b680 \"full knower / adhvan\""
  },
  "varna-adhvan": {
   "deva": "वर्न अध्वन्",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "the letter-path",
+  "status": "confirmed",
   "cue_blocks": [
    "b680"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b680 adhvan sense"
  },
  "varnah": {
   "deva": "वर्नह्",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "letters (nominative plural, in string)",
+  "status": "confirmed",
   "cue_blocks": [
    "b798"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b798 \"varṇāḥ\""
  },
  "vidya": {
   "deva": "विद्य",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "knowing (becoming evident)",
+  "status": "confirmed",
   "cue_blocks": [
    "b172"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b172 consciousness starts evident"
  },
  "vidya-kala": {
   "deva": "विद्य कल",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "the knowing-kalā",
+  "status": "confirmed",
   "cue_blocks": [
    "b225"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b225 not full liberation"
  },
  "vijnanakala": {
   "deva": "विज्ननकल",
-  "gloss": "",
-  "status": "proposed",
+  "gloss": "unifying-knowledge grade",
+  "status": "confirmed",
   "cue_blocks": [
    "b537"
   ],
-  "note": "auto-mined; needs Deva + gloss review"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b537 extending up to"
  }
 }

@@ -21,10 +21,10 @@
   {
    "id": "b2",
    "section": "Tantrasāra — Chapter 13",
-   "type": "narration",
-   "voice": "granny",
+   "type": "verse",
+   "voice": "verse",
    "text": "त्रयोदशमाह्निकम् — Trayodaśam Āhnikam",
-   "directed": "त्रयोदशमाह्निकम् — Trayodaśam Āhnikam"
+   "directed": "[slowly] त्रयोदशमाह्निकम् — Trayodaśam Āhnikam"
   },
   {
    "id": "b3",
@@ -12499,21 +12499,6 @@
    "directed": "Initiation of the spiritual son: the three-pronged maṇḍala, Parā, Parāparā and Aparā, the purification of the six cosmic pathways, and the ritual liberation of the disciple."
   }
  ],
- "totals": {
-  "blocks": 1562,
-  "words_per_voice": {
-   "none": 111,
-   "granny": 9306,
-   "verse": 259,
-   "man": 44
-  },
-  "est_min": {
-   "none": 0.7,
-   "granny": 62.0,
-   "verse": 1.7,
-   "man": 0.3
-  }
- },
  "validation": {
   "errors": [],
   "warnings": []

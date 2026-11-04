@@ -21,10 +21,10 @@
   {
    "id": "b2",
    "section": "Tantrasāra — Chapter 21",
-   "type": "narration",
-   "voice": "granny",
+   "type": "verse",
+   "voice": "verse",
    "text": "एकविंशमाह्निकम् — Āgamaprāmāṇyaprakāśanam",
-   "directed": "एकविंशमाह्निकम् — Āgamaprāmāṇyaprakāśanam"
+   "directed": "[slowly] एकविंशमाह्निकम् — Āgamaprāmāṇyaprakāśanam"
   },
   {
    "id": "b3",
@@ -10475,21 +10475,6 @@
    "directed": "The Kaula rite: six increasingly interior forms of worship, from external ritual to Śakti, the body, the divine couple, prāṇa and finally consciousness itself — where the entire structure of tantric worship is brought into Anuttara."
   }
  ],
- "totals": {
-  "blocks": 1309,
-  "words_per_voice": {
-   "none": 78,
-   "granny": 8313,
-   "verse": 179,
-   "man": 90
-  },
-  "est_min": {
-   "none": 0.5,
-   "granny": 55.4,
-   "verse": 1.2,
-   "man": 0.6
-  }
- },
  "validation": {
   "errors": [],
   "warnings": []

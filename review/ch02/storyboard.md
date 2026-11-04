@@ -1,7 +1,7 @@
 # Review — chapter 02
 
-133 blocks. Voices: granny=125, man=4, none=1, verse=3.
-Confirmed glossary terms (0): none.
+133 blocks. Voices: granny=124, man=4, none=1, verse=4.
+Confirmed glossary terms (13): ananda-ghana, anupaya, anupayaprakasanam, caham, kundalini, paramesvara, puja, saktipata, samavesa, svaprakasa, svatma, upaya, visvam.
 
 ## b_opener · opener · none · [opener]
 
@@ -11,7 +11,7 @@ Confirmed glossary terms (0): none.
 
 Tantrasāra — Chapter 2
 
-## b2 · narration · granny · [Tantrasāra — Chapter 2]
+## b2 · verse · verse · [Tantrasāra — Chapter 2]
 
 अनुपायप्रकाशनम् — Anupāyaprakāśanam
 

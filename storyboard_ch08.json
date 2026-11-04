@@ -21,10 +21,10 @@
   {
    "id": "b2",
    "section": "Tantrasāra — Chapter 8",
-   "type": "narration",
-   "voice": "granny",
+   "type": "verse",
+   "voice": "verse",
    "text": "अष्टममाह्निकम् — Tattvasvarūpaprakāśanam",
-   "directed": "अष्टममाह्निकम् — Tattvasvarūpaprakāśanam"
+   "directed": "[slowly] अष्टममाह्निकम् — Tattvasvarūpaprakāśanam"
   },
   {
    "id": "b3",
@@ -11971,21 +11971,6 @@
    "directed": "The divisions of the tattvas: the seven kinds of experiencer, their corresponding Śaktis, and why the same universe appears differently depending on who’s experiencing it."
   }
  ],
- "totals": {
-  "blocks": 1496,
-  "words_per_voice": {
-   "none": 73,
-   "granny": 8452,
-   "verse": 156,
-   "man": 50
-  },
-  "est_min": {
-   "none": 0.5,
-   "granny": 56.3,
-   "verse": 1.0,
-   "man": 0.3
-  }
- },
  "validation": {
   "errors": [],
   "warnings": []

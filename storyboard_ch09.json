@@ -21,10 +21,10 @@
   {
    "id": "b2",
    "section": "Tantrasāra — Chapter 9",
-   "type": "narration",
-   "voice": "granny",
+   "type": "verse",
+   "voice": "verse",
    "text": "नवममाह्निकम् — Tattvabhedaprakāśanam",
-   "directed": "नवममाह्निकम् — Tattvabhedaprakāśanam"
+   "directed": "[slowly] नवममाह्निकम् — Tattvabhedaprakāśanam"
   },
   {
    "id": "b3",
@@ -8363,21 +8363,6 @@
    "directed": "The five great kalās and the remaining cosmic pathways: how the whole structure of reality is organised for tantric practice."
   }
  ],
- "totals": {
-  "blocks": 1045,
-  "words_per_voice": {
-   "none": 63,
-   "granny": 6540,
-   "man": 63,
-   "verse": 127
-  },
-  "est_min": {
-   "none": 0.4,
-   "granny": 43.6,
-   "man": 0.4,
-   "verse": 0.8
-  }
- },
  "validation": {
   "errors": [],
   "warnings": []
