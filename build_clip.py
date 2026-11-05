@@ -77,6 +77,15 @@ def _main_inner():
     ch = slug(sb.get('title', 'chapter')) or 'chapter'
     sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
     import holds as _H
+    for _spec_kind in ('draws', 'clips'):
+        _fn = getattr(_H, _spec_kind + '_for', None)
+        try:
+            _found = _fn(sys.argv[1]) if _fn else {}
+        except Exception:
+            _found = {}
+        if _found:
+            print(f'NOTE: {_spec_kind} spec present but this builder predates motion support — '
+                  'filed specs render via the factory builder only', flush=True)
     _lane = _H.lane_for(sys.argv[1])
     blocks = [byid[i] for i in bids]
     groups = []
@@ -559,6 +568,12 @@ def _main_inner():
             _end = next((j for j in range(_fi + 1, len(flat) + 1)
                          if j >= len(flat) or flat[j][2] >= _end_t - 1e-6),
                         len(flat))
+            # max hold ~60s (owner call 2026-11-05): a persist clears to
+            # white unless a newer cue/chant/break supersedes it first.
+            # Re-mentions re-fire their own spans, so live cards survive.
+            _cap = next((j for j in range(_fi + 1, len(flat) + 1)
+                         if j >= len(flat) or flat[j][2] >= _ton + 60.0), len(flat))
+            _end = min(_end, _cap)
             if _end <= _fi + 1:
                 continue
             _term_imgs[('persist', b['id'])] = hold_for.get(b['id'], _blank)
@@ -591,7 +606,9 @@ def _main_inner():
                     _ri, _p = _run_of[_n]
                     return _term_imgs[('stack', _ri, _p + 1)]
                 return _term_imgs[key]
-        for (s, e, bid) in _persists:
+        # newest persist wins (cue-clamp mirror M11): a fresh chant
+        # re-covers older holds instead of flashing one frame under them.
+        for (s, e, bid) in reversed(_persists):
             if s <= t < e:
                 return _term_imgs[('persist', bid)]
         return _blank
@@ -606,7 +623,7 @@ def _main_inner():
                 if _n in _run_of:
                     return 'stack:' + key
                 return 'term:' + key
-        for (s, e, bid) in _persists:
+        for (s, e, bid) in reversed(_persists):
             if s <= t < e:
                 return 'verse-hold:' + bid
         return 'white'

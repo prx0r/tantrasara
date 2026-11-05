@@ -171,6 +171,84 @@ def drops_for(sb_path):
     return d
 
 
+def draws_for(sb_path):
+    """Owner-called sleepdraws: {start_bid: {asset, complete_bid,
+    clear=fade|cut, fade=seconds, why}}. Entry always fades in from white
+    between the two onsets (the sleepdraw); clearing is fade to white over
+    `fade` seconds (default 1.5) or an instant cut like a crisp boom-white.
+    why is required (fail loud) — unjustified motion never renders. Spec
+    lives beside the drops file (draws_chNN.json / shiva draws_sNN.json)."""
+    import json, os
+    lane = lane_for(sb_path)
+    dp = os.path.join(os.path.dirname(lane['drops']),
+                      os.path.basename(lane['drops']).replace('drops_', 'draws_'))
+    if not os.path.exists(dp):
+        return {}
+    d = json.load(open(dp, encoding='utf-8'))
+    for bid, spec in d.items():
+        assert isinstance(spec, dict) and spec.get('asset'), f"draw {bid}: needs an asset path"
+        assert spec.get('complete_bid'), f"draw {bid}: needs complete_bid (the frame it is complete on)"
+        if spec.get('etch'):
+            assert os.path.exists(spec['etch']), f"draw {bid}: etch video missing: {spec['etch']}"
+        assert spec.get('clear', 'cut') in ('fade', 'cut'), f"draw {bid}: clear is fade|cut"
+        assert float(spec.get('fade', 1.5)) > 0, f"draw {bid}: fade seconds must be > 0"
+        assert (spec.get('why') or '').strip(), f"draw {bid}: needs a why — unjustified motion never renders"
+    return d
+
+
+
+
+def clips_for(sb_path):
+    """Owner-called overlay clips: {start_bid: {asset, complete_bid,
+    clear=fade|cut, fade=seconds, why}}. A muted video plays on the mini
+    canvas (centered, 1280x660, above subtitles) between the two onsets,
+    then its last frame holds like a persist until the next cue/chant/
+    tone-break. Audio is NEVER carried (muted by construction — the mix
+    stays ours). why is required — unjustified motion never renders. Spec
+    lives beside the drops file (clips_chNN.json / shiva clips_sNN.json).
+    Used sparingly, for effect."""
+    import json, os
+    lane = lane_for(sb_path)
+    dp = os.path.join(os.path.dirname(lane['drops']),
+                      os.path.basename(lane['drops']).replace('drops_', 'clips_'))
+    if not os.path.exists(dp):
+        return {}
+    d = json.load(open(dp, encoding='utf-8'))
+    for bid, spec in d.items():
+        assert isinstance(spec, dict) and spec.get('asset'), f"clip {bid}: needs an asset mp4 path"
+        assert spec.get('complete_bid'), f"clip {bid}: needs complete_bid (span end onset)"
+        assert spec.get('clear', 'cut') in ('fade', 'cut'), f"clip {bid}: clear is fade|cut"
+        assert float(spec.get('fade', 1.5)) > 0, f"clip {bid}: fade seconds must be > 0"
+        assert (spec.get('why') or '').strip(), f"clip {bid}: needs a why — unjustified motion never renders"
+    return d
+
+
+def _white_mask(frame_im, thresh=12):
+    """Mask of non-white pixels: art shows through, existing ink
+    (karaoke subtitles already on the base) survives underneath."""
+    from PIL import Image, ImageChops
+    diff = ImageChops.difference(frame_im, Image.new('RGB', frame_im.size, LIGHT))
+    return diff.convert('L').point(lambda v: 255 if v > thresh else 0)
+
+
+def etch_paste(base_im, frame_im, q=1.0):
+    """Paste one pre-rendered full-frame etch frame (1920x1080, already
+    negated to ink-on-white at pre-render); q fades it toward white.
+    White-preserving: karaoke ink already on the base survives."""
+    from PIL import Image
+    assert frame_im.size == (W, H), f'etch frame must be {W}x{H}'
+    im = base_im.copy()
+    if q >= 1.0:
+        im.paste(frame_im, (0, 0), _white_mask(frame_im))
+    else:
+        ground = Image.new('RGB', frame_im.size, LIGHT)
+        im.paste(Image.blend(frame_im, ground, min(1.0, max(0.0, 1.0 - q))), (0, 0),
+                 _white_mask(frame_im))
+    return im
+
+
+
+
 def split_after(groups, bids):
     """Split render groups after the listed block ids (impact drops).
     Same function in every builder — identical boundaries everywhere."""
