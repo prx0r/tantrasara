@@ -1,13 +1,10 @@
 {
- "b29": "granny",
- "b80": "granny",
- "b82": "granny",
- "b84": "granny",
  "b182": "granny",
  "b193": "man",
  "b194": "granny",
  "b195": "man",
  "b196": "granny",
+ "b29": "granny",
  "b330": "man",
  "b331": "granny",
  "b332": "man",
@@ -19,6 +16,7 @@
  "b338": "man",
  "b339": "granny",
  "b340": "man",
+ "b341": "granny",
  "b342": "man",
  "b458": "man",
  "b459": "granny",
@@ -48,6 +46,9 @@
  "b566": "man",
  "b567": "granny",
  "b568": "man",
+ "b80": "granny",
  "b812": "granny",
+ "b82": "granny",
+ "b84": "granny",
  "b841": "granny"
 }

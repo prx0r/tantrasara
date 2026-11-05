@@ -2734,7 +2734,7 @@
    "id": "b341",
    "section": "Tantrasāra — Chapter 18",
    "type": "dialogue",
-   "voice": "man",
+   "voice": "granny",
    "text": "“Abhinavagupta hasn’t mentioned Sundays.”",
    "directed": "[short pause] “Abhinavagupta hasn’t mentioned Sundays.”"
   },
@@ -6787,6 +6787,21 @@
    "directed": "The final rites for the dead: how funeral ceremonies become initiations, the extraordinary claims about awakening the corpse, the annual rites for departed beings, and why Abhinavagupta says a genuine knower needs none of it."
   }
  ],
+ "totals": {
+  "blocks": 848,
+  "words_per_voice": {
+   "none": 136,
+   "granny": 5177,
+   "verse": 146,
+   "man": 81
+  },
+  "est_min": {
+   "none": 0.9,
+   "granny": 34.5,
+   "verse": 1.0,
+   "man": 0.5
+  }
+ },
  "validation": {
   "errors": [],
   "warnings": []
