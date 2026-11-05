@@ -856,3 +856,50 @@ IAST losslessness (ISO 15919/Geneva 1894), but T1 lemmas are
 inflected — candidates carry the case caveat, owner picks citation
 forms. `preflight.py` now gates every batch (disk, lock, SHAs, V5,
 audio, keys, models); PLAYBOOK §0b.
+
+## 2026-11-05 — crash triage: three failure classes, all fixed lane-wide (owner: work autonomously)
+
+Overnight VIDEO 08/09 failed 4x each, AUDIO 16/17 failed once each
+with zero evidence. Diagnosed live, fixed in the shared builders
+(same commit discipline as ever — owner ordered the fix, which
+lifts the 11-04 code freeze for exactly these changes).
+
+1. **VIDEO ch08-g30 (b975, 299w) + ch09-g20 (b623, 278w): MMS
+   SIGKILL (rc=-9, empty stderr).** Forensics: hash-matched wavs
+   show 145s/148s audio — same-size siblings (ch05 b188 278w/122s,
+   ch08 b609 296w/142s) passed the same night, so the kill line is
+   pressure-dependent, not exact; the old >300 split never engaged.
+   Fix (`build_clip.py`): chunk threshold 300→200 (halves land
+   ~100–150w, the safest zone) + a dead single-align now falls back
+   to the proven chunked path with full stderr to `mms_fail.log`
+   instead of killing the 40-minute build. Proven same day: ch08
+   g30 chunked at 72.6s silence, n=299 mean=0.950. Lane scan: ~100
+   groups >200w across ch01/03–22 all route chunked automatically;
+   already-shipped chapters passed as-is and stay untouched.
+2. **AUDIO ch16 (dead after 48min/151 wavs) + ch17 (dead after
+   5min/3 cached): FAIL@audio, no log survived.** The audio phase
+   (`sh()`, memory-only tail) discards all evidence — that blindness
+   is itself the second bug. Probable cause is transient: Fish stall
+   past the 300s fence or a volume/mount flake mid-run (live proof
+   this session: local-disk flakes at 99% — `ls /tmp/mmsmod` ENOENT
+   one minute, fine the next; node MODULE_NOT_FOUND resolving 3/3
+   seconds later; single-probe TTS of the suspect ch17 group renders
+   fine, API healthy). Fix (`render_chapter.py`): per-group guards —
+   TTS timeout→FAIL+continue, makedirs retried 4x, human-clip assert
+   demoted to FAIL+continue, receipt writes warn-and-keep-wav;
+   max progress every attempt, exit 1 while anything is missing so
+   the driver retries and the content-hash cache heals flakes.
+   Fix (`/tmp/overnight.py`, future launches): audio phase logs
+   per-chapter (`/tmp/audio_chNN.log`) like video does.
+3. **/tmp leak from crashed chapters.** Failed ranges never reached
+   cleanup: orphaned `stage_tmp_*`, `clip_frames_*`, `clip_mix*.mp3`,
+   `mms_grp*.f32` held ~2.3G on the 99% disk. Deleted (parts in
+   `chNN_blocks/`, finals, and `mmsmod` untouched); 1.2G→3.5G free.
+
+Execution (jobs registered in REGISTRY): `fix-video-08-09`
+(resume ch08 p04 + ch09 p03 with the fixed builder → prove →
+concat → verify → voices → ship, mirroring chapter_video) and
+`fix-audio-16-17` (resilient render + assemble, sequential, +1 Fish
+stream beside the running driver). Running overnight driver is
+pre-fix code (launched 19:43, files edited after — already-imported
+code unaffected); ch20 receipts climbing normally throughout.

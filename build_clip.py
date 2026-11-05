@@ -161,11 +161,14 @@ def _main_inner():
         return json.load(open(_op, encoding='utf-8'))
 
     def _chunked_align(f, disp, ali, lang, gi, g):
-        # Oversized groups (>300 words) OOM-kill the aligner (proven:
-        # 200 words pass, 412 die) — split at a measured silence near
+        # Oversized groups (>200 words) OOM-kill the aligner (proven:
+        # 200 words pass, 412 die — then 278/299-word groups died 4x
+        # each 2026-11-05 while same-size siblings passed, so the line
+        # is pressure-dependent, not exact: 200 keeps every half in
+        # the safest zone with margin). Split at a measured silence near
         # the block boundary closest to the middle, align halves,
         # offset the second. Audio, groups, hashes untouched.
-        if len(disp) <= 300:
+        if len(disp) <= 200:
             return _align_one(f, ali, lang, gi)
         _dur = float(subprocess.run(
             ['ffprobe', '-v', 'error', '-show_entries', 'format=duration',
@@ -260,7 +263,7 @@ def _main_inner():
         # never silently validate the previous chapter's rows (M21)
         if os.path.exists(opath):
             os.remove(opath)
-        if len(disp) > 300:
+        if len(disp) > 200:
             rows = _chunked_align(f, disp, ali, lang, i, g)
             assert len(rows) == len(disp), f'{g[0]["id"]}: {len(disp)} vs {len(rows)}'
             mean = sum(x['mms'] for x in rows) / len(rows)
@@ -273,12 +276,23 @@ def _main_inner():
         if not os.path.exists(opath):
             # M32: record the FULL stderr — the assert truncation was
             # hiding silent MMS deaths (empty [-300:] tells nothing).
+            # 2026-11-05: a dead single-align no longer kills the build —
+            # fall back to the proven chunked path (halves ~half the
+            # words, the safest zone). A dead chunked align still fails
+            # loud below.
             with open('/tmp/mms_fail.log', 'a') as _lf:
-                _lf.write(f'--- {sb.get("title")} group {i} {g[0]["id"]} lang={lang} n={len(disp)}\n')
+                _lf.write(f'--- {sb.get("title")} group {i} {g[0]["id"]} lang={lang} n={len(disp)} FALLBACK-CHUNKED\n')
                 _lf.write(f'words: {json.dumps(ali[:12], ensure_ascii=False)}\n')
                 _lf.write(f'rc={r.returncode} stderr_len={len(r.stderr)} stdout_len={len(r.stdout)}\n')
                 _lf.write((r.stderr or '')[-4000:] + '\n' + (r.stdout or '')[-1000:] + '\n')
-            assert os.path.exists(opath), f'MMS failed group {i}: {r.stderr[-300:]}'
+            print(f'group {i}: single align died (rc={r.returncode}), fallback chunked', flush=True)
+            rows = _chunked_align(f, disp, ali, lang, i, g)
+            assert len(rows) == len(disp), f'{g[0]["id"]}: {len(disp)} vs {len(rows)}'
+            mean = sum(x['mms'] for x in rows) / len(rows)
+            assert mean >= 0.6, f'{g[0]["id"]}: chunked align garbage (mean {mean:.3f})'
+            print(f'group {i}: n={len(rows)} mean={mean:.3f} CHUNKED-FALLBACK', flush=True)
+            al.append((g, rows))
+            continue
         rows = json.load(open(opath, encoding='utf-8'))
         assert len(rows) == len(disp), f'{g[0]["id"]}: {len(disp)} vs {len(rows)}'
         mean = sum(x['mms'] for x in rows) / len(rows)

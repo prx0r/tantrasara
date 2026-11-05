@@ -127,15 +127,33 @@ def main():
               'man': 'fcfd5ebf496949ed9f76b3a533ee4738',
               'verse': '4e873c37d4cb439e9bccc4dc1f633290'}
     import hashlib as _hl
+    import time as _time
+    def _mkdirs(_d):
+        # volume mount flakes under load — retry, never crash the run
+        for _t in range(4):
+            try:
+                os.makedirs(_d, exist_ok=True)
+                return True
+            except OSError:
+                _time.sleep(2 * (_t + 1))
+        return False
     rdir = f'{VOL}/{ch}/receipts'
-    os.makedirs(rdir, exist_ok=True)
+    assert _mkdirs(rdir), f'receipts dir unwritable after retries: {rdir}'
     log = open(f'{rdir}/calls.jsonl', 'a', encoding='utf-8')
     done, failed = 0, []
     for p in plan:
         if p['kind'] == 'human':
-            os.makedirs(os.path.dirname(p['file']), exist_ok=True)
+            if not _mkdirs(os.path.dirname(p['file'])):
+                failed.append(p['file'])
+                print(f'FAIL {p["file"]}: groups dir unwritable (mount flake)', flush=True)
+                continue
             _clip = os.path.join(PHONEME_DIR, PHONEMES[p['phoneme']])
-            assert os.path.exists(_clip), f'human clip missing: {_clip}'
+            if not os.path.exists(_clip):
+                # deterministic data gap — log it, render everything
+                # else, never crash the run (2026-11-05 resilience)
+                failed.append(p['file'])
+                print(f'FAIL {p["file"]}: human clip missing: {_clip}', flush=True)
+                continue
             _det = subprocess.run(
                 ['ffmpeg', '-nostats', '-v', 'info', '-i', _clip,
                  '-af', 'volumedetect', '-f', 'null', '-'],
@@ -157,14 +175,17 @@ def main():
                     ['ffprobe', '-v', 'error', '-show_entries', 'format=duration',
                      '-of', 'default=nw=1:nk=1', p['file']],
                     capture_output=True, text=True).stdout.strip()
-                log.write(json.dumps({'file': p['file'], 'voice': p['voice'],
-                                      'chars': p['chars'], 'bids': p['bids'],
-                                      'sha': _hl.sha256(open(p['file'], 'rb').read()).hexdigest()[:16],
-                                      'dur': dur, 'src': 'human',
-                                      'phoneme': p['phoneme'],
-                                      'clip': PHONEMES[p['phoneme']],
-                                      'gain_db': round(20 * __import__('math').log10(_gain), 1) if _gain > 0 else 0}) + '\n')
-                log.flush()
+                try:
+                    log.write(json.dumps({'file': p['file'], 'voice': p['voice'],
+                                       'chars': p['chars'], 'bids': p['bids'],
+                                       'sha': _hl.sha256(open(p['file'], 'rb').read()).hexdigest()[:16],
+                                       'dur': dur, 'src': 'human',
+                                       'phoneme': p['phoneme'],
+                                       'clip': PHONEMES[p['phoneme']],
+                                       'gain_db': round(20 * __import__('math').log10(_gain), 1) if _gain > 0 else 0}) + '\n')
+                    log.flush()
+                except OSError as _oe:
+                    print(f'WARN {p["file"]}: receipt unwritten ({_oe}), wav kept', flush=True)
                 done += 1
                 print(f'human {done} {p["file"]} [{p["phoneme"]}] {dur}s', flush=True)
             else:
@@ -173,22 +194,38 @@ def main():
             continue
         if p['kind'] != 'render':
             continue
-        os.makedirs(os.path.dirname(p['file']), exist_ok=True)
-        r = subprocess.run(
-            ['python3', '/home/ubuntu/shiva-sutras/tools/tts_line.py',
-             p['text'], p['file'], '1.0', VOICES[p['voice']]],
-            capture_output=True, text=True, timeout=300)
+        if not _mkdirs(os.path.dirname(p['file'])):
+            failed.append(p['file'])
+            print(f'FAIL {p["file"]}: groups dir unwritable (mount flake)', flush=True)
+            continue
+        try:
+            r = subprocess.run(
+                ['python3', '/home/ubuntu/shiva-sutras/tools/tts_line.py',
+                 p['text'], p['file'], '1.0', VOICES[p['voice']]],
+                capture_output=True, text=True, timeout=300)
+        except subprocess.TimeoutExpired:
+            # a hung Fish call must not kill a 48-minute run (ch16/ch17
+            # 2026-11-05) — record it, render everything else, driver
+            # retries the chapter and the cache keeps all progress
+            failed.append(p['file'])
+            print(f'FAIL {p["file"]}: TTS call hung past 300s, skipped', flush=True)
+            continue
         if r.returncode == 0 and os.path.exists(p['file']):
             dur = subprocess.run(
                 ['ffprobe', '-v', 'error', '-show_entries', 'format=duration',
                  '-of', 'default=nw=1:nk=1', p['file']],
                 capture_output=True, text=True).stdout.strip()
             rec = {'file': p['file'], 'voice': p['voice'], 'chars': p['chars'],
-                    'bids': p['bids'], 'src': 'fish',
-                    'sha': _hl.sha256(open(p['file'], 'rb').read()).hexdigest()[:16],
-                    'dur': dur}
-            log.write(json.dumps(rec) + '\n')
-            log.flush()
+                     'bids': p['bids'], 'src': 'fish',
+                     'sha': _hl.sha256(open(p['file'], 'rb').read()).hexdigest()[:16],
+                     'dur': dur}
+            try:
+                log.write(json.dumps(rec) + '\n')
+                log.flush()
+            except OSError as _oe:
+                # receipt lost to a mount flake — the wav itself is the
+                # cache (hash + size check), so count it, say so loudly
+                print(f'WARN {p["file"]}: receipt unwritten ({_oe}), wav kept', flush=True)
             done += 1
             print(f'ok {done} {p["file"]} {dur}s', flush=True)
         else:
@@ -197,6 +234,10 @@ def main():
     print(f'rendered={done} failed={len(failed)}')
     for f in failed:
         print('FAILED:', f)
+    # nonzero while anything is missing so the driver retries the
+    # chapter — but every renderable group is already cached, so each
+    # attempt makes max progress and transient flakes heal (2026-11-05)
+    sys.exit(1 if failed else 0)
 
 if __name__ == '__main__':
     main()
