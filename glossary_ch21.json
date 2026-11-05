@@ -1376,5 +1376,15 @@
    "b950"
   ],
   "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b950 \"yatrotkṛṣṭaṃ phalam\""
+ },
+ "anuttara": {
+  "deva": "अनुत्तर",
+  "gloss": "the unsurpassable; beyond which there is nothing higher",
+  "status": "proposed",
+  "deva_status": "machine",
+  "cue_blocks": [
+   "b1060"
+  ],
+  "note": "white-gap audit 2026-11-05: IAST vocab stretch without cue; mined proposed from surroundings; Deva transliterated (machine) — CONFIRM before it renders"
  }
 }

@@ -919,5 +919,15 @@
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
+ },
+ "jnanlabha": {
+  "deva": "ज्ञानलाभ",
+  "gloss": "the attainment or reception of knowledge",
+  "status": "proposed",
+  "deva_status": "machine",
+  "cue_blocks": [
+   "b743"
+  ],
+  "note": "white-gap audit 2026-11-05: IAST vocab stretch without cue; mined proposed from surroundings; Deva transliterated (machine) — CONFIRM before it renders"
  }
 }

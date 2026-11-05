@@ -859,5 +859,15 @@
   "status": "confirmed",
   "literal_status": "proposed",
   "note": "chapter-title entry; drives the canonical intro title stack | bulk-confirmed 2026-11-04"
+ },
+ "vrata": {
+  "deva": "व्रत",
+  "gloss": "vow or observance",
+  "status": "proposed",
+  "deva_status": "machine",
+  "cue_blocks": [
+   "b72"
+  ],
+  "note": "white-gap audit 2026-11-05: IAST vocab stretch without cue; mined proposed from surroundings; Deva transliterated (machine) — CONFIRM before it renders"
  }
 }
