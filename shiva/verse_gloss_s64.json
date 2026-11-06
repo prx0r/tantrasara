@@ -3,8 +3,11 @@
   "deva": "तत्प्रवृत्तावप्यनिरासः संवेत्तृभावात्",
   "iast": "Tatpravṛttāv apy anirāsaḥ saṃvettṛbhāvāt.",
   "literal": "Even when those processes occur, there is no loss or disruption, because of the condition of being the conscious knower.",
-  "status": "proposed",
+  "status": "confirmed",
   "chant": "b2",
-  "note": "author gloss line, owner bulk-confirms"
+  "note": "author gloss line, owner bulk-confirms | bulk-confirmed (owner blanket bless 2026-11-06; pairing audited by shared verse_match_key)",
+  "bids": [
+   "b2"
+  ]
  }
 }

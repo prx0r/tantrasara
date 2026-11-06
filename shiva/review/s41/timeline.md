@@ -1,21 +1,31 @@
-# Holds timeline
+# Holds timeline — planning view
 
-White is the default. Cards interrupt; white returns at section breaks,
-[long pause] beats, and dialogue entries. Proposed (unconfirmed) glosses
-do NOT render — their mentions play over white until confirmed.
+Complete storyboard-order event and term-mention plan; times are not measured.
+Confirmed mentions can appear as cards. Proposed mentions remain white.
+Use video metadata and proof frames to judge actual onsets and persistence.
 
-start: THUMBNAIL (opener image, bell + intro until first verse)
-b1: TITLE card
-b2: VERSE card (नर्तक आत्मा)
-b3: TERM atma ( — ) [proposed — white until confirmed]
-b27: TERM sakti ( — ) [proposed — white until confirmed]
-b30: TERM prakasa ( — ) [proposed — white until confirmed]
-b30: TERM vimarsa ( — ) [proposed — white until confirmed]
-b63: TERM naisvasatantra ( — ) [proposed — white until confirmed]
-b63: TERM bhatta ( — ) [proposed — white until confirmed]
-b63: TERM narayana ( — ) [proposed — white until confirmed]
-b63: TERM stavacintamani ( — ) [proposed — white until confirmed]
-b63: TERM isvarapratyabhijna ( — ) [proposed — white until confirmed]
-b67: WHITE (tone break)
-b111: TERM svatantrya ( — ) [proposed — white until confirmed]
-b113: TERM lila ( — ) [proposed — white until confirmed]
+b_opener: thumbnail / opener
+b1: TITLE — Śiva Sūtras 3.9
+b1: TONE BREAK
+b2: VERSE — नर्तक आत्मा
+b2 word 2: TERM atma ( — ) [PROPOSED — white]
+b3 word 2: TERM atma ( — ) [PROPOSED — white]
+b11: VERSE — Ātmā.
+b11 word 1: TERM atma ( — ) [PROPOSED — white]
+b28 word 14: TERM sakti ( — ) [PROPOSED — white]
+b29 word 8: TERM sakti ( — ) [PROPOSED — white]
+b31 word 1: TERM prakasa ( — ) [PROPOSED — white]
+b31 word 3: TERM vimarsa ( — ) [PROPOSED — white]
+b64 word 9: TERM naisvasatantra ( — ) [PROPOSED — white]
+b64 word 10: TERM bhatta ( — ) [PROPOSED — white]
+b64 word 12: TERM stavacintamani ( — ) [PROPOSED — white]
+b64 word 15: TERM isvarapratyabhijna ( — ) [PROPOSED — white]
+b68: TONE BREAK
+b69: TONE BREAK
+b70: TONE BREAK
+b71: TONE BREAK
+b72: TONE BREAK
+b80: TONE BREAK
+b105: TONE BREAK
+b112 word 3: TERM svatantrya ( — ) [PROPOSED — white]
+b114 word 4: TERM lila ( — ) [PROPOSED — white]

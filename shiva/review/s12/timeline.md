@@ -1,13 +1,15 @@
-# Holds timeline
+# Holds timeline — planning view
 
-White is the default. Cards interrupt; white returns at section breaks,
-[long pause] beats, and dialogue entries. Proposed (unconfirmed) glosses
-do NOT render — their mentions play over white until confirmed.
+Complete storyboard-order event and term-mention plan; times are not measured.
+Confirmed mentions can appear as cards. Proposed mentions remain white.
+Use video metadata and proof frames to judge actual onsets and persistence.
 
-start: THUMBNAIL (opener image, bell + intro until first verse)
-b1: TITLE card
-b2: VERSE card (विस्मयो योगभूमिकाः)
-b3: TERM yogabhumikah ( — ) [proposed — white until confirmed]
-b8: TERM bhumikah ( — ) [proposed — white until confirmed]
-b29: TERM sakti ( — ) [proposed — white until confirmed]
-b40: TERM camatkara ( — ) [proposed — white until confirmed]
+b_opener: thumbnail / opener
+b1: TITLE — Śiva Sūtras 1.12
+b1: TONE BREAK
+b2: VERSE — विस्मयो योगभूमिकाः
+b2 word 2: TERM yogabhumikah ( — ) [PROPOSED — white]
+b3 word 2: TERM yogabhumikah ( — ) [PROPOSED — white]
+b9 word 1: TERM bhumikah ( — ) [PROPOSED — white]
+b30 word 6: TERM sakti ( — ) [PROPOSED — white]
+b41 word 2: TERM camatkara ( — ) [PROPOSED — white]

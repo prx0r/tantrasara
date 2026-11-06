@@ -1,7 +1,8 @@
 {
  "abhut": {
   "gloss": "was (aorist of be)",
-  "note": "draft final for owner confirm; b572 \"nirato’sadgurāv abhūt\""
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b572 \"nirato’sadgurāv abhūt\"",
+  "status": "confirmed"
  },
  "adharasthah": {
   "gloss": "situated below (?)",
@@ -9,19 +10,23 @@
  },
  "adhivasadi": {
   "gloss": "beginning with the dwelling-rite (ablative)",
-  "note": "draft final for owner confirm; b532 \"adhivāsādi prāgvat\""
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b532 \"adhivāsādi prāgvat\"",
+  "status": "confirmed"
  },
  "ahuti": {
   "gloss": "oblation",
-  "note": "draft final for owner confirm; verbatim (b406)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; verbatim (b406)",
+  "status": "confirmed"
  },
  "ajna": {
   "gloss": "command; injunction",
-  "note": "draft final for owner confirm; verbatim (b455)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; verbatim (b455)",
+  "status": "confirmed"
  },
  "anadhikrta": {
   "gloss": "not qualified",
-  "note": "draft final for owner confirm; verbatim (b89)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; verbatim (b89)",
+  "status": "confirmed"
  },
  "anadhikrtadhar": {
   "gloss": "holding the unqualified (??)",
@@ -29,91 +34,113 @@
  },
  "asasanagurupasevinah": {
   "gloss": "honouring non-scriptural gurus (nominative plural)",
-  "note": "draft final for owner confirm; b85 long compound"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b85 long compound",
+  "status": "confirmed"
  },
  "cesta": {
   "gloss": "conduct; activity",
-  "note": "draft final for owner confirm; verbatim (b180)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; verbatim (b180)",
+  "status": "confirmed"
  },
  "daksina": {
   "gloss": "right-hand (stream)",
-  "note": "draft final for owner confirm; b53 Dakṣiṇa-tantra"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b53 Dakṣiṇa-tantra",
+  "status": "confirmed"
  },
  "daksina-tantra": {
   "gloss": "the right-hand revelation stream",
-  "note": "draft final for owner confirm; b53 verbatim gloss"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b53 verbatim gloss",
+  "status": "confirmed"
  },
  "devanagari": {
   "gloss": "Devanāgarī (concluding verse attested)",
-  "note": "draft final for owner confirm; b570 attested verse note"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b570 attested verse note",
+  "status": "confirmed"
  },
  "diksa": {
   "gloss": "initiation (stanza appears after prose)",
-  "note": "draft final for owner confirm; b573 edition note"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b573 edition note",
+  "status": "confirmed"
  },
  "diksyo": {
   "gloss": "to be initiated (gerundive)",
-  "note": "draft final for owner confirm; b572 \"dīkṣyo\""
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b572 \"dīkṣyo\"",
+  "status": "confirmed"
  },
  "gadha": {
   "gloss": "intense; deep",
-  "note": "draft final for owner confirm; verbatim (b584)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; verbatim (b584)",
+  "status": "confirmed"
  },
  "grhita": {
   "gloss": "taken; accepted",
-  "note": "draft final for owner confirm; verbatim (b71)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; verbatim (b71)",
+  "status": "confirmed"
  },
  "grhitva": {
   "gloss": "having taken",
-  "note": "draft final for owner confirm; verbatim (b209)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; verbatim (b209)",
+  "status": "confirmed"
  },
  "isvara": {
   "gloss": "lord (invoked)",
-  "note": "draft final for owner confirm; b428 \"Īśvara — lord\""
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b428 \"Īśvara — lord\"",
+  "status": "confirmed"
  },
  "kimcit": {
   "gloss": "anything",
-  "note": "draft final for owner confirm; b460 \"Kiṃcit — anything\""
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b460 \"Kiṃcit — anything\"",
+  "status": "confirmed"
  },
  "krta": {
   "gloss": "made",
-  "note": "draft final for owner confirm; b321 \"Kṛta — made\""
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b321 \"Kṛta — made\"",
+  "status": "confirmed"
  },
  "krtopavasam": {
   "gloss": "having fasted (accusative gerund)",
-  "note": "draft final for owner confirm; b151 \"Kṛtopavāsam\" (First, a fast)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b151 \"Kṛtopavāsam\" (First, a fast)",
+  "status": "confirmed"
  },
  "ksipet": {
   "gloss": "one should cast",
-  "note": "draft final for owner confirm; b211 verbatim gloss"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b211 verbatim gloss",
+  "status": "confirmed"
  },
  "linga": {
   "gloss": "mark; sign (not anatomy — joke disclaimed)",
-  "note": "draft final for owner confirm; b34 liṅga clarification"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b34 liṅga clarification",
+  "status": "confirmed"
  },
  "lingoddhara": {
   "gloss": "lifting out the mark (chapter topic)",
-  "note": "draft final for owner confirm; b3 chapter tagline"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b3 chapter tagline",
+  "status": "confirmed"
  },
  "lingoddharah": {
   "gloss": "the liṅga-extraction (nominative)",
-  "note": "draft final for owner confirm; b514 \"Iti liṅgoddhāraḥ\""
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b514 \"Iti liṅgoddhāraḥ\"",
+  "status": "confirmed"
  },
  "manasa": {
   "gloss": "mental; of the mind",
-  "note": "draft final for owner confirm; b588 \"Mānasa — mind\""
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b588 \"Mānasa — mind\"",
+  "status": "confirmed"
  },
  "paramesvara": {
   "gloss": "Parameśvara (turned toward teaching)",
-  "note": "draft final for owner confirm; b106 turned through descent"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b106 turned through descent",
+  "status": "confirmed"
  },
  "paramesvarena": {
   "gloss": "by Parameśvara (instrumental)",
-  "note": "draft final for owner confirm; b105 \"pārameśvareṇa unmukhīkriyante\""
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b105 \"pārameśvareṇa unmukhīkriyante\"",
+  "status": "confirmed"
  },
  "pragvat": {
   "gloss": "as before",
-  "note": "draft final for owner confirm; b532 \"prāgvat\""
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b532 \"prāgvat\"",
+  "status": "confirmed"
  },
  "pran": {
   "gloss": "life-breath (bound in verse?)",
@@ -121,142 +148,177 @@
  },
  "proksana": {
   "gloss": "ritual sprinkling",
-  "note": "draft final for owner confirm; verbatim (b260)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; verbatim (b260)",
+  "status": "confirmed"
  },
  "purna": {
   "gloss": "full; complete",
-  "note": "draft final for owner confirm; b405 verbatim"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b405 verbatim",
+  "status": "confirmed"
  },
  "purnahutih": {
   "gloss": "complete oblation (with vauṣaṭ)",
-  "note": "draft final for owner confirm; b402 \"pūrṇāhutiḥ vauṣaḍantena\""
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b402 \"pūrṇāhutiḥ vauṣaḍantena\"",
+  "status": "confirmed"
  },
  "sadgurav": {
   "gloss": "to a true guru (locative; \"wrong guru\" irony)",
-  "note": "draft final for owner confirm; b572 \"asadgurāv abhūt\""
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b572 \"asadgurāv abhūt\"",
+  "status": "confirmed"
  },
  "sadharana-mantrena": {
   "gloss": "with a common mantra (instrumental)",
-  "note": "draft final for owner confirm; b316 \"mantreṇa śivīkṛte agnau\""
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b316 \"mantreṇa śivīkṛte agnau\"",
+  "status": "confirmed"
  },
  "saiva": {
   "gloss": "Śaiva (other traditions’ vows)",
-  "note": "draft final for owner confirm; b20 vows in another tradition"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b20 vows in another tradition",
+  "status": "confirmed"
  },
  "saivism": {
   "gloss": "Kashmir Śaivism (magnificent terminology joke)",
-  "note": "draft final for owner confirm; b140 ironic quote"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b140 ironic quote",
+  "status": "confirmed"
  },
  "saktipata": {
   "gloss": "descent (already occurred)",
-  "note": "draft final for owner confirm; b42 already occurred"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b42 already occurred",
+  "status": "confirmed"
  },
  "saktipatena": {
   "gloss": "by the descent (instrumental)",
-  "note": "draft final for owner confirm; b105 \"śaktipātena\""
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b105 \"śaktipātena\"",
+  "status": "confirmed"
  },
  "samputa": {
   "gloss": "enclosure arrangement",
-  "note": "draft final for owner confirm; b350 name incorporated via sampuṭa"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b350 name incorporated via sampuṭa",
+  "status": "confirmed"
  },
  "samskrtya": {
   "gloss": "having purified (indeclinable)",
-  "note": "draft final for owner confirm; b572 \"Saṃskṛtya dīkṣyo\""
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b572 \"Saṃskṛtya dīkṣyo\"",
+  "status": "confirmed"
  },
  "sasana": {
   "gloss": "teaching-system",
-  "note": "draft final for owner confirm; b55 verbatim gloss"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b55 verbatim gloss",
+  "status": "confirmed"
  },
  "satam": {
   "gloss": "a hundred",
-  "note": "draft final for owner confirm; b376 \"Śatam\" (counting)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b376 \"Śatam\" (counting)",
+  "status": "confirmed"
  },
  "siva-lingas": {
   "gloss": "Śiva-marks (not being removed!)",
-  "note": "draft final for owner confirm; b35 guru isn’t removing them"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b35 guru isn’t removing them",
+  "status": "confirmed"
  },
  "sivajnaya": {
   "gloss": "by Śiva’s command (instrumental)",
-  "note": "draft final for owner confirm; b456 verbatim gloss"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b456 verbatim gloss",
+  "status": "confirmed"
  },
  "sivikrte": {
   "gloss": "made into Śiva (locative, in fire)",
-  "note": "draft final for owner confirm; b316 \"śivīkṛte agnau\""
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b316 \"śivīkṛte agnau\"",
+  "status": "confirmed"
  },
  "snana": {
   "gloss": "bathing",
-  "note": "draft final for owner confirm; b259 \"Snāna — bathing\""
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b259 \"Snāna — bathing\"",
+  "status": "confirmed"
  },
  "snayat": {
   "gloss": "one should bathe",
-  "note": "draft final for owner confirm; b236 \"Tato’sau snāyāt\" (wash yourself)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b236 \"Tato’sau snāyāt\" (wash yourself)",
+  "status": "confirmed"
  },
  "sravita": {
   "gloss": "caused to hear",
-  "note": "draft final for owner confirm; b181 verbatim gloss"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b181 verbatim gloss",
+  "status": "confirmed"
  },
  "sthitah": {
   "gloss": "standing (plural; \"ye who...\")",
-  "note": "draft final for owner confirm; b68 \"Ye sthitāḥ\""
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b68 \"Ye sthitāḥ\"",
+  "status": "confirmed"
  },
  "suddhi": {
   "gloss": "purification",
-  "note": "draft final for owner confirm; b335 \"Śuddhi — purification\""
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b335 \"Śuddhi — purification\"",
+  "status": "confirmed"
  },
  "sudh": {
   "gloss": "to become pure (root + causative)",
-  "note": "draft final for owner confirm; b366 verb analysis"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b366 verb analysis",
+  "status": "confirmed"
  },
  "svaha": {
   "gloss": "hail! (hundred offerings end)",
-  "note": "draft final for owner confirm; b412 ending with svāhā"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b412 ending with svāhā",
+  "status": "confirmed"
  },
  "tadiya": {
   "gloss": "belonging to that person",
-  "note": "draft final for owner confirm; b179 verbatim gloss"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b179 verbatim gloss",
+  "status": "confirmed"
  },
  "tarpana": {
   "gloss": "ritual satisfaction",
-  "note": "draft final for owner confirm; b499 verbatim gloss"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b499 verbatim gloss",
+  "status": "confirmed"
  },
  "uddhara": {
   "gloss": "lifting out; releasing",
-  "note": "draft final for owner confirm; b37 verbatim gloss"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b37 verbatim gloss",
+  "status": "confirmed"
  },
  "unmukhikriyante": {
   "gloss": "are turned toward (passive)",
-  "note": "draft final for owner confirm; b105 \"unmukhīkriyante\""
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b105 \"unmukhīkriyante\"",
+  "status": "confirmed"
  },
  "upavasa": {
   "gloss": "fasting (remembered topic)",
-  "note": "draft final for owner confirm; b153 discussed upavāsa"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b153 discussed upavāsa",
+  "status": "confirmed"
  },
  "uttamasasanastha": {
   "gloss": "abiding in the highest teaching",
-  "note": "draft final for owner confirm; b85 \"Uttamaśāsanasthā api\""
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b85 \"Uttamaśāsanasthā api\"",
+  "status": "confirmed"
  },
  "vaisnava": {
   "gloss": "Vaiṣṇava (leave your gods?)",
-  "note": "draft final for owner confirm; b19 \"Perhaps you’re a Vaiṣṇava\""
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b19 \"Perhaps you’re a Vaiṣṇava\"",
+  "status": "confirmed"
  },
  "vausadantena": {
   "gloss": "ending with vauṣaṭ (instrumental)",
-  "note": "draft final for owner confirm; b402 oblation formula"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b402 oblation formula",
+  "status": "confirmed"
  },
  "vausat": {
   "gloss": "VAUṢAṬ (complete-oblation cry)",
-  "note": "draft final for owner confirm; b401 \"Vauṣaṭ!\""
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b401 \"Vauṣaṭ!\"",
+  "status": "confirmed"
  },
  "visnu": {
   "gloss": "Viṣṇu (tradition owner)",
-  "note": "draft final for owner confirm; b51 \"belonging to Viṣṇu\""
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b51 \"belonging to Viṣṇu\"",
+  "status": "confirmed"
  },
  "vratesvara": {
   "gloss": "lord of the vow (contract admin)",
-  "note": "draft final for owner confirm; b425 divine administrator"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b425 divine administrator",
+  "status": "confirmed"
  },
  "yada": {
   "gloss": "when",
-  "note": "draft final for owner confirm; b105 \"Yadā te śaktipātena\""
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b105 \"Yadā te śaktipātena\"",
+  "status": "confirmed"
  }
 }

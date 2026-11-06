@@ -1,6 +1,6 @@
 # Review — shiva s64
 
-109 blocks. Voices: granny=105, none=1, verse=3.
+110 blocks. Voices: granny=106, none=1, verse=3.
 Confirmed glossary terms (0): none.
 
 ## b_opener · opener · none · [opener]
@@ -21,420 +21,424 @@ Tatpravṛttāv apy anirāsaḥ saṃvettṛbhāvāt.
 
 ## b4 · narration · granny · [Śiva Sūtras 3.32]
 
-Even when those processes occur, there is no loss or disruption, because of the condition of being the conscious knower. / The Universe Can Disappear. You Haven’t.
+Even when those processes occur, there is no loss or disruption, because of the condition of being the conscious knower.
 
 ## b5 · narration · granny · [Śiva Sūtras 3.32]
 
-Now this is one of the deepest metaphysical statements in the entire text.
+The Universe Can Disappear. You Haven’t.
 
 ## b6 · narration · granny · [Śiva Sūtras 3.32]
 
-And we need to take it seriously.
+Now this is one of the deepest metaphysical statements in the entire text.
 
 ## b7 · narration · granny · [Śiva Sūtras 3.32]
 
-Because Kṣemarāja explicitly raises the objection.
+And we need to take it seriously.
 
 ## b8 · narration · granny · [Śiva Sūtras 3.32]
 
-Manifestation, maintenance and dissolution seem to be different states.
+Because Kṣemarāja explicitly raises the objection.
 
 ## b9 · narration · granny · [Śiva Sūtras 3.32]
 
-So if the yogi’s conscious nature is associated with all three, mustn’t that nature undergo corresponding changes?
+Manifestation, maintenance and dissolution seem to be different states.
 
 ## b10 · narration · granny · [Śiva Sūtras 3.32]
 
-And the answer is:
+So if the yogi’s conscious nature is associated with all three, mustn’t that nature undergo corresponding changes?
 
 ## b11 · narration · granny · [Śiva Sūtras 3.32]
 
-No.
+And the answer is:
 
 ## b12 · narration · granny · [Śiva Sūtras 3.32]
 
-Let’s unpack the Sanskrit.
+No.
 
 ## b13 · narration · granny · [Śiva Sūtras 3.32]
 
-Tat — those; referring to the preceding cosmic operations.
+Let’s unpack the Sanskrit.
 
 ## b14 · narration · granny · [Śiva Sūtras 3.32]
 
-Pravṛtti — activity, occurrence, operation.
+Tat — those; referring to the preceding cosmic operations.
 
 ## b15 · narration · granny · [Śiva Sūtras 3.32]
 
-Api — even.
+Pravṛtti — activity, occurrence, operation.
 
 ## b16 · narration · granny · [Śiva Sūtras 3.32]
 
-Anirāsaḥ — no disappearance, rejection, disruption or loss.
+Api — even.
 
 ## b17 · narration · granny · [Śiva Sūtras 3.32]
 
-Saṃvettṛ — the conscious knower, experiencer.
+Anirāsaḥ — no disappearance, rejection, disruption or loss.
 
 ## b18 · narration · granny · [Śiva Sūtras 3.32]
 
-Bhāvāt — because of the condition or nature of.
+Saṃvettṛ — the conscious knower, experiencer.
 
 ## b19 · narration · granny · [Śiva Sūtras 3.32]
 
-So:
+Bhāvāt — because of the condition or nature of.
 
 ## b20 · narration · granny · [Śiva Sūtras 3.32]
 
-Even when the processes of manifestation and withdrawal occur, the realised yogi’s fundamental conscious nature is not lost.
+So:
 
 ## b21 · narration · granny · [Śiva Sūtras 3.32]
 
-Why?
+Even when the processes of manifestation and withdrawal occur, the realised yogi’s fundamental conscious nature is not lost.
 
 ## b22 · narration · granny · [Śiva Sūtras 3.32]
 
-Because it is the reality of the knower.
+Why?
 
 ## b23 · narration · granny · [Śiva Sūtras 3.32]
 
-And here’s Kṣemarāja’s central argument.
+Because it is the reality of the knower.
 
 ## b24 · narration · granny · [Śiva Sūtras 3.32]
 
-Changes in what is known do not entail the disappearance of the knowing principle.
+And here’s Kṣemarāja’s central argument.
 
 ## b25 · narration · granny · [Śiva Sūtras 3.32]
 
-Imagine a theatre.
+Changes in what is known do not entail the disappearance of the knowing principle.
 
 ## b26 · narration · granny · [Śiva Sūtras 3.32]
 
-One scene shows a mountain.
+Imagine a theatre.
 
 ## b27 · narration · granny · [Śiva Sūtras 3.32]
 
-The next shows a palace.
+One scene shows a mountain.
 
 ## b28 · narration · granny · [Śiva Sūtras 3.32]
 
-The next shows a battlefield.
+The next shows a palace.
 
 ## b29 · narration · granny · [Śiva Sūtras 3.32]
 
-Then the stage goes dark.
+The next shows a battlefield.
 
 ## b30 · narration · granny · [Śiva Sūtras 3.32]
 
-All the scenes have changed.
+Then the stage goes dark.
 
 ## b31 · narration · granny · [Śiva Sūtras 3.32]
 
-But the fact that one scene ends does not mean the actor’s fundamental capacity to perform has ceased.
+All the scenes have changed.
 
 ## b32 · narration · granny · [Śiva Sūtras 3.32]
 
-Now, with Śiva we have to go further.
+But the fact that one scene ends does not mean the actor’s fundamental capacity to perform has ceased.
 
 ## b33 · narration · granny · [Śiva Sūtras 3.32]
 
-Because the conscious knower isn’t a finite actor standing outside the universe.
+Now, with Śiva we have to go further.
 
 ## b34 · narration · granny · [Śiva Sūtras 3.32]
 
-It is the luminous reality through which all these manifestations become possible.
+Because the conscious knower isn’t a finite actor standing outside the universe.
 
 ## b35 · narration · granny · [Śiva Sūtras 3.32]
 
-And Kṣemarāja describes that reality through:
+It is the luminous reality through which all these manifestations become possible.
 
 ## b36 · narration · granny · [Śiva Sūtras 3.32]
 
-Turya.
+And Kṣemarāja describes that reality through:
 
 ## b37 · narration · granny · [Śiva Sūtras 3.32]
 
+Turya.
+
+## b38 · narration · granny · [Śiva Sūtras 3.32]
+
 The fourth.
 
-## b38 · verse · verse · [Śiva Sūtras 3.32]
+## b39 · verse · verse · [Śiva Sūtras 3.32]
 
 Camatkāra.
 
-## b39 · narration · granny · [Śiva Sūtras 3.32]
+## b40 · narration · granny · [Śiva Sūtras 3.32]
 
 Astonishing delight.
 
-## b40 · verse · verse · [Śiva Sūtras 3.32]
+## b41 · verse · verse · [Śiva Sūtras 3.32]
 
 Vimarśa.
 
-## b41 · narration · granny · [Śiva Sūtras 3.32]
+## b42 · narration · granny · [Śiva Sūtras 3.32]
 
 Reflexive self-awareness.
 
-## b42 · narration · granny · [Śiva Sūtras 3.32]
+## b43 · narration · granny · [Śiva Sūtras 3.32]
 
 These are not three independent substances.
 
-## b43 · narration · granny · [Śiva Sūtras 3.32]
+## b44 · narration · granny · [Śiva Sūtras 3.32]
 
 They describe the self-revealing nature of consciousness in the tradition’s terminology.
 
-## b44 · narration · granny · [Śiva Sūtras 3.32]
+## b45 · narration · granny · [Śiva Sūtras 3.32]
 
 And the crucial point is that consciousness does not cease when a particular differentiated object disappears.
 
-## b45 · narration · granny · [Śiva Sūtras 3.32]
+## b46 · narration · granny · [Śiva Sūtras 3.32]
 
 Now Kṣemarāja brings in the Spandakārikā.
 
-## b46 · narration · granny · [Śiva Sūtras 3.32]
+## b47 · narration · granny · [Śiva Sūtras 3.32]
 
 And this is where the explanation becomes exceptionally beautiful.
 
-## b47 · narration · granny · [Śiva Sūtras 3.32]
+## b48 · narration · granny · [Śiva Sūtras 3.32]
 
 He distinguishes:
 
-## b48 · narration · granny · [Śiva Sūtras 3.32]
+## b49 · narration · granny · [Śiva Sūtras 3.32]
 
 Kāryatā — the condition of being an effect or product.
 
-## b49 · narration · granny · [Śiva Sūtras 3.32]
+## b50 · narration · granny · [Śiva Sūtras 3.32]
 
 Kartṛtva — the condition of agency.
 
-## b50 · narration · granny · [Śiva Sūtras 3.32]
+## b51 · narration · granny · [Śiva Sūtras 3.32]
 
 The realm of manifest products is perishable.
 
-## b51 · narration · granny · [Śiva Sūtras 3.32]
+## b52 · narration · granny · [Śiva Sūtras 3.32]
 
 The deeper power of agency is not understood as perishing in the same way.
 
-## b52 · narration · granny · [Śiva Sūtras 3.32]
+## b53 · narration · granny · [Śiva Sūtras 3.32]
 
 Now, this requires care.
 
-## b53 · narration · granny · [Śiva Sūtras 3.32]
+## b54 · narration · granny · [Śiva Sūtras 3.32]
 
 We’re not simply saying your personal ability to do things remains unchanged forever.
 
-## b54 · narration · granny · [Śiva Sūtras 3.32]
+## b55 · narration · granny · [Śiva Sūtras 3.32]
 
 Obviously it doesn’t.
 
-## b55 · narration · granny · [Śiva Sūtras 3.32]
+## b56 · narration · granny · [Śiva Sūtras 3.32]
 
 You can become tired.
 
-## b56 · narration · granny · [Śiva Sūtras 3.32]
+## b57 · narration · granny · [Śiva Sūtras 3.32]
 
 Ill.
 
-## b57 · narration · granny · [Śiva Sūtras 3.32]
+## b58 · narration · granny · [Śiva Sūtras 3.32]
 
 Old.
 
-## b58 · narration · granny · [Śiva Sūtras 3.32]
+## b59 · narration · granny · [Śiva Sūtras 3.32]
 
 Your physical capacities can change.
 
-## b59 · narration · granny · [Śiva Sūtras 3.32]
+## b60 · narration · granny · [Śiva Sūtras 3.32]
 
 The kartṛtva being described concerns the fundamental power of consciousness, not the abilities of the biological organism.
 
-## b60 · narration · granny · [Śiva Sūtras 3.32]
+## b61 · narration · granny · [Śiva Sūtras 3.32]
 
 And Kṣemarāja cites a passage from the Spandakārikā explaining a very subtle confusion.
 
-## b61 · narration · granny · [Śiva Sūtras 3.32]
+## b62 · narration · granny · [Śiva Sūtras 3.32]
 
 When an activity-oriented effort disappears, an ignorant person may conclude:
 
-## b62 · dialogue · granny · [Śiva Sūtras 3.32]
+## b63 · dialogue · granny · [Śiva Sūtras 3.32]
 
 “I have disappeared.”
 
-## b63 · narration · granny · [Śiva Sūtras 3.32]
+## b64 · narration · granny · [Śiva Sūtras 3.32]
 
 But the disappearance of a particular mental operation is not the disappearance of the conscious reality through which it was experienced.
 
-## b64 · narration · granny · [Śiva Sūtras 3.32]
+## b65 · narration · granny · [Śiva Sūtras 3.32]
 
 Think about this.
 
-## b65 · narration · granny · [Śiva Sūtras 3.32]
+## b66 · narration · granny · [Śiva Sūtras 3.32]
 
 A thought arises.
 
-## b66 · narration · granny · [Śiva Sūtras 3.32]
+## b67 · narration · granny · [Śiva Sūtras 3.32]
 
 You follow it.
 
-## b67 · narration · granny · [Śiva Sūtras 3.32]
+## b68 · narration · granny · [Śiva Sūtras 3.32]
 
 Then the thought ends.
 
-## b68 · narration · granny · [Śiva Sūtras 3.32]
+## b69 · narration · granny · [Śiva Sūtras 3.32]
 
 What happened?
 
-## b69 · narration · granny · [Śiva Sūtras 3.32]
+## b70 · narration · granny · [Śiva Sūtras 3.32]
 
 The thought disappeared.
 
-## b70 · narration · granny · [Śiva Sūtras 3.32]
+## b71 · narration · granny · [Śiva Sūtras 3.32]
 
 Did consciousness therefore disappear?
 
-## b71 · narration · granny · [Śiva Sūtras 3.32]
+## b72 · narration · granny · [Śiva Sūtras 3.32]
 
 From the Trika standpoint, no.
 
-## b72 · narration · granny · [Śiva Sūtras 3.32]
+## b73 · narration · granny · [Śiva Sūtras 3.32]
 
 Now another thought appears.
 
-## b73 · narration · granny · [Śiva Sūtras 3.32]
+## b74 · narration · granny · [Śiva Sūtras 3.32]
 
 A memory.
 
-## b74 · narration · granny · [Śiva Sūtras 3.32]
+## b75 · narration · granny · [Śiva Sūtras 3.32]
 
 A sensation.
 
-## b75 · narration · granny · [Śiva Sūtras 3.32]
+## b76 · narration · granny · [Śiva Sūtras 3.32]
 
 An emotion.
 
-## b76 · narration · granny · [Śiva Sūtras 3.32]
+## b77 · narration · granny · [Śiva Sūtras 3.32]
 
 Each is transient.
 
-## b77 · narration · granny · [Śiva Sūtras 3.32]
+## b78 · narration · granny · [Śiva Sūtras 3.32]
 
 But the very possibility of experiencing their arising and cessation belongs to the conscious reality.
 
-## b78 · narration · granny · [Śiva Sūtras 3.32]
+## b79 · narration · granny · [Śiva Sūtras 3.32]
 
 And here’s the crucial metaphysical distinction.
 
-## b79 · narration · granny · [Śiva Sūtras 3.32]
+## b80 · narration · granny · [Śiva Sūtras 3.32]
 
 Consciousness is not simply another object within the sequence of objects.
 
-## b80 · narration · granny · [Śiva Sūtras 3.32]
+## b81 · narration · granny · [Śiva Sūtras 3.32]
 
 If it were, we’d need another consciousness to know it.
 
-## b81 · narration · granny · [Śiva Sūtras 3.32]
+## b82 · narration · granny · [Śiva Sūtras 3.32]
 
 And then another to know that consciousness.
 
-## b82 · narration · granny · [Śiva Sūtras 3.32]
+## b83 · narration · granny · [Śiva Sūtras 3.32]
 
 And we’d have an absolutely catastrophic metaphysical staffing problem.
 
-## b83 · narration · granny · [Śiva Sūtras 3.32]
+## b84 · narration · granny · [Śiva Sūtras 3.32]
 
 An infinite sequence of observers.
 
-## b84 · narration · granny · [Śiva Sūtras 3.32]
+## b85 · narration · granny · [Śiva Sūtras 3.32]
 
 All requiring supervision.
 
-## b85 · narration · granny · [Śiva Sūtras 3.32]
+## b86 · narration · granny · [Śiva Sūtras 3.32]
 
 And nobody actually getting anything done.
 
-## b86 · narration · granny · [Śiva Sūtras 3.32]
+## b87 · narration · granny · [Śiva Sūtras 3.32]
 
 Instead, Trika treats consciousness as svaprakāśa — self-luminous.
 
-## b87 · narration · granny · [Śiva Sūtras 3.32]
+## b88 · narration · granny · [Śiva Sūtras 3.32]
 
 It is not known by a separate light.
 
-## b88 · narration · granny · [Śiva Sūtras 3.32]
+## b89 · narration · granny · [Śiva Sūtras 3.32]
 
 Its very nature is revealing.
 
-## b89 · narration · granny · [Śiva Sūtras 3.32]
+## b90 · narration · granny · [Śiva Sūtras 3.32]
 
 And Kṣemarāja makes precisely this point when explaining why the supreme conscious knower doesn’t undergo the disappearance associated with its manifest objects.
 
-## b90 · narration · granny · [Śiva Sūtras 3.32]
-
-He cites the Kālikākrama and Spandakārikā on the imperishable inner conscious nature beneath changing activity. Sanskrit & Trika Shaivism
-
 ## b91 · narration · granny · [Śiva Sūtras 3.32]
 
-Now this has a very interesting consequence.
+He cites the Kālikākrama and Spandakārikā on the imperishable inner conscious nature beneath changing activity. Sanskrit & Trika Shaivism.
 
 ## b92 · narration · granny · [Śiva Sūtras 3.32]
 
-The aim of liberation cannot simply be to produce a particular object or mental state that will last forever.
+Now this has a very interesting consequence.
 
 ## b93 · narration · granny · [Śiva Sūtras 3.32]
 
-Because the entire structure of objects belongs to changing manifestation.
+The aim of liberation cannot simply be to produce a particular object or mental state that will last forever.
 
 ## b94 · narration · granny · [Śiva Sūtras 3.32]
 
-Instead, liberation concerns recognition of the conscious reality that is not fundamentally exhausted by those changes.
+Because the entire structure of objects belongs to changing manifestation.
 
 ## b95 · narration · granny · [Śiva Sūtras 3.32]
 
-And this is where the teaching becomes extraordinarily elegant.
+Instead, liberation concerns recognition of the conscious reality that is not fundamentally exhausted by those changes.
 
 ## b96 · narration · granny · [Śiva Sūtras 3.32]
 
-The universe can manifest.
+And this is where the teaching becomes extraordinarily elegant.
 
 ## b97 · narration · granny · [Śiva Sūtras 3.32]
 
-It can persist.
+The universe can manifest.
 
 ## b98 · narration · granny · [Śiva Sūtras 3.32]
 
-It can dissolve.
+It can persist.
 
 ## b99 · narration · granny · [Śiva Sūtras 3.32]
 
-Thoughts can arise.
+It can dissolve.
 
 ## b100 · narration · granny · [Śiva Sūtras 3.32]
 
-Thoughts can disappear.
+Thoughts can arise.
 
 ## b101 · narration · granny · [Śiva Sūtras 3.32]
 
-Pleasure can arise.
+Thoughts can disappear.
 
 ## b102 · narration · granny · [Śiva Sūtras 3.32]
 
-Pain can arise.
+Pleasure can arise.
 
 ## b103 · narration · granny · [Śiva Sūtras 3.32]
 
-The body can change.
+Pain can arise.
 
 ## b104 · narration · granny · [Śiva Sūtras 3.32]
 
-But none of these changes independently determines the fundamental nature of consciousness.
+The body can change.
 
 ## b105 · narration · granny · [Śiva Sūtras 3.32]
 
-That is Kṣemarāja’s claim.
+But none of these changes independently determines the fundamental nature of consciousness.
 
 ## b106 · narration · granny · [Śiva Sūtras 3.32]
 
-And it brings us directly to the next sūtra.
+That is Kṣemarāja’s claim.
 
 ## b107 · narration · granny · [Śiva Sūtras 3.32]
 
-Because if pleasure and pain are changing contents of experience, what happens when the yogi stops identifying with them as the ultimate Self?
+And it brings us directly to the next sūtra.
 
 ## b108 · narration · granny · [Śiva Sūtras 3.32]
+
+Because if pleasure and pain are changing contents of experience, what happens when the yogi stops identifying with them as the ultimate Self?
+
+## b109 · narration · granny · [Śiva Sūtras 3.32]
 
 Oh, this one’s rather important.

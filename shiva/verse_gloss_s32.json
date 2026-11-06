@@ -3,8 +3,12 @@
   "deva": "विद्यासंहारे तदुत्थस्वप्नदर्शनम्",
   "iast": "Vidyāsaṃhāre tadutthasvapnadarśanam.",
   "literal": "When pure knowledge subsides, the dreamlike appearances arising from its fading become visible again.",
-  "status": "proposed",
+  "status": "confirmed",
   "chant": "b2",
-  "note": "author gloss line, owner bulk-confirms"
+  "note": "author gloss line, owner bulk-confirms | bulk-confirmed (owner blanket bless 2026-11-06; pairing audited by shared verse_match_key)",
+  "bids": [
+   "b125",
+   "b2"
+  ]
  }
 }

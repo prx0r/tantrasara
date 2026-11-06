@@ -4,12 +4,13 @@
    "b55"
   ],
   "match_key": "athaparoksasyadiksadvividhascasahmrtojivamscaathaparoksasyadiksadvividhascasahmrtojivamsca",
-  "match_score": 0.64,
+  "match_score": 0.96,
   "literal": "Now (atha) [is] of-absent-one (parokṣasya) initiation (dīkṣā) — twofold (dvividhā ca) [is] it (saḥ): dead (mṛtaḥ) and-living (jīvaṃś ca)",
   "final": "",
   "final_source": "none",
   "l4": null,
-  "status": "proposed"
+  "status": "confirmed",
+  "note": " | kept confirmed (ralph loop re-mine preserved prior confirm)"
  },
  "abhts_16.7": {
   "bids": [
@@ -28,23 +29,25 @@
    "b452"
   ],
   "match_key": "paramesvaraevahigurusariradhisthanadvarenanugrahyananugrhnatiparamesvaraevahigurusariradhisthanadvarenaanugrahyananugrhnati",
-  "match_score": 0.68,
+  "match_score": 0.98,
   "literal": "For-the-Lord-itself (parameśvaraḥ eva hi) through-teacher-body-abiding-door (guruśarīrādhiṣṭhānadvāreṇa) the-to-be-graced (anugrāhyān) graces (anugṛhṇāti)",
   "final": "",
   "final_source": "none",
   "l4": null,
-  "status": "proposed"
+  "status": "confirmed",
+  "note": " | kept confirmed (ralph loop re-mine preserved prior confirm)"
  },
  "abhts_16.16": {
   "bids": [
    "b565"
   ],
   "match_key": "atraparampurnahutyatasyadarbhadyakarasyaparatejasilayahkartavyahatraparampurnahutyatasyadarbhadyakarasyaparatejasilayahkartavyah",
-  "match_score": 0.67,
+  "match_score": 1.0,
   "literal": "Here (atra) [is] more (paraṃ) by-full- offering (pūrṇāhutyā) of-it (tasya) kuśa-and-rest-form (dārbhādyākārasya) in-supreme-glow-dissolution (paratejasi layaḥ) to-be-made (kartavyaḥ)",
   "final": "",
   "final_source": "none",
   "l4": null,
-  "status": "proposed"
+  "status": "confirmed",
+  "note": " | kept confirmed (ralph loop re-mine preserved prior confirm)"
  }
 }

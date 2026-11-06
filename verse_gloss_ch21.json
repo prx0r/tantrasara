@@ -9,7 +9,8 @@
   "final": "",
   "final_source": "none",
   "l4": null,
-  "status": "proposed"
+  "status": "confirmed",
+  "note": " | kept confirmed (ralph loop re-mine preserved prior confirm)"
  },
  "abhts_21.7": {
   "bids": [
@@ -28,7 +29,7 @@
    "b998"
   ],
   "match_key": "samvitprakasaparamarthatayayathaivabhatyamrsatyapitathetivivecayantahsantahsamastamayacitpratibhavimarsasaramsamasrayatasastramanuttaratmasamvitprakasaparamarthatayayathaiva",
-  "match_score": 0.55,
+  "match_score": 0.65,
   "literal": "As (saṃvitprakāśaparamārthatayā) as (yathaiva) shines (bhāti) grasps (āmṛśati) too (api) thus (tatheti) discriminating (vivecayantaḥ)",
   "final": "",
   "final_source": "none",
@@ -42,6 +43,18 @@
   "match_key": "saramsamasrayatasastramanuttaratma",
   "match_score": 0.66,
   "literal": "Good (santaḥ) all-made-consciousness- grasping-essence (samastamayacitpratibhāvimarśasāram) resort (samāśrayata) scripture (śāstram) unsurpassed-self (anuttarātma)",
+  "final": "",
+  "final_source": "none",
+  "l4": null,
+  "status": "proposed"
+ },
+ "abhts_21.12": {
+  "bids": [
+   "b1097"
+  ],
+  "match_key": "yathadrdhaprasiddhighatitevyavaharesarvostinihsankahtathabhavatijanottirnaprasiddhirudhyaparamasivahyathadrdhaprasiddhighatitevyavahare",
+  "match_score": 0.56,
+  "literal": "\"Own (nija) firm-success-gained (daḍhapasiddhighaṭite) in-business (vyavahāre) world (loka) is (asti) without-doubt (niḥśaṅkaḥ)\"",
   "final": "",
   "final_source": "none",
   "l4": null,

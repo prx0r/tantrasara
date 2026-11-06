@@ -1,38 +1,62 @@
-# Holds timeline
+# Holds timeline — planning view
 
-White is the default. Cards interrupt; white returns at section breaks,
-[long pause] beats, and dialogue entries. Proposed (unconfirmed) glosses
-do NOT render — their mentions play over white until confirmed.
+Complete storyboard-order event and term-mention plan; times are not measured.
+Confirmed mentions can appear as cards. Proposed mentions remain white.
+Use video metadata and proof frames to judge actual onsets and persistence.
 
-start: THUMBNAIL (opener image, bell + intro until first verse)
-b1: TITLE card
-b2: VERSE card (आत्मा चित्तम्)
-b3: TERM atma ( — ) [proposed — white until confirmed]
-b5: FIGURE card
-b9: FIGURE card
-b11: VERSE card (चैतन्यमात्मा।)
-b28: TERM atman ( — ) [proposed — white until confirmed]
-b31: TERM antahkarana ( — the internal instrument of cognition) [proposed — white until confirmed]
-b35: WHITE (tone break)
-b38: TERM ahamkara ( — ) [proposed — white until confirmed]
-b66: TERM anavadasa ( — ) [proposed — white until confirmed]
-b78: TERM samkoca ( — ) [proposed — white until confirmed]
-b93: TERM sivasutravimarsini ( — ) [proposed — white until confirmed]
-b93: TERM khecari ( — ) [proposed — white until confirmed]
-b93: TERM matrka ( — ) [proposed — white until confirmed]
-b95: TERM anavopaya ( — ) [proposed — white until confirmed]
-b96: TERM saivism ( — ) [proposed — white until confirmed]
-b97: VERSE card (नर्तक आत्मा।)
-b101: TERM rango ( — ) [proposed — white until confirmed]
-b101: TERM ntaratma ( — ) [proposed — white until confirmed]
-b104: TERM preksakanindriyani ( — ) [proposed — white until confirmed]
-b108: TITLE card
-b113: TERM sakti ( — ) [proposed — white until confirmed]
-b117: VERSE card (Āṇavopāya.)
-b122: TERM sambhavopaya ( — ) [proposed — white until confirmed]
-b123: TERM saktopaya ( — ) [proposed — white until confirmed]
-b128: TERM svatantrya ( — ) [proposed — white until confirmed]
-b149: TERM visargasvabhavyad ( — ) [proposed — white until confirmed]
-b149: TERM abahihsthites ( — ) [proposed — white until confirmed]
-b149: TERM tatsthitih ( — ) [proposed — white until confirmed]
-b149: TERM bijavadhanam ( — ) [proposed — white until confirmed]
+b_opener: thumbnail / opener
+b1: TITLE — Śiva Sūtras 3.1
+b1: TONE BREAK
+b2: VERSE — आत्मा चित्तम्
+b2 word 1: TERM atma ( — ) [PROPOSED — white]
+b3 word 1: TERM atma ( — ) [PROPOSED — white]
+b6: FIGURE — EXCUSE ME?
+b10: FIGURE — WHAT?
+b12: VERSE — चैतन्यमात्मा।
+b13 word 2: TERM atma ( — ) [PROPOSED — white]
+b17 word 1: TERM atma ( — ) [PROPOSED — white]
+b29 word 1: TERM atman ( — ) [PROPOSED — white]
+b32 word 5: TERM antahkarana ( — the internal instrument of cognition) [PROPOSED — white]
+b36: TONE BREAK
+b37: TONE BREAK
+b38: TONE BREAK
+b39 word 1: TERM ahamkara ( — ) [PROPOSED — white]
+b41: TONE BREAK
+b42: TONE BREAK
+b43: TONE BREAK
+b46: TONE BREAK
+b47: TONE BREAK
+b48: TONE BREAK
+b49: TONE BREAK
+b52 word 1: TERM ahamkara ( — ) [PROPOSED — white]
+b58: TONE BREAK
+b60: TONE BREAK
+b67 word 8: TERM anavadasa ( — ) [PROPOSED — white]
+b69 word 2: TERM atma ( — ) [PROPOSED — white]
+b71 word 1: TERM atma ( — ) [PROPOSED — white]
+b79 word 5: TERM samkoca ( — ) [PROPOSED — white]
+b94 word 19: TERM sivasutravimarsini ( — ) [PROPOSED — white]
+b94 word 27: TERM khecari ( — ) [PROPOSED — white]
+b94 word 28: TERM matrka ( — ) [PROPOSED — white]
+b96 word 3: TERM anavopaya ( — ) [PROPOSED — white]
+b97 word 34: TERM saivism ( — ) [PROPOSED — white]
+b98: VERSE — नर्तक आत्मा।
+b99 word 2: TERM atma ( — ) [PROPOSED — white]
+b101: VERSE — रङ्गोऽन्तरात्मा।.
+b102 word 1: TERM rango ( — ) [PROPOSED — white]
+b104: VERSE — प्रेक्षकाणीन्द्रियाणि।.
+b105 word 1: TERM preksakanindriyani ( — ) [PROPOSED — white]
+b109: SECTION CHANGE
+b109: TITLE — BOOK III — ĀṆAVOPĀYA
+b109: TONE BREAK
+b114 word 19: TERM sakti ( — ) [PROPOSED — white]
+b118: VERSE — Āṇavopāya.
+b118 word 1: TERM anavopaya ( — ) [PROPOSED — white]
+b123 word 1: TERM sambhavopaya ( — ) [PROPOSED — white]
+b124 word 1: TERM saktopaya ( — ) [PROPOSED — white]
+b129 word 5: TERM svatantrya ( — ) [PROPOSED — white]
+b133 word 1: TERM anavopaya ( — ) [PROPOSED — white]
+b150 word 21: TERM visargasvabhavyad ( — ) [PROPOSED — white]
+b150 word 22: TERM abahihsthites ( — ) [PROPOSED — white]
+b150 word 23: TERM tatsthitih ( — ) [PROPOSED — white]
+b150 word 25: TERM bijavadhanam ( — ) [PROPOSED — white]

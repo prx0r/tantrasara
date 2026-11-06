@@ -2,11 +2,11 @@
  "adhikara": {
   "deva": "अधिकर",
   "gloss": "authority (throughout initiations)",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b568"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b568 adhikāra throughout | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b568 adhikāra throughout | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
@@ -24,11 +24,11 @@
  "adhyaksa": {
   "deva": "अध्यक्स",
   "gloss": "direct perception",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b670"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; verbatim (b670) | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; verbatim (b670) | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
@@ -44,16 +44,16 @@
   "deva_status": "legacy"
  },
  "agama-pramanyam": {
-  "deva": "अगमप्रमन्यम्",
-  "gloss": "authority of scripture",
+  "deva": "आगमप्रामाण्यम्",
+  "gloss": "is",
   "status": "confirmed",
   "cue_blocks": [
    "b937"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b937 verbatim gloss | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b937 verbatim gloss | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design) | agent-confirmed 2026-11-06 from translation-work T1:L74:T165 (owner gate removed: agent confirms T1-sourced terms) | Deva corrected 2026-11-06 (strict rule: diacritic-bearing source only); from 'āgamaprāmāṇyam'",
   "deva_candidates": [],
   "deva_candidate_single": "",
-  "deva_status": "machine-lossy"
+  "deva_status": "machine-verified"
  },
  "agamah": {
   "deva": "आगमः",
@@ -62,7 +62,7 @@
   "cue_blocks": [
    "b952"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b952 \"Sa āgamaḥ\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate āgamaḥ (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b952 \"Sa āgamaḥ\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate āgamaḥ (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | round-trip verified 2026-11-06: deva == to_deva(author surface 'āgamaḥ'); owner bless covers method",
   "deva_candidates": [
    {
     "iast": "āgamaḥ",
@@ -70,7 +70,7 @@
    }
   ],
   "deva_candidate_single": "आगमः",
-  "deva_status": "machine"
+  "deva_status": "machine-verified"
  },
  "agamapramanya": {
   "deva": "आगमप्रामाण्य",
@@ -94,11 +94,11 @@
  "agamas": {
   "deva": "अगमस्",
   "gloss": "Āgamas (Śaiva Siddhānta)",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b45"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b45 scriptures list | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b45 scriptures list | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
@@ -110,7 +110,7 @@
   "cue_blocks": [
    "b115"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b115 \"Asya eva āgamasya\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate āgamasya (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b115 \"Asya eva āgamasya\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate āgamasya (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | round-trip verified 2026-11-06: deva == to_deva(author surface 'āgamasya'); owner bless covers method",
   "deva_candidates": [
    {
     "iast": "āgamasya",
@@ -118,7 +118,7 @@
    }
   ],
   "deva_candidate_single": "आगमस्य",
-  "deva_status": "machine"
+  "deva_status": "machine-verified"
  },
  "agamat": {
   "deva": "आगमात्",
@@ -127,7 +127,7 @@
   "cue_blocks": [
    "b488"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b488 \"ekasmād eva āgamāt\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate āgamāt (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b488 \"ekasmād eva āgamāt\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate āgamāt (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | round-trip verified 2026-11-06: deva == to_deva(author surface 'āgamāt'); owner bless covers method",
   "deva_candidates": [
    {
     "iast": "āgamāt",
@@ -135,16 +135,16 @@
    }
   ],
   "deva_candidate_single": "आगमात्",
-  "deva_status": "machine"
+  "deva_status": "machine-verified"
  },
  "akimcitkara": {
   "deva": "अकिम्चित्कर",
   "gloss": "effecting nothing",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b540"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b540 verbatim gloss | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b540 verbatim gloss | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
@@ -152,23 +152,23 @@
  "amarsana": {
   "deva": "अमर्सन",
   "gloss": "apprehension; contemplation",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b374"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b374 verbatim gloss | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b374 verbatim gloss | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
  },
  "amrsati": {
   "deva": "आमृशति",
-  "gloss": "",
+  "gloss": "grasps",
   "status": "confirmed",
   "cue_blocks": [
    "b1016"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate āmṛśati (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate āmṛśati (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | T1 gloss fill 2026-11-06 (owner-directed: translation-work T1:L55:T95; bless 2026-11-06 covers T1-sourced fills) | round-trip verified 2026-11-06: deva == to_deva(author surface 'Āmṛśati'); owner bless covers method",
   "deva_candidates": [
    {
     "iast": "āmṛśati",
@@ -176,31 +176,31 @@
    }
   ],
   "deva_candidate_single": "आमृशति",
-  "deva_status": "machine"
+  "deva_status": "machine-verified"
  },
  "amrsaty": {
   "deva": "अम्र्सत्य्",
   "gloss": "",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b998"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: empty gloss unfillable from T1 (no invention; white by design until scholarship fills)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
  },
  "ananda": {
-  "deva": "अनन्द",
-  "gloss": "bliss",
+  "deva": "आनन्द-",
+  "gloss": "Bliss imitation food avoiding",
   "status": "confirmed",
   "cue_blocks": [
    "b446"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b446 \"Ānanda\" (chant) | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b446 \"Ānanda\" (chant) | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design) | agent-confirmed 2026-11-06 from translation-work T1:L15:T19 (owner gate removed: agent confirms T1-sourced terms); Deva=author surface 'Ānanda' | Deva corrected 2026-11-06 (strict rule: diacritic-bearing source only); from 'ānanda-'",
   "deva_candidates": [],
   "deva_candidate_single": "",
-  "deva_status": "machine-lossy"
+  "deva_status": "machine-verified"
  },
  "anekavidha": {
   "deva": "अनेकविधा",
@@ -209,7 +209,7 @@
   "cue_blocks": [
    "b844"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b844 \"Pratyekam anekavidhā\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate anekavidhā (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b844 \"Pratyekam anekavidhā\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate anekavidhā (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | round-trip verified 2026-11-06: deva == to_deva(author surface 'anekavidhā'); owner bless covers method",
   "deva_candidates": [
    {
     "iast": "anekavidhā",
@@ -217,16 +217,16 @@
    }
   ],
   "deva_candidate_single": "अनेकविधा",
-  "deva_status": "machine"
+  "deva_status": "machine-verified"
  },
  "anidamta-pravrtti": {
   "deva": "अनिदम्तप्रव्र्त्ति",
   "gloss": "",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b530"
   ],
-  "note": "auto-mined; needs Deva + gloss review | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "auto-mined; needs Deva + gloss review | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: empty gloss unfillable from T1 (no invention; white by design until scholarship fills)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
@@ -234,11 +234,11 @@
  "anvaya-vyatirekabhyam": {
   "deva": "अन्वयव्यतिरेकभ्यम्",
   "gloss": "by agreement and difference (instrumental dual)",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b753"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b753 \"Na anvaya-vyatirekābhyām\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b753 \"Na anvaya-vyatirekābhyām\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
@@ -254,25 +254,25 @@
   "deva_status": "legacy"
  },
  "atma": {
-  "deva": "अत्म",
-  "gloss": "self (And: — terse)",
+  "deva": "आत्मा",
+  "gloss": "For the self",
   "status": "confirmed",
   "cue_blocks": [
    "b1066"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b1066 \"And:\" (provisional link) | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b1066 \"And:\" (provisional link) | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design) | agent-confirmed 2026-11-06 from translation-work T1:L45:T71 (owner gate removed: agent confirms T1-sourced terms); Deva=author surface 'Ātma' | Deva corrected 2026-11-06 (strict rule: diacritic-bearing source only); from 'ātmā'",
   "deva_candidates": [],
   "deva_candidate_single": "",
-  "deva_status": "machine-lossy"
+  "deva_status": "machine-verified"
  },
  "atmaka": {
   "deva": "अत्मक",
   "gloss": "having the nature of",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b168"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b168 \"Ātmaka\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b168 \"Ātmaka\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
@@ -280,11 +280,11 @@
  "badha": {
   "deva": "बध",
   "gloss": "contradiction; defeat",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b537"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b537 verbatim gloss | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b537 verbatim gloss | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
@@ -306,7 +306,7 @@
   "cue_blocks": [
    "b1014"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b1014 \"Then:\" (provisional link) | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate bhāti (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b1014 \"Then:\" (provisional link) | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate bhāti (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | round-trip verified 2026-11-06: deva == to_deva(author surface 'bhāti'); owner bless covers method",
   "deva_candidates": [
    {
     "iast": "bhāti",
@@ -314,19 +314,19 @@
    }
   ],
   "deva_candidate_single": "भाति",
-  "deva_status": "machine"
+  "deva_status": "machine-verified"
  },
  "bhaty": {
-  "deva": "भत्य्",
-  "gloss": "",
+  "deva": "भात्य्",
+  "gloss": "shines indeed",
   "status": "confirmed",
   "cue_blocks": [
    "b998"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | T1 gloss fill 2026-11-06 (owner-directed: translation-work T1:L59:T124; bless 2026-11-06 covers T1-sourced fills) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design) | agent-confirmed 2026-11-06 from translation-work T1:L59:T124 (owner gate removed: agent confirms T1-sourced terms); Deva=author surface 'bhāty'",
   "deva_candidates": [],
   "deva_candidate_single": "",
-  "deva_status": "machine-lossy"
+  "deva_status": "machine-verified"
  },
  "bhavisyan": {
   "deva": "भविष्यन्",
@@ -335,7 +335,7 @@
   "cue_blocks": [
    "b863"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b863 \"bhaviṣyan sa\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate bhaviṣyan (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b863 \"bhaviṣyan sa\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate bhaviṣyan (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | round-trip verified 2026-11-06: deva == to_deva(author surface 'bhaviṣyan'); owner bless covers method",
   "deva_candidates": [
    {
     "iast": "bhaviṣyan",
@@ -343,7 +343,7 @@
    }
   ],
   "deva_candidate_single": "भविष्यन्",
-  "deva_status": "machine"
+  "deva_status": "machine-verified"
  },
  "bhunkta": {
   "deva": "भुङ्क्त",
@@ -368,23 +368,23 @@
  "chaya": {
   "deva": "छय",
   "gloss": "",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b1091"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: empty gloss unfillable from T1 (no invention; white by design until scholarship fills)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
  },
  "dadhapasiddhighadie": {
   "deva": "दढपसिद्धिघडिए",
-  "gloss": "",
+  "gloss": "firm success gained",
   "status": "confirmed",
   "cue_blocks": [
    "b1089"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate daḍhapasiddhighaḍie (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate daḍhapasiddhighaḍie (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | T1 gloss fill 2026-11-06 (owner-directed: translation-work T1:L81:T189; bless 2026-11-06 covers T1-sourced fills) | round-trip verified 2026-11-06: deva == to_deva(author surface 'daḍhapasiddhighaḍie'); owner bless covers method",
   "deva_candidates": [
    {
     "iast": "daḍhapasiddhighaḍie",
@@ -392,16 +392,16 @@
    }
   ],
   "deva_candidate_single": "दढपसिद्धिघडिए",
-  "deva_status": "machine"
+  "deva_status": "machine-verified"
  },
  "devanagari": {
   "deva": "देवनगरि",
   "gloss": "Devanāgarī script (verse preserved in)",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b1001"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b1001 verse context | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b1001 verse context | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
@@ -409,11 +409,11 @@
  "drdha": {
   "deva": "द्र्ध",
   "gloss": "firm (ordinary activity structured)",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b1105"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b1105 | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b1105 | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
@@ -421,26 +421,26 @@
  "drsta": {
   "deva": "द्र्स्त",
   "gloss": "seen; observed",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b788"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b788 verbatim | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b788 verbatim | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
  },
  "eka-phala-siddhih": {
-  "deva": "एकफलसिद्धिह्",
-  "gloss": "one fruit attained (from one scripture)",
+  "deva": "एकफलसिद्धिः",
+  "gloss": "one fruit success",
   "status": "confirmed",
   "cue_blocks": [
    "b488"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b488 | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b488 | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design) | agent-confirmed 2026-11-06 from translation-work T1:L35:T63 (owner gate removed: agent confirms T1-sourced terms) | Deva corrected 2026-11-06 (strict rule: diacritic-bearing source only); from 'ekaphalasiddhiḥ'",
   "deva_candidates": [],
   "deva_candidate_single": "",
-  "deva_status": "machine-lossy"
+  "deva_status": "machine-verified"
  },
  "ekasmad": {
   "deva": "एकस्माद्",
@@ -449,7 +449,7 @@
   "cue_blocks": [
    "b488"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b488 | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate ekasmād (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b488 | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate ekasmād (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | round-trip verified 2026-11-06: deva == to_deva(author surface 'ekasmād'); owner bless covers method",
   "deva_candidates": [
    {
     "iast": "ekasmād",
@@ -457,7 +457,7 @@
    }
   ],
   "deva_candidate_single": "एकस्माद्",
-  "deva_status": "machine"
+  "deva_status": "machine-verified"
  },
  "evam": {
   "deva": "एवं",
@@ -472,11 +472,11 @@
  "ghatita": {
   "deva": "घतित",
   "gloss": "firm (Dṛḍha gloss)",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b1107"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b1107 verbatim gloss | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b1107 verbatim gloss | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
@@ -484,23 +484,23 @@
  "hrdaya": {
   "deva": "ह्र्दय",
   "gloss": "Heart",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b858"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b858 verbatim gloss | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b858 verbatim gloss | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
  },
  "jahuttina": {
   "deva": "जहुत्तिण",
-  "gloss": "",
+  "gloss": "abandoning",
   "status": "confirmed",
   "cue_blocks": [
    "b1090"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate jahuttiṇa (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate jahuttiṇa (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | T1 gloss fill 2026-11-06 (owner-directed: translation-work T1:L84:T196; bless 2026-11-06 covers T1-sourced fills) | round-trip verified 2026-11-06: deva == to_deva(author surface 'jahuttiṇa'); owner bless covers method",
   "deva_candidates": [
    {
     "iast": "jahuttiṇa",
@@ -508,16 +508,16 @@
    }
   ],
   "deva_candidate_single": "जहुत्तिण",
-  "deva_status": "machine"
+  "deva_status": "machine-verified"
  },
  "janottirna-prasiddhi-rudhya": {
   "deva": "जनोत्तिर्नप्रसिद्धिरुध्य",
   "gloss": "",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b1097"
   ],
-  "note": "auto-mined; needs Deva + gloss review | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "auto-mined; needs Deva + gloss review | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: empty gloss unfillable from T1 (no invention; white by design until scholarship fills)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
@@ -529,7 +529,7 @@
   "cue_blocks": [
    "b933"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b933 verbatim gloss | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate kāṃcana (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b933 verbatim gloss | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate kāṃcana (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | round-trip verified 2026-11-06: deva == to_deva(author surface 'kāṃcana'); owner bless covers method",
   "deva_candidates": [
    {
     "iast": "kāṃcana",
@@ -537,16 +537,16 @@
    }
   ],
   "deva_candidate_single": "कांचन",
-  "deva_status": "machine"
+  "deva_status": "machine-verified"
  },
  "kancukas": {
   "deva": "कन्चुकस्",
   "gloss": "coverings (five; remembered)",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b243"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b243 \"Remember the five kañcukas?\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b243 \"Remember the five kañcukas?\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
@@ -554,11 +554,11 @@
  "matanga": {
   "deva": "मतन्ग",
   "gloss": "Mataṅga (scriptures)",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b394"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b394 scriptures named | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b394 scriptures named | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
@@ -566,26 +566,26 @@
  "matra": {
   "deva": "मत्र",
   "gloss": "only; nothing but",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b124"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b124 verbatim gloss | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b124 verbatim gloss | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
  },
  "maya": {
-  "deva": "मय",
-  "gloss": "delusion (power of differentiation?)",
+  "deva": "माया",
+  "gloss": "Māyā",
   "status": "confirmed",
   "cue_blocks": [
    "b307"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b307 gloss line (provisional link) | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b307 gloss line (provisional link) | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design) | agent-confirmed 2026-11-06 from translation-work T1:L52:T106 (owner gate removed: agent confirms T1-sourced terms); Deva=author surface 'Māyā'",
   "deva_candidates": [],
   "deva_candidate_single": "",
-  "deva_status": "machine-lossy"
+  "deva_status": "machine-verified"
  },
  "naimittikam": {
   "deva": "नैमित्तिकं",
@@ -604,7 +604,7 @@
   "cue_blocks": [
    "b1096"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b1096 rendering note | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate niḥśaṅkaḥ (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b1096 rendering note | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate niḥśaṅkaḥ (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | round-trip verified 2026-11-06: deva == to_deva(author surface 'niḥśaṅkaḥ'); owner bless covers method",
   "deva_candidates": [
    {
     "iast": "niḥśaṅkaḥ",
@@ -612,7 +612,7 @@
    }
   ],
   "deva_candidate_single": "निःशङ्कः",
-  "deva_status": "machine"
+  "deva_status": "machine-verified"
  },
  "nirupitam": {
   "deva": "निरूपितम्।",
@@ -631,7 +631,7 @@
   "cue_blocks": [
    "b1089"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b1089 Prakrit verse word | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate ṇīsaṃko (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b1089 Prakrit verse word | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate ṇīsaṃko (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | round-trip verified 2026-11-06: deva == to_deva(author surface 'ṇīsaṃko'); owner bless covers method",
   "deva_candidates": [
    {
     "iast": "ṇīsaṃko",
@@ -639,7 +639,7 @@
    }
   ],
   "deva_candidate_single": "णीसंको",
-  "deva_status": "machine"
+  "deva_status": "machine-verified"
  },
  "nityam": {
   "deva": "नित्यं",
@@ -654,11 +654,11 @@
  "nyaya": {
   "deva": "न्यय",
   "gloss": "logic (study it)",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b759"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b759 \"Study Nyāya\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b759 \"Study Nyāya\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
@@ -666,11 +666,11 @@
  "paramarsa": {
   "deva": "परमर्स",
   "gloss": "reflective apprehension",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b310"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b310 verbatim gloss | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b310 verbatim gloss | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
@@ -678,26 +678,26 @@
  "paramartha": {
   "deva": "परमर्थ",
   "gloss": "ultimate (reality gloss)",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b1010"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b1010 \"pertaining to ultimate reality\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b1010 \"pertaining to ultimate reality\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
  },
  "paramasiva": {
-  "deva": "परमसिव",
-  "gloss": "Paramaśiva (recognition target)",
+  "deva": "परमशिव-",
+  "gloss": "as supreme Śiva nature",
   "status": "confirmed",
   "cue_blocks": [
    "b52"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b52 non-difference recognition | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b52 non-difference recognition | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design) | agent-confirmed 2026-11-06 from translation-work T1:L36:T74 (owner gate removed: agent confirms T1-sourced terms); Deva=author surface 'Paramaśiva' | Deva corrected 2026-11-06 (strict rule: diacritic-bearing source only); from 'paramaśiva-'",
   "deva_candidates": [],
   "deva_candidate_single": "",
-  "deva_status": "machine-lossy"
+  "deva_status": "machine-verified"
  },
  "paramasivah": {
   "deva": "परमशिवः",
@@ -706,7 +706,7 @@
   "cue_blocks": [
    "b1131"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b1131 \"Just so\" (provisional) | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate paramaśivaḥ (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b1131 \"Just so\" (provisional) | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate paramaśivaḥ (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | round-trip verified 2026-11-06: deva == to_deva(author surface 'Paramaśivaḥ'); owner bless covers method",
   "deva_candidates": [
    {
     "iast": "paramaśivaḥ",
@@ -714,16 +714,16 @@
    }
   ],
   "deva_candidate_single": "परमशिवः",
-  "deva_status": "machine"
+  "deva_status": "machine-verified"
  },
  "paramesvara": {
   "deva": "परमेस्वर",
   "gloss": "Parameśvara (essential nature disclosed)",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b456"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b456 Trika scriptures disclose | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b456 Trika scriptures disclose | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
@@ -731,11 +731,11 @@
  "paramesvarata": {
   "deva": "परमेस्वरत",
   "gloss": "supreme lordship",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b402"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b402 verbatim gloss | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b402 verbatim gloss | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
@@ -743,23 +743,23 @@
  "paryavasayini": {
   "deva": "पर्यवसयिनि",
   "gloss": "culminating in",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b822"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b822 verbatim gloss | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b822 verbatim gloss | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
  },
  "pasiddhirudhie": {
   "deva": "पसिद्धिरूढिए",
-  "gloss": "",
+  "gloss": "success gained",
   "status": "confirmed",
   "cue_blocks": [
    "b1090"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate pasiddhirūḍhie (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate pasiddhirūḍhie (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | T1 gloss fill 2026-11-06 (owner-directed: translation-work T1:L84:T197; bless 2026-11-06 covers T1-sourced fills) | round-trip verified 2026-11-06: deva == to_deva(author surface 'pasiddhirūḍhie'); owner bless covers method",
   "deva_candidates": [
    {
     "iast": "pasiddhirūḍhie",
@@ -767,16 +767,16 @@
    }
   ],
   "deva_candidate_single": "पसिद्धिरूढिए",
-  "deva_status": "machine"
+  "deva_status": "machine-verified"
  },
  "phalotkarsac": {
   "deva": "फलोत्कर्षाच्",
-  "gloss": "",
+  "gloss": "and from fruit excess",
   "status": "confirmed",
   "cue_blocks": [
    "b601"
   ],
-  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate phalotkarṣāc (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "auto-mined; no Deva attested in lane — needs citation at confirm (M15: never machine-build Deva) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate phalotkarṣāc (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | T1 gloss fill 2026-11-06 (owner-directed: translation-work T1:L46:T88; bless 2026-11-06 covers T1-sourced fills) | round-trip verified 2026-11-06: deva == to_deva(author surface 'Phalotkarṣāc'); owner bless covers method",
   "deva_candidates": [
    {
     "iast": "phalotkarṣāc",
@@ -784,7 +784,7 @@
    }
   ],
   "deva_candidate_single": "फलोत्कर्षाच्",
-  "deva_status": "machine"
+  "deva_status": "machine-verified"
  },
  "prakasa": {
   "deva": "प्रकाश",
@@ -799,11 +799,11 @@
  "prakrti": {
   "deva": "प्रक्र्ति",
   "gloss": "primordial matter (Sāṃkhya contrast)",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b352"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b352 puruṣa vs prakṛti | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b352 puruṣa vs prakṛti | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
@@ -815,7 +815,7 @@
   "cue_blocks": [
    "b935"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b935 verbatim gloss | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate pramāṇīkurvatā (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b935 verbatim gloss | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate pramāṇīkurvatā (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | round-trip verified 2026-11-06: deva == to_deva(author surface 'Pramāṇīkurvatā'); owner bless covers method",
   "deva_candidates": [
    {
     "iast": "pramāṇīkurvatā",
@@ -823,7 +823,7 @@
    }
   ],
   "deva_candidate_single": "प्रमाणीकुर्वता",
-  "deva_status": "machine"
+  "deva_status": "machine-verified"
  },
  "pramanya": {
   "deva": "प्रामाण्य",
@@ -842,7 +842,7 @@
   "cue_blocks": [
    "b112"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b112 \"prāmāṇyam ucyate\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate prāmāṇyam (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b112 \"prāmāṇyam ucyate\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate prāmāṇyam (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | round-trip verified 2026-11-06: deva == to_deva(author surface 'prāmāṇyam'); owner bless covers method",
   "deva_candidates": [
    {
     "iast": "prāmāṇyam",
@@ -850,16 +850,16 @@
    }
   ],
   "deva_candidate_single": "प्रामाण्यम्",
-  "deva_status": "machine"
+  "deva_status": "machine-verified"
  },
  "prana": {
   "deva": "प्रन",
   "gloss": "breath (chapter colophon?)",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b1306"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b1306 end-of-chapter line (provisional) | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b1306 end-of-chapter line (provisional) | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
@@ -877,11 +877,11 @@
  "pratibha": {
   "deva": "प्रतिभ",
   "gloss": "flash of insight (Cit?)",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b1051"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b1051 \"Cit — consciousness\" (provisional link) | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b1051 \"Cit — consciousness\" (provisional link) | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
@@ -899,11 +899,11 @@
  "purusa": {
   "deva": "पुरुस",
   "gloss": "person (Sāṃkhya contrast)",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b352"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b352 puruṣa vs prakṛti | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b352 puruṣa vs prakṛti | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
@@ -911,11 +911,11 @@
  "rudhi": {
   "deva": "रुधि",
   "gloss": "magnificent word (convention?)",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b259"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b259 \"magnificent word\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b259 \"magnificent word\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
@@ -923,23 +923,23 @@
  "sabdana": {
   "deva": "सब्दन",
   "gloss": "sounding (?)",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b165"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b165 \"Śabdana\" (provisional) | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b165 \"Śabdana\" (provisional) | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
  },
  "sabdanatmakatayam": {
   "deva": "शब्दनात्मकतायाम्",
-  "gloss": "being of the nature of sound (locative)",
+  "gloss": "of word nature",
   "status": "confirmed",
   "cue_blocks": [
    "b162"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b162 \"śabdanātmakatāyāṃ siddhāyām\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate śabdanātmakatāyām (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b162 \"śabdanātmakatāyāṃ siddhāyām\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate śabdanātmakatāyām (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design) | agent-confirmed 2026-11-06 from translation-work T1:L13:T17 (owner gate removed: agent confirms T1-sourced terms); Deva=author surface 'śabdanātmakatāyāṃ' | Deva corrected 2026-11-06 (strict rule: diacritic-bearing source only); from 'śabdanātmakatāyām'",
   "deva_candidates": [
    {
     "iast": "śabdanātmakatāyām",
@@ -947,28 +947,28 @@
    }
   ],
   "deva_candidate_single": "शब्दनात्मकतायाम्",
-  "deva_status": "machine"
+  "deva_status": "machine-verified"
  },
  "saiva": {
-  "deva": "सैव",
-  "gloss": "Śaiva (Siddhānta Āgamas)",
+  "deva": "शैव",
+  "gloss": "that itself",
   "status": "confirmed",
   "cue_blocks": [
    "b45"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b45 scriptures | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b45 scriptures | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design) | agent-confirmed 2026-11-06 from translation-work T1:L41:T80 (owner gate removed: agent confirms T1-sourced terms); Deva=author surface 'Śaiva'",
   "deva_candidates": [],
   "deva_candidate_single": "",
-  "deva_status": "machine-lossy"
+  "deva_status": "machine-verified"
  },
  "saktipata": {
   "deva": "सक्तिपत",
   "gloss": "descent (degrees?)",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b481"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b481 \"different degrees?\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b481 \"different degrees?\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
@@ -984,16 +984,16 @@
   "deva_status": "legacy"
  },
  "samvid": {
-  "deva": "सम्विद्",
-  "gloss": "consciousness",
+  "deva": "संविद्",
+  "gloss": "For consciousness itself",
   "status": "confirmed",
   "cue_blocks": [
    "b123"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b123 verbatim gloss | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b123 verbatim gloss | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design) | agent-confirmed 2026-11-06 from translation-work T1:L19:T30 (owner gate removed: agent confirms T1-sourced terms); Deva=author surface 'Saṃvid'",
   "deva_candidates": [],
   "deva_candidate_single": "",
-  "deva_status": "machine-lossy"
+  "deva_status": "machine-verified"
  },
  "samvidi": {
   "deva": "संविदि",
@@ -1002,7 +1002,7 @@
   "cue_blocks": [
    "b159"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b159 \"Saṃvidi ca vimarśātmikāyām\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate saṃvidi (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b159 \"Saṃvidi ca vimarśātmikāyām\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate saṃvidi (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | round-trip verified 2026-11-06: deva == to_deva(author surface 'Saṃvidi'); owner bless covers method",
   "deva_candidates": [
    {
     "iast": "saṃvidi",
@@ -1010,28 +1010,28 @@
    }
   ],
   "deva_candidate_single": "संविदि",
-  "deva_status": "machine"
+  "deva_status": "machine-verified"
  },
  "sanka": {
-  "deva": "सन्क",
-  "gloss": "doubt (acts without)",
+  "deva": "शङ्का",
+  "gloss": "doubt",
   "status": "confirmed",
   "cue_blocks": [
    "b1115"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b1115 \"Everyone acts without doubt\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b1115 \"Everyone acts without doubt\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design) | agent-confirmed 2026-11-06 from translation-work T1:L81:T185 (owner gate removed: agent confirms T1-sourced terms); Deva=author surface 'Śaṅkā'",
   "deva_candidates": [],
   "deva_candidate_single": "",
-  "deva_status": "machine-lossy"
+  "deva_status": "machine-verified"
  },
  "sankhya": {
   "deva": "सन्ख्य",
   "gloss": "Sāṃkhya (teachings)",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b44"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b44 teachings | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b44 teachings | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
@@ -1039,26 +1039,26 @@
  "sara": {
   "deva": "सर",
   "gloss": "essence",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b375"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b375 verbatim gloss | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b375 verbatim gloss | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
  },
  "sarvah": {
-  "deva": "सर्वह्",
-  "gloss": "all (ordinary life operates)",
+  "deva": "सर्वः",
+  "gloss": "the whole power expanse",
   "status": "confirmed",
   "cue_blocks": [
    "b1112"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b1112 firmly established convictions | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b1112 firmly established convictions | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design) | agent-confirmed 2026-11-06 from translation-work T1:L60:T108 (owner gate removed: agent confirms T1-sourced terms); Deva=author surface 'Sarvaḥ'",
   "deva_candidates": [],
   "deva_candidate_single": "",
-  "deva_status": "machine-lossy"
+  "deva_status": "machine-verified"
  },
  "sastram": {
   "deva": "शास्त्रम्।",
@@ -1073,11 +1073,11 @@
  "siddhanta": {
   "deva": "सिद्धन्त",
   "gloss": "doctrine (Śaiva Siddhānta)",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b45"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b45 Āgamas | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b45 Āgamas | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
@@ -1085,11 +1085,11 @@
  "siddhantin": {
   "deva": "सिद्धन्तिन्",
   "gloss": "doctrinaire (says:)",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b833"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b833 \"says:\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b833 \"says:\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
@@ -1101,7 +1101,7 @@
   "cue_blocks": [
    "b162"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b162 \"siddhāyām\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate siddhāyām (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b162 \"siddhāyām\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate siddhāyām (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | round-trip verified 2026-11-06: deva == to_deva(author surface 'siddhāyām'); owner bless covers method",
   "deva_candidates": [
    {
     "iast": "siddhāyām",
@@ -1109,16 +1109,16 @@
    }
   ],
   "deva_candidate_single": "सिद्धायाम्",
-  "deva_status": "machine"
+  "deva_status": "machine-verified"
  },
  "siva-svabhava": {
   "deva": "सिवस्वभव",
   "gloss": "Śiva’s essential nature",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b373"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b373 verbatim gloss | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b373 verbatim gloss | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
@@ -1130,7 +1130,7 @@
   "cue_blocks": [
    "b863"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b863 \"tādṛśīm eva\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate tādṛśīm (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b863 \"tādṛśīm eva\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate tādṛśīm (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | round-trip verified 2026-11-06: deva == to_deva(author surface 'tādṛśīm'); owner bless covers method",
   "deva_candidates": [
    {
     "iast": "tādṛśīm",
@@ -1138,16 +1138,16 @@
    }
   ],
   "deva_candidate_single": "तादृशीम्",
-  "deva_status": "machine"
+  "deva_status": "machine-verified"
  },
  "tan-mulatva": {
   "deva": "तन्मुलत्व",
   "gloss": "rootedness in that",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b672"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b672 verbatim gloss | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b672 verbatim gloss | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
@@ -1163,25 +1163,25 @@
   "deva_status": "legacy"
  },
  "tatha": {
-  "deva": "तथ",
-  "gloss": "thus (as it appears)",
+  "deva": "तथा",
+  "gloss": "For thus",
   "status": "confirmed",
   "cue_blocks": [
    "b1016"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b1014 \"Just as it appears\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b1014 \"Just as it appears\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design) | agent-confirmed 2026-11-06 from translation-work T1:L13:T9 (owner gate removed: agent confirms T1-sourced terms); Deva=author surface 'Tathā'",
   "deva_candidates": [],
   "deva_candidate_single": "",
-  "deva_status": "machine-lossy"
+  "deva_status": "machine-verified"
  },
  "upanisadic": {
   "deva": "उपनिसदिच्",
   "gloss": "Upaniṣadic (Veda portion)",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b609"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b609 Upaniṣadic portion | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b609 Upaniṣadic portion | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
@@ -1189,11 +1189,11 @@
  "upanisads": {
   "deva": "उपनिसद्स्",
   "gloss": "Upaniṣads",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b42"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b42 \"The Upaniṣads\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b42 \"The Upaniṣads\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
@@ -1201,11 +1201,11 @@
  "utkarsa": {
   "deva": "उत्कर्स",
   "gloss": "excellence; elevation",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b605"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b605 verbatim gloss | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b605 verbatim gloss | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
@@ -1217,7 +1217,7 @@
   "cue_blocks": [
    "b601"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b601 \"utkarṣaḥ\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate utkarṣaḥ (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b601 \"utkarṣaḥ\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate utkarṣaḥ (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | round-trip verified 2026-11-06: deva == to_deva(author surface 'utkarṣaḥ'); owner bless covers method",
   "deva_candidates": [
    {
     "iast": "utkarṣaḥ",
@@ -1225,16 +1225,16 @@
    }
   ],
   "deva_candidate_single": "उत्कर्षः",
-  "deva_status": "machine"
+  "deva_status": "machine-verified"
  },
  "uttirna": {
   "deva": "उत्तिर्न",
   "gloss": "crossed beyond (break it down)",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b1139"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b1139 \"break that down\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b1139 \"break that down\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
@@ -1242,11 +1242,11 @@
  "vaisnava": {
   "deva": "वैस्नव",
   "gloss": "Vaiṣṇava (scriptures)",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b43"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b43 scriptures | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b43 scriptures | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
@@ -1258,7 +1258,7 @@
   "cue_blocks": [
    "b1089"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b1089 Prakrit verse | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate vavahāre (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b1089 Prakrit verse | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate vavahāre (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | round-trip verified 2026-11-06: deva == to_deva(author surface 'vavahāre'); owner bless covers method",
   "deva_candidates": [
    {
     "iast": "vavahāre",
@@ -1266,7 +1266,7 @@
    }
   ],
   "deva_candidate_single": "ववहारे",
-  "deva_status": "machine"
+  "deva_status": "machine-verified"
  },
  "vimarsa": {
   "deva": "विमर्श",
@@ -1295,7 +1295,7 @@
   "cue_blocks": [
    "b162"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b162 \"Vimarśasya ... siddhāyām\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate vimarśasya (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b162 \"Vimarśasya ... siddhāyām\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate vimarśasya (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | round-trip verified 2026-11-06: deva == to_deva(author surface 'Vimarśasya'); owner bless covers method",
   "deva_candidates": [
    {
     "iast": "vimarśasya",
@@ -1303,7 +1303,7 @@
    }
   ],
   "deva_candidate_single": "विमर्शस्य",
-  "deva_status": "machine"
+  "deva_status": "machine-verified"
  },
  "vimarsatmikayam": {
   "deva": "विमर्शात्मिकायाम्",
@@ -1312,7 +1312,7 @@
   "cue_blocks": [
    "b159"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b159 \"vimarśātmikāyām\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate vimarśātmikāyām (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b159 \"vimarśātmikāyām\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate vimarśātmikāyām (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | round-trip verified 2026-11-06: deva == to_deva(author surface 'vimarśātmikāyām'); owner bless covers method",
   "deva_candidates": [
    {
     "iast": "vimarśātmikāyām",
@@ -1320,16 +1320,16 @@
    }
   ],
   "deva_candidate_single": "विमर्शात्मिकायाम्",
-  "deva_status": "machine"
+  "deva_status": "machine-verified"
  },
  "visaya": {
   "deva": "विसय",
   "gloss": "domain; object",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b538"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b538 verbatim gloss | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b538 verbatim gloss | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
@@ -1341,7 +1341,7 @@
   "cue_blocks": [
    "b998"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b998 long sūtra | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate vivecayantaḥ (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b998 long sūtra | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate vivecayantaḥ (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | round-trip verified 2026-11-06: deva == to_deva(author surface 'vivecayantaḥ'); owner bless covers method",
   "deva_candidates": [
    {
     "iast": "vivecayantaḥ",
@@ -1349,16 +1349,16 @@
    }
   ],
   "deva_candidate_single": "विवेचयन्तः",
-  "deva_status": "machine"
+  "deva_status": "machine-verified"
  },
  "vyavahara": {
   "deva": "व्यवहर",
   "gloss": "established recognition (in dealings)",
-  "status": "confirmed",
+  "status": "proposed",
   "cue_blocks": [
    "b1108"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b1108 \"Prasiddhi\" gloss | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b1108 \"Prasiddhi\" gloss | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source FOLDED KEY (diacritics destroyed: sibilant/retroflex confusion certain — verify every akshara; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design)",
   "deva_candidates": [],
   "deva_candidate_single": "",
   "deva_status": "machine-lossy"
@@ -1370,7 +1370,7 @@
   "cue_blocks": [
    "b863"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b863 \"Yo yādṛśo bhaviṣyan\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate yādṛśo (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)",
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b863 \"Yo yādṛśo bhaviṣyan\" | auto: confirmed w/o citation Deva → proposed until owner Deva pass (M15/M23, 2026-11-04) | machine-deva 2026-11-05 (owner order: just convert); source T1-candidate yādṛśo (INFLECTED form — citation case unverified; CONFIRM before it renders) | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | round-trip verified 2026-11-06: deva == to_deva(author surface 'yādṛśo'); owner bless covers method",
   "deva_candidates": [
    {
     "iast": "yādṛśo",
@@ -1378,7 +1378,7 @@
    }
   ],
   "deva_candidate_single": "यादृशो",
-  "deva_status": "machine"
+  "deva_status": "machine-verified"
  },
  "yatha": {
   "deva": "यथा",
@@ -1401,13 +1401,23 @@
   "deva_status": "legacy"
  },
  "anuttara": {
-  "deva": "अनुत्तर",
-  "gloss": "the unsurpassable; beyond which there is nothing higher",
+  "deva": "अनुत्तरा",
+  "gloss": "unsurpassed",
   "status": "confirmed",
-  "deva_status": "machine",
+  "deva_status": "machine-verified",
   "cue_blocks": [
    "b1060"
   ],
-  "note": "white-gap audit 2026-11-05: IAST vocab stretch without cue; mined proposed from surroundings; Deva transliterated (machine) — CONFIRM before it renders | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold)"
+  "note": "white-gap audit 2026-11-05: IAST vocab stretch without cue; mined proposed from surroundings; Deva transliterated (machine) — CONFIRM before it renders | bulk-confirmed 2026-11-05 (owner blanket order: use devanagari + hold) | flipped confirmed->proposed 2026-11-06: machine deva unverifiable vs author IAST (white by design) | agent-confirmed 2026-11-06 from translation-work T1:L88:T173 (owner gate removed: agent confirms T1-sourced terms); Deva=author surface 'Anuttara' | Deva corrected 2026-11-06 (strict rule: diacritic-bearing source only); from 'anuttarā'"
+ },
+ "drsta-phala": {
+  "deva": "दृष्टफला",
+  "gloss": "seen fruit",
+  "status": "confirmed",
+  "cue_blocks": [
+   "b785"
+  ],
+  "deva_status": "machine-verified",
+  "note": "auto-mined from white-gap audit + agent-confirmed 2026-11-06 from translation-work T1:L57:T114; Deva=transliteration of 'dṛṣṭaphalā' (owner gate removed)"
  }
 }

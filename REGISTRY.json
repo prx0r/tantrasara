@@ -1,0 +1,331 @@
+{
+  "goal": "render each tantrasara chapter validated exactly the known way (RUNTIME routine, GATES green, approval, render, verify, qwen, ears, seal)",
+  "locks": {},
+  "tantrasara": {
+    "01": {
+      "stage": "video-needs-review",
+      "video": "ch01_full_v3.mp4 (pre-crisp, superseded)",
+      "verify": "ok (pre-crisp)",
+      "unverified_video_present": true
+    },
+    "02": {
+      "stage": "video-needs-review",
+      "verify": "ok",
+      "unverified_video_present": true
+    },
+    "03": {
+      "stage": "video-needs-review",
+      "unverified_video_present": true
+    },
+    "04": {
+      "stage": "video-needs-review",
+      "unverified_video_present": true
+    },
+    "05": {
+      "stage": "video-needs-review",
+      "unverified_video_present": true
+    },
+    "06": {
+      "stage": "video-needs-review",
+      "unverified_video_present": true
+    },
+    "07": {
+      "stage": "video-needs-review",
+      "unverified_video_present": true
+    },
+    "08": {
+      "stage": "video-needs-review",
+      "unverified_video_present": true
+    },
+    "09": {
+      "stage": "video-needs-review",
+      "unverified_video_present": true
+    },
+    "10": {
+      "stage": "video-needs-review",
+      "unverified_video_present": true
+    },
+    "11": {
+      "stage": "video-needs-review",
+      "unverified_video_present": true
+    },
+    "12": {
+      "stage": "video-needs-review",
+      "unverified_video_present": true
+    },
+    "13": {
+      "stage": "video-needs-review",
+      "unverified_video_present": true
+    },
+    "14": {
+      "stage": "approved-ready",
+      "unverified_video_present": false
+    },
+    "15": {
+      "stage": "approved-ready",
+      "unverified_video_present": false
+    },
+    "16": {
+      "stage": "approved-ready",
+      "unverified_video_present": false
+    },
+    "17": {
+      "stage": "approved-ready",
+      "unverified_video_present": false
+    },
+    "18": {
+      "stage": "approved-ready",
+      "unverified_video_present": false
+    },
+    "19": {
+      "stage": "approved-ready",
+      "unverified_video_present": false
+    },
+    "20": {
+      "stage": "approved-ready",
+      "unverified_video_present": false
+    },
+    "21": {
+      "stage": "approved-ready",
+      "unverified_video_present": false
+    },
+    "22": {
+      "stage": "approved-ready",
+      "unverified_video_present": false
+    }
+  },
+  "shiva": {
+    "stage": "intake-review",
+    "published": "stale (pre-hygiene packs, republish queued)",
+    "casting": "provisional",
+    "glossaries": "proposed"
+  },
+  "queue": [
+    "republish 02-22 fresh (running)",
+    "render batch 01-22 incl ch01 re-render (crisp+Deva-only)",
+    "verify+qwen each",
+    "owner ears -> seal goldens -> upload per bless"
+  ],
+  "rules": [
+    "never idle while queue non-empty: rendering? do light prep (gates, sheets, publishes, docs).",
+    "one video build at a time (lock).",
+    "no approval, no render."
+  ],
+  "processes": {
+    "shiva-publish-batch": {
+      "note": "78/78 packs published (re-run after hygiene)",
+      "alive": false,
+      "result": "done"
+    },
+    "qwen-ch01-final": {
+      "pid": "1649332",
+      "log": "/tmp/qwen_ch01.log",
+      "started": "2026-11-03T08:20:02Z",
+      "alive": false,
+      "result": "done"
+    },
+    "tantrasara-ch02-render": {
+      "pid": "1651981",
+      "log": "/tmp/runall_ch02.log",
+      "started": "2026-11-03T09:25:02Z",
+      "alive": false,
+      "result": "done"
+    },
+    "tantrasara-render-batch": {
+      "pid": "1656398",
+      "log": "/tmp/runall_all.log",
+      "started": "2026-11-03T10:01:20Z",
+      "alive": false,
+      "result": "FAILED"
+    },
+    "tantrasara-continue-batch": {
+      "pid": "1690583",
+      "log": "/tmp/runall_cont.log",
+      "started": "2026-11-03T12:57:21Z",
+      "alive": false,
+      "result": "FAILED"
+    },
+    "tantrasara-ch03-block": {
+      "pid": "1734790",
+      "log": "/tmp/runblocks_ch03.log",
+      "started": "2026-11-04T01:46:28Z",
+      "alive": false,
+      "result": "FAILED"
+    },
+    "ch03-p01-parallel": {
+      "pid": "1736750",
+      "log": "/tmp/ch03_p01.log",
+      "started": "2026-11-04T02:03:04Z",
+      "alive": false,
+      "result": "done"
+    },
+    "ch03-p02-parallel": {
+      "pid": "1736753",
+      "log": "/tmp/ch03_p02.log",
+      "started": "2026-11-04T02:03:04Z",
+      "alive": false,
+      "result": "done"
+    },
+    "ch04-blocks": {
+      "pid": "1744324",
+      "log": "/tmp/ch04_blocks.log",
+      "started": "2026-11-04T02:45:26Z",
+      "alive": false,
+      "result": "done"
+    },
+    "ch05-blocks": {
+      "pid": "1744327",
+      "log": "/tmp/ch05_blocks.log",
+      "started": "2026-11-04T02:45:26Z",
+      "alive": false,
+      "result": "done"
+    },
+    "ch06-blocks": {
+      "pid": "1744330",
+      "log": "/tmp/ch06_blocks.log",
+      "started": "2026-11-04T02:45:26Z",
+      "alive": false,
+      "result": "done"
+    },
+    "ch07-blocks": {
+      "pid": "1744640",
+      "log": "/tmp/ch07_blocks.log",
+      "started": "2026-11-04T02:46:26Z",
+      "alive": false,
+      "result": "done"
+    },
+    "ch08-blocks": {
+      "pid": "1740490",
+      "log": "/tmp/ch08_blocks.log",
+      "started": "2026-11-04T02:18:38Z",
+      "alive": false,
+      "result": "done"
+    },
+    "ch09-blocks": {
+      "pid": "1744643",
+      "log": "/tmp/ch09_blocks.log",
+      "started": "2026-11-04T02:46:27Z",
+      "alive": false,
+      "result": "FAILED"
+    },
+    "ch10-blocks": {
+      "pid": "1744646",
+      "log": "/tmp/ch10_blocks.log",
+      "started": "2026-11-04T02:46:27Z",
+      "alive": false,
+      "result": "FAILED"
+    },
+    "ch11-blocks": {
+      "pid": "1744839",
+      "log": "/tmp/ch11_blocks.log",
+      "started": "2026-11-04T02:47:27Z",
+      "alive": false,
+      "result": "FAILED"
+    },
+    "ch12-blocks": {
+      "pid": "1744842",
+      "log": "/tmp/ch12_blocks.log",
+      "started": "2026-11-04T02:47:27Z",
+      "alive": false,
+      "result": "FAILED"
+    },
+    "ch13-blocks": {
+      "pid": "1744845",
+      "log": "/tmp/ch13_blocks.log",
+      "started": "2026-11-04T02:47:27Z",
+      "alive": false,
+      "result": "FAILED"
+    },
+    "ch14-blocks": {
+      "pid": "1744865",
+      "log": "/tmp/ch14_blocks.log",
+      "started": "2026-11-04T02:48:27Z",
+      "alive": false,
+      "result": "FAILED"
+    },
+    "ch15-blocks": {
+      "pid": "1744868",
+      "log": "/tmp/ch15_blocks.log",
+      "started": "2026-11-04T02:48:27Z",
+      "alive": false,
+      "result": "FAILED"
+    },
+    "ch16-blocks": {
+      "pid": "1744871",
+      "log": "/tmp/ch16_blocks.log",
+      "started": "2026-11-04T02:48:27Z",
+      "alive": false,
+      "result": "FAILED"
+    },
+    "ch17-blocks": {
+      "pid": "1744961",
+      "log": "/tmp/ch17_blocks.log",
+      "started": "2026-11-04T02:49:27Z",
+      "alive": false,
+      "result": "FAILED"
+    },
+    "ch18-blocks": {
+      "pid": "1744964",
+      "log": "/tmp/ch18_blocks.log",
+      "started": "2026-11-04T02:49:27Z",
+      "alive": false,
+      "result": "FAILED"
+    },
+    "ch19-blocks": {
+      "pid": "1744967",
+      "log": "/tmp/ch19_blocks.log",
+      "started": "2026-11-04T02:49:27Z",
+      "alive": false,
+      "result": "FAILED"
+    },
+    "ch20-blocks": {
+      "pid": "1744985",
+      "log": "/tmp/ch20_blocks.log",
+      "started": "2026-11-04T02:50:27Z",
+      "alive": false,
+      "result": "FAILED"
+    },
+    "ch21-blocks": {
+      "pid": "1744988",
+      "log": "/tmp/ch21_blocks.log",
+      "started": "2026-11-04T02:50:28Z",
+      "alive": false,
+      "result": "FAILED"
+    },
+    "ch22-blocks": {
+      "pid": "1744991",
+      "log": "/tmp/ch22_blocks.log",
+      "started": "2026-11-04T02:50:28Z",
+      "alive": false,
+      "result": "FAILED"
+    },
+    "ch02-blocks": {
+      "pid": "1748277",
+      "log": "/tmp/ch02_blocks.log",
+      "started": "2026-11-04T05:00:22Z",
+      "alive": false,
+      "result": "done"
+    },
+    "fix-video-08-09": {
+      "pid": "2041327",
+      "log": "/tmp/finish_08_09.log",
+      "started": "2026-11-05T04:39:54Z",
+      "alive": false,
+      "result": "done"
+    },
+    "fix-audio-16-17": {
+      "pid": "2041699",
+      "log": "/tmp/audio_16_17.log",
+      "started": "2026-11-05T04:39:54Z",
+      "alive": false,
+      "result": "done"
+    },
+    "batch-video-14-22": {
+      "pid": "2139415",
+      "log": "/tmp/batch_14_22.log",
+      "started": "2026-11-05T09:07:20Z",
+      "alive": false,
+      "result": "FAILED"
+    }
+  }
+}

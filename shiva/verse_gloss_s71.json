@@ -3,8 +3,11 @@
   "deva": "चित्तस्थितिवच्छरीरकरणबाह्येषु",
   "iast": "Cittasthitivac charīrakaraṇabāhyeṣu.",
   "literal": "Just as in the states of mind, so too in the body, the senses and external objects.",
-  "status": "proposed",
+  "status": "confirmed",
   "chant": "b2",
-  "note": "author gloss line, owner bulk-confirms"
+  "note": "author gloss line, owner bulk-confirms | bulk-confirmed (owner blanket bless 2026-11-06; pairing audited by shared verse_match_key)",
+  "bids": [
+   "b2"
+  ]
  }
 }

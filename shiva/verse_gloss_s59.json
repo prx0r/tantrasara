@@ -3,8 +3,14 @@
   "deva": "कथा जपः",
   "iast": "Kathā japaḥ.",
   "literal": "Conversation is mantra-recitation.",
-  "status": "proposed",
+  "status": "confirmed",
   "chant": "b2",
-  "note": "author gloss line, owner bulk-confirms"
+  "note": "author gloss line, owner bulk-confirms | bulk-confirmed (owner blanket bless 2026-11-06; pairing audited by shared verse_match_key)",
+  "bids": [
+   "b14",
+   "b2",
+   "b30",
+   "b31"
+  ]
  }
 }

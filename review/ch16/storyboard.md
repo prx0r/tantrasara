@@ -1,7 +1,7 @@
 # Review — chapter 16
 
 948 blocks. Voices: granny=833, man=24, none=9, verse=82.
-Confirmed glossary terms (61): abhicara, abhisandhaya, adhisthana, adhivasadi, ajna, aksa, atmaka, avesa, avirbhava, bhak, brahmavidya, dardhya, desa, desadhva, dhyana, diksita, diksitasya, diksiteti, dvarena, dvesa, guru-sarira, guruh, jala, jiva, jivato, jnana-adi, katha, kramah, kriya, ksana, maha, mandala, matra, moksa, mrta, mrtadiksayam, mrtoddharanam, mrtyu, muladharad, paramesvara, paroksa, paroksadiksa, paroksadiksaprakasanam, paroksam, paroksasya, paroksasyapi, pitha, prayogah, purnahutya, raga, saiva, saktipata, sambhunatha, samskara, sthana, svatantrya, syat, tad-anudhyana-balat, uddharana, upakarana, vasana.
+Confirmed glossary terms (32): abhista-jivanayanam, adhivasadi, ajna, anugrahyan, anugrhnati, desadhva, diksiteti, guruh, iste, jivato, katha, kramah, kriya, mrtadiksayam, muladharad, nasa-gagana-parigatam, paramesvara, paroksa, paroksadiksaprakasanam, paroksasya, pitha, prasrta-suvitatananta-nadyadhva-dandam, prayogah, purnahutya, saiva, saktipate, sthana, syat, tad-anudhyana-balat, viksipan, vyaptum, yavad.
 
 ## b_opener · opener · none · [opener]
 
@@ -745,7 +745,7 @@ Abhinavagupta gives an ordered collection of contributing factors.
 
 ## b185 · narration · granny · [Tantrasāra — Chapter 16]
 
-Kriyā — the appropriate ritual actions. / Upakaraṇa — excellent ritual materials, such as flowers. / Sthāna — a suitable sacred location, such as a pīṭha. / Maṇḍala — a consecrated diagram, such as the trident and lotus.…
+Kriyā — the appropriate ritual actions. / Upakaraṇa — excellent ritual materials, such as flowers. / Sthāna — a suitable sacred location, such as a pīṭha. / Maṇḍala — a consecrated diagram, such as the trident and lotus. / Ākṛti — a particular divine form used for contemplation. / Dīpta-mantra — the mantra itself in its luminous, awakened condition. / Yogin-sambandha — connection with a yogin dedicated to meditation. / Jñānin-sambandha — connection with a knower absorbed in single-minded devotion to the divine. / And he says these are causes of divine presence in their stated progression.
 
 ## b186 · narration · granny · [Tantrasāra — Chapter 16]
 
@@ -1273,7 +1273,7 @@ ATTESTED METRICAL PASSAGE — 16.6–16.7
 
 ## b317 · narration · granny · [Tantrasāra — Chapter 16]
 
-Mūlādhārād udetya prasṛta-suvitatānanta-nāḍyadhva-daṇḍaṃ vīryeṇākramya nāsā-gagana-parigataṃ vikṣipan vyāptum īṣṭe. / Yāvad dhūmābhirāma-pracitatara-śikhā-jālakena adhva-cakraṃ sañchādya abhīṣṭa-jīvānayanam iti mahājāla-…
+Mūlādhārād udetya prasṛta-suvitatānanta-nāḍyadhva-daṇḍaṃ vīryeṇākramya nāsā-gagana-parigataṃ vikṣipan vyāptum īṣṭe. / Yāvad dhūmābhirāma-pracitatara-śikhā-jālakena adhva-cakraṃ sañchādya abhīṣṭa-jīvānayanam iti mahājāla-nāmā prayogaḥ. / Now, the Sanskrit is extremely compressed, so let’s unfold the meaning rather than pretending the entire thing is a straightforward modern instruction manual.
 
 ## b318 · narration · granny · [Tantrasāra — Chapter 16]
 
@@ -1521,7 +1521,7 @@ It’s a traditional claim about the ritual retrieval or liberation of a decease
 
 ## b379 · narration · granny · [Tantrasāra — Chapter 16]
 
-Now, the wording is powerful and, if treated as a proposed means of influencing living people without consent, ethically problematic. We’re examining its historical religious meaning, not endorsing coercive ritual practi…
+Now, the wording is powerful and, if treated as a proposed means of influencing living people without consent, ethically problematic. We’re examining its historical religious meaning, not endorsing coercive ritual practices.
 
 ## b380 · narration · granny · [Tantrasāra — Chapter 16]
 
@@ -3789,8 +3789,8 @@ Absolutely magnificent.
 
 ## b946 · meta · none · [Tantrasāra — Chapter 16]
 
-Textual sources: GRETIL Sanskrit Tantrasāra, Chapter 16, passages 16.1–16.24 and Chapter 16, Devanāgarī and Sanskrit grammatical gloss. The complete prose sequence, both Great Net metrical passages and the witness-specif…
+Textual sources: GRETIL Sanskrit Tantrasāra, Chapter 16, passages 16.1–16.24 and Chapter 16, Devanāgarī and Sanskrit grammatical gloss. The complete prose sequence, both Great Net metrical passages and the witness-specific final stanza have been checked. The examples, dialogue and concluding reflections are my own narration, not further passages attributed to Abhinavagupta.
 
 ## b947 · narration · granny · [Tantrasāra — Chapter 16]
 
-The rite of release from a previous religious commitment: how someone initiated into another tradition can enter the higher Śaiva teaching, what happens to their former vows, and why Abhinavagupta is rather uncompromisin…
+The rite of release from a previous religious commitment: how someone initiated into another tradition can enter the higher Śaiva teaching, what happens to their former vows, and why Abhinavagupta is rather uncompromising about competing religious authorities.

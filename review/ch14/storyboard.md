@@ -1,7 +1,7 @@
 # Review — chapter 14
 
 1062 blocks. Voices: granny=939, man=15, none=8, verse=100.
-Confirmed glossary terms (92): adhvanam, ahutayah, aisvarya, ajya, amukam, ananda, antah, apara, asadayet, asubha, avadharyah, avasesa, bahih, bahis, bhavana, bhavisyat, bhogeccha, bhogecchoh, bhutam, brahma, brahmavidya, brmhita, diksa, eka-bhava, ekibhuto, jhatiti, jivato, kala, kalaratri, kalas, kalasa, karunikataya, kuryat, mahamandalayago, mahanandavibodhapurne, mahya-trisula, mandala, matra, mumuksos, nyasa, nyasyarcayet, para, paramesvara, parapara, paripurna, pasa, pasu, pasums, pasur, pasuvidhau, prana, putrakadiksa, putrakadiksaprakasanam, putrakadiksavidhih, sadadhva, saiva, samasta-adhva-mayim, samayi, sandhaya, sara, sisya-eka-bhavam, sisyam, sisyatmana, siva-nature, siva-tattva, sivatmabhavam, sodhayami, sodhayet, subha, subham, subhasubham, suddha, suddha-tattva-maya, sudhyati, sva-sattam, svaha, svatantrya, tantralokad, tavad, vapa, varjayitva, vartamanam, vasana, vasanagrahanam, vasthitam, vibhedasunyah, visramyati, visrantim, vistirnas, viyojika, yavat, yoginis.
+Confirmed glossary terms (43): adhvanam, ahutayah, amukam, ananda, antah, apara, asadayet, avadharyah, bahih, bhavana, bhogeccha, bhogecchoh, bhutam, brahma, diksa, jhatiti, jivato, kala, karunikataya, kuryat, mumuksos, pasuvidhau, putrakadiksa, putrakadiksaprakasanam, putrakadiksavidhih, saiva, samasta-vyastataya, sandhaya, sisyam, sisyatmana, sodhayami, sodhayet, subham, subhasubham, suddha, sudhyati, svaha, varjayitva, vartamanam, vasanagrahanam, visramyati, visrantim, yavat.
 
 ## b_opener · opener · none · [opener]
 
@@ -17,7 +17,7 @@ Tantrasāra — Chapter 14
 
 ## b3 · narration · granny · [Tantrasāra — Chapter 14]
 
-The Initiation of the Spiritual Son: or, how to take a bloke who’s convinced he’s a separate little creature, drag the entire cosmic universe through his consciousness, dissolve every bloody bond, and introduce him to th…
+The Initiation of the Spiritual Son: or, how to take a bloke who’s convinced he’s a separate little creature, drag the entire cosmic universe through his consciousness, dissolve every bloody bond, and introduce him to the fact that he’s Śiva.
 
 ## b4 · narration · granny · [Tantrasāra — Chapter 14]
 
@@ -3785,7 +3785,7 @@ And they’re genuinely worth reading.
 
 ## b945 · narration · granny · [Tantrasāra — Chapter 14]
 
-The following two stanzas appear after the prose in the Sanskrit & Trika Shaivism edition. They are absent from the GRETIL transcription of the 1918 edition. So they are attested in a published Sanskrit witness, but not …
+The following two stanzas appear after the prose in the Sanskrit & Trika Shaivism edition. They are absent from the GRETIL transcription of the 1918 edition. So they are attested in a published Sanskrit witness, but not universal across the versions checked.
 
 ## b946 · figure · none · [Tantrasāra — Chapter 14]
 
@@ -4245,7 +4245,7 @@ Absolute magnificence.
 
 ## b1060 · meta · none · [Tantrasāra — Chapter 14]
 
-Textual basis: GRETIL Tantrasāra, Chapter 14, passages 14.1–14.29 and Chapter 14 with Devanāgarī and the additional closing stanzas. The ritual sequence and the distinction between enjoyment, liberation and seedless init…
+Textual basis: GRETIL Tantrasāra, Chapter 14, passages 14.1–14.29 and Chapter 14 with Devanāgarī and the additional closing stanzas. The ritual sequence and the distinction between enjoyment, liberation and seedless initiation are preserved. The animal-sacrifice passage is described as a historical prescription, not recommended practice. The two closing stanzas are identified by their specific textual witness rather than presented as universally transmitted.
 
 ## b1061 · narration · granny · [Tantrasāra — Chapter 14]
 

@@ -1,7 +1,7 @@
 # Review — chapter 20
 
 2106 blocks. Voices: granny=1832, man=45, none=10, verse=219.
-Confirmed glossary terms (138): abhimana, acirena, acirenaiva, adarsa, adarse, adhikya, aham, amrta, aruna, asankitam, asava, asvayuja, atman, avalokayatah, bana-linga, bhava, bhava-prasara, cakrayaga, camatkara, carya-matrena, catra, citra, devanagari, devarcaye, devya, diksa, ganapati, ghatayitva, gurupuja, gurupujavidhih, jala, jnana, jnana-yogabhyam, jnanayogyan, kalanka, kalas, kamya, karttika, kascit, kimcit, kramah, krsna-paksa, kurvan, kusa, linga, lingam, magha, malini, mandala, moksadiksa, mudra, mula, murtiyaga, naimittikam, nirbija, niskrti, nitya, nityam, nityatantra, nivrtta, niyata-puja, paramarthika, paramesvara, parvapuja, pasa, pasu, patra, pradhanam, prakasa, pratyabhijna, praveso, prayascittadi, puja, purvapaksa, purvaphalguni, pusya, ratnamala, rohini, rupam, sabija, sadadhvan, sadasiva, sadhaka, saiva, saivism, saktipata, saktis, samayi, samhara, samskara, samskarasiddhyai, samvid, samvitti, sandhya, sandhyopasa, sara, satabhisaj, sathya, sathya-vivarjitah, sesavartana, sesavartanam, sesavartanaprakasanam, siddhamata, siras, siva-nature, sivah, sodha, sphurana, sravana, srsti, sukla-paksa, svabhava, svam, svarupa-nisciti, svatmanam, tanmayibhava, tanmayibhavam, tanmayibhavat, tantrasadbhava, tatsvarupaniscitih, tisya, trisiromata, tvam, ullasa, upadeyam, vaktragamenaiva, varsad, vasana, vela, vimsamahnikam, vina, vinapi, vira, virya, visakha, vyakhya, yaga, yoginis.
+Confirmed glossary terms (65): acirenaiva, adarse, aham, ajivam, anandamrta-nirbhara-svahrdayanargharghapatra-kramat, aruna, asankitam, asniyat, avalokayatah, bhava, bodhyaikatmyena, catra, devarcaye, devya, deyah, diksa, ghatayitva, gurupuja, jnanayogyan, kamya, kascit, kimcit, kramah, krtayam, ksipet, kurvan, lingam, malini, moksadiksa, naimittikam, nirbija, nitya, nityam, niyata-puja, paramah, parvapuja, pradhanam, pratisthapayet, rupam, sabija, saiva, samhara, samskarah, samskarasiddhyai, samvid, sesavartanam, sivah, sodha, svam, svatmanam, tadasaktan, tanmayibhava, tanmayibhavam, tanmayibhavat, tasyam, tatsvarupaniscitih, tvam, upadeyam, upadiset, vaktragamenaiva, varsad, vela, vimsamahnikam, vina, vyakhya.
 
 ## b_opener · opener · none · [opener]
 
@@ -17,7 +17,7 @@ Tantrasāra — Chapter 20
 
 ## b3 · narration · granny · [Tantrasāra — Chapter 20]
 
-Śeṣavartanaprakāśanam — The Rest of Your Bloody Life: or, what to do after you’ve been initiated, why your entire body is a temple, and how Abhinavagupta somehow turns daily worship into a six-part festival calendar, an …
+Śeṣavartanaprakāśanam — The Rest of Your Bloody Life: or, what to do after you’ve been initiated, why your entire body is a temple, and how Abhinavagupta somehow turns daily worship into a six-part festival calendar, an esoteric drinking ceremony and a rather alarming set of rules for spiritual teachers.
 
 ## b4 · narration · granny · [Tantrasāra — Chapter 20]
 
@@ -1577,7 +1577,7 @@ The entire sensuous and expressive world becomes part of worship.
 
 ## b393 · narration · granny · [Tantrasāra — Chapter 20]
 
-Now, remember that this is a historical ritual system in which consecrated alcohol appears among the offerings. The passage is not a recommendation that drinking alcohol is necessary for contemplation or spiritual attain…
+Now, remember that this is a historical ritual system in which consecrated alcohol appears among the offerings. The passage is not a recommendation that drinking alcohol is necessary for contemplation or spiritual attainment.
 
 ## b394 · narration · granny · [Tantrasāra — Chapter 20]
 
@@ -2273,7 +2273,7 @@ ATTESTED SANSKRIT VERSE — 20.14–20.15
 
 ## b567 · verse · verse · [Tantrasāra — Chapter 20]
 
-कृत्वाधारधरां चमत्कृतिरसप्रोक्षाक्षणक्षालितामात्तैर्मानसतः स्वभावकुसुमैः स्वामोदसन्दोहिभिः।आनन्दामृतनिर्भरस्वहृदयानर्घार्घपात्रक्रमात्त्वां देव्या सह देहदेवसदने देवार्चयेऽहर्निशम्॥ / Kṛtvādhāradharāṃ camatkṛti-rasa-prokṣ…
+कृत्वाधारधरां चमत्कृतिरसप्रोक्षाक्षणक्षालितामात्तैर्मानसतः स्वभावकुसुमैः स्वामोदसन्दोहिभिः।आनन्दामृतनिर्भरस्वहृदयानर्घार्घपात्रक्रमात्त्वां देव्या सह देहदेवसदने देवार्चयेऽहर्निशम्॥ / Kṛtvādhāradharāṃ camatkṛti-rasa-prokṣākṣaṇa-kṣālitām āttair mānasataḥ svabhāva-kusumaiḥ svāmoda-sandohibhiḥ.
 
 ## b568 · narration · granny · [Tantrasāra — Chapter 20]
 
@@ -2889,7 +2889,7 @@ So the practitioner should act with consideration for the spiritual effect of th
 
 ## b721 · narration · granny · [Tantrasāra — Chapter 20]
 
-This is a historical ritual purity concern, not evidence that cats, dogs or mice become spiritually dangerous by eating offerings. And ordinary food disposal should be governed by hygiene, animal welfare and environmenta…
+This is a historical ritual purity concern, not evidence that cats, dogs or mice become spiritually dangerous by eating offerings. And ordinary food disposal should be governed by hygiene, animal welfare and environmental care.
 
 ## b722 · narration · granny · [Tantrasāra — Chapter 20]
 
@@ -3909,7 +3909,7 @@ A planetary or celestial body considered within the traditional astronomical-ast
 
 ## b976 · narration · granny · [Tantrasāra — Chapter 20]
 
-Abhinavagupta lists combinations involving Citrā and the Moon, Maghā and Jupiter, Tiṣya or Puṣya and the Moon, Pūrvaphālgunī and Mercury, Śravaṇa and Mercury, Śatabhiṣaj and the Moon, Mūlā and the Sun, Rohiṇī and Venus, …
+Abhinavagupta lists combinations involving Citrā and the Moon, Maghā and Jupiter, Tiṣya or Puṣya and the Moon, Pūrvaphālgunī and Mercury, Śravaṇa and Mercury, Śatabhiṣaj and the Moon, Mūlā and the Sun, Rohiṇī and Venus, Viśākhā and Jupiter, and Śravaṇa and the Moon.
 
 ## b977 · narration · granny · [Tantrasāra — Chapter 20]
 
@@ -3961,7 +3961,7 @@ But when conducting the festival rite, the time appropriate to the anuyāga rema
 
 ## b989 · narration · granny · [Tantrasāra — Chapter 20]
 
-Now, before you ask for a conversion into this year’s modern calendar, remember that the text is providing a traditional ritual taxonomy, not a ready-made modern almanac. Calculating dates requires choosing the relevant …
+Now, before you ask for a conversion into this year’s modern calendar, remember that the text is providing a traditional ritual taxonomy, not a ready-made modern almanac. Calculating dates requires choosing the relevant calendar conventions and location.
 
 ## b990 · narration · granny · [Tantrasāra — Chapter 20]
 
@@ -7073,7 +7073,7 @@ Now, this is an ethically serious and interpretively difficult statement.
 
 ## b1767 · narration · granny · [Tantrasāra — Chapter 20]
 
-One possible reading is that the offence is regarded as too grave to be expiated through the available ritual procedure. The bare Sanskrit does not explain that rationale, however, and the passage shouldn’t be silently r…
+One possible reading is that the offence is regarded as too grave to be expiated through the available ritual procedure. The bare Sanskrit does not explain that rationale, however, and the passage shouldn’t be silently rewritten as though its meaning were unambiguous.
 
 ## b1768 · narration · granny · [Tantrasāra — Chapter 20]
 
@@ -7361,7 +7361,7 @@ A golden seat.
 
 ## b1839 · narration · granny · [Tantrasāra — Chapter 20]
 
-Now, we should understand svastika here in its ancient Indian religious context, as an auspicious geometrical motif. Its historical use in this tantric setting is distinct from the modern political appropriation of that …
+Now, we should understand svastika here in its ancient Indian religious context, as an auspicious geometrical motif. Its historical use in this tantric setting is distinct from the modern political appropriation of that symbol.
 
 ## b1840 · narration · granny · [Tantrasāra — Chapter 20]
 
@@ -7737,7 +7737,7 @@ Vināpi jñāna-yogābhyāṃ caryā-mātreṇa mucyate.
 
 ## b1933 · narration · granny · [Tantrasāra — Chapter 20]
 
-This stanza is preserved at the end of the Sanskrit & Trika Shaivism edition. It is absent from GRETIL’s 1918-edition transcription, which ends after the guru-pūjā procedure. The two devotional verses earlier in this cha…
+This stanza is preserved at the end of the Sanskrit & Trika Shaivism edition. It is absent from GRETIL’s 1918-edition transcription, which ends after the guru-pūjā procedure. The two devotional verses earlier in this chapter are present in both witnesses.
 
 ## b1934 · narration · granny · [Tantrasāra — Chapter 20]
 
@@ -8421,8 +8421,8 @@ Absolutely magnificent.
 
 ## b2104 · meta · none · [Tantrasāra — Chapter 20]
 
-Textual sources: GRETIL — Tantrasāra, Chapter 20, passages 20.1–20.65 and Sanskrit & Trika Shaivism — Chapter 20, Devanāgarī and English gloss. The sequence follows the original: lifelong conduct, daily worship, festival…
+Textual sources: GRETIL — Tantrasāra, Chapter 20, passages 20.1–20.65 and Sanskrit & Trika Shaivism — Chapter 20, Devanāgarī and English gloss. The sequence follows the original: lifelong conduct, daily worship, festival rites, cakrayāga, pavitraka, scriptural exposition, expiation and guru worship. Three devotional/concluding verses are distinguished from the prose, and the final stanza’s textual variation is identified. The historical ritual prescriptions and supernatural claims are not presented as verified practical results.
 
 ## b2105 · narration · granny · [Tantrasāra — Chapter 20]
 
-Why scripture has authority, how Abhinavagupta reconciles apparently contradictory revelations, why people become convinced by different traditions, and his extraordinary argument that every system of knowledge ultimatel…
+Why scripture has authority, how Abhinavagupta reconciles apparently contradictory revelations, why people become convinced by different traditions, and his extraordinary argument that every system of knowledge ultimately rests upon consciousness.

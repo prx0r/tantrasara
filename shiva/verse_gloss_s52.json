@@ -3,8 +3,11 @@
   "deva": "त्रिषु चतुर्थं तैलवदासेच्यम्",
   "iast": "Triṣu caturthaṃ tailavad āsecyam.",
   "literal": "The fourth should be poured into the three like oil.",
-  "status": "proposed",
+  "status": "confirmed",
   "chant": "b2",
-  "note": "author gloss line, owner bulk-confirms"
+  "note": "author gloss line, owner bulk-confirms | bulk-confirmed (owner blanket bless 2026-11-06; pairing audited by shared verse_match_key)",
+  "bids": [
+   "b2"
+  ]
  }
 }

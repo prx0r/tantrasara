@@ -3,8 +3,11 @@
   "deva": "ज्ञानं बन्धः",
   "iast": "Jñānaṃ bandhaḥ.",
   "literal": "Knowledge is bondage.",
-  "status": "proposed",
+  "status": "confirmed",
   "chant": "b2",
-  "note": "author gloss line, owner bulk-confirms"
+  "note": "author gloss line, owner bulk-confirms | bulk-confirmed (owner blanket bless 2026-11-06; pairing audited by shared verse_match_key)",
+  "bids": [
+   "b2"
+  ]
  }
 }

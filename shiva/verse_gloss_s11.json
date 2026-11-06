@@ -3,8 +3,11 @@
   "deva": "त्रितयभोक्ता वीरेशः",
   "iast": "Tritayabhoktā vīreśaḥ.",
   "literal": "The experiencer of the three is the lord of heroes.",
-  "status": "proposed",
+  "status": "confirmed",
   "chant": "b2",
-  "note": "author gloss line, owner bulk-confirms"
+  "note": "author gloss line, owner bulk-confirms | bulk-confirmed (owner blanket bless 2026-11-06; pairing audited by shared verse_match_key)",
+  "bids": [
+   "b2"
+  ]
  }
 }

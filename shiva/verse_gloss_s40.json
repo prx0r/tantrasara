@@ -3,8 +3,11 @@
   "deva": "जाग्रद्द्वितीयकरः",
   "iast": "Jāgrad dvitīyakaraḥ.",
   "literal": "The awakened yogi sees the apparently second reality — the world — as a ray of their own consciousness.",
-  "status": "proposed",
+  "status": "confirmed",
   "chant": "b2",
-  "note": "author gloss line, owner bulk-confirms"
+  "note": "author gloss line, owner bulk-confirms | bulk-confirmed (owner blanket bless 2026-11-06; pairing audited by shared verse_match_key)",
+  "bids": [
+   "b2"
+  ]
  }
 }

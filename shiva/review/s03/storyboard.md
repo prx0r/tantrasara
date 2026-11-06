@@ -1,6 +1,6 @@
 # Review — shiva s03
 
-35 blocks. Voices: granny=29, man=4, none=1, verse=1.
+36 blocks. Voices: granny=30, man=4, none=1, verse=1.
 Confirmed glossary terms (0): none.
 
 ## b_opener · opener · none · [opener]
@@ -21,124 +21,128 @@ Yonivargaḥ kalāśarīram.
 
 ## b4 · narration · granny · [Śiva Sūtras 1.3]
 
-The source and its multiplicity; that whose nature is limited activity. / The Universe Has Three Different Ways to Ruin Your Day
+The source and its multiplicity; that whose nature is limited activity.
 
 ## b5 · narration · granny · [Śiva Sūtras 1.3]
 
-Vasugupta now expands the explanation of bondage.
+The Universe Has Three Different Ways to Ruin Your Day.
 
 ## b6 · narration · granny · [Śiva Sūtras 1.3]
 
-The sūtra is extremely compact. Kṣemarāja reads it in connection with the previous statement, “Knowledge is bondage,” and elaborates the remaining forms of impurity.
+Vasugupta now expands the explanation of bondage.
 
 ## b7 · narration · granny · [Śiva Sūtras 1.3]
 
-Welcome to the three malas.
+The sūtra is extremely compact. Kṣemarāja reads it in connection with the previous statement, “Knowledge is bondage,” and elaborates the remaining forms of impurity.
 
 ## b8 · narration · granny · [Śiva Sūtras 1.3]
 
-Āṇavamala — The impurity of smallness.
+Welcome to the three malas.
 
 ## b9 · narration · granny · [Śiva Sūtras 1.3]
 
+Āṇavamala — The impurity of smallness.
+
+## b10 · narration · granny · [Śiva Sūtras 1.3]
+
 The fundamental feeling of incompleteness.
 
-## b10 · dialogue · man · [Śiva Sūtras 1.3]
+## b11 · dialogue · man · [Śiva Sūtras 1.3]
 
 “I am only this.”
 
-## b11 · dialogue · granny · [Śiva Sūtras 1.3]
+## b12 · dialogue · granny · [Śiva Sūtras 1.3]
 
 “I am not enough.”
 
-## b12 · dialogue · man · [Śiva Sūtras 1.3]
+## b13 · dialogue · man · [Śiva Sūtras 1.3]
 
 “I am this little subject rather than the limitless whole.”
 
-## b13 · narration · granny · [Śiva Sūtras 1.3]
+## b14 · narration · granny · [Śiva Sūtras 1.3]
 
 The infinite has apparently decided to identify as a fraction of itself.
 
-## b14 · narration · granny · [Śiva Sūtras 1.3]
+## b15 · narration · granny · [Śiva Sūtras 1.3]
 
 Māyīyamala — The impurity of differentiation.
 
-## b15 · narration · granny · [Śiva Sūtras 1.3]
+## b16 · narration · granny · [Śiva Sūtras 1.3]
 
 Now consciousness doesn’t merely experience itself as limited.
 
-## b16 · narration · granny · [Śiva Sūtras 1.3]
+## b17 · narration · granny · [Śiva Sūtras 1.3]
 
 It experiences reality as divided into separate objects.
 
-## b17 · narration · granny · [Śiva Sūtras 1.3]
+## b18 · narration · granny · [Śiva Sūtras 1.3]
 
 This is mine.
 
-## b18 · narration · granny · [Śiva Sūtras 1.3]
+## b19 · narration · granny · [Śiva Sūtras 1.3]
 
 That’s yours.
 
-## b19 · narration · granny · [Śiva Sūtras 1.3]
+## b20 · narration · granny · [Śiva Sūtras 1.3]
 
 That’s pleasant.
 
-## b20 · narration · granny · [Śiva Sūtras 1.3]
+## b21 · narration · granny · [Śiva Sūtras 1.3]
 
 That’s disgusting.
 
-## b21 · narration · granny · [Śiva Sūtras 1.3]
+## b22 · narration · granny · [Śiva Sūtras 1.3]
 
 That person disagrees with me and must therefore be metaphysically defective.
 
-## b22 · narration · granny · [Śiva Sūtras 1.3]
+## b23 · narration · granny · [Śiva Sūtras 1.3]
 
 The world appears as a multiplicity of independently existing things.
 
-## b23 · narration · granny · [Śiva Sūtras 1.3]
+## b24 · narration · granny · [Śiva Sūtras 1.3]
 
 Kārmamala — The impurity of limited agency and action.
 
-## b24 · narration · granny · [Śiva Sūtras 1.3]
+## b25 · narration · granny · [Śiva Sūtras 1.3]
 
 Now the individual acts within the limitations it experiences, generating further karmic involvement.
 
-## b25 · dialogue · man · [Śiva Sūtras 1.3]
+## b26 · dialogue · man · [Śiva Sūtras 1.3]
 
 “I did this.”
 
-## b26 · dialogue · granny · [Śiva Sūtras 1.3]
+## b27 · dialogue · granny · [Śiva Sūtras 1.3]
 
 “I must obtain that.”
 
-## b27 · dialogue · man · [Śiva Sūtras 1.3]
+## b28 · dialogue · man · [Śiva Sūtras 1.3]
 
 “I have to correct what happened yesterday.”
 
-## b28 · narration · granny · [Śiva Sūtras 1.3]
+## b29 · narration · granny · [Śiva Sūtras 1.3]
 
 And the entire machinery of conditioned experience keeps operating.
 
-## b29 · narration · granny · [Śiva Sūtras 1.3]
+## b30 · narration · granny · [Śiva Sūtras 1.3]
 
 Notice the elegance.
 
-## b30 · narration · granny · [Śiva Sūtras 1.3]
+## b31 · narration · granny · [Śiva Sūtras 1.3]
 
 First, I am limited.
 
-## b31 · narration · granny · [Śiva Sūtras 1.3]
+## b32 · narration · granny · [Śiva Sūtras 1.3]
 
 Then, the world is separate from me.
 
-## b32 · narration · granny · [Śiva Sūtras 1.3]
+## b33 · narration · granny · [Śiva Sūtras 1.3]
 
 Then, I am a limited agent who must act within this separate world.
 
-## b33 · narration · granny · [Śiva Sūtras 1.3]
+## b34 · narration · granny · [Śiva Sūtras 1.3]
 
 And suddenly you’ve got the entire human predicament.
 
-## b34 · narration · granny · [Śiva Sūtras 1.3]
+## b35 · narration · granny · [Śiva Sūtras 1.3]
 
 The technical details of yoni, varga, and kalāśarīra belong to Trika’s theory of manifestation and its limited powers of agency, not merely a psychological metaphor. Kṣemarāja explicitly connects the sūtra with māyīyamal…

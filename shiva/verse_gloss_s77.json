@@ -3,8 +3,14 @@
   "deva": "भूयः स्यात्प्रतिमीलनम्",
   "iast": "Bhūyaḥ syāt pratimīlanam.",
   "literal": "Again and again, there is the complete reunion of inward and outward awareness in the supreme Self.",
-  "status": "proposed",
+  "status": "confirmed",
   "chant": "b2",
-  "note": "author gloss line, owner bulk-confirms"
+  "note": "author gloss line, owner bulk-confirms | bulk-confirmed (owner blanket bless 2026-11-06; pairing audited by shared verse_match_key)",
+  "bids": [
+   "b11",
+   "b2",
+   "b66",
+   "b67"
+  ]
  }
 }

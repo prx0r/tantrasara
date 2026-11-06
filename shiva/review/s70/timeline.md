@@ -1,19 +1,29 @@
-# Holds timeline
+# Holds timeline — planning view
 
-White is the default. Cards interrupt; white returns at section breaks,
-[long pause] beats, and dialogue entries. Proposed (unconfirmed) glosses
-do NOT render — their mentions play over white until confirmed.
+Complete storyboard-order event and term-mention plan; times are not measured.
+Confirmed mentions can appear as cards. Proposed mentions remain white.
+Use video metadata and proof frames to judge actual onsets and persistence.
 
-start: THUMBNAIL (opener image, bell + intro until first verse)
-b1: TITLE card
-b2: VERSE card (त्रिपदाद्यनुप्राणनम्)
-b3: TERM tripadadyanuprananam ( — ) [proposed — white until confirmed]
-b9: TERM trisu ( — ) [proposed — white until confirmed]
-b9: TERM caturtham ( — ) [proposed — white until confirmed]
-b9: TERM asecyam ( — ) [proposed — white until confirmed]
-b17: TERM srsti ( — ) [proposed — white until confirmed]
-b27: TERM anupranana ( — ) [proposed — white until confirmed]
-b58: TERM maya ( — ) [proposed — white until confirmed]
-b70: TERM raga ( — ) [proposed — white until confirmed]
-b75: TERM vijnanabhairava ( — ) [proposed — white until confirmed]
-b84: TERM spandakarika ( — ) [proposed — white until confirmed]
+b_opener: thumbnail / opener
+b1: TITLE — Śiva Sūtras 3.38
+b1: TONE BREAK
+b2: VERSE — त्रिपदाद्यनुप्राणनम्
+b2 word 1: TERM tripadadyanuprananam ( — ) [PROPOSED — white]
+b3 word 1: TERM tripadadyanuprananam ( — ) [PROPOSED — white]
+b9: VERSE — त्रिषु चतुर्थं तैलवदासेच्यम्।
+b9 word 1: TERM trisu ( — ) [PROPOSED — white]
+b9 word 2: TERM caturtham ( — ) [PROPOSED — white]
+b10 word 1: TERM trisu ( — ) [PROPOSED — white]
+b10 word 2: TERM caturtham ( — ) [PROPOSED — white]
+b10 word 4: TERM asecyam ( — ) [PROPOSED — white]
+b13: VERSE — Tripadādyanuprāṇanam.
+b13 word 1: TERM tripadadyanuprananam ( — ) [PROPOSED — white]
+b18 word 1: TERM srsti ( — ) [PROPOSED — white]
+b28 word 1: TERM anupranana ( — ) [PROPOSED — white]
+b43: VERSE — Sṛṣṭi.
+b43 word 1: TERM srsti ( — ) [PROPOSED — white]
+b59 word 12: TERM maya ( — ) [PROPOSED — white]
+b71 word 7: TERM raga ( — ) [PROPOSED — white]
+b76 word 6: TERM vijnanabhairava ( — ) [PROPOSED — white]
+b85 word 6: TERM spandakarika ( — ) [PROPOSED — white]
+b104 word 6: TERM anupranana ( — ) [PROPOSED — white]

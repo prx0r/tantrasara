@@ -1,1 +1,15 @@
-{}
+{
+ "abhts_15.1": {
+  "bids": [
+   "b53"
+  ],
+  "match_key": "yadapunarasannamaranasyasvayamvabandhumukhenasaktipataupajayatetadasmaisadyahsamutkramanadiksamkuryatyadapunarasannamaranasyasvayamvabandhumukhenasaktipataupajayatetadasmaisadyahsamutkramanadiksamkuryat",
+  "match_score": 0.97,
+  "literal": "But-when (yadā punar) [is] of-near-death-one (āsannamaraṇasya) by-self (svayam) or-through-kin-mouth (bandhumukhena vā) descent-arisen (śaktipātaḥ upajāyate) — then (tadā) for-him (asmai) [is] instant (sadyaḥ) upward-leaping-initiation (samutkramaṇadīkṣām) [one should] do (kuryāt)",
+  "final": "",
+  "final_source": "none",
+  "l4": null,
+  "status": "confirmed",
+  "note": " | bulk-confirmed (ralph loop, T1 frozen, owner bless covers method)"
+ }
+}

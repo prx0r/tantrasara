@@ -3,8 +3,12 @@
   "deva": "आसनस्थः सुखं ह्रदे निमज्जति",
   "iast": "Āsanasthaḥ sukhaṃ hrade nimajjati.",
   "literal": "Established in the seat, one easily sinks into the lake.",
-  "status": "proposed",
+  "status": "confirmed",
   "chant": "b2",
-  "note": "author gloss line, owner bulk-confirms"
+  "note": "author gloss line, owner bulk-confirms | bulk-confirmed (owner blanket bless 2026-11-06; pairing audited by shared verse_match_key)",
+  "bids": [
+   "b125",
+   "b2"
+  ]
  }
 }

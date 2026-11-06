@@ -1,7 +1,7 @@
 {
  "abhts_22.12": {
   "bids": [
-   "b1028"
+   "b1029"
   ],
   "match_key": "saktihsrstimpusnati",
   "match_score": 0.56,
@@ -13,23 +13,37 @@
  },
  "abhts_22.17": {
   "bids": [
-   "b727"
+   "b728"
   ],
   "match_key": "sakterlaksanametattadvadabhedastatonapeksyavayahjatyadimscasangalloketarayugalajamhitadatmyamsakterlaksanametattadvadabhedastatonapeksyavayah",
-  "match_score": 0.75,
+  "match_score": 0.93,
   "literal": "Now (atha) in-couple (yāmale): of-power (śakter) mark (lakṣaṇam) this (etat) — like-it (tadvad) nondifference (abhedas) then (tato) without-regard (anapekṣya) age-and-the-rest (vayaḥ jātyādīṃś ca) non-attachment (asaṅgāt); of-other-than-world-couple-born (loketarayugalajaṃ hi) identity (tādātmyam)",
   "final": "",
   "final_source": "none",
   "l4": null,
-  "status": "proposed"
+  "status": "confirmed",
+  "note": " | kept confirmed (ralph loop re-mine preserved prior confirm)"
  },
  "abhts_22.21": {
   "bids": [
-   "b808"
+   "b809"
   ],
   "match_key": "nijanijabhogabhogapravikasamayasvarupaparimarsekramasonucakradevyahsamviccakramhimadhyamamyantinijanijabhogabhogapravikasamayasvarupaparimarse",
-  "match_score": 0.79,
+  "match_score": 0.98,
   "literal": "By-each-own-enjoyment-non-enjoyment-variety (nijanijabhogābhogapravikāsa- mayasvarūpaparimarśe); gradually (kramaśaḥ) subcircle-goddesses (anucakradevyaḥ) consciousness-circle (saṃviccakraṃ hi) middle (madhyamaṃ) go (yānti)",
+  "final": "",
+  "final_source": "none",
+  "l4": null,
+  "status": "confirmed",
+  "note": " | kept confirmed (ralph loop re-mine preserved prior confirm)"
+ },
+ "abhts_22.23+tail": {
+  "bids": [
+   "b869"
+  ],
+  "match_key": "itthamyamalametadgalitabhidasankathamyadaivatadakramataratamyayogatsaivahisamvidvisargasanghattahitthamyamalametadgalitabhidasamkathamyadaivatada",
+  "match_score": 0.55,
+  "literal": "Thus (itthaṃ) couple (yāmalam etad) melted-difference (galitabhidāsaṃkata) ... (22.24–22.33 per T1: lotus-petals, khecarī-mudrā, nāda-bhairava, mantra-vīrya, etc.) [Three-cornered lotus petals, sixteenth-petal root, nāla; middle throb, moon-sun clash, instant creation; khecarī-mudrā entry (22.34–22.37). Throb at throat, ear-eye-mouth-nose channels, eight nāda-bhairavas; mantra-vīrya from it; karma in karma, knower gains freedom-in-life; knowledge- vessel body, empty/full abode, single-staff fire-wind, trident equalized, doubtless, no-conduct, self not-I, body-gods as bliss-shock... (22.38–22.45). Further verses on grahītā, khecarī-siddhi etc. (22.46–22.54). Full close pass queued.]",
   "final": "",
   "final_source": "none",
   "l4": null,

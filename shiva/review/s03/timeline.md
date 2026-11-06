@@ -1,16 +1,26 @@
-# Holds timeline
+# Holds timeline — planning view
 
-White is the default. Cards interrupt; white returns at section breaks,
-[long pause] beats, and dialogue entries. Proposed (unconfirmed) glosses
-do NOT render — their mentions play over white until confirmed.
+Complete storyboard-order event and term-mention plan; times are not measured.
+Confirmed mentions can appear as cards. Proposed mentions remain white.
+Use video metadata and proof frames to judge actual onsets and persistence.
 
-start: THUMBNAIL (opener image, bell + intro until first verse)
-b1: TITLE card
-b2: VERSE card (योनिवर्गः कलाशरीरम्)
-b3: TERM yonivargah ( — ) [proposed — white until confirmed]
-b3: TERM kalasariram ( — ) [proposed — white until confirmed]
-b8: TERM anavamala ( — ) [proposed — white until confirmed]
-b10: WHITE (tone break)
-b14: TERM mayiyamala ( — ) [proposed — white until confirmed]
-b23: TERM karmamala ( — ) [proposed — white until confirmed]
-b34: TERM kalasarira ( — ) [proposed — white until confirmed]
+b_opener: thumbnail / opener
+b1: TITLE — Śiva Sūtras 1.3
+b1: TONE BREAK
+b2: VERSE — योनिवर्गः कलाशरीरम्
+b2 word 1: TERM yonivargah ( — ) [PROPOSED — white]
+b2 word 2: TERM kalasariram ( — ) [PROPOSED — white]
+b3 word 1: TERM yonivargah ( — ) [PROPOSED — white]
+b3 word 2: TERM kalasariram ( — ) [PROPOSED — white]
+b9 word 1: TERM anavamala ( — ) [PROPOSED — white]
+b11: TONE BREAK
+b12: TONE BREAK
+b13: TONE BREAK
+b15 word 1: TERM mayiyamala ( — ) [PROPOSED — white]
+b24 word 1: TERM karmamala ( — ) [PROPOSED — white]
+b26: TONE BREAK
+b27: TONE BREAK
+b28: TONE BREAK
+b35 word 8: TERM kalasarira ( — ) [PROPOSED — white]
+b35 word 32: TERM mayiyamala ( — ) [PROPOSED — white]
+b35 word 34: TERM karmamala ( — ) [PROPOSED — white]

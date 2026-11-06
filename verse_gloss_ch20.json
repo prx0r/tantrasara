@@ -9,14 +9,15 @@
   "final": "",
   "final_source": "none",
   "l4": null,
-  "status": "proposed"
+  "status": "confirmed",
+  "note": " | kept confirmed (ralph loop re-mine preserved prior confirm)"
  },
  "abhts_20.12": {
   "bids": [
    "b527"
   ],
   "match_key": "adhisayyaparamarthikabhavaprasaramprakasamullasatiyaparamamrtadrktvamtayarcayanterahasyavidahadhisayyaparamarthikabhavaprasaramprakasamullasatiya",
-  "match_score": 0.53,
+  "match_score": 0.71,
   "literal": "Abiding-upon (adhiśayya) paramārthika (pāramārthikaḥ) thing-flow (bhāvaprasaraṃ) shines (prakāśam ullasati) which (yā)",
   "final": "",
   "final_source": "none",
@@ -33,6 +34,19 @@
   "final": "",
   "final_source": "none",
   "l4": null,
+  "status": "confirmed",
+  "note": " | kept confirmed (ralph loop re-mine preserved prior confirm)"
+ },
+ "abhts_20.14": {
+  "bids": [
+   "b567"
+  ],
+  "match_key": "krtvadharadharamcamatkrtirasaproksaksanaksalitamattairmanasatahsvabhavakusumaihsvamodasandohibhihanandamrtanirbharasvahrdayanargharghapatrakramattvamdevyasahadehadevasadanedevarcayeharnisamkrtvadharadharamcamatkrtirasaproksaksanaksalitamattairmanasatahsvabhavakusumaihsvamodasandohibhih",
+  "match_score": 0.66,
+  "literal": "Having-made-base (kṛtvādhāradharāṃ) wonder- sap-sprinkled-instant-washed (camatkṛtirasaprokṣākṣaṇakṣālitām) by-taken (āttaiḥ) inward (mānasataḥ) own-nature-flowers (svabhāvakusumaiḥ) own-sap-mass-ones (svāmodasaṃdohibhiḥ)",
+  "final": "",
+  "final_source": "none",
+  "l4": null,
   "status": "proposed"
  },
  "abhts_20.24": {
@@ -40,12 +54,13 @@
    "b809"
   ],
   "match_key": "sarvatraparamesvarabhedabhimanaevaparamahsamskarahsarvatraparamesvarabhedabhimanaevaparamahsamskarah",
-  "match_score": 0.66,
+  "match_score": 0.99,
   "literal": "Everywhere (sarvatra) Lord-nondifference-conceit (parameśvarābhedābhimānaḥ eva) supreme (paramaḥ) sacrament (saṃskāraḥ)",
   "final": "",
   "final_source": "none",
   "l4": null,
-  "status": "proposed"
+  "status": "confirmed",
+  "note": " | kept confirmed (ralph loop re-mine preserved prior confirm)"
  },
  "abhts_20.39": {
   "bids": [

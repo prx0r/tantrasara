@@ -1,6 +1,6 @@
 # Review — shiva s74
 
-90 blocks. Voices: granny=83, man=3, none=1, verse=3.
+91 blocks. Voices: granny=84, man=3, none=1, verse=3.
 Confirmed glossary terms (0): none.
 
 ## b_opener · opener · none · [opener]
@@ -17,348 +17,352 @@ Confirmed glossary terms (0): none.
 
 ## b3 · narration · granny · [Śiva Sūtras 3.42]
 
-Bhūtakañcukī tadā vimukto bhūyaḥ patisamaḥ paraḥ. / Then, though still clothed in the elements, one is liberated, supremely complete, and like the Lord.
+Bhūtakañcukī tadā vimukto bhūyaḥ patisamaḥ paraḥ.
 
 ## b4 · narration · granny · [Śiva Sūtras 3.42]
 
-You’re Free, but You’ve Still Got to Wear the Meat Suit.
+Then, though still clothed in the elements, one is liberated, supremely complete, and like the Lord.
 
 ## b5 · narration · granny · [Śiva Sūtras 3.42]
 
-Oh, this is absolutely magnificent.
+You’re Free, but You’ve Still Got to Wear the Meat Suit.
 
 ## b6 · narration · granny · [Śiva Sūtras 3.42]
 
-Because Kṣemarāja explicitly raises the objection.
+Oh, this is absolutely magnificent.
 
 ## b7 · narration · granny · [Śiva Sūtras 3.42]
 
-If the conditioned individual has been dissolved, shouldn’t the body disappear as well?
+Because Kṣemarāja explicitly raises the objection.
 
 ## b8 · narration · granny · [Śiva Sūtras 3.42]
 
-And yet liberated yogis are described as continuing to live.
+If the conditioned individual has been dissolved, shouldn’t the body disappear as well?
 
 ## b9 · narration · granny · [Śiva Sūtras 3.42]
 
-How is that possible?
+And yet liberated yogis are described as continuing to live.
 
 ## b10 · narration · granny · [Śiva Sūtras 3.42]
 
-Let’s unpack the Sanskrit.
+How is that possible?
 
 ## b11 · narration · granny · [Śiva Sūtras 3.42]
 
-Bhūta — element.
+Let’s unpack the Sanskrit.
 
 ## b12 · narration · granny · [Śiva Sūtras 3.42]
 
-Kañcuka — covering, cloak, sheath.
+Bhūta — element.
 
 ## b13 · narration · granny · [Śiva Sūtras 3.42]
 
-Bhūtakañcukī — one clothed in the elements.
+Kañcuka — covering, cloak, sheath.
 
 ## b14 · narration · granny · [Śiva Sūtras 3.42]
 
-Tadā — then.
+Bhūtakañcukī — one clothed in the elements.
 
 ## b15 · narration · granny · [Śiva Sūtras 3.42]
 
-Vimuktaḥ — liberated.
+Tadā — then.
 
 ## b16 · narration · granny · [Śiva Sūtras 3.42]
 
-Bhūyaḥ — abundantly, fully, further.
+Vimuktaḥ — liberated.
 
 ## b17 · narration · granny · [Śiva Sūtras 3.42]
 
-Patisamaḥ — equal to the Lord.
+Bhūyaḥ — abundantly, fully, further.
 
 ## b18 · narration · granny · [Śiva Sūtras 3.42]
 
-Paraḥ — supreme, transcendent, complete.
+Patisamaḥ — equal to the Lord.
 
 ## b19 · narration · granny · [Śiva Sūtras 3.42]
 
-Now, bhūtakañcukī is a magnificent word.
+Paraḥ — supreme, transcendent, complete.
 
 ## b20 · narration · granny · [Śiva Sūtras 3.42]
 
-The one wearing the elements as a cloak.
+Now, bhūtakañcukī is a magnificent word.
 
 ## b21 · narration · granny · [Śiva Sūtras 3.42]
 
-And that’s precisely the image Kṣemarāja uses.
+The one wearing the elements as a cloak.
 
 ## b22 · narration · granny · [Śiva Sūtras 3.42]
 
-The body is constituted by the elements.
+And that’s precisely the image Kṣemarāja uses.
 
 ## b23 · narration · granny · [Śiva Sūtras 3.42]
 
-It remains present.
+The body is constituted by the elements.
 
 ## b24 · narration · granny · [Śiva Sūtras 3.42]
 
-But the realised yogi no longer identifies those elements as the ultimate Self.
+It remains present.
 
 ## b25 · narration · granny · [Śiva Sūtras 3.42]
 
-The body is like clothing.
+But the realised yogi no longer identifies those elements as the ultimate Self.
 
 ## b26 · narration · granny · [Śiva Sūtras 3.42]
 
-Not in the sense that it should be neglected or physically disregarded.
+The body is like clothing.
 
 ## b27 · narration · granny · [Śiva Sūtras 3.42]
 
-But in the sense that the Self is not fundamentally reducible to the garment it wears.
+Not in the sense that it should be neglected or physically disregarded.
 
 ## b28 · narration · granny · [Śiva Sūtras 3.42]
 
-Imagine an actor wearing a costume.
+But in the sense that the Self is not fundamentally reducible to the garment it wears.
 
 ## b29 · narration · granny · [Śiva Sūtras 3.42]
 
-A king’s robe.
+Imagine an actor wearing a costume.
 
 ## b30 · narration · granny · [Śiva Sūtras 3.42]
 
-A crown.
+A king’s robe.
 
 ## b31 · narration · granny · [Śiva Sūtras 3.42]
 
-A sword.
+A crown.
 
 ## b32 · narration · granny · [Śiva Sūtras 3.42]
 
-The costume helps manifest the role.
+A sword.
 
 ## b33 · narration · granny · [Śiva Sūtras 3.42]
 
-But the actor isn’t fundamentally identical with the costume.
+The costume helps manifest the role.
 
 ## b34 · narration · granny · [Śiva Sūtras 3.42]
 
-They can continue wearing it while knowing perfectly well that it isn’t their ultimate identity.
+But the actor isn’t fundamentally identical with the costume.
 
 ## b35 · narration · granny · [Śiva Sūtras 3.42]
 
-And here we return, once again, to the cosmic theatre.
+They can continue wearing it while knowing perfectly well that it isn’t their ultimate identity.
 
 ## b36 · narration · granny · [Śiva Sūtras 3.42]
 
-The dancer.
+And here we return, once again, to the cosmic theatre.
 
 ## b37 · narration · granny · [Śiva Sūtras 3.42]
 
-The stage.
+The dancer.
 
 ## b38 · narration · granny · [Śiva Sūtras 3.42]
 
-The spectators.
+The stage.
 
 ## b39 · narration · granny · [Śiva Sūtras 3.42]
 
-The costume.
+The spectators.
 
 ## b40 · narration · granny · [Śiva Sūtras 3.42]
 
-The entire performance.
+The costume.
 
 ## b41 · narration · granny · [Śiva Sūtras 3.42]
 
-But now the actor has recognised the conscious reality underlying the role.
+The entire performance.
 
 ## b42 · narration · granny · [Śiva Sūtras 3.42]
 
-And therefore the costume no longer conceals their identity.
+But now the actor has recognised the conscious reality underlying the role.
 
 ## b43 · narration · granny · [Śiva Sūtras 3.42]
 
+And therefore the costume no longer conceals their identity.
+
+## b44 · narration · granny · [Śiva Sūtras 3.42]
+
 This is Kṣemarāja’s understanding of liberated embodiment.
 
-## b44 · verse · verse · [Śiva Sūtras 3.42]
+## b45 · verse · verse · [Śiva Sūtras 3.42]
 
 Jīvanmukti.
 
-## b45 · narration · granny · [Śiva Sūtras 3.42]
+## b46 · narration · granny · [Śiva Sūtras 3.42]
 
 Liberation while living.
 
-## b46 · narration · granny · [Śiva Sūtras 3.42]
+## b47 · narration · granny · [Śiva Sūtras 3.42]
 
 Now here’s an important detail.
 
-## b47 · narration · granny · [Śiva Sūtras 3.42]
+## b48 · narration · granny · [Śiva Sūtras 3.42]
 
 Kṣemarāja explicitly connects 3.42 back to 3.26.
 
-## b48 · narration · granny · [Śiva Sūtras 3.42]
+## b49 · narration · granny · [Śiva Sūtras 3.42]
 
 Remember:
 
-## b49 · verse · verse · [Śiva Sūtras 3.42]
+## b50 · verse · verse · [Śiva Sūtras 3.42]
 
 शरीरवृत्तिर्व्रतम्।
 
-## b50 · narration · granny · [Śiva Sūtras 3.42]
+## b51 · narration · granny · [Śiva Sūtras 3.42]
 
 Śarīravṛttir vratam.
 
-## b51 · narration · granny · [Śiva Sūtras 3.42]
+## b52 · narration · granny · [Śiva Sūtras 3.42]
 
 The continuation of the body is the vow.
 
-## b52 · narration · granny · [Śiva Sūtras 3.42]
+## b53 · narration · granny · [Śiva Sūtras 3.42]
 
 The realised yogi’s body continues to function.
 
-## b53 · narration · granny · [Śiva Sūtras 3.42]
+## b54 · narration · granny · [Śiva Sūtras 3.42]
 
 And that continuation is no longer understood as evidence of fundamental bondage.
 
-## b54 · narration · granny · [Śiva Sūtras 3.42]
+## b55 · narration · granny · [Śiva Sūtras 3.42]
 
 The body may remain as a residual condition of manifestation.
 
-## b55 · narration · granny · [Śiva Sūtras 3.42]
+## b56 · narration · granny · [Śiva Sūtras 3.42]
 
 But the yogi is not governed by identification with it as the supreme subject.
 
-## b56 · narration · granny · [Śiva Sūtras 3.42]
+## b57 · narration · granny · [Śiva Sūtras 3.42]
 
 Kṣemarāja invokes several tantric sources, including the Kularatnamālā, Netratantra and Kulasāra, in support of this liberated condition.
 
-## b57 · narration · granny · [Śiva Sūtras 3.42]
+## b58 · narration · granny · [Śiva Sūtras 3.42]
 
 Some of those sources also claim that genuine recognition can bring liberation immediately and that the realised adept may communicate liberation to others.
 
-## b58 · narration · granny · [Śiva Sūtras 3.42]
-
-These are traditional theological and yogic claims, not empirically established powers. Sanskrit & Trika Shaivism
-
 ## b59 · narration · granny · [Śiva Sūtras 3.42]
 
-Now consider the philosophical beauty.
+These are traditional theological and yogic claims, not empirically established powers. Sanskrit & Trika Shaivism.
 
 ## b60 · narration · granny · [Śiva Sūtras 3.42]
 
-The limited individual has not been transformed into a second, independently existing god.
+Now consider the philosophical beauty.
 
 ## b61 · narration · granny · [Śiva Sūtras 3.42]
 
-The universal conscious nature has been recognised.
+The limited individual has not been transformed into a second, independently existing god.
 
 ## b62 · narration · granny · [Śiva Sūtras 3.42]
 
-And therefore the body is no longer the fundamental boundary of the Self.
+The universal conscious nature has been recognised.
 
 ## b63 · narration · granny · [Śiva Sūtras 3.42]
 
-But the body can continue.
+And therefore the body is no longer the fundamental boundary of the Self.
 
 ## b64 · narration · granny · [Śiva Sūtras 3.42]
 
-And the universe can continue.
+But the body can continue.
 
 ## b65 · narration · granny · [Śiva Sūtras 3.42]
 
-The problem wasn’t simply the presence of embodiment.
+And the universe can continue.
 
 ## b66 · narration · granny · [Śiva Sūtras 3.42]
 
-It was the misidentification of the Self with the limited embodied subject.
+The problem wasn’t simply the presence of embodiment.
 
 ## b67 · narration · granny · [Śiva Sūtras 3.42]
 
-And here’s the remarkable consequence.
+It was the misidentification of the Self with the limited embodied subject.
 
 ## b68 · narration · granny · [Śiva Sūtras 3.42]
 
-Liberation doesn’t necessarily require physical disappearance.
+And here’s the remarkable consequence.
 
 ## b69 · narration · granny · [Śiva Sūtras 3.42]
 
-Which is excellent news.
+Liberation doesn’t necessarily require physical disappearance.
 
 ## b70 · narration · granny · [Śiva Sūtras 3.42]
 
-Because otherwise the only proof of enlightenment would be that somebody had vanished.
+Which is excellent news.
 
 ## b71 · narration · granny · [Śiva Sūtras 3.42]
 
+Because otherwise the only proof of enlightenment would be that somebody had vanished.
+
+## b72 · narration · granny · [Śiva Sūtras 3.42]
+
 And there’d be a very awkward administrative problem at every monastery.
 
-## b72 · dialogue · man · [Śiva Sūtras 3.42]
+## b73 · dialogue · man · [Śiva Sūtras 3.42]
 
 “Where’s the teacher?”
 
-## b73 · dialogue · granny · [Śiva Sūtras 3.42]
+## b74 · dialogue · granny · [Śiva Sūtras 3.42]
 
 “Enlightened.”
 
-## b74 · dialogue · man · [Śiva Sūtras 3.42]
+## b75 · dialogue · man · [Śiva Sūtras 3.42]
 
 “Right. When will he be back?”
 
-## b75 · dialogue · granny · [Śiva Sūtras 3.42]
+## b76 · dialogue · granny · [Śiva Sūtras 3.42]
 
 “Never.”
 
-## b76 · dialogue · man · [Śiva Sūtras 3.42]
+## b77 · dialogue · man · [Śiva Sūtras 3.42]
 
 “Well, who’s teaching Sanskrit on Tuesday?”
 
-## b77 · narration · granny · [Śiva Sūtras 3.42]
+## b78 · narration · granny · [Śiva Sūtras 3.42]
 
 But Kṣemarāja’s liberated yogi remains capable of living.
 
-## b78 · narration · granny · [Śiva Sūtras 3.42]
+## b79 · narration · granny · [Śiva Sūtras 3.42]
 
 Teaching.
 
-## b79 · narration · granny · [Śiva Sūtras 3.42]
+## b80 · narration · granny · [Śiva Sūtras 3.42]
 
 Speaking.
 
-## b80 · narration · granny · [Śiva Sūtras 3.42]
+## b81 · narration · granny · [Śiva Sūtras 3.42]
 
 Acting.
 
-## b81 · narration · granny · [Śiva Sūtras 3.42]
+## b82 · narration · granny · [Śiva Sūtras 3.42]
 
 The body persists.
 
-## b82 · narration · granny · [Śiva Sūtras 3.42]
+## b83 · narration · granny · [Śiva Sūtras 3.42]
 
 The consciousness is recognised.
 
-## b83 · narration · granny · [Śiva Sūtras 3.42]
+## b84 · narration · granny · [Śiva Sūtras 3.42]
 
 The play continues.
 
-## b84 · narration · granny · [Śiva Sūtras 3.42]
+## b85 · narration · granny · [Śiva Sūtras 3.42]
 
 And now we reach the final three sūtras.
 
-## b85 · narration · granny · [Śiva Sūtras 3.42]
+## b86 · narration · granny · [Śiva Sūtras 3.42]
 
 We’re almost finished.
 
-## b86 · narration · granny · [Śiva Sūtras 3.42]
+## b87 · narration · granny · [Śiva Sūtras 3.42]
 
 But Vasugupta has one last technical problem to resolve.
 
-## b87 · narration · granny · [Śiva Sūtras 3.42]
+## b88 · narration · granny · [Śiva Sūtras 3.42]
 
 Why does the body remain connected to life and breath after liberation?
 
-## b88 · narration · granny · [Śiva Sūtras 3.42]
+## b89 · narration · granny · [Śiva Sūtras 3.42]
 
 And the answer brings us back to the deepest relationship between consciousness and prāṇa.
 
-## b89 · narration · granny · [Śiva Sūtras 3.42]
+## b90 · narration · granny · [Śiva Sūtras 3.42]
 
 Because apparently Śiva has been breathing through the entire performance.

@@ -1,27 +1,34 @@
-# Holds timeline
+# Holds timeline — planning view
 
-White is the default. Cards interrupt; white returns at section breaks,
-[long pause] beats, and dialogue entries. Proposed (unconfirmed) glosses
-do NOT render — their mentions play over white until confirmed.
+Complete storyboard-order event and term-mention plan; times are not measured.
+Confirmed mentions can appear as cards. Proposed mentions remain white.
+Use video metadata and proof frames to judge actual onsets and persistence.
 
-start: THUMBNAIL (opener image, bell + intro until first verse)
-b1: TITLE card
-b2: VERSE card (नाडीसंहारभूतजयभूतकैवल्यभूतपृथक्त्वानि)
-b3: TERM nadisamhara-bhutajaya-bhutakaivalya-bhutaprthaktvani ( — ) [proposed — white until confirmed]
-b11: TERM nadisamhara ( — ) [proposed — white until confirmed]
-b11: TERM nadi ( — ) [proposed — white until confirmed]
-b11: TERM prana ( — ) [proposed — white until confirmed]
-b12: TERM samhara ( — ) [proposed — white until confirmed]
-b16: TERM apana ( — ) [proposed — white until confirmed]
-b17: TERM udana ( — ) [proposed — white until confirmed]
-b28: TERM bhutajaya ( — ) [proposed — white until confirmed]
-b28: TERM bhuta ( — ) [proposed — white until confirmed]
-b36: TERM dharanas ( — ) [proposed — white until confirmed]
-b42: TERM bhutakaivalya ( — ) [proposed — white until confirmed]
-b43: TERM pratyahara ( — ) [proposed — white until confirmed]
-b56: TERM bhutaprthaktva ( — ) [proposed — white until confirmed]
-b57: TERM prthaktva ( — ) [proposed — white until confirmed]
-b62: TERM samadhi ( — ) [proposed — white until confirmed]
-b63: TERM pranayama ( — ) [proposed — white until confirmed]
-b63: TERM dharana ( — ) [proposed — white until confirmed]
-b70: TERM anavopaya ( — ) [proposed — white until confirmed]
+b_opener: thumbnail / opener
+b1: TITLE — Śiva Sūtras 3.5
+b1: TONE BREAK
+b2: VERSE — नाडीसंहारभूतजयभूतकैवल्यभूतपृथक्त्वानि
+b3 word 1: TERM nadisamhara-bhutajaya-bhutakaivalya-bhutaprthaktvani ( — ) [PROPOSED — white]
+b12 word 1: TERM nadisamhara ( — ) [PROPOSED — white]
+b12 word 6: TERM nadi ( — ) [PROPOSED — white]
+b12 word 14: TERM prana ( — ) [PROPOSED — white]
+b13 word 1: TERM samhara ( — ) [PROPOSED — white]
+b16 word 1: TERM prana ( — ) [PROPOSED — white]
+b17 word 1: TERM apana ( — ) [PROPOSED — white]
+b18 word 1: TERM udana ( — ) [PROPOSED — white]
+b20: VERSE — Suṣumṇā.
+b21 word 16: TERM prana ( — ) [PROPOSED — white]
+b21 word 18: TERM apana ( — ) [PROPOSED — white]
+b21 word 24: TERM udana ( — ) [PROPOSED — white]
+b29 word 1: TERM bhutajaya ( — ) [PROPOSED — white]
+b29 word 6: TERM bhuta ( — ) [PROPOSED — white]
+b37 word 9: TERM dharanas ( — ) [PROPOSED — white]
+b43 word 1: TERM bhutakaivalya ( — ) [PROPOSED — white]
+b44 word 7: TERM pratyahara ( — ) [PROPOSED — white]
+b57 word 1: TERM bhutaprthaktva ( — ) [PROPOSED — white]
+b58 word 1: TERM prthaktva ( — ) [PROPOSED — white]
+b63 word 6: TERM samadhi ( — ) [PROPOSED — white]
+b64 word 10: TERM pranayama ( — ) [PROPOSED — white]
+b64 word 11: TERM dharana ( — ) [PROPOSED — white]
+b64 word 12: TERM pratyahara ( — ) [PROPOSED — white]
+b71 word 3: TERM anavopaya ( — ) [PROPOSED — white]

@@ -3,8 +3,11 @@
   "deva": "यथा तत्र तथान्यत्र",
   "iast": "Yathā tatra tathānyatra.",
   "literal": "As there, so elsewhere.",
-  "status": "proposed",
+  "status": "confirmed",
   "chant": "b2",
-  "note": "author gloss line, owner bulk-confirms"
+  "note": "author gloss line, owner bulk-confirms | bulk-confirmed (owner blanket bless 2026-11-06; pairing audited by shared verse_match_key)",
+  "bids": [
+   "b2"
+  ]
  }
 }

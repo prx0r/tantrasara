@@ -1,22 +1,34 @@
-# Holds timeline
+# Holds timeline — planning view
 
-White is the default. Cards interrupt; white returns at section breaks,
-[long pause] beats, and dialogue entries. Proposed (unconfirmed) glosses
-do NOT render — their mentions play over white until confirmed.
+Complete storyboard-order event and term-mention plan; times are not measured.
+Confirmed mentions can appear as cards. Proposed mentions remain white.
+Use video metadata and proof frames to judge actual onsets and persistence.
 
-start: THUMBNAIL (opener image, bell + intro until first verse)
-b1: TITLE card
-b2: VERSE card (मग्नः स्वचित्तेन प्रविशेत्)
-b3: TERM magnah ( — ) [proposed — white until confirmed]
-b3: TERM praviset ( — ) [proposed — white until confirmed]
-b15: TERM atma ( — ) [proposed — white until confirmed]
-b21: TERM anavopaya ( — ) [proposed — white until confirmed]
-b26: TERM pra-vis ( — ) [proposed — white until confirmed]
-b47: TERM pranayama ( — ) [proposed — white until confirmed]
-b66: TERM vimarsa ( — ) [proposed — white until confirmed]
-b68: TERM camatkara ( — ) [proposed — white until confirmed]
-b79: TERM vijnanabhairava ( — ) [proposed — white until confirmed]
-b79: TERM pradyumnabhatta ( — ) [proposed — white until confirmed]
-b101: WHITE (tone break)
-b106: FIGURE card
-b107: WHITE (tone break)
+b_opener: thumbnail / opener
+b1: TITLE — Śiva Sūtras 3.21
+b1: TONE BREAK
+b2: VERSE — मग्नः स्वचित्तेन प्रविशेत्
+b2 word 1: TERM magnah ( — ) [PROPOSED — white]
+b2 word 3: TERM praviset ( — ) [PROPOSED — white]
+b3 word 1: TERM magnah ( — ) [PROPOSED — white]
+b3 word 3: TERM praviset ( — ) [PROPOSED — white]
+b15: VERSE — आत्मा चित्तम्।
+b15 word 1: TERM atma ( — ) [PROPOSED — white]
+b16 word 1: TERM atma ( — ) [PROPOSED — white]
+b22 word 3: TERM anavopaya ( — ) [PROPOSED — white]
+b24 word 1: TERM magnah ( — ) [PROPOSED — white]
+b27 word 1: TERM praviset ( — ) [PROPOSED — white]
+b27 word 6: TERM pra-vis ( — ) [PROPOSED — white]
+b48 word 15: TERM pranayama ( — ) [PROPOSED — white]
+b65: VERSE — Antarvimarśa-camatkāra.
+b67 word 4: TERM vimarsa ( — ) [PROPOSED — white]
+b69 word 2: TERM camatkara ( — ) [PROPOSED — white]
+b80 word 6: TERM vijnanabhairava ( — ) [PROPOSED — white]
+b80 word 14: TERM pradyumnabhatta ( — ) [PROPOSED — white]
+b102: TONE BREAK
+b103: TONE BREAK
+b104: TONE BREAK
+b105: TONE BREAK
+b106: TONE BREAK
+b107: FIGURE — “I’VE GOT A THIRTY-SIX-TATTVA SPREADSHEET.”
+b108: TONE BREAK

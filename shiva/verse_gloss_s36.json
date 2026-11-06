@@ -3,8 +3,11 @@
   "deva": "शरीरे संहारः कलानाम्",
   "iast": "Śarīre saṃhāraḥ kalānām.",
   "literal": "In the body, the dissolution of the constituent powers or parts.",
-  "status": "proposed",
+  "status": "confirmed",
   "chant": "b2",
-  "note": "author gloss line, owner bulk-confirms"
+  "note": "author gloss line, owner bulk-confirms | bulk-confirmed (owner blanket bless 2026-11-06; pairing audited by shared verse_match_key)",
+  "bids": [
+   "b2"
+  ]
  }
 }

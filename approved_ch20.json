@@ -1,6 +1,6 @@
 {
- "date": "2026-11-05",
- "storyboard_sha": "2681f0e143f553bc1f128c3464d29d1144936c4d5c671c67e53fe3b01bb3510d",
- "glossary_sha": "bd2ff96b221af25d1fb49bf996ec7012a47df6033e0329d044bd414b09a20fb9",
- "note": "bulk-confirm deva (owner blanket order: use devanagari + hold); casting bless stands; revocable"
+  "date": "2026-11-06",
+  "storyboard_sha": "2681f0e143f553bc1f128c3464d29d1144936c4d5c671c67e53fe3b01bb3510d",
+  "glossary_sha": "7f1829dca5e2ead4927d39f83b4e2c399a87297fc0571814d4ba2ca655876134",
+  "note": "owner blanket bless 2026-11-06 + Deva round-trip verification (157 machine-verified vs author IAST, 499 unverifiable flipped to proposed/white) | ralph loop refresh | ralph loop refresh | agent T1-confirm pass (owner gate removed 2026-11-06) | agent T1-confirm pass (owner gate removed 2026-11-06) | agent T1-confirm pass (owner gate removed 2026-11-06)"
 }

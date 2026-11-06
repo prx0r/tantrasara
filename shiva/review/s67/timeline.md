@@ -1,24 +1,33 @@
-# Holds timeline
+# Holds timeline — planning view
 
-White is the default. Cards interrupt; white returns at section breaks,
-[long pause] beats, and dialogue entries. Proposed (unconfirmed) glosses
-do NOT render — their mentions play over white until confirmed.
+Complete storyboard-order event and term-mention plan; times are not measured.
+Confirmed mentions can appear as cards. Proposed mentions remain white.
+Use video metadata and proof frames to judge actual onsets and persistence.
 
-start: THUMBNAIL (opener image, bell + intro until first verse)
-b1: TITLE card
-b2: VERSE card (मोहप्रतिसंहतस्तु कर्मात्मा)
-b3: TERM mohapratisamhatas ( — ) [proposed — white until confirmed]
-b3: TERM karmatma ( — ) [proposed — white until confirmed]
-b10: TERM kevali ( — ) [proposed — white until confirmed]
-b16: TERM pratisamhata ( — ) [proposed — white until confirmed]
-b18: TERM atma ( — ) [proposed — white until confirmed]
-b19: TERM mohapratisamhata ( — ) [proposed — white until confirmed]
-b22: WHITE (tone break)
-b31: TERM subha ( — ) [proposed — white until confirmed]
-b33: VERSE card (Aśubha.)
-b41: WHITE (tone break)
-b46: TERM anavamala ( — ) [proposed — white until confirmed]
-b47: TERM mayiyamala ( — ) [proposed — white until confirmed]
-b48: TERM karmamala ( — ) [proposed — white until confirmed]
-b53: TERM kalikakrama ( — ) [proposed — white until confirmed]
-b77: TERM saktipata ( — ) [proposed — white until confirmed]
+b_opener: thumbnail / opener
+b1: TITLE — Śiva Sūtras 3.35
+b1: TONE BREAK
+b2: VERSE — मोहप्रतिसंहतस्तु कर्मात्मा
+b2 word 2: TERM karmatma ( — ) [PROPOSED — white]
+b3 word 1: TERM mohapratisamhatas ( — ) [PROPOSED — white]
+b3 word 3: TERM karmatma ( — ) [PROPOSED — white]
+b11: VERSE — Kevalī.
+b11 word 1: TERM kevali ( — ) [PROPOSED — white]
+b13: VERSE — Karmātmā.
+b13 word 1: TERM karmatma ( — ) [PROPOSED — white]
+b17 word 1: TERM pratisamhata ( — ) [PROPOSED — white]
+b19 word 1: TERM atma ( — ) [PROPOSED — white]
+b20 word 2: TERM mohapratisamhata ( — ) [PROPOSED — white]
+b23: TONE BREAK
+b32 word 1: TERM subha ( — ) [PROPOSED — white]
+b34: VERSE — Aśubha.
+b42: TONE BREAK
+b43: TONE BREAK
+b44: TONE BREAK
+b47 word 1: TERM anavamala ( — ) [PROPOSED — white]
+b48 word 1: TERM mayiyamala ( — ) [PROPOSED — white]
+b49 word 1: TERM karmamala ( — ) [PROPOSED — white]
+b54 word 4: TERM kalikakrama ( — ) [PROPOSED — white]
+b58 word 2: TERM kevali ( — ) [PROPOSED — white]
+b59 word 2: TERM karmatma ( — ) [PROPOSED — white]
+b78 word 4: TERM saktipata ( — ) [PROPOSED — white]

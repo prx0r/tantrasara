@@ -1,6 +1,6 @@
 # Review — shiva s65
 
-100 blocks. Voices: granny=94, man=2, none=1, verse=3.
+101 blocks. Voices: granny=95, man=2, none=1, verse=3.
 Confirmed glossary terms (0): none.
 
 ## b_opener · opener · none · [opener]
@@ -21,384 +21,388 @@ Sukhaduḥkhayor bahirmananam.
 
 ## b4 · narration · granny · [Śiva Sūtras 3.33]
 
-Regarding pleasure and pain as external. / You’re Experiencing Pain. You Don’t Have to Become the Entire Concept of Pain.
+Regarding pleasure and pain as external.
 
 ## b5 · narration · granny · [Śiva Sūtras 3.33]
 
-Now, this is a genuinely subtle teaching.
+You’re Experiencing Pain. You Don’t Have to Become the Entire Concept of Pain.
 
 ## b6 · narration · granny · [Śiva Sūtras 3.33]
 
-And one that could be very easily misunderstood.
+Now, this is a genuinely subtle teaching.
 
 ## b7 · narration · granny · [Śiva Sūtras 3.33]
 
-So let’s get the Sanskrit right.
+And one that could be very easily misunderstood.
 
 ## b8 · narration · granny · [Śiva Sūtras 3.33]
 
-Sukha — pleasure, happiness, ease.
+So let’s get the Sanskrit right.
 
 ## b9 · narration · granny · [Śiva Sūtras 3.33]
 
-Duḥkha — pain, suffering, distress.
+Sukha — pleasure, happiness, ease.
 
 ## b10 · narration · granny · [Śiva Sūtras 3.33]
 
--yoḥ — dual genitive ending, referring to both.
+Duḥkha — pain, suffering, distress.
 
 ## b11 · narration · granny · [Śiva Sūtras 3.33]
 
-Bahiḥ — outside, external.
+-yoḥ — dual genitive ending, referring to both.
 
 ## b12 · narration · granny · [Śiva Sūtras 3.33]
 
-Mananam — considering, apprehending, reflecting.
+Bahiḥ — outside, external.
 
 ## b13 · narration · granny · [Śiva Sūtras 3.33]
 
-So:
+Mananam — considering, apprehending, reflecting.
 
 ## b14 · narration · granny · [Śiva Sūtras 3.33]
 
-The yogi apprehends pleasure and pain as something external to their true conscious identity.
+So:
 
 ## b15 · narration · granny · [Śiva Sūtras 3.33]
 
-Now hang on.
+The yogi apprehends pleasure and pain as something external to their true conscious identity.
 
 ## b16 · narration · granny · [Śiva Sūtras 3.33]
 
-Surely pain is experienced internally?
+Now hang on.
 
 ## b17 · narration · granny · [Śiva Sūtras 3.33]
 
-If you have a headache, you don’t ordinarily experience it as occurring inside a distant mountain.
+Surely pain is experienced internally?
 
 ## b18 · narration · granny · [Śiva Sūtras 3.33]
 
-It’s happening here.
+If you have a headache, you don’t ordinarily experience it as occurring inside a distant mountain.
 
 ## b19 · narration · granny · [Śiva Sūtras 3.33]
 
-And if you’re happy, that happiness is part of your lived experience.
+It’s happening here.
 
 ## b20 · narration · granny · [Śiva Sūtras 3.33]
 
-So what on earth does Kṣemarāja mean by external?
+And if you’re happy, that happiness is part of your lived experience.
 
 ## b21 · narration · granny · [Śiva Sūtras 3.33]
 
-He doesn’t mean pleasure and pain are physically located outside the body.
+So what on earth does Kṣemarāja mean by external?
 
 ## b22 · narration · granny · [Śiva Sūtras 3.33]
 
-He’s making a distinction between:
+He doesn’t mean pleasure and pain are physically located outside the body.
 
 ## b23 · narration · granny · [Śiva Sūtras 3.33]
 
-Aham — the fundamental I-consciousness.
+He’s making a distinction between:
 
 ## b24 · narration · granny · [Śiva Sūtras 3.33]
 
-And:
+Aham — the fundamental I-consciousness.
 
 ## b25 · narration · granny · [Śiva Sūtras 3.33]
 
-Idam — the realm of appearing objects and experiences.
+And:
 
 ## b26 · narration · granny · [Śiva Sūtras 3.33]
 
-In ordinary life, we don’t merely experience pleasure or pain.
+Idam — the realm of appearing objects and experiences.
 
 ## b27 · narration · granny · [Śiva Sūtras 3.33]
 
+In ordinary life, we don’t merely experience pleasure or pain.
+
+## b28 · narration · granny · [Śiva Sūtras 3.33]
+
 We identify with them.
 
-## b28 · dialogue · man · [Śiva Sūtras 3.33]
+## b29 · dialogue · man · [Śiva Sūtras 3.33]
 
 “I am happy.”
 
-## b29 · dialogue · granny · [Śiva Sūtras 3.33]
+## b30 · dialogue · granny · [Śiva Sūtras 3.33]
 
 “I am miserable.”
 
-## b30 · dialogue · man · [Śiva Sūtras 3.33]
+## b31 · dialogue · man · [Śiva Sūtras 3.33]
 
 “I am suffering.”
 
-## b31 · narration · granny · [Śiva Sūtras 3.33]
+## b32 · narration · granny · [Śiva Sūtras 3.33]
 
 And those statements can become deeply entangled with our sense of identity.
 
-## b32 · narration · granny · [Śiva Sūtras 3.33]
+## b33 · narration · granny · [Śiva Sūtras 3.33]
 
 Now, Kṣemarāja says that the realised yogi experiences pleasure and pain differently.
 
-## b33 · narration · granny · [Śiva Sūtras 3.33]
+## b34 · narration · granny · [Śiva Sūtras 3.33]
 
 They become apprehended as idantā — this-ness.
 
-## b34 · narration · granny · [Śiva Sūtras 3.33]
+## b35 · narration · granny · [Śiva Sūtras 3.33]
 
 Objects or contents of experience.
 
-## b35 · narration · granny · [Śiva Sūtras 3.33]
+## b36 · narration · granny · [Śiva Sūtras 3.33]
 
 Just as a blue object appears before awareness, pleasure and pain can appear without becoming the ultimate identity of the conscious subject.
 
-## b36 · narration · granny · [Śiva Sūtras 3.33]
+## b37 · narration · granny · [Śiva Sūtras 3.33]
 
 And this is a magnificent distinction.
 
-## b37 · narration · granny · [Śiva Sūtras 3.33]
+## b38 · narration · granny · [Śiva Sūtras 3.33]
 
 Because it doesn’t require denying the experience.
 
-## b38 · narration · granny · [Śiva Sūtras 3.33]
+## b39 · narration · granny · [Śiva Sūtras 3.33]
 
 The yogi can still experience pleasure.
 
-## b39 · narration · granny · [Śiva Sūtras 3.33]
+## b40 · narration · granny · [Śiva Sūtras 3.33]
 
 The yogi can still experience pain.
 
-## b40 · narration · granny · [Śiva Sūtras 3.33]
+## b41 · narration · granny · [Śiva Sūtras 3.33]
 
 The body can still respond.
 
-## b41 · narration · granny · [Śiva Sūtras 3.33]
+## b42 · narration · granny · [Śiva Sūtras 3.33]
 
 The mind can still register changing conditions.
 
-## b42 · narration · granny · [Śiva Sūtras 3.33]
+## b43 · narration · granny · [Śiva Sūtras 3.33]
 
 But the fundamental identity is no longer exhausted by them.
 
-## b43 · narration · granny · [Śiva Sūtras 3.33]
+## b44 · narration · granny · [Śiva Sūtras 3.33]
 
 And Kṣemarāja explicitly explains that pleasure and pain arise through contact with objects.
 
-## b44 · narration · granny · [Śiva Sūtras 3.33]
+## b45 · narration · granny · [Śiva Sūtras 3.33]
 
 The realised yogi apprehends them as appearances within consciousness, rather than through the ordinary limited identification that makes them seem to define the Self.
 
-## b45 · narration · granny · [Śiva Sūtras 3.33]
+## b46 · narration · granny · [Śiva Sūtras 3.33]
 
 Now, a very important qualification.
 
-## b46 · narration · granny · [Śiva Sūtras 3.33]
+## b47 · narration · granny · [Śiva Sūtras 3.33]
 
 This does not mean that pain is imaginary, that bodily suffering should be ignored, or that the spiritual ideal is emotional numbness.
 
-## b47 · narration · granny · [Śiva Sūtras 3.33]
+## b48 · narration · granny · [Śiva Sūtras 3.33]
 
 Nor is it evidence that advanced practitioners cannot experience physical pain.
 
-## b48 · narration · granny · [Śiva Sūtras 3.33]
+## b49 · narration · granny · [Śiva Sūtras 3.33]
 
 The traditional claim concerns the metaphysical identity of the experiencer, not the abolition of ordinary human physiology.
 
-## b49 · narration · granny · [Śiva Sūtras 3.33]
+## b50 · narration · granny · [Śiva Sūtras 3.33]
 
 And Kṣemarāja is very precise about this.
 
-## b50 · narration · granny · [Śiva Sūtras 3.33]
+## b51 · narration · granny · [Śiva Sūtras 3.33]
 
 He says that the yogi has transcended identification with puryaṣṭaka as the ultimate knower.
 
-## b51 · narration · granny · [Śiva Sūtras 3.33]
+## b52 · narration · granny · [Śiva Sūtras 3.33]
 
 Remember puryaṣṭaka?
 
-## b52 · narration · granny · [Śiva Sūtras 3.33]
+## b53 · narration · granny · [Śiva Sūtras 3.33]
 
 The eightfold subtle constitution.
 
-## b53 · narration · granny · [Śiva Sūtras 3.33]
+## b54 · narration · granny · [Śiva Sūtras 3.33]
 
 Buddhi.
 
-## b54 · verse · verse · [Śiva Sūtras 3.33]
+## b55 · verse · verse · [Śiva Sūtras 3.33]
 
 Ahaṃkāra.
 
-## b55 · narration · granny · [Śiva Sūtras 3.33]
+## b56 · narration · granny · [Śiva Sūtras 3.33]
 
 Manas.
 
-## b56 · narration · granny · [Śiva Sūtras 3.33]
+## b57 · narration · granny · [Śiva Sūtras 3.33]
 
 And the five subtle sensory elements.
 
-## b57 · narration · granny · [Śiva Sūtras 3.33]
+## b58 · narration · granny · [Śiva Sūtras 3.33]
 
 Ordinarily, the individual identifies with this mental and subtle apparatus.
 
-## b58 · narration · granny · [Śiva Sūtras 3.33]
+## b59 · narration · granny · [Śiva Sūtras 3.33]
 
 And therefore the pleasure and pain occurring through it become appropriated as the defining experiences of the self.
 
-## b59 · narration · granny · [Śiva Sūtras 3.33]
+## b60 · narration · granny · [Śiva Sūtras 3.33]
 
 But once that identification is overcome, pleasure and pain no longer have the same power to define the ultimate subject.
 
-## b60 · narration · granny · [Śiva Sūtras 3.33]
-
-Kṣemarāja cites the Īśvarapratyabhijñāvimarśinī and the Spandakārikā to make the distinction between the supreme experiencer and changing pleasure-pain cognitions. Sanskrit & Trika Shaivism
-
 ## b61 · narration · granny · [Śiva Sūtras 3.33]
 
-Now consider a practical analogy.
+Kṣemarāja cites the Īśvarapratyabhijñāvimarśinī and the Spandakārikā to make the distinction between the supreme experiencer and changing pleasure-pain cognitions. Sanskrit & Trika Shaivism.
 
 ## b62 · narration · granny · [Śiva Sūtras 3.33]
 
-You’re sitting quietly.
+Now consider a practical analogy.
 
 ## b63 · narration · granny · [Śiva Sūtras 3.33]
 
-A difficult emotion arises.
+You’re sitting quietly.
 
 ## b64 · narration · granny · [Śiva Sūtras 3.33]
 
-Perhaps sadness.
+A difficult emotion arises.
 
 ## b65 · narration · granny · [Śiva Sūtras 3.33]
 
+Perhaps sadness.
+
+## b66 · narration · granny · [Śiva Sūtras 3.33]
+
 The ordinary mental structure might immediately become:
 
-## b66 · dialogue · granny · [Śiva Sūtras 3.33]
+## b67 · dialogue · granny · [Śiva Sūtras 3.33]
 
 “I am sad.”
 
-## b67 · narration · granny · [Śiva Sūtras 3.33]
+## b68 · narration · granny · [Śiva Sūtras 3.33]
 
 Then:
 
-## b68 · dialogue · granny · [Śiva Sūtras 3.33]
+## b69 · dialogue · granny · [Śiva Sūtras 3.33]
 
 “My life is sad.”
 
-## b69 · narration · granny · [Śiva Sūtras 3.33]
+## b70 · narration · granny · [Śiva Sūtras 3.33]
 
 Then:
 
-## b70 · dialogue · granny · [Śiva Sūtras 3.33]
+## b71 · dialogue · granny · [Śiva Sūtras 3.33]
 
 “I have always been sad.”
 
-## b71 · narration · granny · [Śiva Sūtras 3.33]
+## b72 · narration · granny · [Śiva Sūtras 3.33]
 
 Then:
 
-## b72 · dialogue · granny · [Śiva Sūtras 3.33]
+## b73 · dialogue · granny · [Śiva Sūtras 3.33]
 
 “I will always be sad.”
 
-## b73 · narration · granny · [Śiva Sūtras 3.33]
+## b74 · narration · granny · [Śiva Sūtras 3.33]
 
 And within a few moments, a passing emotional condition has developed into an entire autobiography.
 
-## b74 · narration · granny · [Śiva Sūtras 3.33]
+## b75 · narration · granny · [Śiva Sūtras 3.33]
 
 You’ve gone from one feeling to a forty-seven-volume historical account of your own misery.
 
-## b75 · narration · granny · [Śiva Sūtras 3.33]
+## b76 · narration · granny · [Śiva Sūtras 3.33]
 
 Very impressive.
 
-## b76 · narration · granny · [Śiva Sūtras 3.33]
+## b77 · narration · granny · [Śiva Sūtras 3.33]
 
 But suppose the emotion is recognised as an appearance within awareness.
 
-## b77 · narration · granny · [Śiva Sūtras 3.33]
+## b78 · narration · granny · [Śiva Sūtras 3.33]
 
 The sadness remains.
 
-## b78 · narration · granny · [Śiva Sūtras 3.33]
+## b79 · narration · granny · [Śiva Sūtras 3.33]
 
 It doesn’t have to be suppressed.
 
-## b79 · narration · granny · [Śiva Sūtras 3.33]
+## b80 · narration · granny · [Śiva Sūtras 3.33]
 
 But the total identification with it can loosen.
 
-## b80 · narration · granny · [Śiva Sūtras 3.33]
+## b81 · narration · granny · [Śiva Sūtras 3.33]
 
 There’s sadness.
 
-## b81 · narration · granny · [Śiva Sūtras 3.33]
+## b82 · narration · granny · [Śiva Sūtras 3.33]
 
 There’s awareness of sadness.
 
-## b82 · narration · granny · [Śiva Sūtras 3.33]
+## b83 · narration · granny · [Śiva Sūtras 3.33]
 
 And the whole experience is not necessarily reducible to the statement:
 
-## b83 · dialogue · granny · [Śiva Sūtras 3.33]
+## b84 · dialogue · granny · [Śiva Sūtras 3.33]
 
 “This is the entirety of what I am.”
 
-## b84 · narration · granny · [Śiva Sūtras 3.33]
+## b85 · narration · granny · [Śiva Sūtras 3.33]
 
 Now, that is a contemporary contemplative analogy, not a complete description of Kṣemarāja’s nondual realisation.
 
-## b85 · narration · granny · [Śiva Sūtras 3.33]
+## b86 · narration · granny · [Śiva Sūtras 3.33]
 
 His claim is far more metaphysical.
 
-## b86 · narration · granny · [Śiva Sūtras 3.33]
+## b87 · narration · granny · [Śiva Sūtras 3.33]
 
 But it illustrates the shift from identification with a changing experience to recognition of the conscious reality through which it appears.
 
-## b87 · narration · granny · [Śiva Sūtras 3.33]
+## b88 · narration · granny · [Śiva Sūtras 3.33]
 
 And here’s something important.
 
-## b88 · narration · granny · [Śiva Sūtras 3.33]
+## b89 · narration · granny · [Śiva Sūtras 3.33]
 
 The purpose isn’t to construct a permanently detached observer who sits coldly behind experience.
 
-## b89 · narration · granny · [Śiva Sūtras 3.33]
+## b90 · narration · granny · [Śiva Sūtras 3.33]
 
 That would risk turning the Self into another subtle individual subject, separate from the objects it witnesses.
 
-## b90 · narration · granny · [Śiva Sūtras 3.33]
+## b91 · narration · granny · [Śiva Sūtras 3.33]
 
 In Trika, the supreme consciousness is inseparable from Śakti.
 
-## b91 · narration · granny · [Śiva Sūtras 3.33]
+## b92 · narration · granny · [Śiva Sūtras 3.33]
 
 It is the source of the entire manifest field.
 
-## b92 · narration · granny · [Śiva Sūtras 3.33]
+## b93 · narration · granny · [Śiva Sūtras 3.33]
 
 Therefore the recognition is not ultimately a division between a pure observer and an impure world.
 
-## b93 · narration · granny · [Śiva Sūtras 3.33]
+## b94 · narration · granny · [Śiva Sūtras 3.33]
 
 It’s the recognition that pleasure and pain are manifest within consciousness without exhausting its nature.
 
-## b94 · narration · granny · [Śiva Sūtras 3.33]
+## b95 · narration · granny · [Śiva Sūtras 3.33]
 
 And now comes the extraordinary implication.
 
-## b95 · narration · granny · [Śiva Sūtras 3.33]
+## b96 · narration · granny · [Śiva Sūtras 3.33]
 
 If the yogi is no longer inwardly bound by pleasure and pain, what condition have they attained?
 
-## b96 · narration · granny · [Śiva Sūtras 3.33]
+## b97 · narration · granny · [Śiva Sūtras 3.33]
 
 Vasugupta has a word.
 
-## b97 · verse · verse · [Śiva Sūtras 3.33]
+## b98 · verse · verse · [Śiva Sūtras 3.33]
 
 Kevalī.
 
-## b98 · narration · granny · [Śiva Sūtras 3.33]
+## b99 · narration · granny · [Śiva Sūtras 3.33]
 
 The one who stands in the purity of their own conscious nature.
 
-## b99 · narration · granny · [Śiva Sūtras 3.33]
+## b100 · narration · granny · [Śiva Sūtras 3.33]
 
 And that’s where we’re going next.

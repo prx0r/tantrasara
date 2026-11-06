@@ -1,6 +1,6 @@
 # Review — shiva s57
 
-84 blocks. Voices: granny=80, none=2, verse=2.
+85 blocks. Voices: granny=81, none=2, verse=2.
 Confirmed glossary terms (0): none.
 
 ## b_opener · opener · none · [opener]
@@ -21,320 +21,324 @@ Confirmed glossary terms (0): none.
 
 ## b4 · narration · granny · [Śiva Sūtras 3.25]
 
-One becomes equal or comparable to Śiva. / Congratulations, You’ve Become Like Śiva. Please Don’t Put It on Your LinkedIn.
+One becomes equal or comparable to Śiva.
 
-## b5 · figure · none · [Śiva Sūtras 3.25]
+## b5 · narration · granny · [Śiva Sūtras 3.25]
+
+Congratulations, You’ve Become Like Śiva. Please Don’t Put It on Your LinkedIn.
+
+## b6 · figure · none · [Śiva Sūtras 3.25]
 
 RIGHT.
 
-## b6 · narration · granny · [Śiva Sūtras 3.25]
+## b7 · narration · granny · [Śiva Sūtras 3.25]
 
 THERE IT IS.
 
-## b7 · narration · granny · [Śiva Sūtras 3.25]
+## b8 · narration · granny · [Śiva Sūtras 3.25]
 
 The big one.
 
-## b8 · narration · granny · [Śiva Sūtras 3.25]
+## b9 · narration · granny · [Śiva Sūtras 3.25]
 
 We’ve been waiting for this.
 
-## b9 · narration · granny · [Śiva Sūtras 3.25]
+## b10 · narration · granny · [Śiva Sūtras 3.25]
 
 Thirty-two sūtras in the first two books.
 
-## b10 · narration · granny · [Śiva Sūtras 3.25]
+## b11 · narration · granny · [Śiva Sūtras 3.25]
 
 Twenty-five into the third.
 
-## b11 · narration · granny · [Śiva Sūtras 3.25]
+## b12 · narration · granny · [Śiva Sūtras 3.25]
 
 And finally Vasugupta announces:
 
-## b12 · narration · granny · [Śiva Sūtras 3.25]
+## b13 · narration · granny · [Śiva Sūtras 3.25]
 
 Śivatulyo jāyate.
 
-## b13 · narration · granny · [Śiva Sūtras 3.25]
+## b14 · narration · granny · [Śiva Sūtras 3.25]
 
 You become like Śiva.
 
-## b14 · narration · granny · [Śiva Sūtras 3.25]
+## b15 · narration · granny · [Śiva Sūtras 3.25]
 
 Now, before anybody purchases a trident and starts demanding worship, we need to understand this properly.
 
-## b15 · narration · granny · [Śiva Sūtras 3.25]
+## b16 · narration · granny · [Śiva Sūtras 3.25]
 
 Let’s break down the Sanskrit.
 
-## b16 · narration · granny · [Śiva Sūtras 3.25]
+## b17 · narration · granny · [Śiva Sūtras 3.25]
 
 Śiva — Śiva, the auspicious Lord.
 
-## b17 · narration · granny · [Śiva Sūtras 3.25]
+## b18 · narration · granny · [Śiva Sūtras 3.25]
 
 Tulya — equal, comparable, similar in nature.
 
-## b18 · narration · granny · [Śiva Sūtras 3.25]
+## b19 · narration · granny · [Śiva Sūtras 3.25]
 
 Jāyate — becomes, arises, comes to be.
 
-## b19 · narration · granny · [Śiva Sūtras 3.25]
+## b20 · narration · granny · [Śiva Sūtras 3.25]
 
 And Kṣemarāja’s explanation is absolutely crucial.
 
-## b20 · narration · granny · [Śiva Sūtras 3.25]
+## b21 · narration · granny · [Śiva Sūtras 3.25]
 
 The yogi becomes like Śiva through the intensification and stabilisation of recognition.
 
-## b21 · narration · granny · [Śiva Sūtras 3.25]
+## b22 · narration · granny · [Śiva Sūtras 3.25]
 
 But this does not mean the ordinary individual ego becomes an independent rival deity.
 
-## b22 · narration · granny · [Śiva Sūtras 3.25]
+## b23 · narration · granny · [Śiva Sūtras 3.25]
 
 There’s no cosmic job vacancy.
 
-## b23 · narration · granny · [Śiva Sūtras 3.25]
+## b24 · narration · granny · [Śiva Sūtras 3.25]
 
 Śiva isn’t retiring.
 
-## b24 · narration · granny · [Śiva Sūtras 3.25]
+## b25 · narration · granny · [Śiva Sūtras 3.25]
 
 He’s not looking for a replacement.
 
-## b25 · narration · granny · [Śiva Sūtras 3.25]
+## b26 · narration · granny · [Śiva Sūtras 3.25]
 
 The yogi’s recognition of their supreme conscious nature is what makes this equality intelligible.
 
-## b26 · narration · granny · [Śiva Sūtras 3.25]
+## b27 · narration · granny · [Śiva Sūtras 3.25]
 
 And Kṣemarāja introduces another important term.
 
-## b27 · verse · verse · [Śiva Sūtras 3.25]
+## b28 · verse · verse · [Śiva Sūtras 3.25]
 
 Turyātīta.
 
-## b28 · narration · granny · [Śiva Sūtras 3.25]
+## b29 · narration · granny · [Śiva Sūtras 3.25]
 
 Beyond the fourth.
 
-## b29 · narration · granny · [Śiva Sūtras 3.25]
+## b30 · narration · granny · [Śiva Sūtras 3.25]
 
 Now, we’ve already encountered turya.
 
-## b30 · narration · granny · [Śiva Sūtras 3.25]
+## b31 · narration · granny · [Śiva Sūtras 3.25]
 
 The fourth state underlying waking, dreaming and deep sleep.
 
-## b31 · narration · granny · [Śiva Sūtras 3.25]
+## b32 · narration · granny · [Śiva Sūtras 3.25]
 
 But turyātīta points towards a condition in which the recognition of supreme consciousness is no longer apprehended merely as another distinguishable state among states.
 
-## b32 · narration · granny · [Śiva Sūtras 3.25]
+## b33 · narration · granny · [Śiva Sūtras 3.25]
 
 The ordinary divisions of experience no longer obscure the underlying nondual reality.
 
-## b33 · narration · granny · [Śiva Sūtras 3.25]
+## b34 · narration · granny · [Śiva Sūtras 3.25]
 
 And the yogi is said to attain equality with Śiva through this full identification.
 
-## b34 · narration · granny · [Śiva Sūtras 3.25]
+## b35 · narration · granny · [Śiva Sūtras 3.25]
 
 Now here’s a particularly fascinating detail.
 
-## b35 · narration · granny · [Śiva Sūtras 3.25]
+## b36 · narration · granny · [Śiva Sūtras 3.25]
 
 Kṣemarāja distinguishes the yogi’s condition while still embodied from the condition following the body’s disappearance.
 
-## b36 · narration · granny · [Śiva Sūtras 3.25]
+## b37 · narration · granny · [Śiva Sūtras 3.25]
 
 While the body remains, the liberated yogi is described as like Śiva.
 
-## b37 · narration · granny · [Śiva Sūtras 3.25]
+## b38 · narration · granny · [Śiva Sūtras 3.25]
 
 After the body’s dissolution, Kṣemarāja expresses the traditional position as complete identity with Śiva.
 
-## b38 · narration · granny · [Śiva Sūtras 3.25]
-
-That’s a genuine distinction in the commentary, not something we should erase for the sake of a catchy slogan. Sanskrit & Trika Shaivism
-
 ## b39 · narration · granny · [Śiva Sūtras 3.25]
 
-And this brings us to the concept of jīvanmukti.
+That’s a genuine distinction in the commentary, not something we should erase for the sake of a catchy slogan. Sanskrit & Trika Shaivism.
 
 ## b40 · narration · granny · [Śiva Sūtras 3.25]
 
-Liberation while living.
+And this brings us to the concept of jīvanmukti.
 
 ## b41 · narration · granny · [Śiva Sūtras 3.25]
 
-The individual body continues.
+Liberation while living.
 
 ## b42 · narration · granny · [Śiva Sūtras 3.25]
 
-The senses function.
+The individual body continues.
 
 ## b43 · narration · granny · [Śiva Sūtras 3.25]
 
-The mind may still engage in ordinary activity.
+The senses function.
 
 ## b44 · narration · granny · [Śiva Sūtras 3.25]
 
-But the yogi is no longer fundamentally identified with the limitations of that embodied condition.
+The mind may still engage in ordinary activity.
 
 ## b45 · narration · granny · [Śiva Sūtras 3.25]
 
-Now consider how radical this is.
+But the yogi is no longer fundamentally identified with the limitations of that embodied condition.
 
 ## b46 · narration · granny · [Śiva Sūtras 3.25]
 
-The yogi doesn’t need to wait until physical death for the recognition of the supreme nature of consciousness.
+Now consider how radical this is.
 
 ## b47 · narration · granny · [Śiva Sūtras 3.25]
 
-The recognition can occur within life.
+The yogi doesn’t need to wait until physical death for the recognition of the supreme nature of consciousness.
 
 ## b48 · narration · granny · [Śiva Sūtras 3.25]
 
-The manifest body is not, in itself, an absolute barrier to liberation.
+The recognition can occur within life.
 
 ## b49 · narration · granny · [Śiva Sūtras 3.25]
 
-And that is particularly important for Trika.
+The manifest body is not, in itself, an absolute barrier to liberation.
 
 ## b50 · narration · granny · [Śiva Sūtras 3.25]
 
-Because the tradition is not simply concerned with abandoning the world.
+And that is particularly important for Trika.
 
 ## b51 · narration · granny · [Śiva Sūtras 3.25]
 
-It describes the possibility of recognising Śiva in the midst of manifestation.
+Because the tradition is not simply concerned with abandoning the world.
 
 ## b52 · narration · granny · [Śiva Sūtras 3.25]
 
-The body remains.
+It describes the possibility of recognising Śiva in the midst of manifestation.
 
 ## b53 · narration · granny · [Śiva Sūtras 3.25]
 
-The world remains.
+The body remains.
 
 ## b54 · narration · granny · [Śiva Sūtras 3.25]
 
-But the relationship to both is transformed.
+The world remains.
 
 ## b55 · narration · granny · [Śiva Sūtras 3.25]
 
-And here’s the wonderful thing.
+But the relationship to both is transformed.
 
 ## b56 · narration · granny · [Śiva Sūtras 3.25]
 
-The equality is not established through a competition.
+And here’s the wonderful thing.
 
 ## b57 · narration · granny · [Śiva Sūtras 3.25]
 
-The yogi doesn’t outperform Śiva.
+The equality is not established through a competition.
 
 ## b58 · narration · granny · [Śiva Sūtras 3.25]
 
-Doesn’t become more powerful than Śiva.
+The yogi doesn’t outperform Śiva.
 
 ## b59 · narration · granny · [Śiva Sūtras 3.25]
 
-Doesn’t acquire a better divine résumé.
+Doesn’t become more powerful than Śiva.
 
 ## b60 · narration · granny · [Śiva Sūtras 3.25]
 
-It’s a recognition of identity at the level of fundamental conscious nature.
+Doesn’t acquire a better divine résumé.
 
 ## b61 · narration · granny · [Śiva Sūtras 3.25]
 
-Imagine a wave spending its entire existence trying to become water.
+It’s a recognition of identity at the level of fundamental conscious nature.
 
 ## b62 · narration · granny · [Śiva Sūtras 3.25]
 
-It practises diligently.
+Imagine a wave spending its entire existence trying to become water.
 
 ## b63 · narration · granny · [Śiva Sūtras 3.25]
 
-Studies hydrodynamics.
+It practises diligently.
 
 ## b64 · narration · granny · [Śiva Sūtras 3.25]
 
-Attends retreats.
+Studies hydrodynamics.
 
 ## b65 · narration · granny · [Śiva Sūtras 3.25]
 
-Memorises the ocean’s sacred teachings.
+Attends retreats.
 
 ## b66 · narration · granny · [Śiva Sūtras 3.25]
 
-And eventually realises that water was never something it lacked.
+Memorises the ocean’s sacred teachings.
 
 ## b67 · narration · granny · [Śiva Sūtras 3.25]
 
-The wave doesn’t become a second ocean.
+And eventually realises that water was never something it lacked.
 
 ## b68 · narration · granny · [Śiva Sūtras 3.25]
 
-Nor does it need to destroy its wave-form to recognise its watery nature.
+The wave doesn’t become a second ocean.
 
 ## b69 · narration · granny · [Śiva Sūtras 3.25]
 
-The analogy isn’t perfect, because Śiva’s freedom is not the passive physical substance of water.
+Nor does it need to destroy its wave-form to recognise its watery nature.
 
 ## b70 · narration · granny · [Śiva Sūtras 3.25]
 
-But it captures the key point.
+The analogy isn’t perfect, because Śiva’s freedom is not the passive physical substance of water.
 
 ## b71 · narration · granny · [Śiva Sūtras 3.25]
 
-The deepest reality was never absent.
+But it captures the key point.
 
 ## b72 · narration · granny · [Śiva Sūtras 3.25]
 
-The limitation belonged to the failure of recognition.
+The deepest reality was never absent.
 
 ## b73 · narration · granny · [Śiva Sūtras 3.25]
 
-And now the yogi is established in that recognition.
+The limitation belonged to the failure of recognition.
 
 ## b74 · narration · granny · [Śiva Sūtras 3.25]
 
-Which raises a practical problem.
+And now the yogi is established in that recognition.
 
 ## b75 · narration · granny · [Śiva Sūtras 3.25]
 
-If you’ve become like Śiva, what do you actually do with the rest of your life?
+Which raises a practical problem.
 
 ## b76 · narration · granny · [Śiva Sūtras 3.25]
 
-Do you continue meditating?
+If you’ve become like Śiva, what do you actually do with the rest of your life?
 
 ## b77 · narration · granny · [Śiva Sūtras 3.25]
 
-Do you perform rituals?
+Do you continue meditating?
 
 ## b78 · narration · granny · [Śiva Sūtras 3.25]
 
-Do you undertake vows?
+Do you perform rituals?
 
 ## b79 · narration · granny · [Śiva Sūtras 3.25]
 
-Do you abandon society?
+Do you undertake vows?
 
 ## b80 · narration · granny · [Śiva Sūtras 3.25]
 
-Do you start an extraordinarily expensive spiritual academy?
+Do you abandon society?
 
 ## b81 · narration · granny · [Śiva Sūtras 3.25]
 
-Well.
+Do you start an extraordinarily expensive spiritual academy?
 
 ## b82 · narration · granny · [Śiva Sūtras 3.25]
 
-Vasugupta’s answer is rather wonderful.
+Well.
 
 ## b83 · narration · granny · [Śiva Sūtras 3.25]
+
+Vasugupta’s answer is rather wonderful.
+
+## b84 · narration · granny · [Śiva Sūtras 3.25]
 
 The body itself becomes your vow.

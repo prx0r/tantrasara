@@ -1,7 +1,7 @@
 # Review — chapter 21
 
 1309 blocks. Voices: granny=1174, man=12, none=6, verse=117.
-Confirmed glossary terms (99): adhikara, adhunasyaivagamasya, adhyaksa, agama, agama-pramanyam, agamah, agamapramanya, agamapramanyaprakasanam, agamas, agamasya, agamat, akimcitkara, amarsana, ananda, anekavidha, anvaya-vyatirekabhyam, asrayaniyo, atma, atmaka, badha, balasya, bhati, bhavisyan, bhunkta, bubhuksito, devanagari, drdha, drsta, eka-phala-siddhih, ekasmad, evam, ghatita, hrdaya, kamcana, kancukas, matanga, matra, maya, naimittikam, nihsankah, nirupitam, nisamko, nityam, nyaya, paramarsa, paramartha, paramasiva, paramasivah, paramesvara, paramesvarata, paryavasayini, prakasa, prakrti, pramanikurvata, pramanya, pramanyam, prana, prasiddhim, pratibha, pravrttih, purusa, rudhi, sabdana, sabdanatmakatayam, saiva, saktipata, samastam, samvid, samvidi, sanka, sankhya, sara, sarvah, sastram, siddhanta, siddhantin, siddhayam, siva-svabhava, tadrsim, tan-mulatva, tasam, tatha, upanisadic, upanisads, utkarsa, utkarsah, uttirna, vaisnava, vavahare, vimarsa, vimarsanam, vimarsasya, vimarsatmikayam, visaya, vivecayantah, vyavahara, yadrso, yatha, yatrotkrstam.
+Confirmed glossary terms (65): adhunasyaivagamasya, agama, agama-pramanyam, agamah, agamapramanya, agamapramanyaprakasanam, agamasya, agamat, amrsati, ananda, anekavidha, anuttara, asrayaniyo, atma, balasya, bhati, bhaty, bhavisyan, bhunkta, bubhuksito, dadhapasiddhighadie, drsta-phala, eka-phala-siddhih, ekasmad, evam, jahuttina, kamcana, maya, naimittikam, nihsankah, nirupitam, nisamko, nityam, paramasiva, paramasivah, pasiddhirudhie, phalotkarsac, prakasa, pramanikurvata, pramanya, pramanyam, prasiddhim, pravrttih, sabdanatmakatayam, saiva, samastam, samvid, samvidi, sanka, sarvah, sastram, siddhayam, tadrsim, tasam, tatha, utkarsah, vavahare, vimarsa, vimarsanam, vimarsasya, vimarsatmikayam, vivecayantah, yadrso, yatha, yatrotkrstam.
 
 ## b_opener · opener · none · [opener]
 
@@ -17,7 +17,7 @@ Tantrasāra — Chapter 21
 
 ## b3 · narration · granny · [Tantrasāra — Chapter 21]
 
-The Authority of Scripture: or, why everyone thinks their holy book is the bloody truth, why Abhinavagupta thinks they’re not entirely wrong, and how the entire argument leads back to the consciousness that’s reading the…
+The Authority of Scripture: or, why everyone thinks their holy book is the bloody truth, why Abhinavagupta thinks they’re not entirely wrong, and how the entire argument leads back to the consciousness that’s reading the book.
 
 ## b4 · narration · granny · [Tantrasāra — Chapter 21]
 
@@ -77,7 +77,7 @@ The appropriate conduct of the initiated practitioner.
 
 ## b18 · narration · granny · [Tantrasāra — Chapter 21]
 
-And in the last chapter, Abhinavagupta gave us the entire sacred calendar, an esoteric festival involving divine circles, a sacred thread with enough knots to represent the universe, and some very sensible instructions f…
+And in the last chapter, Abhinavagupta gave us the entire sacred calendar, an esoteric festival involving divine circles, a sacred thread with enough knots to represent the universe, and some very sensible instructions for explaining Sanskrit properly.
 
 ## b19 · narration · granny · [Tantrasāra — Chapter 21]
 
@@ -2385,7 +2385,7 @@ But we should be precise about the disturbing example.
 
 ## b595 · narration · granny · [Tantrasāra — Chapter 21]
 
-This is a hermeneutical illustration of conflicting religious injunctions, not a modern justification for killing someone. The relevant Sanskrit doesn’t give us grounds to declare violence permissible simply by invoking …
+This is a hermeneutical illustration of conflicting religious injunctions, not a modern justification for killing someone. The relevant Sanskrit doesn’t give us grounds to declare violence permissible simply by invoking a special initiation.
 
 ## b596 · narration · granny · [Tantrasāra — Chapter 21]
 
@@ -4293,7 +4293,7 @@ Now, here’s a faithful sense translation of the verse:
 
 ## b1072 · narration · granny · [Tantrasāra — Chapter 21]
 
-Wise ones, discerning that reality is the light of consciousness, which apprehends itself just as it shines, take refuge in the scripture whose essence is reflexive awareness of the all-pervading manifestation of conscio…
+Wise ones, discerning that reality is the light of consciousness, which apprehends itself just as it shines, take refuge in the scripture whose essence is reflexive awareness of the all-pervading manifestation of consciousness, and whose nature is Anuttara.
 
 ## b1073 · narration · granny · [Tantrasāra — Chapter 21]
 
@@ -4377,7 +4377,7 @@ Taha hohi jahuttiṇa pasiddhirūḍhie paramasivo.
 
 ## b1093 · narration · granny · [Tantrasāra — Chapter 21]
 
-The wording above is the Prakrit transmitted in the 1918-edition transcription. The source then supplies a Sanskrit rendering (chāyā). Other online presentations print a normalised Sanskrit form instead. These are not th…
+The wording above is the Prakrit transmitted in the 1918-edition transcription. The source then supplies a Sanskrit rendering (chāyā). Other online presentations print a normalised Sanskrit form instead. These are not three separate original verses.
 
 ## b1094 · narration · granny · [Tantrasāra — Chapter 21]
 
@@ -5233,8 +5233,8 @@ End of Chapter Twenty-One — Āgamaprāmāṇyaprakāśanam.
 
 ## b1307 · meta · none · [Tantrasāra — Chapter 21]
 
-Textual basis: GRETIL — Tantrasāra, Chapter 21, passages 21.1–21.13 and Sanskrit & Trika Shaivism — Chapter 21, Devanāgarī, transliteration and gloss. The chapter’s prose is followed by one Sanskrit verse and one Prakrit…
+Textual basis: GRETIL — Tantrasāra, Chapter 21, passages 21.1–21.13 and Sanskrit & Trika Shaivism — Chapter 21, Devanāgarī, transliteration and gloss. The chapter’s prose is followed by one Sanskrit verse and one Prakrit verse; GRETIL preserves the Prakrit wording and its Sanskrit rendering, while the second source prints a Sanskrit form. No additional concluding verses have been invented.
 
 ## b1308 · narration · granny · [Tantrasāra — Chapter 21]
 
-The Kaula rite: six increasingly interior forms of worship, from external ritual to Śakti, the body, the divine couple, prāṇa and finally consciousness itself — where the entire structure of tantric worship is brought in…
+The Kaula rite: six increasingly interior forms of worship, from external ritual to Śakti, the body, the divine couple, prāṇa and finally consciousness itself — where the entire structure of tantric worship is brought into Anuttara.

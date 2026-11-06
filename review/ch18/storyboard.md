@@ -1,7 +1,7 @@
 # Review — chapter 18
 
-848 blocks. Voices: granny=744, man=25, none=12, verse=67.
-Confirmed glossary terms (37): abhiseka, abhisekaprakasanam, abhisikto, abhisincet, acarya, adhikara, adhikrtah, ahamkara, anugraha-karana, anyah, ayogyan, diksadi, dikseta, hina, jnanavan, jnanin, kala, kalaratri, laksana, mahabhairava, malini, mandala, pratibha-guru, pratyavaya, rudraksa, sadhaka, sadhakatva, sadhakatve, saiva, saktipata, samarpana, samayi, svabhyastajnaninam, svadhikarasamarpane, vidya, vratesvara, yogyam.
+848 blocks. Voices: granny=745, man=24, none=12, verse=67.
+Confirmed glossary terms (23): abhiseka, abhisekaprakasanam, abhisikto, abhisincet, adhikrtah, anyah, ayogyan, diksadi, dikseta, diksitam, jnanadane, jnanavan, kala, malini, parikseta, sadhaka, sadhakatve, saiva, svabhyastajnaninam, svadhikarasamarpane, tanmayibhava, vidya, yogyam.
 
 ## b_opener · opener · none · [opener]
 
@@ -1367,7 +1367,7 @@ Very pleased with himself.
 
 “Can I take Sundays off?”
 
-## b341 · dialogue · man · [Tantrasāra — Chapter 18]
+## b341 · dialogue · granny · [Tantrasāra — Chapter 18]
 
 “Abhinavagupta hasn’t mentioned Sundays.”
 
@@ -2777,7 +2777,7 @@ Sādhakagurutāyogas tatra hi kāryas tadabhiśekaḥ.
 
 ## b693 · meta · none · [Tantrasāra — Chapter 18]
 
-This verse is present in the Devanāgarī Chapter 18 edition and is also printed in the 2012 Chakravarty–Marjanovic edition. The GRETIL text based on the 1918 edition ends after the preceding prose and does not include it.…
+This verse is present in the Devanāgarī Chapter 18 edition and is also printed in the 2012 Chakravarty–Marjanovic edition. The GRETIL text based on the 1918 edition ends after the preceding prose and does not include it. The Devanāgarī witness reads abhiśekaḥ in the verse, an orthographic variation from the usual abhiṣekaḥ. Sanskrit &
 
 ## b694 · narration · granny · [Tantrasāra — Chapter 18]
 
@@ -3389,8 +3389,8 @@ End of Chapter Eighteen — Abhiṣekaprakāśanam.
 
 ## b846 · meta · none · [Tantrasāra — Chapter 18]
 
-Textual basis: GRETIL — Tantrasāra 18.1–18.2; Chapter 18 in Devanāgarī, including its final verse. Cross-checked against H. N. Chakravarty’s English translation, edited by Boris Marjanovic, pp. 181–182. No additional rit…
+Textual basis: GRETIL — Tantrasāra 18.1–18.2; Chapter 18 in Devanāgarī, including its final verse. Cross-checked against H. N. Chakravarty’s English translation, edited by Boris Marjanovic, pp. 181–182. No additional ritual steps or verses have been attributed to this unusually brief original chapter.
 
 ## b847 · narration · granny · [Tantrasāra — Chapter 18]
 
-The final rites for the dead: how funeral ceremonies become initiations, the extraordinary claims about awakening the corpse, the annual rites for departed beings, and why Abhinavagupta says a genuine knower needs none o…
+The final rites for the dead: how funeral ceremonies become initiations, the extraordinary claims about awakening the corpse, the annual rites for departed beings, and why Abhinavagupta says a genuine knower needs none of it.

@@ -1,7 +1,7 @@
 # Review — chapter 17
 
 691 blocks. Voices: granny=632, man=9, none=6, verse=44.
-Confirmed glossary terms (63): abhut, adhivasadi, ahuti, ajna, anadhikrta, asasanagurupasevinah, cesta, daksina, daksina-tantra, devanagari, diksa, diksyo, gadha, grhita, grhitva, isvara, kimcit, krta, krtopavasam, ksipet, linga, lingoddhara, lingoddharah, manasa, paramesvara, paramesvarena, pragvat, proksana, purna, purnahutih, sadgurav, sadharana-mantrena, saiva, saivism, saktipata, saktipatena, samputa, samskrtya, saptadasamahnikam, sasana, satam, siva-lingas, sivajnaya, sivikrte, snana, snayat, sravita, sthitah, suddhi, sudh, svaha, tadiya, tarpana, uddhara, unmukhikriyante, upavasa, uttamasasanastha, vaisnava, vausadantena, vausat, visnu, vratesvara, yada.
+Confirmed glossary terms (28): adhivasadi, ajna, diksa, diksyo, grhitva, kimcit, krtopavasam, ksipet, lingoddhara, lingoddharah, paramesvarena, pragvat, purna, purnahutih, sadharana-mantrena, saiva, saktipatena, samskrtya, saptadasamahnikam, satam, sivajnaya, sivikrte, snayat, sthitah, unmukhikriyante, vausadantena, visnu, yada.
 
 ## b_opener · opener · none · [opener]
 
@@ -33,7 +33,7 @@ We discovered that apparently being dead is no excuse for missing your initiatio
 
 ## b7 · narration · granny · [Tantrasāra — Chapter 17]
 
-A guru could, according to the tradition, contemplate an absent disciple, construct an enormous fiery net through the cosmic pathways, draw their consciousness into a ritual representation, and perform the appropriate li…
+A guru could, according to the tradition, contemplate an absent disciple, construct an enormous fiery net through the cosmic pathways, draw their consciousness into a ritual representation, and perform the appropriate liberation ceremony.
 
 ## b8 · narration · granny · [Tantrasāra — Chapter 17]
 
@@ -237,7 +237,7 @@ Now, a historical clarification.
 
 ## b58 · narration · granny · [Tantrasāra — Chapter 17]
 
-Dakṣiṇa here belongs to the traditional classification of tantric scriptural streams. It shouldn’t simply be equated with the modern popular distinction between respectable right-hand Tantra and transgressive left-hand T…
+Dakṣiṇa here belongs to the traditional classification of tantric scriptural streams. It shouldn’t simply be equated with the modern popular distinction between respectable right-hand Tantra and transgressive left-hand Tantra.
 
 ## b59 · narration · granny · [Tantrasāra — Chapter 17]
 
@@ -2297,7 +2297,7 @@ Saṃskṛtya dīkṣyo yaś ca prāṅ nirato’sadgurāv abhūt.
 
 ## b573 · narration · granny · [Tantrasāra — Chapter 17]
 
-This stanza appears after the six prose passages in the Sanskrit & Trika Shaivism edition. It is absent from the GRETIL transcription, which ends at dīkṣā yatheccham. It is therefore an attested additional verse, not som…
+This stanza appears after the six prose passages in the Sanskrit & Trika Shaivism edition. It is absent from the GRETIL transcription, which ends at dīkṣā yatheccham. It is therefore an attested additional verse, not something I’ve invented or claimed is universal to all editions.
 
 ## b574 · narration · granny · [Tantrasāra — Chapter 17]
 
@@ -2581,7 +2581,7 @@ And the historical rules shouldn’t be treated as universally necessary for mod
 
 ## b644 · narration · granny · [Tantrasāra — Chapter 17]
 
-You don’t need a ritual to obtain permission to reconsider your beliefs, leave a community or stop following a teacher. Nor should any religious authority use vows to prevent someone from exercising their freedom of cons…
+You don’t need a ritual to obtain permission to reconsider your beliefs, leave a community or stop following a teacher. Nor should any religious authority use vows to prevent someone from exercising their freedom of conscience.
 
 ## b645 · narration · granny · [Tantrasāra — Chapter 17]
 
@@ -2761,8 +2761,8 @@ Absolutely magnificent.
 
 ## b689 · meta · none · [Tantrasāra — Chapter 17]
 
-Textual basis: GRETIL — Tantrasāra Chapter 17, six prose passages and Sanskrit & Trika Shaivism — Chapter 17, including the final stanza. The rite’s complete sequence and the distinction between removing an earlier vow a…
+Textual basis: GRETIL — Tantrasāra Chapter 17, six prose passages and Sanskrit & Trika Shaivism — Chapter 17, including the final stanza. The rite’s complete sequence and the distinction between removing an earlier vow and receiving subsequent initiation are preserved. The verse is marked as witness-specific; the jokes and modern ethical reflections are not attributed to Abhinavagupta.
 
 ## b690 · narration · granny · [Tantrasāra — Chapter 17]
 
-The consecration of the accomplished practitioner or guru: why actual knowledge matters more than impressive religious credentials, the six-month discipline of mantra and worship, and who is genuinely qualified to initia…
+The consecration of the accomplished practitioner or guru: why actual knowledge matters more than impressive religious credentials, the six-month discipline of mantra and worship, and who is genuinely qualified to initiate others.

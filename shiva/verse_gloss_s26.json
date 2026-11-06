@@ -3,8 +3,11 @@
   "deva": "गर्भे चित्तविकासोऽविशिष्टविद्यास्वप्नः",
   "iast": "Garbhe cittavikāso ’viśiṣṭavidyāsvapnaḥ.",
   "literal": "The mind’s expansion within the womb of Māyā, even through extraordinary powers, is merely a dream of inferior knowledge.",
-  "status": "proposed",
+  "status": "confirmed",
   "chant": "b2",
-  "note": "author gloss line, owner bulk-confirms"
+  "note": "author gloss line, owner bulk-confirms | bulk-confirmed (owner blanket bless 2026-11-06; pairing audited by shared verse_match_key)",
+  "bids": [
+   "b2"
+  ]
  }
 }

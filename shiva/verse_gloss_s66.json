@@ -3,8 +3,11 @@
   "deva": "तद्विमुक्तस्तु केवली",
   "iast": "Tadvimuktas tu kevalī.",
   "literal": "But the one liberated from those is kevalī — established in their own pure, independent nature.",
-  "status": "proposed",
+  "status": "confirmed",
   "chant": "b2",
-  "note": "author gloss line, owner bulk-confirms"
+  "note": "author gloss line, owner bulk-confirms | bulk-confirmed (owner blanket bless 2026-11-06; pairing audited by shared verse_match_key)",
+  "bids": [
+   "b2"
+  ]
  }
 }

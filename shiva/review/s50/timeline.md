@@ -1,17 +1,23 @@
-# Holds timeline
+# Holds timeline — planning view
 
-White is the default. Cards interrupt; white returns at section breaks,
-[long pause] beats, and dialogue entries. Proposed (unconfirmed) glosses
-do NOT render — their mentions play over white until confirmed.
+Complete storyboard-order event and term-mention plan; times are not measured.
+Confirmed mentions can appear as cards. Proposed mentions remain white.
+Use video metadata and proof frames to judge actual onsets and persistence.
 
-start: THUMBNAIL (opener image, bell + intro until first verse)
-b1: TITLE card
-b2: VERSE card (विद्याऽविनाशे जन्मविनाशः)
-b3: TERM vidya ( — ) [proposed — white until confirmed]
-b3: TERM vinase ( — ) [proposed — white until confirmed]
-b3: TERM janmavinasah ( — ) [proposed — white until confirmed]
-b4: TERM samsara ( — ) [proposed — white until confirmed]
-b13: TERM avinasa ( — ) [proposed — white until confirmed]
-b15: TERM vinasa ( — ) [proposed — white until confirmed]
-b41: TERM sahajavidya ( — ) [proposed — white until confirmed]
-b53: WHITE (tone break)
+b_opener: thumbnail / opener
+b1: TITLE — Śiva Sūtras 3.18
+b1: TONE BREAK
+b2: VERSE — विद्याऽविनाशे जन्मविनाशः
+b2 word 2: TERM janmavinasah ( — ) [PROPOSED — white]
+b3 word 2: TERM janmavinasah ( — ) [PROPOSED — white]
+b5 word 5: TERM samsara ( — ) [PROPOSED — white]
+b8: VERSE — Avināśe.
+b9 word 2: TERM vinase ( — ) [PROPOSED — white]
+b13 word 1: TERM vidya ( — ) [PROPOSED — white]
+b14 word 1: TERM avinasa ( — ) [PROPOSED — white]
+b16 word 1: TERM vinasa ( — ) [PROPOSED — white]
+b22: VERSE — Vidyāsaṃhāre tadutthasvapnadarśanam.
+b33 word 12: TERM samsara ( — ) [PROPOSED — white]
+b42 word 3: TERM sahajavidya ( — ) [PROPOSED — white]
+b54: TONE BREAK
+b59 word 2: TERM vidya ( — ) [PROPOSED — white]

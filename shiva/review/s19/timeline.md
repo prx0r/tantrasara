@@ -1,15 +1,18 @@
-# Holds timeline
+# Holds timeline — planning view
 
-White is the default. Cards interrupt; white returns at section breaks,
-[long pause] beats, and dialogue entries. Proposed (unconfirmed) glosses
-do NOT render — their mentions play over white until confirmed.
+Complete storyboard-order event and term-mention plan; times are not measured.
+Confirmed mentions can appear as cards. Proposed mentions remain white.
+Use video metadata and proof frames to judge actual onsets and persistence.
 
-start: THUMBNAIL (opener image, bell + intro until first verse)
-b1: TITLE card
-b2: VERSE card (शक्तिसन्धाने शरीरोत्पत्तिः)
-b3: TERM saktisandhane ( — ) [proposed — white until confirmed]
-b3: TERM sarirotpattih ( — ) [proposed — white until confirmed]
-b4: TERM sakti ( — ) [proposed — white until confirmed]
-b14: TERM icchasakti ( — ) [proposed — white until confirmed]
-b16: TERM vibhuti ( — ) [proposed — white until confirmed]
-b24: TERM svatantrya ( — ) [proposed — white until confirmed]
+b_opener: thumbnail / opener
+b1: TITLE — Śiva Sūtras 1.19
+b1: TONE BREAK
+b2: VERSE — शक्तिसन्धाने शरीरोत्पत्तिः
+b2 word 1: TERM saktisandhane ( — ) [PROPOSED — white]
+b2 word 2: TERM sarirotpattih ( — ) [PROPOSED — white]
+b3 word 1: TERM saktisandhane ( — ) [PROPOSED — white]
+b3 word 2: TERM sarirotpattih ( — ) [PROPOSED — white]
+b4 word 4: TERM sakti ( — ) [PROPOSED — white]
+b15 word 7: TERM icchasakti ( — ) [PROPOSED — white]
+b17 word 9: TERM vibhuti ( — ) [PROPOSED — white]
+b25 word 3: TERM svatantrya ( — ) [PROPOSED — white]

@@ -3,8 +3,11 @@
   "deva": "प्राणसमाचारे समदर्शनम्",
   "iast": "Prāṇasamācāre samadarśanam.",
   "literal": "When the vital power flows outward in an integrated way, there is equal vision of the one conscious reality.",
-  "status": "proposed",
+  "status": "confirmed",
   "chant": "b2",
-  "note": "author gloss line, owner bulk-confirms"
+  "note": "author gloss line, owner bulk-confirms | bulk-confirmed (owner blanket bless 2026-11-06; pairing audited by shared verse_match_key)",
+  "bids": [
+   "b2"
+  ]
  }
 }

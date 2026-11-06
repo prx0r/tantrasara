@@ -1,9 +1,14 @@
 {
  "chapter": "s10",
- "date": "2026-11-03",
- "blocks": 25,
- "storyboard_sha": "2a357dd3698e01f7c31f97c3ae897bf0e9d2ff3eebbdef9896ba23bbc5190bd0",
+ "date": "2026-11-06",
+ "blocks": 26,
+ "storyboard_sha": "1c57e0319096cdae2b8d883863b199d65c5b2812710724637267d328016a2c32",
  "glossary_sha": "2134f40484c80bab3b87a066755d9821aba2d8e9dceb666ba5eb949da7e06cbe",
  "confirmed_terms": [],
+ "storyboard_view_sha": "7974751523ed958da5336b35af7e1c04189604699f993d71fcfe86e96be92f72",
+ "timeline_sha": "928088dcaa32c1761abf5a0aa8a0f5ccfed02fcaad928799f3305845269d3cc9",
+ "sheet_sha": "46bf76d3d2034f4465ce0c0578f208b83b6e1c5f0f4eb195ae0085b38b70811a",
+ "publisher_sha": "7491e80b0ef20d62f21948514404314761d4eb0d9f120b48369ae266e4168b87",
+ "timeline_builder_sha": "0b32b6999be15c745779d9212e4782bdd3d65bd9b68e40ab9d7d4300e7733dba",
  "approved": false
 }

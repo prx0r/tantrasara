@@ -1,17 +1,25 @@
-# Holds timeline
+# Holds timeline — planning view
 
-White is the default. Cards interrupt; white returns at section breaks,
-[long pause] beats, and dialogue entries. Proposed (unconfirmed) glosses
-do NOT render — their mentions play over white until confirmed.
+Complete storyboard-order event and term-mention plan; times are not measured.
+Confirmed mentions can appear as cards. Proposed mentions remain white.
+Use video metadata and proof frames to judge actual onsets and persistence.
 
-start: THUMBNAIL (opener image, bell + intro until first verse)
-b1: TITLE card
-b2: VERSE card (मोहावरणात्सिद्धिः)
-b3: TERM mohavaranat ( — ) [proposed — white until confirmed]
-b3: TERM siddhih ( — ) [proposed — white until confirmed]
-b13: WHITE (tone break)
-b15: TERM maya ( — ) [proposed — white until confirmed]
-b20: FIGURE card
-b21: WHITE (tone break)
-b26: TERM avarana ( — ) [proposed — white until confirmed]
-b57: TERM anavopaya ( — ) [proposed — white until confirmed]
+b_opener: thumbnail / opener
+b1: TITLE — Śiva Sūtras 3.6
+b1: TONE BREAK
+b2: VERSE — मोहावरणात्सिद्धिः
+b3 word 1: TERM mohavaranat ( — ) [PROPOSED — white]
+b3 word 2: TERM siddhih ( — ) [PROPOSED — white]
+b14: TONE BREAK
+b16: TONE BREAK
+b17: TONE BREAK
+b18: TONE BREAK
+b19: TONE BREAK
+b20: TONE BREAK
+b21: FIGURE — “I CAN LITERALLY—”
+b22: TONE BREAK
+b27 word 1: TERM avarana ( — ) [PROPOSED — white]
+b46: TONE BREAK
+b47: TONE BREAK
+b48: TONE BREAK
+b58 word 4: TERM anavopaya ( — ) [PROPOSED — white]

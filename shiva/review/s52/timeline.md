@@ -1,22 +1,28 @@
-# Holds timeline
+# Holds timeline — planning view
 
-White is the default. Cards interrupt; white returns at section breaks,
-[long pause] beats, and dialogue entries. Proposed (unconfirmed) glosses
-do NOT render — their mentions play over white until confirmed.
+Complete storyboard-order event and term-mention plan; times are not measured.
+Confirmed mentions can appear as cards. Proposed mentions remain white.
+Use video metadata and proof frames to judge actual onsets and persistence.
 
-start: THUMBNAIL (opener image, bell + intro until first verse)
-b1: TITLE card
-b2: VERSE card (त्रिषु चतुर्थं तैलवदासेच्यम्)
-b3: TERM trisu ( — ) [proposed — white until confirmed]
-b3: TERM caturtham ( — ) [proposed — white until confirmed]
-b3: TERM asecyam ( — ) [proposed — white until confirmed]
-b21: TERM jagrat ( — ) [proposed — white until confirmed]
-b21: TERM susupti ( — ) [proposed — white until confirmed]
-b52: TERM jagratsvapnasusuptabhede ( — ) [proposed — white until confirmed]
-b52: TERM turyabhogasambhavah ( — ) [proposed — white until confirmed]
-b57: TERM tritayabhokta ( — ) [proposed — white until confirmed]
-b57: TERM viresah ( — ) [proposed — white until confirmed]
-b60: TERM sambhavopaya ( — ) [proposed — white until confirmed]
-b61: TERM anavopaya ( — ) [proposed — white until confirmed]
-b85: WHITE (tone break)
-b111: TERM anavopaya-specific ( — ) [proposed — white until confirmed]
+b_opener: thumbnail / opener
+b1: TITLE — Śiva Sūtras 3.20
+b1: TONE BREAK
+b2: VERSE — त्रिषु चतुर्थं तैलवदासेच्यम्
+b2 word 1: TERM trisu ( — ) [PROPOSED — white]
+b2 word 2: TERM caturtham ( — ) [PROPOSED — white]
+b3 word 1: TERM trisu ( — ) [PROPOSED — white]
+b3 word 2: TERM caturtham ( — ) [PROPOSED — white]
+b3 word 4: TERM asecyam ( — ) [PROPOSED — white]
+b14 word 1: TERM trisu ( — ) [PROPOSED — white]
+b15 word 1: TERM caturtham ( — ) [PROPOSED — white]
+b17 word 1: TERM asecyam ( — ) [PROPOSED — white]
+b22 word 1: TERM jagrat ( — ) [PROPOSED — white]
+b22 word 3: TERM susupti ( — ) [PROPOSED — white]
+b52: VERSE — जाग्रत्स्वप्नसुषुप्तभेदे तुर्याभोगसम्भवः।
+b53: VERSE — Jāgratsvapnasuṣuptabhede turyābhogasambhavaḥ.
+b57: VERSE — त्रितयभोक्ता वीरेशः।
+b58: VERSE — Tritayabhoktā vīreśaḥ.
+b61 word 6: TERM sambhavopaya ( — ) [PROPOSED — white]
+b62 word 3: TERM anavopaya ( — ) [PROPOSED — white]
+b86: TONE BREAK
+b112 word 6: TERM anavopaya-specific ( — ) [PROPOSED — white]

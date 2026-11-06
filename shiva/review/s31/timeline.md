@@ -1,17 +1,24 @@
-# Holds timeline
+# Holds timeline — planning view
 
-White is the default. Cards interrupt; white returns at section breaks,
-[long pause] beats, and dialogue entries. Proposed (unconfirmed) glosses
-do NOT render — their mentions play over white until confirmed.
+Complete storyboard-order event and term-mention plan; times are not measured.
+Confirmed mentions can appear as cards. Proposed mentions remain white.
+Use video metadata and proof frames to judge actual onsets and persistence.
 
-start: THUMBNAIL (opener image, bell + intro until first verse)
-b1: TITLE card
-b2: VERSE card (ज्ञानमन्नम्)
-b3: TERM jnanam ( — ) [proposed — white until confirmed]
-b6: TERM jnana ( — ) [proposed — white until confirmed]
-b9: TERM bandhah ( — ) [proposed — white until confirmed]
-b30: WHITE (tone break)
-b63: TERM trpti ( — ) [proposed — white until confirmed]
-b66: TERM ananda ( — ) [proposed — white until confirmed]
-b69: TERM vijnanabhairava ( — ) [proposed — white until confirmed]
-b69: TERM spandakarika ( — ) [proposed — white until confirmed]
+b_opener: thumbnail / opener
+b1: TITLE — Śiva Sūtras 2.9
+b1: TONE BREAK
+b2: VERSE — ज्ञानमन्नम्
+b3 word 1: TERM jnanam ( — ) [PROPOSED — white]
+b7 word 13: TERM jnana ( — ) [PROPOSED — white]
+b9: VERSE — ज्ञानं बन्धः।.
+b9 word 1: TERM jnanam ( — ) [PROPOSED — white]
+b10 word 1: TERM jnanam ( — ) [PROPOSED — white]
+b10 word 2: TERM bandhah ( — ) [PROPOSED — white]
+b13: VERSE — ज्ञानमन्नम्।
+b14 word 1: TERM jnanam ( — ) [PROPOSED — white]
+b19 word 1: TERM jnana ( — ) [PROPOSED — white]
+b31: TONE BREAK
+b64 word 4: TERM trpti ( — ) [PROPOSED — white]
+b67 word 7: TERM ananda ( — ) [PROPOSED — white]
+b70 word 5: TERM vijnanabhairava ( — ) [PROPOSED — white]
+b70 word 7: TERM spandakarika ( — ) [PROPOSED — white]

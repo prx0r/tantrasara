@@ -6,7 +6,8 @@
   "cue_blocks": [
    "b43"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; verbatim (b43)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; verbatim (b43)",
+  "deva_status": "legacy"
  },
  "adhvanam": {
   "deva": "अध्वनम्",
@@ -15,7 +16,8 @@
   "cue_blocks": [
    "b768"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b768 \"Adhvānam imaṃ sakalaṃ\""
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b768 \"Adhvānam imaṃ sakalaṃ\"",
+  "deva_status": "legacy"
  },
  "ahamkara": {
   "deva": "अहम्कर",
@@ -24,7 +26,8 @@
   "cue_blocks": [
    "b265"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b265 not simply vanity"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b265 not simply vanity",
+  "deva_status": "legacy"
  },
  "amra": {
   "deva": "अम्र",
@@ -33,7 +36,8 @@
   "cue_blocks": [
    "b528"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b528 \"Āmra\" (proper name in list)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b528 \"Āmra\" (proper name in list)",
+  "deva_status": "legacy"
  },
  "bhairavibhavati": {
   "deva": "भैरविभवति",
@@ -42,7 +46,8 @@
   "cue_blocks": [
    "b769"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b769 \"pūrṇatvād bhairavībhavati\""
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b769 \"pūrṇatvād bhairavībhavati\"",
+  "deva_status": "legacy"
  },
  "bhutalapa": {
   "deva": "भुतलप",
@@ -51,7 +56,8 @@
   "cue_blocks": [
    "b473"
   ],
-  "note": "appositive-mined, confirm | bulk-confirmed 2026-11-04"
+  "note": "appositive-mined, confirm | bulk-confirmed 2026-11-04",
+  "deva_status": "legacy"
  },
  "brahma": {
   "deva": "ब्रह्म",
@@ -60,7 +66,8 @@
   "cue_blocks": [
    "b8"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b8 breath-to-sixty-years scale"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b8 breath-to-sixty-years scale",
+  "deva_status": "legacy"
  },
  "brahmanda": {
   "deva": "ब्रह्मन्द",
@@ -69,7 +76,8 @@
   "cue_blocks": [
    "b208"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b208 hierarchy inside one Brahmāṇḍa"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b208 hierarchy inside one Brahmāṇḍa",
+  "deva_status": "legacy"
  },
  "brahmandanam": {
   "deva": "ब्रह्मन्दनम्",
@@ -78,7 +86,8 @@
   "cue_blocks": [
    "b219"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b219 \"brahmāṇḍānāṃ saṅkhyā\" (countless)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b219 \"brahmāṇḍānāṃ saṅkhyā\" (countless)",
+  "deva_status": "legacy"
  },
  "brahmandas": {
   "deva": "ब्रह्मन्दस्",
@@ -87,7 +96,8 @@
   "cue_blocks": [
    "b285"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b285 innumerable Brahmāṇḍas"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b285 innumerable Brahmāṇḍas",
+  "deva_status": "legacy"
  },
  "desadhva": {
   "deva": "देसध्व",
@@ -96,7 +106,8 @@
   "cue_blocks": [
    "b25"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b25 chapter topic Deśādhva"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b25 chapter topic Deśādhva",
+  "deva_status": "legacy"
  },
  "imam": {
   "deva": "इमम्",
@@ -105,7 +116,8 @@
   "cue_blocks": [
    "b768"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b768 \"imaṃ sakalaṃ\""
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b768 \"imaṃ sakalaṃ\"",
+  "deva_status": "legacy"
  },
  "isvara": {
   "deva": "इस्वर",
@@ -114,7 +126,8 @@
   "cue_blocks": [
    "b368"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b368 ten billion times Īśvara"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b368 ten billion times Īśvara",
+  "deva_status": "legacy"
  },
  "jnanam": {
   "deva": "ज्ननम्",
@@ -123,7 +136,8 @@
   "cue_blocks": [
    "b169"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b169 \"Na prakriyā-paraṃ jñānam\""
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b169 \"Na prakriyā-paraṃ jñānam\"",
+  "deva_status": "legacy"
  },
  "kala": {
   "deva": "कल",
@@ -132,7 +146,8 @@
   "cue_blocks": [
    "b331"
   ],
-  "note": "appositive-mined, confirm | bulk-confirmed 2026-11-04"
+  "note": "appositive-mined, confirm | bulk-confirmed 2026-11-04",
+  "deva_status": "legacy"
  },
  "kalagni": {
   "deva": "कलग्नि",
@@ -141,7 +156,8 @@
   "cue_blocks": [
    "b470"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b470 enumeration"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b470 enumeration",
+  "deva_status": "legacy"
  },
  "kedara": {
   "deva": "केदर",
@@ -150,7 +166,8 @@
   "cue_blocks": [
    "b534"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b534 division list"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b534 division list",
+  "deva_status": "legacy"
  },
  "lakulisa": {
   "deva": "लकुलिस",
@@ -159,7 +176,8 @@
   "cue_blocks": [
    "b510"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b510 eight worlds of water"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b510 eight worlds of water",
+  "deva_status": "legacy"
  },
  "linga": {
   "deva": "लिन्ग",
@@ -168,7 +186,8 @@
   "cue_blocks": [
    "b67"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b67 \"A liṅga\""
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b67 \"A liṅga\"",
+  "deva_status": "legacy"
  },
  "mahakala": {
   "deva": "महकल",
@@ -177,7 +196,8 @@
   "cue_blocks": [
    "b534"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b534 division list"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b534 division list",
+  "deva_status": "legacy"
  },
  "mahanabhasi": {
   "deva": "महनभसि",
@@ -186,7 +206,8 @@
   "cue_blocks": [
    "b768"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b768 \"mahānabhasi\""
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b768 \"mahānabhasi\"",
+  "deva_status": "legacy"
  },
  "maya": {
   "deva": "मय",
@@ -195,7 +216,8 @@
   "cue_blocks": [
    "b153"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b153 domain of māyā"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b153 domain of māyā",
+  "deva_status": "legacy"
  },
  "murti": {
   "deva": "मुर्ति",
@@ -204,7 +226,8 @@
   "cue_blocks": [
    "b41"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; verbatim (b41)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; verbatim (b41)",
+  "deva_status": "legacy"
  },
  "nivrtti": {
   "deva": "निव्र्त्ति",
@@ -213,7 +236,8 @@
   "cue_blocks": [
    "b466"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b466 verbatim definition"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b466 verbatim definition",
+  "deva_status": "legacy"
  },
  "nivrtti-kala": {
   "deva": "निव्र्त्ति कल",
@@ -222,7 +246,8 @@
   "cue_blocks": [
    "b464"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b464 sixteen worlds of earth"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b464 sixteen worlds of earth",
+  "deva_status": "legacy"
  },
  "param": {
   "deva": "परम्",
@@ -231,7 +256,8 @@
   "cue_blocks": [
    "b769"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b769 \"paraṃ paśyan\""
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b769 \"paraṃ paśyan\"",
+  "deva_status": "legacy"
  },
  "paramasiva": {
   "deva": "परमसिव",
@@ -240,7 +266,8 @@
   "cue_blocks": [
    "b154"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b154 limited position mistake"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b154 limited position mistake",
+  "deva_status": "legacy"
  },
  "pasupata": {
   "deva": "पसुपत",
@@ -249,7 +276,8 @@
   "cue_blocks": [
    "b519"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b519 tradition tag"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b519 tradition tag",
+  "deva_status": "legacy"
  },
  "pasyan": {
   "deva": "पस्यन्",
@@ -258,7 +286,8 @@
   "cue_blocks": [
    "b769"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b769 \"paśyan\""
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b769 \"paśyan\"",
+  "deva_status": "legacy"
  },
  "prakriya-param": {
   "deva": "प्रक्रिय परम्",
@@ -267,7 +296,8 @@
   "cue_blocks": [
    "b169"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b169 \"prakriyā-paraṃ jñānam\""
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b169 \"prakriyā-paraṃ jñānam\"",
+  "deva_status": "legacy"
  },
  "prakrti": {
   "deva": "प्रक्र्ति",
@@ -276,7 +306,8 @@
   "cue_blocks": [
    "b283"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b283 egg of Prakṛti"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b283 egg of Prakṛti",
+  "deva_status": "legacy"
  },
  "prakrtyandas": {
   "deva": "प्रक्र्त्यन्दस्",
@@ -285,7 +316,8 @@
   "cue_blocks": [
    "b285"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b285 innumerable"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b285 innumerable",
+  "deva_status": "legacy"
  },
  "prana": {
   "deva": "प्रन",
@@ -294,7 +326,8 @@
   "cue_blocks": [
    "b94"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b94 dissolve body into prāṇa"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b94 dissolve body into prāṇa",
+  "deva_status": "legacy"
  },
  "prane": {
   "deva": "प्रने",
@@ -303,7 +336,8 @@
   "cue_blocks": [
    "b768"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b768 \"dehe prāṇe\""
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b768 \"dehe prāṇe\"",
+  "deva_status": "legacy"
  },
  "pratistha-kala": {
   "deva": "प्रतिस्थ कल",
@@ -312,7 +346,8 @@
   "cue_blocks": [
    "b501"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b501 fifty-six worlds"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b501 fifty-six worlds",
+  "deva_status": "legacy"
  },
  "prthivi-tattva": {
   "deva": "प्र्थिवि तत्त्व",
@@ -321,7 +356,8 @@
   "cue_blocks": [
    "b467"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b467 Nivṛtti’s sixteen worlds"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b467 Nivṛtti’s sixteen worlds",
+  "deva_status": "legacy"
  },
  "purnatvad": {
   "deva": "पुर्नत्वद्",
@@ -330,7 +366,8 @@
   "cue_blocks": [
    "b769"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b769 \"pūrṇatvād\""
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b769 \"pūrṇatvād\"",
+  "deva_status": "legacy"
  },
  "purusa": {
   "deva": "पुरुस",
@@ -339,7 +376,8 @@
   "cue_blocks": [
    "b299"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b299 distinct from prakṛti"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b299 distinct from prakṛti",
+  "deva_status": "legacy"
  },
  "sadakhya": {
   "deva": "सदख्य",
@@ -348,7 +386,8 @@
   "cue_blocks": [
    "b367"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b367 \"Also called\""
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b367 \"Also called\"",
+  "deva_status": "legacy"
  },
  "sadasiva": {
   "deva": "सदसिव",
@@ -357,7 +396,8 @@
   "cue_blocks": [
    "b371"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b371 scale marker"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b371 scale marker",
+  "deva_status": "legacy"
  },
  "saiva": {
   "deva": "सैव",
@@ -366,7 +406,8 @@
   "cue_blocks": [
    "b519"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b519 tradition tag"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b519 tradition tag",
+  "deva_status": "legacy"
  },
  "saivism": {
   "deva": "सैविस्म्",
@@ -375,7 +416,8 @@
   "cue_blocks": [
    "b574"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b574 cosmology integration"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b574 cosmology integration",
+  "deva_status": "legacy"
  },
  "sakalam": {
   "deva": "सकलम्",
@@ -384,7 +426,8 @@
   "cue_blocks": [
    "b768"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b768 \"sakalaṃ\""
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b768 \"sakalaṃ\"",
+  "deva_status": "legacy"
  },
  "sakti-tattva": {
   "deva": "सक्ति तत्त्व",
@@ -393,7 +436,8 @@
   "cue_blocks": [
    "b370"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b370 enumeration"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b370 enumeration",
+  "deva_status": "legacy"
  },
  "sambhu": {
   "deva": "सम्भु",
@@ -402,7 +446,8 @@
   "cue_blocks": [
    "b485"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b485 single-word chant"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b485 single-word chant",
+  "deva_status": "legacy"
  },
  "samkhya": {
   "deva": "सम्ख्य",
@@ -411,7 +456,8 @@
   "cue_blocks": [
    "b299"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b299 ordinary Sāṃkhya"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b299 ordinary Sāṃkhya",
+  "deva_status": "legacy"
  },
  "samvidi": {
   "deva": "सम्विदि",
@@ -420,7 +466,8 @@
   "cue_blocks": [
    "b769"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b769 \"Saṃvidi ca\""
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b769 \"Saṃvidi ca\"",
+  "deva_status": "legacy"
  },
  "sankhya": {
   "deva": "सन्ख्य",
@@ -429,7 +476,8 @@
   "cue_blocks": [
    "b219"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b219 \"saṅkhyā vidyate\" (no count)"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b219 \"saṅkhyā vidyate\" (no count)",
+  "deva_status": "legacy"
  },
  "santi-kala": {
   "deva": "सन्ति कल",
@@ -438,7 +486,8 @@
   "cue_blocks": [
    "b665"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b665 eighteen worlds pure path"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b665 eighteen worlds pure path",
+  "deva_status": "legacy"
  },
  "siva-tattva": {
   "deva": "सिव तत्त्व",
@@ -447,7 +496,8 @@
   "cue_blocks": [
    "b410"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b410 enumeration"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b410 enumeration",
+  "deva_status": "legacy"
  },
  "srisaila": {
   "deva": "स्रिसैल",
@@ -456,7 +506,8 @@
   "cue_blocks": [
    "b534"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b534 division list"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b534 division list",
+  "deva_status": "legacy"
  },
  "suddhavidya": {
   "deva": "सुद्धविद्य",
@@ -465,7 +516,8 @@
   "cue_blocks": [
    "b364"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b364 billion times"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b364 billion times",
+  "deva_status": "legacy"
  },
  "sunya": {
   "deva": "सुन्य",
@@ -474,7 +526,8 @@
   "cue_blocks": [
    "b118"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b118 don’t mistake for ultimate"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b118 don’t mistake for ultimate",
+  "deva_status": "legacy"
  },
  "tanmatras": {
   "deva": "तन्मत्रस्",
@@ -483,7 +536,8 @@
   "cue_blocks": [
    "b255"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b255 five tanmātras"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b255 five tanmātras",
+  "deva_status": "legacy"
  },
  "varanasi": {
   "deva": "वरनसि",
@@ -492,7 +546,8 @@
   "cue_blocks": [
    "b570"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b570 Śaiva geography link"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b570 Śaiva geography link",
+  "deva_status": "legacy"
  },
  "vidya-kala": {
   "deva": "विद्य कल",
@@ -501,7 +556,8 @@
   "cue_blocks": [
    "b625"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b625 twenty-eight worlds"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b625 twenty-eight worlds",
+  "deva_status": "legacy"
  },
  "virabhadra": {
   "deva": "विरभद्र",
@@ -510,7 +566,8 @@
   "cue_blocks": [
    "b486"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b486 enumeration"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b486 enumeration",
+  "deva_status": "legacy"
  },
  "visnu": {
   "deva": "विस्नु",
@@ -519,7 +576,8 @@
   "cue_blocks": [
    "b152"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b152 ruler option"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b152 ruler option",
+  "deva_status": "legacy"
  },
  "vyap": {
   "deva": "व्यप्",
@@ -528,7 +586,8 @@
   "cue_blocks": [
    "b383"
   ],
-  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b383 verbatim root gloss"
+  "note": "bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: bulk-confirmed 2026-11-04 (owner blanket confirm); draft was: draft final for owner confirm; b383 verbatim root gloss",
+  "deva_status": "legacy"
  },
  "desadhvaprakasanam": {
   "deva": "देशाध्वप्रकाशनम्",
@@ -536,6 +595,7 @@
   "gloss": "The Path of Space",
   "status": "confirmed",
   "literal_status": "proposed",
-  "note": "chapter-title entry; drives the canonical intro title stack | bulk-confirmed 2026-11-04"
+  "note": "chapter-title entry; drives the canonical intro title stack | bulk-confirmed 2026-11-04",
+  "deva_status": "legacy"
  }
 }

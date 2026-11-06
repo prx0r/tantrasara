@@ -3,8 +3,11 @@
   "deva": "विद्याऽविनाशे जन्मविनाशः",
   "iast": "Vidyā’vināśe janmavināśaḥ.",
   "literal": "When knowledge does not perish, birth comes to an end.",
-  "status": "proposed",
+  "status": "confirmed",
   "chant": "b2",
-  "note": "author gloss line, owner bulk-confirms"
+  "note": "author gloss line, owner bulk-confirms | bulk-confirmed (owner blanket bless 2026-11-06; pairing audited by shared verse_match_key)",
+  "bids": [
+   "b2"
+  ]
  }
 }

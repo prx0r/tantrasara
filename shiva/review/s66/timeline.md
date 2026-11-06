@@ -1,17 +1,28 @@
-# Holds timeline
+# Holds timeline — planning view
 
-White is the default. Cards interrupt; white returns at section breaks,
-[long pause] beats, and dialogue entries. Proposed (unconfirmed) glosses
-do NOT render — their mentions play over white until confirmed.
+Complete storyboard-order event and term-mention plan; times are not measured.
+Confirmed mentions can appear as cards. Proposed mentions remain white.
+Use video metadata and proof frames to judge actual onsets and persistence.
 
-start: THUMBNAIL (opener image, bell + intro until first verse)
-b1: TITLE card
-b2: VERSE card (तद्विमुक्तस्तु केवली)
-b3: TERM kevali ( — ) [proposed — white until confirmed]
-b17: TERM sakti ( — ) [proposed — white until confirmed]
-b21: TERM vimuktah ( — ) [proposed — white until confirmed]
-b26: TERM samkhya-yoga ( — ) [proposed — white until confirmed]
-b26: TERM purusa ( — ) [proposed — white until confirmed]
-b26: TERM prakrti ( — ) [proposed — white until confirmed]
-b50: TERM cinmatra ( — ) [proposed — white until confirmed]
-b55: TERM kalikakrama ( — ) [proposed — white until confirmed]
+b_opener: thumbnail / opener
+b1: TITLE — Śiva Sūtras 3.34
+b1: TONE BREAK
+b2: VERSE — तद्विमुक्तस्तु केवली
+b2 word 2: TERM kevali ( — ) [PROPOSED — white]
+b3 word 3: TERM kevali ( — ) [PROPOSED — white]
+b4 word 8: TERM kevali ( — ) [PROPOSED — white]
+b9: VERSE — Kevalī.
+b9 word 1: TERM kevali ( — ) [PROPOSED — white]
+b18 word 9: TERM sakti ( — ) [PROPOSED — white]
+b22 word 1: TERM vimuktah ( — ) [PROPOSED — white]
+b24 word 1: TERM kevali ( — ) [PROPOSED — white]
+b27 word 3: TERM samkhya-yoga ( — ) [PROPOSED — white]
+b27 word 11: TERM purusa ( — ) [PROPOSED — white]
+b27 word 13: TERM prakrti ( — ) [PROPOSED — white]
+b31 word 4: TERM sakti ( — ) [PROPOSED — white]
+b32 word 3: TERM kevali ( — ) [PROPOSED — white]
+b39: VERSE — Saṃskāra.
+b51 word 4: TERM cinmatra ( — ) [PROPOSED — white]
+b56 word 4: TERM kalikakrama ( — ) [PROPOSED — white]
+b60 word 1: TERM kevali ( — ) [PROPOSED — white]
+b81 word 3: TERM kevali ( — ) [PROPOSED — white]

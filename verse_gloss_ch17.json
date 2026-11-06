@@ -1,14 +1,27 @@
 {
+ "abhts_17.5": {
+  "bids": [
+   "b205"
+  ],
+  "match_key": "tatrasyavratamgrhitvambhasiksipettatrasyavratamgrhitvambhasiksipet",
+  "match_score": 0.55,
+  "literal": "Then (tato) of-him (asya) lodging-and-the-rest (adhivāsādi) as-before (prāgvat)",
+  "final": "",
+  "final_source": "none",
+  "l4": null,
+  "status": "proposed"
+ },
  "abhts_17.6": {
   "bids": [
    "b550"
   ],
   "match_key": "diksayathecchamdiksayatheccham",
-  "match_score": 0.67,
+  "match_score": 1.0,
   "literal": "Initiation (dīkṣā) as-wished (yatheccham)",
   "final": "",
   "final_source": "none",
   "l4": null,
-  "status": "proposed"
+  "status": "confirmed",
+  "note": " | kept confirmed (ralph loop re-mine preserved prior confirm)"
  }
 }

@@ -3,8 +3,11 @@
   "deva": "कवर्गादिषु माहेश्वर्याद्याः पशुमातरः",
   "iast": "Kavargādiṣu māheśvaryādyāḥ paśumātaraḥ.",
   "literal": "The Mothers of bound beings, beginning with Māheśvarī and the others, preside over the phonemic classes beginning with the ka-group.",
-  "status": "proposed",
+  "status": "confirmed",
   "chant": "b2",
-  "note": "author gloss line, owner bulk-confirms"
+  "note": "author gloss line, owner bulk-confirms | bulk-confirmed (owner blanket bless 2026-11-06; pairing audited by shared verse_match_key)",
+  "bids": [
+   "b2"
+  ]
  }
 }

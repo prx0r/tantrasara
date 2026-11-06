@@ -3,8 +3,11 @@
   "deva": "नाडीसंहारभूतजयभूतकैवल्यभूतपृथक्त्वानि",
   "iast": "Nāḍīsaṃhāra-bhūtajaya-bhūtakaivalya-bhūtapṛthaktvāni.",
   "literal": "Withdrawal of the subtle channels; mastery of the elements; isolation from the elements; separation from the elements.",
-  "status": "proposed",
+  "status": "confirmed",
   "chant": "b2",
-  "note": "author gloss line, owner bulk-confirms"
+  "note": "author gloss line, owner bulk-confirms | bulk-confirmed (owner blanket bless 2026-11-06; pairing audited by shared verse_match_key)",
+  "bids": [
+   "b2"
+  ]
  }
 }

@@ -3,8 +3,11 @@
   "deva": "शुद्धतत्त्वसन्धानाद्वापशुशक्तिः",
   "iast": "Śuddhatattvasandhānād vāpaśuśaktiḥ.",
   "literal": "Through union with the pure principle, the power of bondage associated with the limited being is absent.",
-  "status": "proposed",
+  "status": "confirmed",
   "chant": "b2",
-  "note": "author gloss line, owner bulk-confirms"
+  "note": "author gloss line, owner bulk-confirms | bulk-confirmed (owner blanket bless 2026-11-06; pairing audited by shared verse_match_key)",
+  "bids": [
+   "b2"
+  ]
  }
 }

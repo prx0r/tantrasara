@@ -1,16 +1,19 @@
-# Holds timeline
+# Holds timeline — planning view
 
-White is the default. Cards interrupt; white returns at section breaks,
-[long pause] beats, and dialogue entries. Proposed (unconfirmed) glosses
-do NOT render — their mentions play over white until confirmed.
+Complete storyboard-order event and term-mention plan; times are not measured.
+Confirmed mentions can appear as cards. Proposed mentions remain white.
+Use video metadata and proof frames to judge actual onsets and persistence.
 
-start: THUMBNAIL (opener image, bell + intro until first verse)
-b1: TITLE card
-b2: TITLE card
-b3: VERSE card (चैतन्यमात्मा)
-b4: TERM atma ( — ) [proposed — white until confirmed]
-b13: TERM atman ( — ) [proposed — white until confirmed]
-b20: TERM prakasa ( — the luminous manifestation of reality) [proposed — white until confirmed]
-b20: TERM vimarsa ( — ) [proposed — white until confirmed]
-b21: TERM svatantrya ( — ) [proposed — white until confirmed]
-b29: TERM pratyabhijna ( — ) [proposed — white until confirmed]
+b_opener: thumbnail / opener
+b1: TITLE — Śiva Sūtras 1.1
+b1: TONE BREAK
+b2: SECTION CHANGE
+b2: TITLE — BOOK I — ŚĀMBHAVOPĀYA
+b2: TONE BREAK
+b3: VERSE — चैतन्यमात्मा
+b4 word 2: TERM atma ( — ) [PROPOSED — white]
+b14 word 7: TERM atman ( — ) [PROPOSED — white]
+b21 word 2: TERM prakasa ( — the luminous manifestation of reality) [PROPOSED — white]
+b21 word 10: TERM vimarsa ( — ) [PROPOSED — white]
+b22 word 7: TERM svatantrya ( — ) [PROPOSED — white]
+b30 word 17: TERM pratyabhijna ( — ) [PROPOSED — white]

@@ -1,21 +1,29 @@
-# Holds timeline
+# Holds timeline — planning view
 
-White is the default. Cards interrupt; white returns at section breaks,
-[long pause] beats, and dialogue entries. Proposed (unconfirmed) glosses
-do NOT render — their mentions play over white until confirmed.
+Complete storyboard-order event and term-mention plan; times are not measured.
+Confirmed mentions can appear as cards. Proposed mentions remain white.
+Use video metadata and proof frames to judge actual onsets and persistence.
 
-start: THUMBNAIL (opener image, bell + intro until first verse)
-b1: TITLE card
-b2: VERSE card (सुखदुःखयोर्बहिर्मननम्)
-b3: TERM sukhaduhkhayor ( — ) [proposed — white until confirmed]
-b9: TERM duhkha ( — ) [proposed — white until confirmed]
-b11: TERM bahih ( — ) [proposed — white until confirmed]
-b28: WHITE (tone break)
-b33: TERM idanta ( — ) [proposed — white until confirmed]
-b50: TERM puryastaka ( — ) [proposed — white until confirmed]
-b54: VERSE card (Ahaṃkāra.)
-b60: TERM isvarapratyabhijnavimarsini ( — ) [proposed — white until confirmed]
-b60: TERM spandakarika ( — ) [proposed — white until confirmed]
-b66: WHITE (tone break)
-b90: TERM sakti ( — ) [proposed — white until confirmed]
-b97: VERSE card (Kevalī.)
+b_opener: thumbnail / opener
+b1: TITLE — Śiva Sūtras 3.33
+b1: TONE BREAK
+b2: VERSE — सुखदुःखयोर्बहिर्मननम्
+b3 word 1: TERM sukhaduhkhayor ( — ) [PROPOSED — white]
+b10 word 1: TERM duhkha ( — ) [PROPOSED — white]
+b12 word 1: TERM bahih ( — ) [PROPOSED — white]
+b29: TONE BREAK
+b30: TONE BREAK
+b31: TONE BREAK
+b34 word 5: TERM idanta ( — ) [PROPOSED — white]
+b51 word 10: TERM puryastaka ( — ) [PROPOSED — white]
+b52 word 2: TERM puryastaka ( — ) [PROPOSED — white]
+b55: VERSE — Ahaṃkāra.
+b61 word 4: TERM isvarapratyabhijnavimarsini ( — ) [PROPOSED — white]
+b61 word 7: TERM spandakarika ( — ) [PROPOSED — white]
+b67: TONE BREAK
+b69: TONE BREAK
+b71: TONE BREAK
+b73: TONE BREAK
+b84: TONE BREAK
+b91 word 9: TERM sakti ( — ) [PROPOSED — white]
+b98: VERSE — Kevalī.

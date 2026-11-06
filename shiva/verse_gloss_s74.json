@@ -3,8 +3,11 @@
   "deva": "भूतकञ्चुकी तदा विमुक्तो भूयः पतिसमः परः",
   "iast": "Bhūtakañcukī tadā vimukto bhūyaḥ patisamaḥ paraḥ.",
   "literal": "Then, though still clothed in the elements, one is liberated, supremely complete, and like the Lord.",
-  "status": "proposed",
+  "status": "confirmed",
   "chant": "b2",
-  "note": "author gloss line, owner bulk-confirms"
+  "note": "author gloss line, owner bulk-confirms | bulk-confirmed (owner blanket bless 2026-11-06; pairing audited by shared verse_match_key)",
+  "bids": [
+   "b2"
+  ]
  }
 }

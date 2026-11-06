@@ -1,22 +1,36 @@
-# Holds timeline
+# Holds timeline — planning view
 
-White is the default. Cards interrupt; white returns at section breaks,
-[long pause] beats, and dialogue entries. Proposed (unconfirmed) glosses
-do NOT render — their mentions play over white until confirmed.
+Complete storyboard-order event and term-mention plan; times are not measured.
+Confirmed mentions can appear as cards. Proposed mentions remain white.
+Use video metadata and proof frames to judge actual onsets and persistence.
 
-start: THUMBNAIL (opener image, bell + intro until first verse)
-b1: TITLE card
-b2: VERSE card (विद्यासमुत्थाने स्वाभाविके खेचरी शिवावस्था)
-b3: TERM vidyasamutthane ( — ) [proposed — white until confirmed]
-b3: TERM svabhavike ( — ) [proposed — white until confirmed]
-b3: TERM khecari ( — ) [proposed — white until confirmed]
-b3: TERM sivavastha ( — ) [proposed — white until confirmed]
-b8: TERM mudra ( — ) [proposed — white until confirmed]
-b9: TERM hathayoga ( — ) [proposed — white until confirmed]
-b9: TERM khecarimudra ( — ) [proposed — white until confirmed]
-b15: TERM vidya ( — ) [proposed — white until confirmed]
-b16: TERM samutthana ( — ) [proposed — white until confirmed]
-b17: TERM svabhavika ( — ) [proposed — white until confirmed]
-b43: TERM ananda ( — ) [proposed — white until confirmed]
-b48: TERM maya ( — ) [proposed — white until confirmed]
-b52: WHITE (tone break)
+b_opener: thumbnail / opener
+b1: TITLE — Śiva Sūtras 2.5
+b1: TONE BREAK
+b2: VERSE — विद्यासमुत्थाने स्वाभाविके खेचरी शिवावस्था
+b2 word 1: TERM vidyasamutthane ( — ) [PROPOSED — white]
+b2 word 2: TERM svabhavike ( — ) [PROPOSED — white]
+b2 word 3: TERM khecari ( — ) [PROPOSED — white]
+b2 word 4: TERM sivavastha ( — ) [PROPOSED — white]
+b3 word 1: TERM vidyasamutthane ( — ) [PROPOSED — white]
+b3 word 2: TERM svabhavike ( — ) [PROPOSED — white]
+b3 word 3: TERM khecari ( — ) [PROPOSED — white]
+b3 word 4: TERM sivavastha ( — ) [PROPOSED — white]
+b4 word 6: TERM khecari ( — ) [PROPOSED — white]
+b5 word 2: TERM khecari ( — ) [PROPOSED — white]
+b7 word 3: TERM khecari ( — ) [PROPOSED — white]
+b9 word 6: TERM khecari ( — ) [PROPOSED — white]
+b9 word 7: TERM mudra ( — ) [PROPOSED — white]
+b10 word 3: TERM hathayoga ( — ) [PROPOSED — white]
+b10 word 5: TERM khecarimudra ( — ) [PROPOSED — white]
+b12 word 7: TERM khecari ( — ) [PROPOSED — white]
+b16 word 1: TERM vidya ( — ) [PROPOSED — white]
+b17 word 1: TERM samutthana ( — ) [PROPOSED — white]
+b18 word 1: TERM svabhavika ( — ) [PROPOSED — white]
+b19 word 1: TERM khecari ( — ) [PROPOSED — white]
+b20 word 1: TERM sivavastha ( — ) [PROPOSED — white]
+b24 word 2: TERM khecari ( — ) [PROPOSED — white]
+b39 word 7: TERM khecari ( — ) [PROPOSED — white]
+b44 word 1: TERM ananda ( — ) [PROPOSED — white]
+b49 word 12: TERM maya ( — ) [PROPOSED — white]
+b53: TONE BREAK

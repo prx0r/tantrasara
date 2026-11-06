@@ -1,6 +1,6 @@
 {
- "date": "2026-11-04",
- "storyboard_sha": "6c0aa3bbf6cc50088138f681979d848e848d30e409fe2ca8c8a62cbde2f1607a",
- "glossary_sha": "8abde8647e733f0a2678d7b0e22898beadb97342e68b35a9b0ec3574d8b531b9",
- "note": "b2 chant flip + header optics + intro scope (owner: u bless them urself 2026-11-04, bounded render-readiness; revocable by deleting this file)"
+  "date": "2026-11-06",
+  "storyboard_sha": "6c0aa3bbf6cc50088138f681979d848e848d30e409fe2ca8c8a62cbde2f1607a",
+  "glossary_sha": "32b372b62e4f80f4c63df5dd9581f593b20c31be627cc9b0ee010fce51bc8593",
+  "note": "owner blanket bless 2026-11-06 + Deva round-trip verification (157 machine-verified vs author IAST, 499 unverifiable flipped to proposed/white)"
 }

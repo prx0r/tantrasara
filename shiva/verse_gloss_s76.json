@@ -3,8 +3,11 @@
   "deva": "नासिकान्तर्मध्यसंयमात्किमत्र सव्यापसव्यसौषुम्नेषु",
   "iast": "Nāsikāntarmadhyasaṃyamāt kim atra savyāpasavyasauṣumneṣu.",
   "literal": "Through intense contemplation of the innermost centre of the vital power, what more need be said of the right, left and central channels?",
-  "status": "proposed",
+  "status": "confirmed",
   "chant": "b2",
-  "note": "author gloss line, owner bulk-confirms"
+  "note": "author gloss line, owner bulk-confirms | bulk-confirmed (owner blanket bless 2026-11-06; pairing audited by shared verse_match_key)",
+  "bids": [
+   "b2"
+  ]
  }
 }

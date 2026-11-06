@@ -1,18 +1,27 @@
-# Holds timeline
+# Holds timeline — planning view
 
-White is the default. Cards interrupt; white returns at section breaks,
-[long pause] beats, and dialogue entries. Proposed (unconfirmed) glosses
-do NOT render — their mentions play over white until confirmed.
+Complete storyboard-order event and term-mention plan; times are not measured.
+Confirmed mentions can appear as cards. Proposed mentions remain white.
+Use video metadata and proof frames to judge actual onsets and persistence.
 
-start: THUMBNAIL (opener image, bell + intro until first verse)
-b1: TITLE card
-b2: VERSE card (प्रेक्षकाणीन्द्रियाणि)
-b3: TERM preksakanindriyani ( — ) [proposed — white until confirmed]
-b13: TERM preksaka ( — ) [proposed — white until confirmed]
-b27: TERM camatkara ( — ) [proposed — white until confirmed]
-b34: TERM yogabhumikah ( — ) [proposed — white until confirmed]
-b60: TERM sakti ( — ) [proposed — white until confirmed]
-b63: WHITE (tone break)
-b70: TERM katha ( — ) [proposed — white until confirmed]
-b70: TERM upanisad ( — ) [proposed — white until confirmed]
-b86: VERSE card (नर्तक आत्मा।)
+b_opener: thumbnail / opener
+b1: TITLE — Śiva Sūtras 3.11
+b1: TONE BREAK
+b2: VERSE — प्रेक्षकाणीन्द्रियाणि
+b2 word 1: TERM preksakanindriyani ( — ) [PROPOSED — white]
+b3 word 1: TERM preksakanindriyani ( — ) [PROPOSED — white]
+b14 word 1: TERM preksaka ( — ) [PROPOSED — white]
+b17: VERSE — Prekṣakāṇi indriyāṇi.
+b28 word 8: TERM camatkara ( — ) [PROPOSED — white]
+b34: VERSE — विस्मयो योगभूमिकाः।
+b35 word 2: TERM yogabhumikah ( — ) [PROPOSED — white]
+b49 word 7: TERM camatkara ( — ) [PROPOSED — white]
+b61 word 8: TERM sakti ( — ) [PROPOSED — white]
+b64: TONE BREAK
+b65: TONE BREAK
+b66: TONE BREAK
+b71 word 5: TERM katha ( — ) [PROPOSED — white]
+b71 word 6: TERM upanisad ( — ) [PROPOSED — white]
+b87: VERSE — नर्तक आत्मा।
+b89: VERSE — रङ्गोऽन्तरात्मा।
+b91: VERSE — प्रेक्षकाणीन्द्रियाणि।

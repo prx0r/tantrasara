@@ -1,29 +1,46 @@
-# Holds timeline
+# Holds timeline — planning view
 
-White is the default. Cards interrupt; white returns at section breaks,
-[long pause] beats, and dialogue entries. Proposed (unconfirmed) glosses
-do NOT render — their mentions play over white until confirmed.
+Complete storyboard-order event and term-mention plan; times are not measured.
+Confirmed mentions can appear as cards. Proposed mentions remain white.
+Use video metadata and proof frames to judge actual onsets and persistence.
 
-start: THUMBNAIL (opener image, bell + intro until first verse)
-b1: TITLE card
-b2: VERSE card (अभिलाषाद्बहिर्गतिः संवाह्यस्य)
-b3: TERM abhilasad ( — ) [proposed — white until confirmed]
-b3: TERM bahirgatih ( — ) [proposed — white until confirmed]
-b3: TERM samvahyasya ( — ) [proposed — white until confirmed]
-b4: TERM samsara ( — ) [proposed — white until confirmed]
-b11: TERM abhilasa ( — ) [proposed — white until confirmed]
-b14: TERM gatih ( — ) [proposed — white until confirmed]
-b15: TERM samvahya ( — ) [proposed — white until confirmed]
-b20: TERM pasu ( — ) [proposed — white until confirmed]
-b22: TERM karmatma ( — ) [proposed — white until confirmed]
-b23: TERM kancukas ( — ) [proposed — white until confirmed]
-b27: WHITE (tone break)
-b36: TERM samsaric ( — ) [proposed — white until confirmed]
-b38: TERM anavamala ( — ) [proposed — white until confirmed]
-b41: VERSE card (Apūrṇammanyatā.)
-b44: TERM a-purna ( — ) [proposed — white until confirmed]
-b45: TERM manyata ( — ) [proposed — white until confirmed]
-b47: WHITE (tone break)
-b61: TERM raga ( — ) [proposed — white until confirmed]
-b82: TERM kalikakrama ( — ) [proposed — white until confirmed]
-b100: TERM jiva ( — ) [proposed — white until confirmed]
+b_opener: thumbnail / opener
+b1: TITLE — Śiva Sūtras 3.40
+b1: TONE BREAK
+b2: VERSE — अभिलाषाद्बहिर्गतिः संवाह्यस्य
+b2 word 2: TERM samvahyasya ( — ) [PROPOSED — white]
+b3 word 1: TERM abhilasad ( — ) [PROPOSED — white]
+b3 word 2: TERM bahirgatih ( — ) [PROPOSED — white]
+b3 word 3: TERM samvahyasya ( — ) [PROPOSED — white]
+b5 word 8: TERM samsara ( — ) [PROPOSED — white]
+b12 word 1: TERM abhilasa ( — ) [PROPOSED — white]
+b15 word 1: TERM gatih ( — ) [PROPOSED — white]
+b16 word 1: TERM samvahya ( — ) [PROPOSED — white]
+b18: VERSE — Saṃvāhya.
+b18 word 1: TERM samvahya ( — ) [PROPOSED — white]
+b21 word 2: TERM pasu ( — ) [PROPOSED — white]
+b23 word 2: TERM karmatma ( — ) [PROPOSED — white]
+b24 word 9: TERM kancukas ( — ) [PROPOSED — white]
+b28: TONE BREAK
+b30: TONE BREAK
+b31: TONE BREAK
+b32: TONE BREAK
+b33: TONE BREAK
+b34: TONE BREAK
+b35: TONE BREAK
+b36: TONE BREAK
+b37 word 5: TERM samsaric ( — ) [PROPOSED — white]
+b39 word 3: TERM abhilasa ( — ) [PROPOSED — white]
+b39 word 5: TERM anavamala ( — ) [PROPOSED — white]
+b42: VERSE — Apūrṇammanyatā.
+b45 word 1: TERM a-purna ( — ) [PROPOSED — white]
+b46 word 1: TERM manyata ( — ) [PROPOSED — white]
+b48: TONE BREAK
+b50: TONE BREAK
+b51: TONE BREAK
+b52: TONE BREAK
+b62 word 2: TERM raga ( — ) [PROPOSED — white]
+b62 word 6: TERM kancukas ( — ) [PROPOSED — white]
+b83 word 6: TERM kalikakrama ( — ) [PROPOSED — white]
+b91: TONE BREAK
+b101 word 13: TERM jiva ( — ) [PROPOSED — white]

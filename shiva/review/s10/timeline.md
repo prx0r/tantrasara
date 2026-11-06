@@ -1,12 +1,17 @@
-# Holds timeline
+# Holds timeline — planning view
 
-White is the default. Cards interrupt; white returns at section breaks,
-[long pause] beats, and dialogue entries. Proposed (unconfirmed) glosses
-do NOT render — their mentions play over white until confirmed.
+Complete storyboard-order event and term-mention plan; times are not measured.
+Confirmed mentions can appear as cards. Proposed mentions remain white.
+Use video metadata and proof frames to judge actual onsets and persistence.
 
-start: THUMBNAIL (opener image, bell + intro until first verse)
-b1: TITLE card
-b2: VERSE card (अविवेको मायासौषुप्तम्)
-b3: TERM mayasausuptam ( — ) [proposed — white until confirmed]
-b4: TERM maya ( — ) [proposed — white until confirmed]
-b11: WHITE (tone break)
+b_opener: thumbnail / opener
+b1: TITLE — Śiva Sūtras 1.10
+b1: TONE BREAK
+b2: VERSE — अविवेको मायासौषुप्तम्
+b2 word 2: TERM mayasausuptam ( — ) [PROPOSED — white]
+b3 word 2: TERM mayasausuptam ( — ) [PROPOSED — white]
+b4 word 8: TERM maya ( — ) [PROPOSED — white]
+b12: TONE BREAK
+b16: TONE BREAK
+b18: TONE BREAK
+b22 word 2: TERM maya ( — ) [PROPOSED — white]

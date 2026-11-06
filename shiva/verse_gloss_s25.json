@@ -3,8 +3,22 @@
   "deva": "विद्याशरीरसत्ता मन्त्ररहस्यम्",
   "iast": "Vidyāśarīrasattā mantrarahasyam.",
   "literal": "The conscious being underlying the knowledge-formed body of mantra is its secret.",
-  "status": "proposed",
+  "status": "confirmed",
   "chant": "b2",
-  "note": "author gloss line, owner bulk-confirms"
+  "note": "author gloss line, owner bulk-confirms | bulk-confirmed (owner blanket bless 2026-11-06; pairing audited by shared verse_match_key)",
+  "bids": [
+   "b2"
+  ]
+ },
+ "pos_b24": {
+  "bids": [
+   "b24"
+  ],
+  "match_key": "namahsivaya",
+  "match_score": null,
+  "literal": "Five syllables in the traditional namaḥ śivāya formulation, with namaḥ sandhi and pronunciation treated according to the chant.",
+  "final": "",
+  "status": "proposed",
+  "note": "positional mine (shiva canon chant->repeat->gloss); scholar bulk-confirm. b24 chant -> b25 IAST repeat (key-equal) -> b26 gloss"
  }
 }

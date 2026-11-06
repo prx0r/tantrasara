@@ -3,8 +3,11 @@
   "deva": "शक्तिचक्रसन्धाने विश्वसंहारः",
   "iast": "Śakticakrasandhāne viśvasaṃhāraḥ.",
   "literal": "Through union with the circle of powers, the universe is withdrawn.",
-  "status": "proposed",
+  "status": "confirmed",
   "chant": "b2",
-  "note": "author gloss line, owner bulk-confirms"
+  "note": "author gloss line, owner bulk-confirms | bulk-confirmed (owner blanket bless 2026-11-06; pairing audited by shared verse_match_key)",
+  "bids": [
+   "b2"
+  ]
  }
 }

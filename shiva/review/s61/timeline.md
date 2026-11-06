@@ -1,17 +1,21 @@
-# Holds timeline
+# Holds timeline — planning view
 
-White is the default. Cards interrupt; white returns at section breaks,
-[long pause] beats, and dialogue entries. Proposed (unconfirmed) glosses
-do NOT render — their mentions play over white until confirmed.
+Complete storyboard-order event and term-mention plan; times are not measured.
+Confirmed mentions can appear as cards. Proposed mentions remain white.
+Use video metadata and proof frames to judge actual onsets and persistence.
 
-start: THUMBNAIL (opener image, bell + intro until first verse)
-b1: TITLE card
-b2: VERSE card (योऽविपस्थो ज्ञाहेतुश्च)
-b3: TERM jnahetus ( — ) [proposed — white until confirmed]
-b10: TERM avipasthah ( — ) [proposed — white until confirmed]
-b12: TERM hetuh ( — ) [proposed — white until confirmed]
-b20: TERM matrka ( — ) [proposed — white until confirmed]
-b28: TERM sakti ( — ) [proposed — white until confirmed]
-b29: TERM sakticakra ( — ) [proposed — white until confirmed]
-b50: TERM yogindra ( — ) [proposed — white until confirmed]
-b50: TERM vijnana ( — ) [proposed — white until confirmed]
+b_opener: thumbnail / opener
+b1: TITLE — Śiva Sūtras 3.29
+b1: TONE BREAK
+b2: VERSE — योऽविपस्थो ज्ञाहेतुश्च
+b3 word 3: TERM jnahetus ( — ) [PROPOSED — white]
+b11 word 1: TERM avipasthah ( — ) [PROPOSED — white]
+b13 word 1: TERM hetuh ( — ) [PROPOSED — white]
+b15 word 6: TERM avipasthah ( — ) [PROPOSED — white]
+b21 word 4: TERM matrka ( — ) [PROPOSED — white]
+b29 word 10: TERM sakti ( — ) [PROPOSED — white]
+b30 word 10: TERM sakticakra ( — ) [PROPOSED — white]
+b37: VERSE — Dānam ātmajñānam.
+b51 word 4: TERM yogindra ( — ) [PROPOSED — white]
+b51 word 7: TERM vijnana ( — ) [PROPOSED — white]
+b81 word 11: TERM sakti ( — ) [PROPOSED — white]

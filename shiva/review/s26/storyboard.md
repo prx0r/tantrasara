@@ -1,6 +1,6 @@
 # Review — shiva s26
 
-62 blocks. Voices: granny=58, man=2, none=1, verse=1.
+63 blocks. Voices: granny=59, man=2, none=1, verse=1.
 Confirmed glossary terms (0): none.
 
 ## b_opener · opener · none · [opener]
@@ -17,236 +17,240 @@ Confirmed glossary terms (0): none.
 
 ## b3 · narration · granny · [Śiva Sūtras 2.4]
 
-Garbhe cittavikāso ’viśiṣṭavidyāsvapnaḥ. / The mind’s expansion within the womb of Māyā, even through extraordinary powers, is merely a dream of inferior knowledge.
+Garbhe cittavikāso ’viśiṣṭavidyāsvapnaḥ.
 
 ## b4 · narration · granny · [Śiva Sūtras 2.4]
 
-You Got One Spiritual Experience and Now You Think You’re Gandalf
+The mind’s expansion within the womb of Māyā, even through extraordinary powers, is merely a dream of inferior knowledge.
 
 ## b5 · narration · granny · [Śiva Sūtras 2.4]
 
-Oh dear.
+You Got One Spiritual Experience and Now You Think You’re Gandalf.
 
 ## b6 · narration · granny · [Śiva Sūtras 2.4]
 
-We’ve arrived at the warning.
+Oh dear.
 
 ## b7 · narration · granny · [Śiva Sūtras 2.4]
 
-And Vasugupta is about to deliver an absolutely devastating assessment of the spiritually ambitious.
+We’ve arrived at the warning.
 
 ## b8 · narration · granny · [Śiva Sūtras 2.4]
 
-Let’s unpack the Sanskrit.
+And Vasugupta is about to deliver an absolutely devastating assessment of the spiritually ambitious.
 
 ## b9 · narration · granny · [Śiva Sūtras 2.4]
 
-Garbhe — in the womb, in the matrix.
+Let’s unpack the Sanskrit.
 
 ## b10 · narration · granny · [Śiva Sūtras 2.4]
 
-Citta — mind.
+Garbhe — in the womb, in the matrix.
 
 ## b11 · narration · granny · [Śiva Sūtras 2.4]
 
-Vikāsaḥ — expansion, blossoming, development.
+Citta — mind.
 
 ## b12 · narration · granny · [Śiva Sūtras 2.4]
 
-Aviśiṣṭa — ordinary, undistinguished, lacking the special excellence of supreme knowledge.
+Vikāsaḥ — expansion, blossoming, development.
 
 ## b13 · narration · granny · [Śiva Sūtras 2.4]
 
-Vidyā — knowledge.
+Aviśiṣṭa — ordinary, undistinguished, lacking the special excellence of supreme knowledge.
 
 ## b14 · narration · granny · [Śiva Sūtras 2.4]
 
-Svapnaḥ — dream.
+Vidyā — knowledge.
 
 ## b15 · narration · granny · [Śiva Sūtras 2.4]
 
-Now, on a superficial reading, this sounds almost positive.
+Svapnaḥ — dream.
 
 ## b16 · narration · granny · [Śiva Sūtras 2.4]
 
-The mind expands!
+Now, on a superficial reading, this sounds almost positive.
 
 ## b17 · narration · granny · [Śiva Sūtras 2.4]
 
-Knowledge develops!
+The mind expands!
 
 ## b18 · narration · granny · [Śiva Sūtras 2.4]
 
-There are extraordinary experiences!
+Knowledge develops!
 
 ## b19 · narration · granny · [Śiva Sūtras 2.4]
 
-Wonderful!
+There are extraordinary experiences!
 
 ## b20 · narration · granny · [Śiva Sūtras 2.4]
 
-Perhaps you’re meditating one afternoon and begin seeing lights.
+Wonderful!
 
 ## b21 · narration · granny · [Śiva Sūtras 2.4]
 
-Beautiful colours.
+Perhaps you’re meditating one afternoon and begin seeing lights.
 
 ## b22 · narration · granny · [Śiva Sūtras 2.4]
 
-A luminous sphere.
+Beautiful colours.
 
 ## b23 · narration · granny · [Śiva Sūtras 2.4]
 
-Mysterious sounds.
+A luminous sphere.
 
 ## b24 · narration · granny · [Śiva Sūtras 2.4]
 
-Perhaps an extraordinary sense of energy moving through the body.
+Mysterious sounds.
 
 ## b25 · narration · granny · [Śiva Sūtras 2.4]
 
-You leap to the obvious conclusion.
+Perhaps an extraordinary sense of energy moving through the body.
 
 ## b26 · narration · granny · [Śiva Sūtras 2.4]
 
-I HAVE BECOME A SUPERNATURAL BEING.
+You leap to the obvious conclusion.
 
 ## b27 · narration · granny · [Śiva Sūtras 2.4]
 
-Naturally, you immediately consider starting a YouTube channel.
+I HAVE BECOME A SUPERNATURAL BEING.
 
 ## b28 · narration · granny · [Śiva Sūtras 2.4]
 
-Perhaps a retreat centre.
+Naturally, you immediately consider starting a YouTube channel.
 
 ## b29 · narration · granny · [Śiva Sūtras 2.4]
 
-A very tasteful website.
+Perhaps a retreat centre.
 
 ## b30 · narration · granny · [Śiva Sūtras 2.4]
 
-And a line of branded meditation cushions.
+A very tasteful website.
 
 ## b31 · narration · granny · [Śiva Sūtras 2.4]
 
-But Vasugupta has some disappointing news.
+And a line of branded meditation cushions.
 
 ## b32 · narration · granny · [Śiva Sūtras 2.4]
 
-You’re still dreaming.
+But Vasugupta has some disappointing news.
 
 ## b33 · narration · granny · [Śiva Sūtras 2.4]
 
-Kṣemarāja interprets garbha here as the domain of Māyā, associated with primordial ignorance of one’s own true nature.
+You’re still dreaming.
 
 ## b34 · narration · granny · [Śiva Sūtras 2.4]
 
-And the cittavikāsa, the expansion of mind within that domain, can include fascination with limited supernatural attainments.
+Kṣemarāja interprets garbha here as the domain of Māyā, associated with primordial ignorance of one’s own true nature.
 
 ## b35 · narration · granny · [Śiva Sūtras 2.4]
 
-He specifically mentions experiences associated with bindu and nāda — luminous points and subtle sounds — when they occur as secondary yogic phenomena.
+And the cittavikāsa, the expansion of mind within that domain, can include fascination with limited supernatural attainments.
 
 ## b36 · narration · granny · [Śiva Sūtras 2.4]
 
-These must not be confused with the supreme metaphysical principles denoted by the same terms in other contexts.
+He specifically mentions experiences associated with bindu and nāda — luminous points and subtle sounds — when they occur as secondary yogic phenomena.
 
 ## b37 · narration · granny · [Śiva Sūtras 2.4]
 
-Here’s the extraordinary thing.
+These must not be confused with the supreme metaphysical principles denoted by the same terms in other contexts.
 
 ## b38 · narration · granny · [Śiva Sūtras 2.4]
 
-Kṣemarāja explicitly draws upon the Spandakārikā and Patañjali’s Yoga Sūtras to warn that extraordinary experiences can become obstacles to samādhi. Sanskrit & Trika Shaivism
+Here’s the extraordinary thing.
 
 ## b39 · narration · granny · [Śiva Sūtras 2.4]
 
-And that’s a rather important correction to the assumption that Tantra simply encourages collecting increasingly spectacular experiences.
+Kṣemarāja explicitly draws upon the Spandakārikā and Patañjali’s Yoga Sūtras to warn that extraordinary experiences can become obstacles to samādhi. Sanskrit & Trika Shaivism.
 
 ## b40 · narration · granny · [Śiva Sūtras 2.4]
 
-Because from the nondual standpoint, extraordinary experiences aren’t necessarily extraordinary recognition.
+And that’s a rather important correction to the assumption that Tantra simply encourages collecting increasingly spectacular experiences.
 
 ## b41 · narration · granny · [Śiva Sūtras 2.4]
 
-You might experience a thousand luminous visions.
+Because from the nondual standpoint, extraordinary experiences aren’t necessarily extraordinary recognition.
 
 ## b42 · narration · granny · [Śiva Sūtras 2.4]
 
+You might experience a thousand luminous visions.
+
+## b43 · narration · granny · [Śiva Sūtras 2.4]
+
 But if you’re still fundamentally identifying as a limited subject acquiring impressive objects of experience, the basic structure of bondage remains.
 
-## b43 · dialogue · man · [Śiva Sūtras 2.4]
+## b44 · dialogue · man · [Śiva Sūtras 2.4]
 
 “I have seen a divine light.”
 
-## b44 · dialogue · granny · [Śiva Sūtras 2.4]
+## b45 · dialogue · granny · [Śiva Sūtras 2.4]
 
 “I have heard an extraordinary sound.”
 
-## b45 · dialogue · man · [Śiva Sūtras 2.4]
+## b46 · dialogue · man · [Śiva Sūtras 2.4]
 
 “I have acquired a supernatural power.”
 
-## b46 · narration · granny · [Śiva Sūtras 2.4]
+## b47 · narration · granny · [Śiva Sūtras 2.4]
 
 Notice the grammar.
 
-## b47 · narration · granny · [Śiva Sūtras 2.4]
+## b48 · narration · granny · [Śiva Sūtras 2.4]
 
 I have acquired something.
 
-## b48 · narration · granny · [Śiva Sūtras 2.4]
+## b49 · narration · granny · [Śiva Sūtras 2.4]
 
 The subject is still opposed to the object.
 
-## b49 · narration · granny · [Śiva Sūtras 2.4]
+## b50 · narration · granny · [Śiva Sūtras 2.4]
 
 And unless the true nature of that subject is recognised, the fundamental metaphysical misunderstanding persists.
 
-## b50 · narration · granny · [Śiva Sūtras 2.4]
+## b51 · narration · granny · [Śiva Sūtras 2.4]
 
 You could theoretically become capable of astonishing feats and remain thoroughly bound.
 
-## b51 · narration · granny · [Śiva Sūtras 2.4]
+## b52 · narration · granny · [Śiva Sūtras 2.4]
 
 A very powerful paśu.
 
-## b52 · narration · granny · [Śiva Sūtras 2.4]
+## b53 · narration · granny · [Śiva Sūtras 2.4]
 
 An extremely talented prisoner.
 
-## b53 · narration · granny · [Śiva Sūtras 2.4]
+## b54 · narration · granny · [Śiva Sūtras 2.4]
 
 A man with the ability to perceive distant objects who still cannot recognise the conscious reality in which his perceptions arise.
 
-## b54 · narration · granny · [Śiva Sūtras 2.4]
+## b55 · narration · granny · [Śiva Sūtras 2.4]
 
 Wonderful.
 
-## b55 · narration · granny · [Śiva Sūtras 2.4]
+## b56 · narration · granny · [Śiva Sūtras 2.4]
 
 You’ve developed cosmic binoculars.
 
-## b56 · narration · granny · [Śiva Sūtras 2.4]
+## b57 · narration · granny · [Śiva Sūtras 2.4]
 
 And forgotten your own eyes.
 
-## b57 · narration · granny · [Śiva Sūtras 2.4]
+## b58 · narration · granny · [Śiva Sūtras 2.4]
 
 The sūtra’s deeper warning isn’t that visionary experiences are necessarily false or meaningless.
 
-## b58 · narration · granny · [Śiva Sūtras 2.4]
+## b59 · narration · granny · [Śiva Sūtras 2.4]
 
 It’s that none of them, by themselves, establishes the recognition of Śiva.
 
-## b59 · narration · granny · [Śiva Sūtras 2.4]
+## b60 · narration · granny · [Śiva Sūtras 2.4]
 
 Kṣemarāja calls absorption in their limited enjoyments dreamlike.
 
-## b60 · narration · granny · [Śiva Sūtras 2.4]
+## b61 · narration · granny · [Śiva Sūtras 2.4]
 
 Because the yogi has mistaken a phenomenon appearing within consciousness for the recognition of consciousness itself.
 
-## b61 · narration · granny · [Śiva Sūtras 2.4]
+## b62 · narration · granny · [Śiva Sūtras 2.4]
 
 And Vasugupta now tells us what happens when this fascination is transcended.

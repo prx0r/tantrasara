@@ -1,21 +1,24 @@
-# Holds timeline
+# Holds timeline — planning view
 
-White is the default. Cards interrupt; white returns at section breaks,
-[long pause] beats, and dialogue entries. Proposed (unconfirmed) glosses
-do NOT render — their mentions play over white until confirmed.
+Complete storyboard-order event and term-mention plan; times are not measured.
+Confirmed mentions can appear as cards. Proposed mentions remain white.
+Use video metadata and proof frames to judge actual onsets and persistence.
 
-start: THUMBNAIL (opener image, bell + intro until first verse)
-b1: TITLE card
-b2: VERSE card (करणशक्तिः स्वतोऽनुभवात्)
-b3: TERM karanasaktih ( — ) [proposed — white until confirmed]
-b3: TERM nubhavat ( — ) [proposed — white until confirmed]
-b9: TERM karana ( — ) [proposed — white until confirmed]
-b10: TERM sakti ( — ) [proposed — white until confirmed]
-b11: TERM svatah ( — ) [proposed — white until confirmed]
-b12: TERM anubhavat ( — ) [proposed — white until confirmed]
-b44: TERM isvarapratyabhijna ( — ) [proposed — white until confirmed]
-b47: WHITE (tone break)
-b54: TERM pratyabhijna ( — ) [proposed — white until confirmed]
-b57: TERM kalpavrksa ( — ) [proposed — white until confirmed]
-b66: TERM saivism ( — ) [proposed — white until confirmed]
-b95: TERM karanasakti ( — ) [proposed — white until confirmed]
+b_opener: thumbnail / opener
+b1: TITLE — Śiva Sūtras 3.37
+b1: TONE BREAK
+b2: VERSE — करणशक्तिः स्वतोऽनुभवात्
+b2 word 1: TERM karanasaktih ( — ) [PROPOSED — white]
+b3 word 1: TERM karanasaktih ( — ) [PROPOSED — white]
+b10 word 1: TERM karana ( — ) [PROPOSED — white]
+b11 word 1: TERM sakti ( — ) [PROPOSED — white]
+b12 word 1: TERM svatah ( — ) [PROPOSED — white]
+b13 word 1: TERM anubhavat ( — ) [PROPOSED — white]
+b17: VERSE — Saṅkalpa.
+b45 word 6: TERM isvarapratyabhijna ( — ) [PROPOSED — white]
+b48: TONE BREAK
+b55 word 8: TERM pratyabhijna ( — ) [PROPOSED — white]
+b58 word 14: TERM kalpavrksa ( — ) [PROPOSED — white]
+b67 word 10: TERM saivism ( — ) [PROPOSED — white]
+b90: TONE BREAK
+b96 word 9: TERM karanasakti ( — ) [PROPOSED — white]

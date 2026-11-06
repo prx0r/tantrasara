@@ -3,8 +3,11 @@
   "deva": "शुद्धविद्योदयाच्चक्रेशत्वसिद्धिः",
   "iast": "Śuddhavidyodayāc cakreśatvasiddhiḥ.",
   "literal": "Through the arising of pure knowledge, mastery over the circle of powers is attained.",
-  "status": "proposed",
+  "status": "confirmed",
   "chant": "b2",
-  "note": "author gloss line, owner bulk-confirms"
+  "note": "author gloss line, owner bulk-confirms | bulk-confirmed (owner blanket bless 2026-11-06; pairing audited by shared verse_match_key)",
+  "bids": [
+   "b2"
+  ]
  }
 }

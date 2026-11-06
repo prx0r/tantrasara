@@ -3,8 +3,11 @@
   "deva": "स्वमात्रानिर्माणमापादयति",
   "iast": "Svamātrānirmāṇam āpādayati.",
   "literal": "The yogi brings about manifestation according to the measure of their own consciousness.",
-  "status": "proposed",
+  "status": "confirmed",
   "chant": "b2",
-  "note": "author gloss line, owner bulk-confirms"
+  "note": "author gloss line, owner bulk-confirms | bulk-confirmed (owner blanket bless 2026-11-06; pairing audited by shared verse_match_key)",
+  "bids": [
+   "b2"
+  ]
  }
 }

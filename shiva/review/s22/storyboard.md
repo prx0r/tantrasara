@@ -1,6 +1,6 @@
 # Review — shiva s22
 
-110 blocks. Voices: granny=103, none=2, verse=5.
+111 blocks. Voices: granny=103, none=2, verse=6.
 Confirmed glossary terms (0): none.
 
 ## b_opener · opener · none · [opener]
@@ -21,424 +21,428 @@ Mahāhradānusandhānān mantravīryānubhavaḥ.
 
 ## b4 · narration · granny · [Śiva Sūtras 1.22]
 
-Through union with the Great Lake comes the experience of the potency of mantra. / The Great Lake, and Why Mantras Are More Than Just Words
+Through union with the Great Lake comes the experience of the potency of mantra.
 
 ## b5 · narration · granny · [Śiva Sūtras 1.22]
 
-And here we are.
+The Great Lake, and Why Mantras Are More Than Just Words.
 
 ## b6 · narration · granny · [Śiva Sūtras 1.22]
 
-The final sūtra of the first section.
+And here we are.
 
 ## b7 · narration · granny · [Śiva Sūtras 1.22]
 
+The final sūtra of the first section.
+
+## b8 · narration · granny · [Śiva Sūtras 1.22]
+
 And Vasugupta ends with an absolutely beautiful image.
 
-## b8 · verse · verse · [Śiva Sūtras 1.22]
+## b9 · verse · verse · [Śiva Sūtras 1.22]
 
 Mahāhrada.
 
-## b9 · narration · granny · [Śiva Sūtras 1.22]
-
-The Great Lake.
-
 ## b10 · narration · granny · [Śiva Sūtras 1.22]
 
-Mahā — great.
+The Great Lake.
 
 ## b11 · narration · granny · [Śiva Sūtras 1.22]
 
-Hrada — lake, deep pool, or reservoir.
+Mahā — great.
 
 ## b12 · narration · granny · [Śiva Sūtras 1.22]
 
-Anusandhāna — sustained connection, contemplation, or identification.
+Hrada — lake, deep pool, or reservoir.
 
 ## b13 · narration · granny · [Śiva Sūtras 1.22]
 
-Mantravīrya — the potency, vital efficacy, or generative power of mantra.
+Anusandhāna — sustained connection, contemplation, or identification.
 
 ## b14 · narration · granny · [Śiva Sūtras 1.22]
 
-Anubhava — direct experience.
+Mantravīrya — the potency, vital efficacy, or generative power of mantra.
 
 ## b15 · narration · granny · [Śiva Sūtras 1.22]
 
-Now think about what a mantra ordinarily seems to be.
+Anubhava — direct experience.
 
 ## b16 · narration · granny · [Śiva Sūtras 1.22]
 
-A collection of sounds.
+Now think about what a mantra ordinarily seems to be.
 
 ## b17 · narration · granny · [Śiva Sūtras 1.22]
 
-Perhaps a Sanskrit phrase.
+A collection of sounds.
 
 ## b18 · narration · granny · [Śiva Sūtras 1.22]
 
-You pronounce it.
+Perhaps a Sanskrit phrase.
 
 ## b19 · narration · granny · [Śiva Sūtras 1.22]
 
-You repeat it.
+You pronounce it.
 
 ## b20 · narration · granny · [Śiva Sūtras 1.22]
 
-You listen to the vibration.
+You repeat it.
 
 ## b21 · narration · granny · [Śiva Sūtras 1.22]
 
-But Trika has a much deeper philosophy of mantra.
+You listen to the vibration.
 
 ## b22 · narration · granny · [Śiva Sūtras 1.22]
 
+But Trika has a much deeper philosophy of mantra.
+
+## b23 · narration · granny · [Śiva Sūtras 1.22]
+
 Remember sūtra 1.4?
 
-## b23 · verse · verse · [Śiva Sūtras 1.22]
+## b24 · verse · verse · [Śiva Sūtras 1.22]
 
 Mātṛkā.
 
-## b24 · narration · granny · [Śiva Sūtras 1.22]
+## b25 · narration · granny · [Śiva Sūtras 1.22]
 
 The mother power of the phonemes.
 
-## b25 · narration · granny · [Śiva Sūtras 1.22]
+## b26 · narration · granny · [Śiva Sūtras 1.22]
 
 The alphabet as an expression of Śakti and the ground of differentiated cognition.
 
-## b26 · narration · granny · [Śiva Sūtras 1.22]
+## b27 · narration · granny · [Śiva Sūtras 1.22]
 
 Well, now we’re at the other end of the journey.
 
-## b27 · narration · granny · [Śiva Sūtras 1.22]
+## b28 · narration · granny · [Śiva Sūtras 1.22]
 
 The first encounter with Mātṛkā revealed how differentiated knowledge participates in bondage.
 
-## b28 · narration · granny · [Śiva Sūtras 1.22]
+## b29 · narration · granny · [Śiva Sūtras 1.22]
 
 But the final sūtra describes the power of mantra when recognised through its supreme source.
 
-## b29 · narration · granny · [Śiva Sūtras 1.22]
+## b30 · narration · granny · [Śiva Sūtras 1.22]
 
 Kṣemarāja identifies the Great Lake with the supreme divine consciousness, Parā Śakti, whose manifestations extend throughout the entire universe.
 
-## b30 · narration · granny · [Śiva Sūtras 1.22]
+## b31 · narration · granny · [Śiva Sūtras 1.22]
 
 The mantravīrya is not merely the mechanical acoustic effect of pronouncing certain syllables.
 
-## b31 · narration · granny · [Śiva Sūtras 1.22]
-
-It is the potency of mantra understood through the conscious power from which it arises. Sanskrit & Trika Shaivism
-
 ## b32 · narration · granny · [Śiva Sūtras 1.22]
 
-And this changes the meaning of sacred speech.
+It is the potency of mantra understood through the conscious power from which it arises. Sanskrit & Trika Shaivism.
 
 ## b33 · narration · granny · [Śiva Sūtras 1.22]
 
-The mantra is not fundamentally a little verbal machine that forces reality to obey you.
+And this changes the meaning of sacred speech.
 
 ## b34 · narration · granny · [Śiva Sūtras 1.22]
 
-Its highest efficacy, within this system, is inseparable from recognition of Śakti.
+The mantra is not fundamentally a little verbal machine that forces reality to obey you.
 
 ## b35 · narration · granny · [Śiva Sūtras 1.22]
 
-The power of the sound is rooted in the power of consciousness.
+Its highest efficacy, within this system, is inseparable from recognition of Śakti.
 
 ## b36 · narration · granny · [Śiva Sūtras 1.22]
 
-Think about the relationship between a river and its source.
+The power of the sound is rooted in the power of consciousness.
 
 ## b37 · narration · granny · [Śiva Sūtras 1.22]
 
-Downstream you encounter the flowing water.
+Think about the relationship between a river and its source.
 
 ## b38 · narration · granny · [Śiva Sūtras 1.22]
 
-Its movements.
+Downstream you encounter the flowing water.
 
 ## b39 · narration · granny · [Śiva Sūtras 1.22]
 
-Its branching channels.
+Its movements.
 
 ## b40 · narration · granny · [Śiva Sūtras 1.22]
 
-Its individual forms.
+Its branching channels.
 
 ## b41 · narration · granny · [Śiva Sūtras 1.22]
 
-But by following its origin, you arrive at the reservoir from which the movement proceeds.
+Its individual forms.
 
 ## b42 · narration · granny · [Śiva Sūtras 1.22]
 
-The Great Lake.
+But by following its origin, you arrive at the reservoir from which the movement proceeds.
 
 ## b43 · narration · granny · [Śiva Sūtras 1.22]
 
-In the same way, the manifested phonemes, the mental activities, and the differentiated forms of knowledge can be traced back to their conscious source.
+The Great Lake.
 
 ## b44 · narration · granny · [Śiva Sūtras 1.22]
 
-And there, the yogi experiences the potency underlying mantra.
+In the same way, the manifested phonemes, the mental activities, and the differentiated forms of knowledge can be traced back to their conscious source.
 
 ## b45 · narration · granny · [Śiva Sūtras 1.22]
 
-The teaching has travelled from Mātṛkā as the basis of bondage to mantra as an expression of recognised divine power.
+And there, the yogi experiences the potency underlying mantra.
 
 ## b46 · narration · granny · [Śiva Sūtras 1.22]
 
-The same Śakti.
+The teaching has travelled from Mātṛkā as the basis of bondage to mantra as an expression of recognised divine power.
 
 ## b47 · narration · granny · [Śiva Sūtras 1.22]
 
-First misunderstood.
+The same Śakti.
 
 ## b48 · narration · granny · [Śiva Sūtras 1.22]
 
-Then recognised.
+First misunderstood.
 
 ## b49 · narration · granny · [Śiva Sūtras 1.22]
 
-The mother hasn’t changed.
+Then recognised.
 
 ## b50 · narration · granny · [Śiva Sūtras 1.22]
 
-Your relation to her has.
+The mother hasn’t changed.
 
 ## b51 · narration · granny · [Śiva Sūtras 1.22]
 
-The Great Reveal — What Did Vasugupta Actually Just Tell Us? / Let’s look at the structure of the first twenty-two sūtras.
+Your relation to her has.
 
 ## b52 · narration · granny · [Śiva Sūtras 1.22]
 
-Because this is not a random collection of spiritual one-liners.
+The Great Reveal — What Did Vasugupta Actually Just Tell Us? / Let’s look at the structure of the first twenty-two sūtras.
 
 ## b53 · narration · granny · [Śiva Sūtras 1.22]
 
-It’s an extraordinarily compressed progression.
+Because this is not a random collection of spiritual one-liners.
 
 ## b54 · narration · granny · [Śiva Sūtras 1.22]
 
-Sūtras 1–4: The diagnosis.
+It’s an extraordinarily compressed progression.
 
 ## b55 · narration · granny · [Śiva Sūtras 1.22]
 
-Your true nature is consciousness.
+Sūtras 1–4: The diagnosis.
 
 ## b56 · narration · granny · [Śiva Sūtras 1.22]
 
-Limited knowing produces bondage.
+Your true nature is consciousness.
 
 ## b57 · narration · granny · [Śiva Sūtras 1.22]
 
-The three malas explain the forms of contraction.
+Limited knowing produces bondage.
 
 ## b58 · narration · granny · [Śiva Sūtras 1.22]
 
-Mātṛkā helps explain how differentiated cognition is structured.
+The three malas explain the forms of contraction.
 
 ## b59 · narration · granny · [Śiva Sūtras 1.22]
 
-In other words:
+Mātṛkā helps explain how differentiated cognition is structured.
 
 ## b60 · narration · granny · [Śiva Sūtras 1.22]
 
-You’re Śiva, but you’re experiencing yourself as a limited individual in a divided world.
+In other words:
 
 ## b61 · narration · granny · [Śiva Sūtras 1.22]
 
-Sūtras 5–7: The breakthrough.
+You’re Śiva, but you’re experiencing yourself as a limited individual in a divided world.
 
 ## b62 · narration · granny · [Śiva Sūtras 1.22]
 
-The immediate upsurge of awareness is Bhairava.
+Sūtras 5–7: The breakthrough.
 
 ## b63 · narration · granny · [Śiva Sūtras 1.22]
 
-The universe is withdrawn into its conscious source.
+The immediate upsurge of awareness is Bhairava.
 
 ## b64 · narration · granny · [Śiva Sūtras 1.22]
 
-Turya becomes recognisable throughout the three ordinary states.
+The universe is withdrawn into its conscious source.
 
 ## b65 · narration · granny · [Śiva Sūtras 1.22]
 
-In other words:
+Turya becomes recognisable throughout the three ordinary states.
 
 ## b66 · narration · granny · [Śiva Sūtras 1.22]
 
-Recognition isn’t the creation of a new Self.
+In other words:
 
 ## b67 · narration · granny · [Śiva Sūtras 1.22]
 
-It’s the disclosure of the reality that was never absent.
+Recognition isn’t the creation of a new Self.
 
 ## b68 · narration · granny · [Śiva Sūtras 1.22]
 
-Sūtras 8–12: What consciousness is doing.
+It’s the disclosure of the reality that was never absent.
 
 ## b69 · narration · granny · [Śiva Sūtras 1.22]
 
-Waking.
+Sūtras 8–12: What consciousness is doing.
 
 ## b70 · narration · granny · [Śiva Sūtras 1.22]
 
-Dreaming.
+Waking.
 
 ## b71 · narration · granny · [Śiva Sūtras 1.22]
 
-Deep sleep.
+Dreaming.
 
 ## b72 · narration · granny · [Śiva Sūtras 1.22]
 
-The sovereignty of the realised experiencer.
+Deep sleep.
 
 ## b73 · narration · granny · [Śiva Sūtras 1.22]
 
-The ever-renewed wonder of recognition.
+The sovereignty of the realised experiencer.
 
 ## b74 · narration · granny · [Śiva Sūtras 1.22]
 
-In other words:
+The ever-renewed wonder of recognition.
 
 ## b75 · narration · granny · [Śiva Sūtras 1.22]
 
-Everything changes, but the fundamental nature of consciousness isn’t exhausted by those changes.
+In other words:
 
 ## b76 · narration · granny · [Śiva Sūtras 1.22]
 
-Sūtras 13–18: The transformation of experience.
+Everything changes, but the fundamental nature of consciousness isn’t exhausted by those changes.
 
 ## b77 · narration · granny · [Śiva Sūtras 1.22]
 
-Will is recognised as divine Śakti.
+Sūtras 13–18: The transformation of experience.
 
 ## b78 · narration · granny · [Śiva Sūtras 1.22]
 
-The entire seen universe becomes the yogi’s body.
+Will is recognised as divine Śakti.
 
 ## b79 · narration · granny · [Śiva Sūtras 1.22]
 
-Mind unites with the Heart.
+The entire seen universe becomes the yogi’s body.
 
 ## b80 · narration · granny · [Śiva Sūtras 1.22]
 
-Bondage loses its governing power.
+Mind unites with the Heart.
 
 ## b81 · narration · granny · [Śiva Sūtras 1.22]
 
-The yogi recognises their identity with Śiva.
+Bondage loses its governing power.
 
 ## b82 · narration · granny · [Śiva Sūtras 1.22]
 
-The world’s manifestation becomes inseparable from the bliss of samādhi.
+The yogi recognises their identity with Śiva.
 
 ## b83 · narration · granny · [Śiva Sūtras 1.22]
 
-In other words:
+The world’s manifestation becomes inseparable from the bliss of samādhi.
 
 ## b84 · narration · granny · [Śiva Sūtras 1.22]
 
-Liberation is not fundamentally the rejection of manifestation.
+In other words:
 
 ## b85 · narration · granny · [Śiva Sūtras 1.22]
 
-It is its recognition.
+Liberation is not fundamentally the rejection of manifestation.
 
 ## b86 · narration · granny · [Śiva Sūtras 1.22]
 
-Sūtras 19–22: The powers of consciousness.
+It is its recognition.
 
 ## b87 · narration · granny · [Śiva Sūtras 1.22]
 
-The tradition describes extraordinary accomplishments arising through union with Śakti.
+Sūtras 19–22: The powers of consciousness.
 
 ## b88 · narration · granny · [Śiva Sūtras 1.22]
 
-Pure knowledge confers mastery over the wheel of powers.
+The tradition describes extraordinary accomplishments arising through union with Śakti.
 
 ## b89 · narration · granny · [Śiva Sūtras 1.22]
 
-And union with the Great Lake reveals the potency of mantra.
+Pure knowledge confers mastery over the wheel of powers.
 
 ## b90 · narration · granny · [Śiva Sūtras 1.22]
 
-In other words:
+And union with the Great Lake reveals the potency of mantra.
 
 ## b91 · narration · granny · [Śiva Sūtras 1.22]
 
-The very Śakti that made limitation possible is also the power through which liberation is recognised.
+In other words:
 
 ## b92 · narration · granny · [Śiva Sūtras 1.22]
 
+The very Śakti that made limitation possible is also the power through which liberation is recognised.
+
+## b93 · narration · granny · [Śiva Sūtras 1.22]
+
 And that brings us right back to the original statement.
 
-## b93 · verse · verse · [Śiva Sūtras 1.22]
+## b94 · verse · verse · [Śiva Sūtras 1.22]
 
 चैतन्यमात्मा।
 
-## b94 · narration · granny · [Śiva Sūtras 1.22]
+## b95 · narration · granny · [Śiva Sūtras 1.22]
 
 Caitanyam ātmā.
 
-## b95 · narration · granny · [Śiva Sūtras 1.22]
+## b96 · narration · granny · [Śiva Sūtras 1.22]
 
 Consciousness is the Self.
 
-## b96 · narration · granny · [Śiva Sūtras 1.22]
+## b97 · narration · granny · [Śiva Sūtras 1.22]
 
 The entire first section has been an exploration of those two words.
 
-## b97 · narration · granny · [Śiva Sūtras 1.22]
+## b98 · narration · granny · [Śiva Sūtras 1.22]
 
 Not bad, Vasugupta.
 
-## b98 · narration · granny · [Śiva Sūtras 1.22]
+## b99 · narration · granny · [Śiva Sūtras 1.22]
 
 Not bad at all.
 
-## b99 · narration · granny · [Śiva Sūtras 1.22]
+## b100 · narration · granny · [Śiva Sūtras 1.22]
 
 End of the First Awakening — Śāmbhavopāya.
 
-## b100 · narration · granny · [Śiva Sūtras 1.22]
+## b101 · narration · granny · [Śiva Sūtras 1.22]
 
 Next comes Book II: Śāktopāya — The Way of Śakti, beginning with:
 
-## b101 · verse · verse · [Śiva Sūtras 1.22]
+## b102 · verse · verse · [Śiva Sūtras 1.22]
 
-चित्तं मन्त्रः।
+चित्तं मन्त्रः।.
 
-## b102 · narration · granny · [Śiva Sūtras 1.22]
+## b103 · verse · verse · [Śiva Sūtras 1.22]
 
 Cittaṃ mantraḥ.
 
-## b103 · dialogue · granny · [Śiva Sūtras 1.22]
+## b104 · dialogue · granny · [Śiva Sūtras 1.22]
 
 “The mind is mantra.”
 
-## b104 · narration · granny · [Śiva Sūtras 1.22]
+## b105 · narration · granny · [Śiva Sūtras 1.22]
 
 Which is a spectacular statement, considering Vasugupta has just spent twenty-two sūtras explaining why ordinary mental limitation is the problem.
 
-## b105 · narration · granny · [Śiva Sūtras 1.22]
+## b106 · narration · granny · [Śiva Sūtras 1.22]
 
 Apparently we’re about to find out how the very mind that binds you can become an instrument of liberation.
 
-## b106 · narration · granny · [Śiva Sūtras 1.22]
+## b107 · narration · granny · [Śiva Sūtras 1.22]
 
 And we’re getting into mantra, effort, the guru, Mātṛkā, sacrificial offering, and the rather wonderful declaration that knowledge is food.
 
-## b107 · narration · granny · [Śiva Sūtras 1.22]
+## b108 · narration · granny · [Śiva Sūtras 1.22]
 
 Ten sūtras. An entire theory of the transformative power of awareness.
 
-## b108 · meta · none · [Śiva Sūtras 1.22]
+## b109 · meta · none · [Śiva Sūtras 1.22]
 
 Textual basis: Vasugupta’s 22 Śāmbhavopāya sūtras, read in sequence with Kṣemarāja’s Śivasūtravimarśinī. Sanskrit is attested; the English narration and jokes are original explanatory paraphrase, not quotations from the …
 
-## b109 · narration · granny · [Śiva Sūtras 1.22]
+## b110 · narration · granny · [Śiva Sūtras 1.22]
 
-Continue to Book II — Śāktopāya
+Continue to Book II — Śāktopāya.

@@ -3,8 +3,12 @@
   "deva": "स्वशक्तिप्रचयोऽस्य विश्वम्",
   "iast": "Svaśaktipracayo ’sya viśvam.",
   "literal": "The universe is the expansion or aggregate of his own power.",
-  "status": "proposed",
+  "status": "confirmed",
   "chant": "b2",
-  "note": "author gloss line, owner bulk-confirms"
+  "note": "author gloss line, owner bulk-confirms | bulk-confirmed (owner blanket bless 2026-11-06; pairing audited by shared verse_match_key)",
+  "bids": [
+   "b106",
+   "b2"
+  ]
  }
 }

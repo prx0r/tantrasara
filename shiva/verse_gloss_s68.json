@@ -3,8 +3,11 @@
   "deva": "भेदतिरस्कारे सर्गान्तरकर्मत्वम्",
   "iast": "Bhedatiraskāre sargāntarakarmatvam.",
   "literal": "When difference is overcome, the capacity to create another manifestation arises.",
-  "status": "proposed",
+  "status": "confirmed",
   "chant": "b2",
-  "note": "author gloss line, owner bulk-confirms"
+  "note": "author gloss line, owner bulk-confirms | bulk-confirmed (owner blanket bless 2026-11-06; pairing audited by shared verse_match_key)",
+  "bids": [
+   "b2"
+  ]
  }
 }

@@ -1,14 +1,21 @@
-# Holds timeline
+# Holds timeline — planning view
 
-White is the default. Cards interrupt; white returns at section breaks,
-[long pause] beats, and dialogue entries. Proposed (unconfirmed) glosses
-do NOT render — their mentions play over white until confirmed.
+Complete storyboard-order event and term-mention plan; times are not measured.
+Confirmed mentions can appear as cards. Proposed mentions remain white.
+Use video metadata and proof frames to judge actual onsets and persistence.
 
-start: THUMBNAIL (opener image, bell + intro until first verse)
-b1: TITLE card
-b2: VERSE card (वितर्क आत्मज्ञानम्)
-b3: TERM atmajnanam ( — ) [proposed — white until confirmed]
-b7: FIGURE card
-b12: VERSE card (Viśvātmā śiva evāsmi.)
-b13: WHITE (tone break)
-b31: VERSE card (Jñānaṃ bandhaḥ.)
+b_opener: thumbnail / opener
+b1: TITLE — Śiva Sūtras 1.17
+b1: TONE BREAK
+b2: VERSE — वितर्क आत्मज्ञानम्
+b2 word 2: TERM atmajnanam ( — ) [PROPOSED — white]
+b3 word 2: TERM atmajnanam ( — ) [PROPOSED — white]
+b8: FIGURE — WHAT?
+b13: VERSE — Viśvātmā śiva evāsmi.
+b14: TONE BREAK
+b18: TONE BREAK
+b19: TONE BREAK
+b20: TONE BREAK
+b25: TONE BREAK
+b32: VERSE — Jñānaṃ bandhaḥ.
+b35 word 2: TERM atmajnanam ( — ) [PROPOSED — white]

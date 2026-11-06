@@ -3,8 +3,11 @@
   "deva": "जाग्रत्स्वप्नसुषुप्तभेदे तुर्याभोगसम्भवः",
   "iast": "Jāgratsvapnasuṣuptabhede turyābhogasambhavaḥ.",
   "literal": "In the distinctions of waking, dreaming and deep sleep, the experience of the fourth is possible.",
-  "status": "proposed",
+  "status": "confirmed",
   "chant": "b2",
-  "note": "author gloss line, owner bulk-confirms"
+  "note": "author gloss line, owner bulk-confirms | bulk-confirmed (owner blanket bless 2026-11-06; pairing audited by shared verse_match_key)",
+  "bids": [
+   "b2"
+  ]
  }
 }

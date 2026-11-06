@@ -1,7 +1,7 @@
 # Review — chapter 22
 
 1964 blocks. Voices: granny=1705, man=46, none=9, verse=204.
-Confirmed glossary terms (124): abhidhavati, adhara, adheya, adhikarin, agamana, ahamkara, ajya, anahata, ananda, ananda-sandoha, anandam, apana, arudha, atmaka, atmya, bahyayagah, bhava, bhida, brahmacarins, cari, devanagari, dhaman, drdha, evam, gunas, hrdaya, jivanmukti, jivatah, jivato, kalis, kancukas, karana, karmani, khecari, kincid, kramaso, krtah, ksobha, kulayaga, kulayagaprakasanam, laksanam, lakulesa, madhyamam, mamsa, manuviryam, maya, mudra, muktih, nada-bhairava, nirupitah, nyasa, param, paramesvara, paryavasitam, pasu, prag, prakrti, prana, pranayaga, prthak, puja, purayati, purna, purvah, purvas, rudhi, saiva, sakrd, sakrt, saktau, sakter, sakti-circle, sakti-mantra, saktimat, saktipata, saktis, saktitraya, saktiyaga, samkatha, samputa, samputibhava, samputikrtya, samvic-cakram, samviccakram, samvid, samvida, samvidyaga, samvinmayam, sanghatta, santa, santam, sarvam, sikha, sikhabandha, sivam, srstim, sruti, sute, suti, svadehayaga, syaj, tad-vyatiriktam, tadatmyam, tanmayani, tattatphalam, tattatsamvidgarbhe, tridha, uditam, utkrstah, vasana, vedyac, vicikitsa, vidusah, vimarsa, vira, visramyati, visranti, visvam, vyomacarimudra, yaga, yamalayaga, yamalayagah, yanti, yogasancara.
+Confirmed glossary terms (56): abhidhavati, ananda, anandam, bahyayagah, bhava, evam, jatyadims, jivanmukti, jivatah, jivato, khecari, krtah, kulayaga, kulayagaprakasanam, laksanam, loketarayugalajam, madhyamam, maya, param, paryavasitam, pranayaga, prthak, purayati, purna, purvah, purvas, saiva, sakrd, sakrt, saktau, sakter, saktiyaga, samputibhava, samputikrtya, samvic-cakram, samviccakram, samvid, samvida, samvidyaga, samvinmayam, santa, santam, sarvam, srstim, sute, svadehayaga, tadatmyam, tanmayani, tridha, uditam, utkrstah, visramyati, visranti, visvam, yamalayaga, yanti.
 
 ## b_opener · opener · none · [opener]
 
@@ -17,7 +17,7 @@ Tantrasāra — Chapter 22
 
 ## b3 · narration · granny · [Tantrasāra — Chapter 22]
 
-The Great Kaula Ritual: or, how Abhinavagupta takes twenty-one chapters of philosophy, introduces wine, sex, goddesses and the entire bloody universe, then announces that the ultimate sacrifice is consciousness recognisi…
+The Great Kaula Ritual: or, how Abhinavagupta takes twenty-one chapters of philosophy, introduces wine, sex, goddesses and the entire bloody universe, then announces that the ultimate sacrifice is consciousness recognising itself.
 
 ## b4 · narration · granny · [Tantrasāra — Chapter 22]
 
@@ -425,7 +425,7 @@ And suddenly we’ve arrived at the famous tantric symbolism of the M’s.
 
 ## b105 · narration · granny · [Tantrasāra — Chapter 22]
 
-The verse is deliberately compressed. The Kaula ritual vocabulary commonly includes substances and practices named with initial ma, such as madya (wine), māṃsa (meat), and maithuna (sexual union). We shouldn’t pretend th…
+The verse is deliberately compressed. The Kaula ritual vocabulary commonly includes substances and practices named with initial ma, such as madya (wine), māṃsa (meat), and maithuna (sexual union). We shouldn’t pretend this short verse supplies a perfectly explicit three-item glossary, but the phonemic allusion is unmistakable.
 
 ## b106 · narration · granny · [Tantrasāra — Chapter 22]
 
@@ -1057,7 +1057,7 @@ Twenty-seven.
 
 ## b263 · narration · granny · [Tantrasāra — Chapter 22]
 
-5. Twenty-seven — why the whole cosmos appears in one number / The text prescribes twenty-seven recitations, associated with installations upon the head, face, Heart, secret region and divine forms, moving in forward and…
+5. Twenty-seven — why the whole cosmos appears in one number / The text prescribes twenty-seven recitations, associated with installations upon the head, face, Heart, secret region and divine forms, moving in forward and reverse order.
 
 ## b264 · narration · granny · [Tantrasāra — Chapter 22]
 
@@ -2985,7 +2985,7 @@ Birth or social category.
 
 ## b745 · narration · granny · [Tantrasāra — Chapter 22]
 
-Now, this is a historically significant Kaula challenge to conventional social distinctions. It is not a licence to disregard consent, exploit unequal relationships or involve people incapable of consenting. The ritual’s…
+Now, this is a historically significant Kaula challenge to conventional social distinctions. It is not a licence to disregard consent, exploit unequal relationships or involve people incapable of consenting. The ritual’s metaphysical claim and the ethical requirements for real human relationships must be distinguished.
 
 ## b746 · narration · granny · [Tantrasāra — Chapter 22]
 
@@ -6045,7 +6045,7 @@ The divine power moving through the expanse of consciousness.
 
 ## b1510 · narration · granny · [Tantrasāra — Chapter 22]
 
-Now, one final verse describes a dramatic and dangerous physical leap associated with Vyomacarīmudrā. Its literal wording involves throwing the body toward a distant precipice or chasm, rather than merely sitting in medi…
+Now, one final verse describes a dramatic and dangerous physical leap associated with Vyomacarīmudrā. Its literal wording involves throwing the body toward a distant precipice or chasm, rather than merely sitting in meditation.
 
 ## b1511 · narration · granny · [Tantrasāra — Chapter 22]
 
@@ -6053,7 +6053,7 @@ That is an attested part of the chapter, but it is not a safe practice to attemp
 
 ## b1512 · narration · granny · [Tantrasāra — Chapter 22]
 
-The relevant philosophical theme is the traditional association of vyoma, space, with unrestricted consciousness. The text also contains this hazardous physical image; we shouldn’t erase it or turn it into an actionable …
+The relevant philosophical theme is the traditional association of vyoma, space, with unrestricted consciousness. The text also contains this hazardous physical image; we shouldn’t erase it or turn it into an actionable exercise.
 
 ## b1513 · narration · granny · [Tantrasāra — Chapter 22]
 
@@ -7857,4 +7857,4 @@ End of Abhinavagupta’s Tantrasāra.
 
 ## b1963 · narration · granny · [Tantrasāra — Chapter 22]
 
-Primary Sanskrit texts: GRETIL — Complete Tantrasāra, Chapter 22, passages 22.1–22.54 and Sanskrit & Trika Shaivism — Chapter 22, Devanāgarī, IAST and interlinear gloss. The Sanskrit passages quoted above are attested; t…
+Primary Sanskrit texts: GRETIL — Complete Tantrasāra, Chapter 22, passages 22.1–22.54 and Sanskrit & Trika Shaivism — Chapter 22, Devanāgarī, IAST and interlinear gloss. The Sanskrit passages quoted above are attested; the opening verses are specifically cited as earlier Yogasañcāra teaching. The final chapter contains a substantial metrical section rather than a separate closing verse. The chapter ends with iti śivam and the authorial colophon.

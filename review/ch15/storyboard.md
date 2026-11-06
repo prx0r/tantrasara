@@ -1,7 +1,7 @@
 # Review — chapter 15
 
 612 blocks. Voices: granny=535, man=6, none=6, verse=65.
-Confirmed glossary terms (43): apara, bija, brahma, brahmavidya, bubhuksu, caitatpathe, devanagari, dhikarah, diksa, diksyatvena, dvadasanta, kala, kalaratri, karana, kartani, karya, mandala, mantrah, mumuksu, nirbija, nirbija-diksa, pancadasamahnikam, para, paramarsa, paramasiva, paramesah, paramesvara, parapara, pasa, prabuddha-vimarsa, ratri, saktipata, samarthya, samayi, samayyader, samsara, samutkramana-diksa, sesavartanam, sivahasta, sthavara, sthavaranam, uktatvat, vidya.
+Confirmed glossary terms (19): apara, brahma, diksa, diksyatvena, kala, kalaratri, karya, mantrah, nirbija, niskrantah, pancadasamahnikam, paramasiva, paramesah, saktipata, samayyader, sesavartanam, sthavaranam, uktatvat, vidya.
 
 ## b_opener · opener · none · [opener]
 
@@ -197,7 +197,7 @@ Now, I should make something clear before we enter the ritual.
 
 ## b48 · narration · granny · [Tantrasāra — Chapter 15]
 
-This is a historical tantric death-related rite, and its Sanskrit explicitly links the ceremony to the departure of the individual’s life-consciousness. We can study its metaphysics without treating it as a safe method o…
+This is a historical tantric death-related rite, and its Sanskrit explicitly links the ceremony to the departure of the individual’s life-consciousness. We can study its metaphysics without treating it as a safe method of hastening death. Nothing in this narration is a practical instruction to manipulate someone’s breathing, vital points or dying process.
 
 ## b49 · narration · granny · [Tantrasāra — Chapter 15]
 
@@ -721,7 +721,7 @@ The individual has departed.
 
 ## b179 · narration · granny · [Tantrasāra — Chapter 15]
 
-Now, this is more than a metaphor for an expanded state of meditation. The rite is expressly connected with the end of embodied life, and historical accounts of it raise serious questions about ritual intervention in dyi…
+Now, this is more than a metaphor for an expanded state of meditation. The rite is expressly connected with the end of embodied life, and historical accounts of it raise serious questions about ritual intervention in dying.
 
 ## b180 · narration · granny · [Tantrasāra — Chapter 15]
 
@@ -2357,7 +2357,7 @@ And the deathbed rite is a historical expression of it.
 
 ## b588 · narration · granny · [Tantrasāra — Chapter 15]
 
-The ritual’s claimed effects on death and postmortem liberation remain religious claims, not established medical or scientific facts. In actual end-of-life care, the relevant priorities are comfort, consent, non-harm and…
+The ritual’s claimed effects on death and postmortem liberation remain religious claims, not established medical or scientific facts. In actual end-of-life care, the relevant priorities are comfort, consent, non-harm and respect for the person’s wishes.
 
 ## b589 · narration · granny · [Tantrasāra — Chapter 15]
 
@@ -2445,7 +2445,7 @@ The whole bloody business is Śiva.
 
 ## b610 · meta · none · [Tantrasāra — Chapter 15]
 
-Sources: GRETIL Tantrasāra, Chapter 15, prose 15.1–15.7 and Sanskrit & Trika Shaivism, Chapter 15, including the final stanza. The philosophical explanation and humour are original. The chapter’s abbreviated ritual presc…
+Sources: GRETIL Tantrasāra, Chapter 15, prose 15.1–15.7 and Sanskrit & Trika Shaivism, Chapter 15, including the final stanza. The philosophical explanation and humour are original. The chapter’s abbreviated ritual prescriptions have been narrated as historical teachings, not offered as practical death-inducing instructions.
 
 ## b611 · narration · granny · [Tantrasāra — Chapter 15]
 

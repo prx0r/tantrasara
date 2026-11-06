@@ -8,7 +8,8 @@
   ],
   "note": "ch2 is titled the Pathless Path; confirm",
   "literal": "an [without] + upāya [means]",
-  "literal_status": "proposed"
+  "literal_status": "proposed",
+  "deva_status": "legacy"
  },
  "anavopaya": {
   "deva": "आणवोपायः",
@@ -19,7 +20,8 @@
   ],
   "note": "embodied practices, breath, concentration, activity",
   "literal": "aṇu [limited individual] + upāya [means]",
-  "literal_status": "proposed"
+  "literal_status": "proposed",
+  "deva_status": "legacy"
  },
  "anu": {
   "deva": "अणुः",
@@ -30,7 +32,8 @@
   ],
   "note": "verse card exists; gloss shows on mention",
   "literal": "aṇu [minute, limited]",
-  "literal_status": "proposed"
+  "literal_status": "proposed",
+  "deva_status": "legacy"
  },
  "bauddha-ajnana": {
   "deva": "बौद्धाज्ञानम्",
@@ -41,7 +44,8 @@
   ],
   "note": "following line: understanding all over the place",
   "literal": "bauddha [of the intellect] + ajñāna [ignorance]",
-  "literal_status": "proposed"
+  "literal_status": "proposed",
+  "deva_status": "legacy"
  },
  "cit-sakti": {
   "deva": "चित्शक्तिः",
@@ -52,7 +56,8 @@
   ],
   "note": "verbatim appositive in text",
   "literal": "cit [consciousness] + śakti [power]",
-  "literal_status": "proposed"
+  "literal_status": "proposed",
+  "deva_status": "legacy"
  },
  "diksa": {
   "deva": "दीक्षा",
@@ -63,7 +68,8 @@
   ],
   "note": "verbatim appositive in text",
   "literal": "dīkṣā [consecration]",
-  "literal_status": "proposed"
+  "literal_status": "proposed",
+  "deva_status": "legacy"
  },
  "iccha-sakti": {
   "deva": "इच्छाशक्तिः",
@@ -74,7 +80,8 @@
   ],
   "note": "verbatim appositive in text",
   "literal": "icchā [will] + śakti [power]",
-  "literal_status": "proposed"
+  "literal_status": "proposed",
+  "deva_status": "legacy"
  },
  "jnana-sakti": {
   "deva": "ज्ञानशक्तिः",
@@ -85,7 +92,8 @@
   ],
   "note": "verbatim appositive in text",
   "literal": "jñāna [knowing] + śakti [power]",
-  "literal_status": "proposed"
+  "literal_status": "proposed",
+  "deva_status": "legacy"
  },
  "kriya-sakti": {
   "deva": "क्रियाशक्तिः",
@@ -96,7 +104,8 @@
   ],
   "note": "verbatim appositive in text",
   "literal": "kriyā [action] + śakti [power]",
-  "literal_status": "proposed"
+  "literal_status": "proposed",
+  "deva_status": "legacy"
  },
  "paurusa-ajnana": {
   "deva": "पौरुषाज्ञानम्",
@@ -107,7 +116,8 @@
   ],
   "note": "deeper than intellectual; contraction theme",
   "literal": "puruṣa [soul, person] + ajñāna [ignorance]",
-  "literal_status": "proposed"
+  "literal_status": "proposed",
+  "deva_status": "legacy"
  },
  "saktopaya": {
   "deva": "शाक्तोपायः",
@@ -118,7 +128,8 @@
   ],
   "note": "refined understanding and contemplation",
   "literal": "śākta [of śakti] + upāya [means]",
-  "literal_status": "proposed"
+  "literal_status": "proposed",
+  "deva_status": "legacy"
  },
  "sambhavopaya": {
   "deva": "शाम्भवोपायः",
@@ -129,7 +140,8 @@
   ],
   "note": "will, pure awareness, immediate orientation",
   "literal": "śāmbhava [of Śambhu] + upāya [means]",
-  "literal_status": "proposed"
+  "literal_status": "proposed",
+  "deva_status": "legacy"
  },
  "samsara": {
   "deva": "संसारः",
@@ -139,7 +151,8 @@
    "b28"
   ],
   "literal": "saṃsāra [wandering on]",
-  "literal_status": "proposed"
+  "literal_status": "proposed",
+  "deva_status": "legacy"
  },
  "samkoca": {
   "deva": "संकोचः",
@@ -150,7 +163,8 @@
   ],
   "note": "verse card exists; gloss shows on mention",
   "literal": "saṃkoca [contraction]",
-  "literal_status": "proposed"
+  "literal_status": "proposed",
+  "deva_status": "legacy"
  },
  "svatantrya": {
   "deva": "स्वातन्त्र्यम्",
@@ -161,7 +175,8 @@
   ],
   "note": "verse card exists; gloss shows on mention",
   "literal": "sva [own] + tantra [rule] — self-mastery",
-  "literal_status": "proposed"
+  "literal_status": "proposed",
+  "deva_status": "legacy"
  },
  "ananda-sakti": {
   "deva": "आनन्दशक्तिः",
@@ -172,6 +187,7 @@
   ],
   "note": "verbatim appositive in text",
   "literal": "ānanda [bliss] + śakti [power]",
-  "literal_status": "proposed"
+  "literal_status": "proposed",
+  "deva_status": "legacy"
  }
 }

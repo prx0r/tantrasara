@@ -3,8 +3,11 @@
   "deva": "धीवशात्सत्त्वसिद्धिः",
   "iast": "Dhīvaśāt sattvasiddhiḥ.",
   "literal": "Through refined understanding, the subtle reality of inner consciousness becomes manifest.",
-  "status": "proposed",
+  "status": "confirmed",
   "chant": "b2",
-  "note": "author gloss line, owner bulk-confirms"
+  "note": "author gloss line, owner bulk-confirms | bulk-confirmed (owner blanket bless 2026-11-06; pairing audited by shared verse_match_key)",
+  "bids": [
+   "b2"
+  ]
  }
 }

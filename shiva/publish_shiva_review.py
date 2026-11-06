@@ -8,7 +8,15 @@ r2:svread-audio/shiva/review/s<NN>/. Owner confirms by message; engineer
 records shiva/approved_s<NN>.json (the render gate).
 Mirrors publish_review.py with the shiva lane (paths + R2 prefix).
 """
-import json, os, subprocess, sys, hashlib, datetime
+import json, os, subprocess, sys, hashlib, datetime, tempfile
+
+VF = os.path.expanduser('~/videofactory')
+VF_BUILDERS = os.path.join(VF, 'core', 'builders')
+# factory-side pin: require_current_review_pack() checks the manifest's
+# publisher_sha against core/builders/shiva/publish_shiva_review.py.
+# That file is append-only law — never edit it (republish all 78 on change).
+SHIM = os.path.join(VF_BUILDERS, 'shiva', 'publish_shiva_review.py')
+sys.path.insert(0, os.path.join(VF, 'core', 'contract'))
 
 BASE = os.path.expanduser('~/tantrasara')
 SHIVA = os.path.join(BASE, 'shiva')
@@ -16,6 +24,7 @@ ch = sys.argv[1]
 assert ch.startswith('s') and ch[1:].isdigit(), 'want sNN'
 SB = f'{SHIVA}/storyboards/storyboard_{ch}.json'
 GL = f'{SHIVA}/glossary_{ch}.json'
+assert os.path.exists(GL), f'{ch}: glossary missing — mine it before publishing'
 OUT = f'{SHIVA}/review/{ch}'
 os.makedirs(OUT, exist_ok=True)
 
@@ -37,13 +46,16 @@ for b in sb['blocks']:
               (t[:220] + ('…' if len(t) > 220 else '')), '']
 open(f'{OUT}/storyboard.md', 'w', encoding='utf-8').write('\n'.join(lines))
 
-r = subprocess.run(['python3', f'{BASE}/holds_timeline.py', SB, GL, f'{OUT}/timeline.md'],
+r = subprocess.run(['python3', f'{VF_BUILDERS}/holds_timeline.py', SB, GL, f'{OUT}/timeline.md'],
                    capture_output=True, text=True)
 print(r.stdout.strip().splitlines()[-1] if r.stdout.strip() else 'timeline: no terms')
 
-r = subprocess.run(['python3', f'{BASE}/render_holds.py', SB, f'/tmp/shiva_review_holds_{ch}'],
+_sheet_dir = f'/tmp/shiva_review_holds_{ch}'
+r = subprocess.run(['python3', f'{VF_BUILDERS}/render_holds.py', SB, _sheet_dir],
                    capture_output=True, text=True)
 print('sheets:', (r.stdout.strip().splitlines()[-1] if r.stdout.strip() else 'ok'))
+_contact = os.path.join(_sheet_dir, 'contact_sheet.png')
+assert os.path.isfile(_contact), f'{ch}: contact sheet was not produced'
 
 
 def sha(p):
@@ -53,10 +65,20 @@ def sha(p):
 manifest = {'chapter': ch, 'date': datetime.date.today().isoformat(),
             'blocks': len(sb['blocks']),
             'storyboard_sha': sha(SB),
-            'glossary_sha': sha(GL) if os.path.exists(GL) else None,
+            'glossary_sha': sha(GL),
             'confirmed_terms': confirmed,
+            'storyboard_view_sha': sha(f'{OUT}/storyboard.md'),
+            'timeline_sha': sha(f'{OUT}/timeline.md'),
+            'sheet_sha': sha(_contact),
+            'publisher_sha': sha(SHIM),
+            'timeline_builder_sha': sha(f'{VF_BUILDERS}/holds_timeline.py'),
             'approved': False}
-json.dump(manifest, open(f'{OUT}/manifest.json', 'w'), indent=1)
+from factory_contract import validate_schema
+validate_schema('review-manifest', manifest, 'new shiva review manifest')
+with tempfile.NamedTemporaryFile('w', encoding='utf-8', dir=OUT, delete=False) as f:
+    json.dump(manifest, f, indent=1)
+    temp_manifest = f.name
+os.replace(temp_manifest, f'{OUT}/manifest.json')
 
 subprocess.run(['rclone', 'copyto', f'{OUT}/storyboard.md',
                 f'r2:svread-audio/shiva/review/{ch}/storyboard.md'], check=True)

@@ -1,19 +1,25 @@
-# Holds timeline
+# Holds timeline — planning view
 
-White is the default. Cards interrupt; white returns at section breaks,
-[long pause] beats, and dialogue entries. Proposed (unconfirmed) glosses
-do NOT render — their mentions play over white until confirmed.
+Complete storyboard-order event and term-mention plan; times are not measured.
+Confirmed mentions can appear as cards. Proposed mentions remain white.
+Use video metadata and proof frames to judge actual onsets and persistence.
 
-start: THUMBNAIL (opener image, bell + intro until first verse)
-b1: TITLE card
-b2: VERSE card (प्राणसमाचारे समदर्शनम्)
-b3: TERM pranasamacare ( — ) [proposed — white until confirmed]
-b3: TERM samadarsanam ( — ) [proposed — white until confirmed]
-b4: TERM samadhi ( — ) [proposed — white until confirmed]
-b17: TERM prana ( — ) [proposed — white until confirmed]
-b18: TERM samacara ( — ) [proposed — white until confirmed]
-b20: TERM darsana ( — ) [proposed — white until confirmed]
-b30: TERM samadarsana ( — ) [proposed — white until confirmed]
-b32: TERM cidananda ( — ) [proposed — white until confirmed]
-b54: TERM pratyabhijna ( — ) [proposed — white until confirmed]
-b54: TERM anandabhairava ( — ) [proposed — white until confirmed]
+b_opener: thumbnail / opener
+b1: TITLE — Śiva Sūtras 3.22
+b1: TONE BREAK
+b2: VERSE — प्राणसमाचारे समदर्शनम्
+b2 word 1: TERM pranasamacare ( — ) [PROPOSED — white]
+b2 word 2: TERM samadarsanam ( — ) [PROPOSED — white]
+b3 word 1: TERM pranasamacare ( — ) [PROPOSED — white]
+b3 word 2: TERM samadarsanam ( — ) [PROPOSED — white]
+b5 word 5: TERM samadhi ( — ) [PROPOSED — white]
+b15: VERSE — Samadarśanam.
+b15 word 1: TERM samadarsanam ( — ) [PROPOSED — white]
+b18 word 1: TERM prana ( — ) [PROPOSED — white]
+b19 word 1: TERM samacara ( — ) [PROPOSED — white]
+b21 word 1: TERM darsana ( — ) [PROPOSED — white]
+b31 word 3: TERM samadarsana ( — ) [PROPOSED — white]
+b33 word 8: TERM cidananda ( — ) [PROPOSED — white]
+b54 word 9: TERM prana ( — ) [PROPOSED — white]
+b55 word 4: TERM pratyabhijna ( — ) [PROPOSED — white]
+b55 word 11: TERM anandabhairava ( — ) [PROPOSED — white]

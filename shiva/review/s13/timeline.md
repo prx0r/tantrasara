@@ -1,18 +1,24 @@
-# Holds timeline
+# Holds timeline — planning view
 
-White is the default. Cards interrupt; white returns at section breaks,
-[long pause] beats, and dialogue entries. Proposed (unconfirmed) glosses
-do NOT render — their mentions play over white until confirmed.
+Complete storyboard-order event and term-mention plan; times are not measured.
+Confirmed mentions can appear as cards. Proposed mentions remain white.
+Use video metadata and proof frames to judge actual onsets and persistence.
 
-start: THUMBNAIL (opener image, bell + intro until first verse)
-b1: TITLE card
-b2: VERSE card (इच्छाशक्तिरुमा कुमारी)
-b3: TERM icchasaktir ( — ) [proposed — white until confirmed]
-b3: TERM kumari ( — ) [proposed — white until confirmed]
-b7: TERM icchasakti ( — ) [proposed — white until confirmed]
-b9: WHITE (tone break)
-b18: TERM sakti ( — ) [proposed — white until confirmed]
-b19: TERM iccha ( — ) [proposed — white until confirmed]
-b20: TERM jnana ( — ) [proposed — white until confirmed]
-b21: TERM kriya ( — ) [proposed — white until confirmed]
-b32: TERM atma ( — ) [proposed — white until confirmed]
+b_opener: thumbnail / opener
+b1: TITLE — Śiva Sūtras 1.13
+b1: TONE BREAK
+b2: VERSE — इच्छाशक्तिरुमा कुमारी
+b2 word 2: TERM kumari ( — ) [PROPOSED — white]
+b3 word 1: TERM icchasaktir ( — ) [PROPOSED — white]
+b3 word 3: TERM kumari ( — ) [PROPOSED — white]
+b8 word 6: TERM icchasakti ( — ) [PROPOSED — white]
+b10: TONE BREAK
+b11: TONE BREAK
+b12: TONE BREAK
+b14 word 2: TERM icchasakti ( — ) [PROPOSED — white]
+b16 word 4: TERM kumari ( — ) [PROPOSED — white]
+b19 word 7: TERM sakti ( — ) [PROPOSED — white]
+b20 word 1: TERM iccha ( — ) [PROPOSED — white]
+b21 word 1: TERM jnana ( — ) [PROPOSED — white]
+b22 word 1: TERM kriya ( — ) [PROPOSED — white]
+b33 word 2: TERM atma ( — ) [PROPOSED — white]

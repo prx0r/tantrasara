@@ -1,7 +1,7 @@
 # Review — chapter 19
 
 995 blocks. Voices: granny=873, man=33, none=7, verse=82.
-Confirmed glossary terms (73): a-krta, amsa, antyesti, anugrahaparah, anugrhnati, anusthanabhyasavat, anyesam, bhuyastva, budhah, diksa, gurvantanam, jiva, jivatah, jnanin, kartavyah, kriya, krtarthata, masi, mrta, mrtoddhare, mudha, mudhanam, murti, murtiyaga, naimittikaprakasane, nama, paramasiva, paramesvara, paramesvarajna, paramesvaribhavati, parikalpana, pasu, patih, pradhana, pratitirudhaye, prayascitta, purana, purnahutya, rudraksa, saiva, saktipata, samayi, sambhunatha, samvatsare, samvid, santaninam, sarire, sasana, siddhamata, sivo, sraddha, sraddha-diksa, sraddhadiksaprakasanam, sthana, svatantrya, tad-vidya, tad-vidya-santaninam, tadatmya, tadvidhis, tan-maranam, uddhara, uktah, upaya, upayaparikalpana, upayogi, vadbhutam, vaisnava, vaksyate, vasita, vasitaya, vasitayanugrhnati, vidhih, yaga.
+Confirmed glossary terms (38): adharasasanasthanam, antyesti, anugrahaparah, anugrhnati, anusthanabhyasavat, anyesam, budhah, diksa, gurvantanam, jivatah, kartavyah, kriya, krtarthata, masi, mrtoddhare, mudhanam, naimittikaprakasane, nama, paramasiva, paramesvarajna, paramesvaribhavati, pradhana, pratitirudhaye, purnahutya, saiva, samvatsare, samvid, sarire, sivo, sraddhadiksaprakasanam, sthana, tadvidhis, tan-maranam, uktah, upayogi, vaksyate, vasitayanugrhnati, vidhih.
 
 ## b_opener · opener · none · [opener]
 
@@ -49,7 +49,7 @@ Rather an inconvenient requirement.
 
 ## b11 · narration · granny · [Tantrasāra — Chapter 19]
 
-And once the knowledge is established, there’s consecration, six months of daily mantra discipline, the responsibility to initiate qualified disciples, and a prohibition against handing sacred teachings to people who are…
+And once the knowledge is established, there’s consecration, six months of daily mantra discipline, the responsibility to initiate qualified disciples, and a prohibition against handing sacred teachings to people who aren’t prepared for them.
 
 ## b12 · narration · granny · [Tantrasāra — Chapter 19]
 
@@ -3281,7 +3281,7 @@ Upāyaparikalpanā nanu tadīśanāmātrakaṃ vidann iti na śaṅkate parimite
 
 ## b819 · narration · granny · [Tantrasāra — Chapter 19]
 
-This stanza is attested in the Devanāgarī Chapter 19 edition and translated in the Chakravarty–Marjanovic edition. The GRETIL transcription of the 1918 Sanskrit edition ends after the mūrtiyāga prose sentence, so the ver…
+This stanza is attested in the Devanāgarī Chapter 19 edition and translated in the Chakravarty–Marjanovic edition. The GRETIL transcription of the 1918 Sanskrit edition ends after the mūrtiyāga prose sentence, so the verse is attested but not present in every checked witness.
 
 ## b820 · narration · granny · [Tantrasāra — Chapter 19]
 
@@ -3977,7 +3977,7 @@ Absolute magnificence.
 
 ## b993 · narration · granny · [Tantrasāra — Chapter 19]
 
-Sources and textual notes: GRETIL Sanskrit text, Chapter 19 (19.1–19.7); Devanāgarī, transliteration and grammatical gloss, including the closing verse; and H. N. Chakravarty’s translation edited by Boris Marjanovic, Cha…
+Sources and textual notes: GRETIL Sanskrit text, Chapter 19 (19.1–19.7); Devanāgarī, transliteration and grammatical gloss, including the closing verse; and H. N. Chakravarty’s translation edited by Boris Marjanovic, Chapter 19. The original chapter is short and all seven prose passages are covered here in order. The alleged trembling of the corpse and the liberation of deceased persons through ritual are claims of the historical tradition, not independently demonstrated effects.
 
 ## b994 · narration · granny · [Tantrasāra — Chapter 19]
 

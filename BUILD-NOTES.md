@@ -903,3 +903,13 @@ concat → verify → voices → ship, mirroring chapter_video) and
 stream beside the running driver). Running overnight driver is
 pre-fix code (launched 19:43, files edited after — already-imported
 code unaffected); ch20 receipts climbing normally throughout.
+
+## 2026-11-05 — max hold ~60s (owner call)
+
+Owner: no static hold past about a minute. Long white/exposition stretches
+(60s+ explanations) take sleepdrawn images instead — draws fade in between
+two onsets, clear fade|cut, staged for effect like crisp/drops. H8 stays
+advisory in the gate (estimates flag); the 60s line is satisfied by filing
+a draw/overlay/release per flagged gap, never by auto-mutating holds.
+Shipped chapters (01-13) are NOT re-rendered for this. Applies to new
+renders (ch14-22+) and all future series.

@@ -1,22 +1,30 @@
-# Holds timeline
+# Holds timeline — planning view
 
-White is the default. Cards interrupt; white returns at section breaks,
-[long pause] beats, and dialogue entries. Proposed (unconfirmed) glosses
-do NOT render — their mentions play over white until confirmed.
+Complete storyboard-order event and term-mention plan; times are not measured.
+Confirmed mentions can appear as cards. Proposed mentions remain white.
+Use video metadata and proof frames to judge actual onsets and persistence.
 
-start: THUMBNAIL (opener image, bell + intro until first verse)
-b1: TITLE card
-b2: VERSE card (तदारूढप्रमितेस्तत्क्षयाज्जीवसङ्क्षयः)
-b3: TERM tadarudhapramites ( — ) [proposed — white until confirmed]
-b3: TERM tatksayaj ( — ) [proposed — white until confirmed]
-b3: TERM jivasanksayah ( — ) [proposed — white until confirmed]
-b8: TERM arudha ( — ) [proposed — white until confirmed]
-b10: TERM tat-ksayat ( — ) [proposed — white until confirmed]
-b11: TERM jiva ( — ) [proposed — white until confirmed]
-b12: TERM sanksayah ( — ) [proposed — white until confirmed]
-b25: TERM puryastaka ( — ) [proposed — white until confirmed]
-b41: TERM samsara ( — ) [proposed — white until confirmed]
-b47: TERM nirvana ( — ) [proposed — white until confirmed]
-b51: TERM nibbana ( — ) [proposed — white until confirmed]
-b53: TERM siva-self ( — ) [proposed — white until confirmed]
-b54: TERM sakti ( — ) [proposed — white until confirmed]
+b_opener: thumbnail / opener
+b1: TITLE — Śiva Sūtras 3.41
+b1: TONE BREAK
+b2: VERSE — तदारूढप्रमितेस्तत्क्षयाज्जीवसङ्क्षयः
+b3 word 1: TERM tadarudhapramites ( — ) [PROPOSED — white]
+b3 word 2: TERM tatksayaj ( — ) [PROPOSED — white]
+b3 word 3: TERM jivasanksayah ( — ) [PROPOSED — white]
+b9 word 1: TERM arudha ( — ) [PROPOSED — white]
+b11 word 1: TERM tat-ksayat ( — ) [PROPOSED — white]
+b12 word 1: TERM jiva ( — ) [PROPOSED — white]
+b13 word 1: TERM sanksayah ( — ) [PROPOSED — white]
+b20 word 7: TERM jiva ( — ) [PROPOSED — white]
+b26 word 12: TERM puryastaka ( — ) [PROPOSED — white]
+b28 word 2: TERM jiva ( — ) [PROPOSED — white]
+b30: VERSE — Ātmārāmatā.
+b42 word 13: TERM samsara ( — ) [PROPOSED — white]
+b48 word 8: TERM nirvana ( — ) [PROPOSED — white]
+b50: VERSE — Nirvāṇapada.
+b51 word 4: TERM nirvana ( — ) [PROPOSED — white]
+b52 word 13: TERM nibbana ( — ) [PROPOSED — white]
+b54 word 5: TERM nirvana ( — ) [PROPOSED — white]
+b54 word 21: TERM siva-self ( — ) [PROPOSED — white]
+b55 word 18: TERM sakti ( — ) [PROPOSED — white]
+b67 word 4: TERM jiva ( — ) [PROPOSED — white]

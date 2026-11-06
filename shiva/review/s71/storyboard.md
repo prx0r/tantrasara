@@ -1,6 +1,6 @@
 # Review — shiva s71
 
-99 blocks. Voices: granny=94, man=2, none=1, verse=2.
+100 blocks. Voices: granny=95, man=2, none=1, verse=2.
 Confirmed glossary terms (0): none.
 
 ## b_opener · opener · none · [opener]
@@ -17,384 +17,388 @@ Confirmed glossary terms (0): none.
 
 ## b3 · narration · granny · [Śiva Sūtras 3.39]
 
-Cittasthitivac charīrakaraṇabāhyeṣu. / Just as in the states of mind, so too in the body, the senses and external objects.
+Cittasthitivac charīrakaraṇabāhyeṣu.
 
 ## b4 · narration · granny · [Śiva Sūtras 3.39]
 
-Don’t Leave Your Enlightenment on the Meditation Cushion, You Absolute Muppet.
+Just as in the states of mind, so too in the body, the senses and external objects.
 
 ## b5 · narration · granny · [Śiva Sūtras 3.39]
 
-Now this is a beautiful continuation.
+Don’t Leave Your Enlightenment on the Meditation Cushion, You Absolute Muppet.
 
 ## b6 · narration · granny · [Śiva Sūtras 3.39]
 
-And the Sanskrit is intentionally dependent upon the previous sūtra.
+Now this is a beautiful continuation.
 
 ## b7 · narration · granny · [Śiva Sūtras 3.39]
 
+And the Sanskrit is intentionally dependent upon the previous sūtra.
+
+## b8 · narration · granny · [Śiva Sūtras 3.39]
+
 In other words, the phrase:
 
-## b8 · verse · verse · [Śiva Sūtras 3.39]
+## b9 · verse · verse · [Śiva Sūtras 3.39]
 
 Tripadādyanuprāṇanam
 
-## b9 · narration · granny · [Śiva Sūtras 3.39]
+## b10 · narration · granny · [Śiva Sūtras 3.39]
 
 continues to govern the meaning.
 
-## b10 · narration · granny · [Śiva Sūtras 3.39]
+## b11 · narration · granny · [Śiva Sūtras 3.39]
 
 The fourth should enliven the three states.
 
-## b11 · narration · granny · [Śiva Sūtras 3.39]
+## b12 · narration · granny · [Śiva Sūtras 3.39]
 
 And that enlivening should extend beyond the mind into the body, senses and external manifestations.
 
-## b12 · narration · granny · [Śiva Sūtras 3.39]
+## b13 · narration · granny · [Śiva Sūtras 3.39]
 
 Let’s unpack the compound.
 
-## b13 · narration · granny · [Śiva Sūtras 3.39]
+## b14 · narration · granny · [Śiva Sūtras 3.39]
 
 Citta — mind.
 
-## b14 · narration · granny · [Śiva Sūtras 3.39]
+## b15 · narration · granny · [Śiva Sūtras 3.39]
 
 Sthiti — condition, state.
 
-## b15 · narration · granny · [Śiva Sūtras 3.39]
+## b16 · narration · granny · [Śiva Sūtras 3.39]
 
 Vat — like, as in.
 
-## b16 · narration · granny · [Śiva Sūtras 3.39]
+## b17 · narration · granny · [Śiva Sūtras 3.39]
 
 Śarīra — body.
 
-## b17 · narration · granny · [Śiva Sūtras 3.39]
+## b18 · narration · granny · [Śiva Sūtras 3.39]
 
 Karaṇa — instrument; here, the sense faculties.
 
-## b18 · narration · granny · [Śiva Sūtras 3.39]
+## b19 · narration · granny · [Śiva Sūtras 3.39]
 
 Bāhya — external objects.
 
-## b19 · narration · granny · [Śiva Sūtras 3.39]
+## b20 · narration · granny · [Śiva Sūtras 3.39]
 
 So:
 
-## b20 · narration · granny · [Śiva Sūtras 3.39]
+## b21 · narration · granny · [Śiva Sūtras 3.39]
 
 As with mental states, so with the body, senses and the external world.
 
-## b21 · narration · granny · [Śiva Sūtras 3.39]
+## b22 · narration · granny · [Śiva Sūtras 3.39]
 
 And here’s Kṣemarāja’s point.
 
-## b22 · narration · granny · [Śiva Sūtras 3.39]
+## b23 · narration · granny · [Śiva Sūtras 3.39]
 
 It is not enough for the yogi to become established in recognition only during inward contemplation.
 
-## b23 · narration · granny · [Śiva Sūtras 3.39]
+## b24 · narration · granny · [Śiva Sūtras 3.39]
 
 The same recognition must gradually extend throughout outward experience.
 
-## b24 · narration · granny · [Śiva Sūtras 3.39]
+## b25 · narration · granny · [Śiva Sūtras 3.39]
 
 Kramāt kramam.
 
-## b25 · narration · granny · [Śiva Sūtras 3.39]
+## b26 · narration · granny · [Śiva Sūtras 3.39]
 
 Step by step.
 
-## b26 · narration · granny · [Śiva Sūtras 3.39]
+## b27 · narration · granny · [Śiva Sūtras 3.39]
 
 Now that phrase is important.
 
-## b27 · narration · granny · [Śiva Sūtras 3.39]
+## b28 · narration · granny · [Śiva Sūtras 3.39]
 
 Because it tells us we’re dealing with a progressive integration.
 
-## b28 · narration · granny · [Śiva Sūtras 3.39]
+## b29 · narration · granny · [Śiva Sūtras 3.39]
 
 The practitioner doesn’t simply announce:
 
-## b29 · dialogue · granny · [Śiva Sūtras 3.39]
+## b30 · dialogue · granny · [Śiva Sūtras 3.39]
 
 “I have understood nonduality, therefore my entire life is now permanently liberated.”
 
-## b30 · narration · granny · [Śiva Sūtras 3.39]
+## b31 · narration · granny · [Śiva Sūtras 3.39]
 
 That would be a rather bold claim.
 
-## b31 · narration · granny · [Śiva Sūtras 3.39]
+## b32 · narration · granny · [Śiva Sūtras 3.39]
 
 Especially if they immediately become furious about a delayed cup of tea.
 
-## b32 · narration · granny · [Śiva Sūtras 3.39]
+## b33 · narration · granny · [Śiva Sūtras 3.39]
 
 Instead, the recognition cultivated inwardly is extended into ordinary embodied activity.
 
-## b33 · narration · granny · [Śiva Sūtras 3.39]
+## b34 · narration · granny · [Śiva Sūtras 3.39]
 
 The body.
 
-## b34 · narration · granny · [Śiva Sūtras 3.39]
+## b35 · narration · granny · [Śiva Sūtras 3.39]
 
 The senses.
 
-## b35 · narration · granny · [Śiva Sūtras 3.39]
+## b36 · narration · granny · [Śiva Sūtras 3.39]
 
 The appearances of the world.
 
-## b36 · narration · granny · [Śiva Sūtras 3.39]
+## b37 · narration · granny · [Śiva Sūtras 3.39]
 
 And Kṣemarāja explicitly says this occurs through the power of sustained inward vimarśa.
 
-## b37 · narration · granny · [Śiva Sūtras 3.39]
+## b38 · narration · granny · [Śiva Sūtras 3.39]
 
 The reflexive awareness of consciousness.
 
-## b38 · narration · granny · [Śiva Sūtras 3.39]
+## b39 · narration · granny · [Śiva Sūtras 3.39]
 
 Now, think about the philosophical significance.
 
-## b39 · narration · granny · [Śiva Sūtras 3.39]
+## b40 · narration · granny · [Śiva Sūtras 3.39]
 
 At the beginning of Book III, the individual was bound through identification with the mind.
 
-## b40 · narration · granny · [Śiva Sūtras 3.39]
+## b41 · narration · granny · [Śiva Sūtras 3.39]
 
 Then the tattvas were contemplated.
 
-## b41 · narration · granny · [Śiva Sūtras 3.39]
+## b42 · narration · granny · [Śiva Sūtras 3.39]
 
 The body became a field of practice.
 
-## b42 · narration · granny · [Śiva Sūtras 3.39]
+## b43 · narration · granny · [Śiva Sūtras 3.39]
 
 The senses became spectators of the cosmic drama.
 
-## b43 · narration · granny · [Śiva Sūtras 3.39]
+## b44 · narration · granny · [Śiva Sūtras 3.39]
 
 And gradually the practitioner recognised the supreme conscious source.
 
-## b44 · narration · granny · [Śiva Sūtras 3.39]
+## b45 · narration · granny · [Śiva Sūtras 3.39]
 
 But now that recognition must become pervasive.
 
-## b45 · narration · granny · [Śiva Sūtras 3.39]
+## b46 · narration · granny · [Śiva Sūtras 3.39]
 
 The body isn’t to be regarded as a fundamentally alien obstacle.
 
-## b46 · narration · granny · [Śiva Sūtras 3.39]
+## b47 · narration · granny · [Śiva Sūtras 3.39]
 
 The senses aren’t fundamentally outside Śakti.
 
-## b47 · narration · granny · [Śiva Sūtras 3.39]
+## b48 · narration · granny · [Śiva Sūtras 3.39]
 
 And the external world isn’t an independent reality standing beyond the power of consciousness.
 
-## b48 · narration · granny · [Śiva Sūtras 3.39]
+## b49 · narration · granny · [Śiva Sūtras 3.39]
 
 All become objects of contemplation within the same nondual understanding.
 
-## b49 · narration · granny · [Śiva Sūtras 3.39]
+## b50 · narration · granny · [Śiva Sūtras 3.39]
 
 Kṣemarāja cites a verse from the Vijñānabhairava in which the practitioner is instructed to contemplate the entire universe, or their own body, as filled with the delight of the Self.
 
-## b50 · narration · granny · [Śiva Sūtras 3.39]
-
-And from that contemplative fullness, supreme bliss is said to arise. Sanskrit & Trika Shaivism
-
 ## b51 · narration · granny · [Śiva Sūtras 3.39]
 
-Now imagine this in ordinary life.
+And from that contemplative fullness, supreme bliss is said to arise. Sanskrit & Trika Shaivism.
 
 ## b52 · narration · granny · [Śiva Sūtras 3.39]
 
-You’re walking down a road.
+Now imagine this in ordinary life.
 
 ## b53 · narration · granny · [Śiva Sūtras 3.39]
 
-Your legs are moving.
+You’re walking down a road.
 
 ## b54 · narration · granny · [Śiva Sūtras 3.39]
 
-Your body is balancing.
+Your legs are moving.
 
 ## b55 · narration · granny · [Śiva Sūtras 3.39]
 
-Your senses are registering the environment.
+Your body is balancing.
 
 ## b56 · narration · granny · [Śiva Sūtras 3.39]
 
-You hear footsteps.
+Your senses are registering the environment.
 
 ## b57 · narration · granny · [Śiva Sūtras 3.39]
 
-Feel the ground.
+You hear footsteps.
 
 ## b58 · narration · granny · [Śiva Sūtras 3.39]
 
-See the changing light.
+Feel the ground.
 
 ## b59 · narration · granny · [Śiva Sūtras 3.39]
 
-Ordinarily, you might be entirely absorbed in these activities or in the thoughts accompanying them.
+See the changing light.
 
 ## b60 · narration · granny · [Śiva Sūtras 3.39]
 
-But the practitioner is invited to recognise the conscious reality through which the entire field of experience appears.
+Ordinarily, you might be entirely absorbed in these activities or in the thoughts accompanying them.
 
 ## b61 · narration · granny · [Śiva Sūtras 3.39]
 
-Not merely the thoughts.
+But the practitioner is invited to recognise the conscious reality through which the entire field of experience appears.
 
 ## b62 · narration · granny · [Śiva Sūtras 3.39]
 
-Not merely the inner state.
+Not merely the thoughts.
 
 ## b63 · narration · granny · [Śiva Sūtras 3.39]
 
-The whole embodied manifestation.
+Not merely the inner state.
 
 ## b64 · narration · granny · [Śiva Sūtras 3.39]
 
-And here’s the important distinction.
+The whole embodied manifestation.
 
 ## b65 · narration · granny · [Śiva Sūtras 3.39]
 
-This doesn’t require pretending that the body and world are physically identical.
+And here’s the important distinction.
 
 ## b66 · narration · granny · [Śiva Sūtras 3.39]
 
-Nor does it mean a practitioner loses the ability to distinguish between themselves and other people.
+This doesn’t require pretending that the body and world are physically identical.
 
 ## b67 · narration · granny · [Śiva Sūtras 3.39]
 
-The nondual claim concerns the ultimate conscious source of experience, not the elimination of every conventional distinction.
+Nor does it mean a practitioner loses the ability to distinguish between themselves and other people.
 
 ## b68 · narration · granny · [Śiva Sūtras 3.39]
 
-And the process is gradual.
+The nondual claim concerns the ultimate conscious source of experience, not the elimination of every conventional distinction.
 
 ## b69 · narration · granny · [Śiva Sūtras 3.39]
 
-The recognition first becomes clear inwardly.
+And the process is gradual.
 
 ## b70 · narration · granny · [Śiva Sūtras 3.39]
 
-Then extends outward.
+The recognition first becomes clear inwardly.
 
 ## b71 · narration · granny · [Śiva Sūtras 3.39]
 
-And eventually, within the traditional ideal, the difference between inward absorption and outward engagement no longer obscures the supreme reality.
+Then extends outward.
 
 ## b72 · narration · granny · [Śiva Sūtras 3.39]
 
-This is what makes the entire progression so extraordinary.
+And eventually, within the traditional ideal, the difference between inward absorption and outward engagement no longer obscures the supreme reality.
 
 ## b73 · narration · granny · [Śiva Sūtras 3.39]
 
-The yogi begins by withdrawing attention from objects.
+This is what makes the entire progression so extraordinary.
 
 ## b74 · narration · granny · [Śiva Sūtras 3.39]
 
-Then recognises the conscious source.
+The yogi begins by withdrawing attention from objects.
 
 ## b75 · narration · granny · [Śiva Sūtras 3.39]
 
-Then returns to objects.
+Then recognises the conscious source.
 
 ## b76 · narration · granny · [Śiva Sūtras 3.39]
 
-But now the objects are understood differently.
+Then returns to objects.
 
 ## b77 · narration · granny · [Śiva Sūtras 3.39]
 
-The world hasn’t necessarily changed its outward appearance.
+But now the objects are understood differently.
 
 ## b78 · narration · granny · [Śiva Sūtras 3.39]
 
-The standpoint has changed.
+The world hasn’t necessarily changed its outward appearance.
 
 ## b79 · narration · granny · [Śiva Sūtras 3.39]
 
-And the experience of manifestation becomes inseparable from awareness of its source.
+The standpoint has changed.
 
 ## b80 · narration · granny · [Śiva Sūtras 3.39]
 
-Now, after all this, you’d imagine the final six sūtras would simply conclude with congratulations.
+And the experience of manifestation becomes inseparable from awareness of its source.
 
 ## b81 · narration · granny · [Śiva Sūtras 3.39]
 
+Now, after all this, you’d imagine the final six sūtras would simply conclude with congratulations.
+
+## b82 · narration · granny · [Śiva Sūtras 3.39]
+
 Perhaps:
 
-## b82 · dialogue · man · [Śiva Sūtras 3.39]
+## b83 · dialogue · man · [Śiva Sūtras 3.39]
 
 “You’ve done it.”
 
-## b83 · dialogue · granny · [Śiva Sūtras 3.39]
+## b84 · dialogue · granny · [Śiva Sūtras 3.39]
 
 “Well done.”
 
-## b84 · dialogue · man · [Śiva Sūtras 3.39]
+## b85 · dialogue · man · [Śiva Sūtras 3.39]
 
 “Please collect your liberation certificate at reception.”
 
-## b85 · narration · granny · [Śiva Sūtras 3.39]
+## b86 · narration · granny · [Śiva Sūtras 3.39]
 
 But no.
 
-## b86 · narration · granny · [Śiva Sūtras 3.39]
+## b87 · narration · granny · [Śiva Sūtras 3.39]
 
 Vasugupta is about to return to the bound individual.
 
-## b87 · narration · granny · [Śiva Sūtras 3.39]
+## b88 · narration · granny · [Śiva Sūtras 3.39]
 
 Again.
 
-## b88 · narration · granny · [Śiva Sūtras 3.39]
+## b89 · narration · granny · [Śiva Sūtras 3.39]
 
 Because one final problem remains.
 
-## b89 · narration · granny · [Śiva Sūtras 3.39]
+## b90 · narration · granny · [Śiva Sūtras 3.39]
 
 Desire.
 
-## b90 · narration · granny · [Śiva Sūtras 3.39]
+## b91 · narration · granny · [Śiva Sūtras 3.39]
 
 The sense of incompleteness.
 
-## b91 · narration · granny · [Śiva Sūtras 3.39]
+## b92 · narration · granny · [Śiva Sūtras 3.39]
 
 The movement of attention outward towards something imagined to provide fulfilment.
 
-## b92 · narration · granny · [Śiva Sūtras 3.39]
+## b93 · narration · granny · [Śiva Sūtras 3.39]
 
 And this is where the text becomes absolutely devastating.
 
-## b93 · narration · granny · [Śiva Sūtras 3.39]
+## b94 · narration · granny · [Śiva Sūtras 3.39]
 
 Because after discussing the highest states of recognition, it identifies a wonderfully ordinary mechanism through which consciousness becomes contracted again.
 
-## b94 · narration · granny · [Śiva Sūtras 3.39]
+## b95 · narration · granny · [Śiva Sūtras 3.39]
 
 Wanting.
 
-## b95 · narration · granny · [Śiva Sūtras 3.39]
+## b96 · narration · granny · [Śiva Sūtras 3.39]
 
 The little voice that says:
 
-## b96 · dialogue · granny · [Śiva Sūtras 3.39]
+## b97 · dialogue · granny · [Śiva Sūtras 3.39]
 
 “I’ll be complete when I get that.”
 
-## b97 · narration · granny · [Śiva Sūtras 3.39]
+## b98 · narration · granny · [Śiva Sūtras 3.39]
 
 Oh dear.
 
-## b98 · narration · granny · [Śiva Sūtras 3.39]
+## b99 · narration · granny · [Śiva Sūtras 3.39]
 
 Śiva has opened a shopping account.

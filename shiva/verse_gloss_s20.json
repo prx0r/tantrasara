@@ -3,8 +3,11 @@
   "deva": "भूतसन्धानभूतपृथक्त्वविश्वसङ्घट्टाः",
   "iast": "Bhūtasandhāna-bhūtapṛthaktva-viśvasaṅghaṭṭāḥ.",
   "literal": "The joining of existents, their separation, and the bringing together of the universe.",
-  "status": "proposed",
+  "status": "confirmed",
   "chant": "b2",
-  "note": "author gloss line, owner bulk-confirms"
+  "note": "author gloss line, owner bulk-confirms | bulk-confirmed (owner blanket bless 2026-11-06; pairing audited by shared verse_match_key)",
+  "bids": [
+   "b2"
+  ]
  }
 }

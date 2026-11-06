@@ -1,22 +1,33 @@
-# Holds timeline
+# Holds timeline — planning view
 
-White is the default. Cards interrupt; white returns at section breaks,
-[long pause] beats, and dialogue entries. Proposed (unconfirmed) glosses
-do NOT render — their mentions play over white until confirmed.
+Complete storyboard-order event and term-mention plan; times are not measured.
+Confirmed mentions can appear as cards. Proposed mentions remain white.
+Use video metadata and proof frames to judge actual onsets and persistence.
 
-start: THUMBNAIL (opener image, bell + intro until first verse)
-b1: TITLE card
-b2: VERSE card (सिद्धः स्वतन्त्रभावः)
-b3: TERM siddhah ( — ) [proposed — white until confirmed]
-b3: TERM svatantrabhavah ( — ) [proposed — white until confirmed]
-b4: TERM svatantrya ( — ) [proposed — white until confirmed]
-b9: TERM bhavah ( — ) [proposed — white until confirmed]
-b23: TERM sahajajnatva ( — ) [proposed — white until confirmed]
-b23: TERM kartrtva ( — ) [proposed — white until confirmed]
-b36: WHITE (tone break)
-b40: TERM ahamkara ( — ) [proposed — white until confirmed]
-b40: TERM saiva ( — ) [proposed — white until confirmed]
-b50: TERM sakti ( — ) [proposed — white until confirmed]
-b56: TERM nathapada ( — ) [proposed — white until confirmed]
-b56: TERM kali ( — the supreme power) [proposed — white until confirmed]
-b64: VERSE card (चैतन्यमात्मा।)
+b_opener: thumbnail / opener
+b1: TITLE — Śiva Sūtras 3.13
+b1: TONE BREAK
+b2: VERSE — सिद्धः स्वतन्त्रभावः
+b2 word 1: TERM siddhah ( — ) [PROPOSED — white]
+b2 word 2: TERM svatantrabhavah ( — ) [PROPOSED — white]
+b3 word 1: TERM siddhah ( — ) [PROPOSED — white]
+b3 word 2: TERM svatantrabhavah ( — ) [PROPOSED — white]
+b5 word 1: TERM svatantrya ( — ) [PROPOSED — white]
+b8 word 1: TERM siddhah ( — ) [PROPOSED — white]
+b10 word 1: TERM bhavah ( — ) [PROPOSED — white]
+b17: VERSE — Svātantrya.
+b17 word 1: TERM svatantrya ( — ) [PROPOSED — white]
+b24 word 8: TERM sahajajnatva ( — ) [PROPOSED — white]
+b24 word 10: TERM kartrtva ( — ) [PROPOSED — white]
+b37: TONE BREAK
+b40: TONE BREAK
+b41 word 4: TERM ahamkara ( — ) [PROPOSED — white]
+b41 word 9: TERM saiva ( — ) [PROPOSED — white]
+b47: TONE BREAK
+b48 word 2: TERM svatantrya ( — ) [PROPOSED — white]
+b51 word 15: TERM sakti ( — ) [PROPOSED — white]
+b52 word 3: TERM svatantrya ( — ) [PROPOSED — white]
+b57 word 7: TERM nathapada ( — ) [PROPOSED — white]
+b57 word 14: TERM kali ( — the supreme power) [PROPOSED — white]
+b65: VERSE — चैतन्यमात्मा।
+b71 word 1: TERM svatantrya ( — ) [PROPOSED — white]
